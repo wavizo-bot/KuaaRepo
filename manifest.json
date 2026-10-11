@@ -2,9 +2,9 @@
     "versao":  1,
     "repositorio":  "wavizo-bot/KuaaRepo",
     "branch":  "main",
-    "geradoEm":  "2026-10-11T19:28:45.5492332Z",
+    "geradoEm":  "2026-10-11T19:43:04.4893761Z",
     "totais":  {
-                   "arquivos":  54,
+                   "arquivos":  20,
                    "provas":  880,
                    "questoes":  7737
                },
@@ -130,308 +130,36 @@
                         "atualizadoEm":  "2026-10-01T01:02:54.461Z"
                     },
                     {
-                        "caminho":  "Quiz/Autoconhecimento/O que a sua irritação com os outros revela sobre a sua Sombra.json",
+                        "caminho":  "Quiz/Autoconhecimento/autoconhecimento.json",
                         "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "O que a sua irritação com os outros revela sobre a sua Sombra",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:13:44.663Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/O que a sua relação com o tempo diz sobre a sua urgência de vida.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "O que a sua relação com o tempo diz sobre a sua urgência de vida",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:15:42.820Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/O que você está projetando nos outros.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "O que você está projetando nos outros",
-                        "provas":  1,
-                        "questoes":  15,
+                        "arquivo":  "autoconhecimento",
+                        "provas":  13,
+                        "questoes":  195,
                         "atualizadoEm":  "2026-09-09T04:05:00.419Z"
                     },
                     {
-                        "caminho":  "Quiz/Autoconhecimento/Quais padrões tóxicos você repete sem perceber.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Quais padrões tóxicos você repete sem perceber",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T03:44:09.173Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual ambição oculta está guiando suas escolhas atuais.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual ambição oculta está guiando suas escolhas atuais",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:18:10.845Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual é a sua relação com o controle e a incerteza.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual é a sua relação com o controle e a incerteza",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:04:24.300Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual é a sua relação invisível com o sucesso.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual é a sua relação invisível com o sucesso",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:24:16.441Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual é o seu mecanismo de defesa predominante diante da frustração.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual é o seu mecanismo de defesa predominante diante da frustração",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:12:16.081Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual é o seu medo primário oculto.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual é o seu medo primário oculto",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:14:47.747Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual é o seu modelo mental de tomada de decisão sob pressão.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual é o seu modelo mental de tomada de decisão sob pressão",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T16:59:47.860Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual é o seu sabotador profissional secreto.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual é o seu sabotador profissional secreto",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T16:59:37.124Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual fase de vida sua mente está vivendo no momento.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual fase de vida sua mente está vivendo no momento",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:05:53.601Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Autoconhecimento/Qual herança emocional dos seus pais mais guia suas escolhas atuais.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "Qual herança emocional dos seus pais mais guia suas escolhas atuais",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:02:45.948Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Bem-estar/Como é a sua bateria social segundo o reino animal.json",
+                        "caminho":  "Quiz/Bem-estar/bem-estar.json",
                         "pasta":  "Quiz/Bem-estar",
-                        "arquivo":  "Como é a sua bateria social segundo o reino animal",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:34:47.713Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Bem-estar/Como está o seu nível invisível de esgotamento burnout.json",
-                        "pasta":  "Quiz/Bem-estar",
-                        "arquivo":  "Como está o seu nível invisível de esgotamento burnout",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T16:59:57.293Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Bem-estar/Qual animal reflete seu nível de energia e ritmo de vida.json",
-                        "pasta":  "Quiz/Bem-estar",
-                        "arquivo":  "Qual animal reflete seu nível de energia e ritmo de vida",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:33:43.698Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Bem-estar/Qual é a sua tolerância real ao desconforto e ao tédio.json",
-                        "pasta":  "Quiz/Bem-estar",
-                        "arquivo":  "Qual é a sua tolerância real ao desconforto e ao tédio",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:21:36.874Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Bem-estar/Qual é o seu perfil de adaptabilidade alimentar e de rotina.json",
-                        "pasta":  "Quiz/Bem-estar",
-                        "arquivo":  "Qual é o seu perfil de adaptabilidade alimentar e de rotina",
-                        "provas":  1,
-                        "questoes":  15,
+                        "arquivo":  "bem-estar",
+                        "provas":  5,
+                        "questoes":  75,
                         "atualizadoEm":  "2026-09-08T17:37:10.741Z"
                     },
                     {
-                        "caminho":  "Quiz/Diversão/Qual das Meninas Superpoderosas você seria.json",
+                        "caminho":  "Quiz/Diversão/diversao.json",
                         "pasta":  "Quiz/Diversão",
-                        "arquivo":  "Qual das Meninas Superpoderosas você seria",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T13:37:11.746Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Diversão/Qual doce traduz sua forma de lidar com a vida.json",
-                        "pasta":  "Quiz/Diversão",
-                        "arquivo":  "Qual doce traduz sua forma de lidar com a vida",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:56:10.075Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Diversão/Qual docinho de festa você é.json",
-                        "pasta":  "Quiz/Diversão",
-                        "arquivo":  "Qual docinho de festa você é",
-                        "provas":  1,
-                        "questoes":  15,
+                        "arquivo":  "diversao",
+                        "provas":  6,
+                        "questoes":  90,
                         "atualizadoEm":  "2026-09-09T03:59:12.932Z"
                     },
                     {
-                        "caminho":  "Quiz/Diversão/Qual mulher icônica das telas você seria.json",
-                        "pasta":  "Quiz/Diversão",
-                        "arquivo":  "Qual mulher icônica das telas você seria",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T15:32:42.581Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Diversão/Qual tipo de apocalipse você estaria mais preparado(a) para enfrentar.json",
-                        "pasta":  "Quiz/Diversão",
-                        "arquivo":  "Qual tipo de apocalipse você estaria mais preparado(a) para enfrentar",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T14:56:28.973Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Diversão/Se você fosse algo esquecido em casa, o que seria.json",
-                        "pasta":  "Quiz/Diversão",
-                        "arquivo":  "Se você fosse algo esquecido em casa, o que seria",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:59:02.938Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Como você se comporta em relacionamentos afetivos.json",
+                        "caminho":  "Quiz/Relacionamentos/relacionamentos.json",
                         "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Como você se comporta em relacionamentos afetivos",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:41:00.952Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual é a sua linguagem oculta para lidar com conflitos.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual é a sua linguagem oculta para lidar com conflitos",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:00:05.123Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual é a sua postura real diante da vulnerabilidade afetiva.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual é a sua postura real diante da vulnerabilidade afetiva",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:00:15.015Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual é a sua verdadeira moeda de troca nas relações.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual é a sua verdadeira moeda de troca nas relações",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:16:59.404Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual é o seu método para lidar com encrencas e conflitos.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual é o seu método para lidar com encrencas e conflitos",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:36:19.876Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual ferida da infância você trouxe para o amor.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual ferida da infância você trouxe para o amor",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T04:03:42.489Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual seu papel numa briga de casal.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual seu papel numa briga de casal",
-                        "provas":  1,
-                        "questoes":  15,
+                        "arquivo":  "relacionamentos",
+                        "provas":  14,
+                        "questoes":  210,
                         "atualizadoEm":  "2026-09-10T14:03:37.498Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual seu tipo de amor tóxico preferido.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual seu tipo de amor tóxico preferido",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T04:07:57.628Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual sua linguagem de evitação do amor.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual sua linguagem de evitação do amor",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T04:06:37.707Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual tipo de namorado-a você é.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual tipo de namorado-a você é",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T03:34:38.759Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Qual tipo de pessoa você atrai e por quê.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Qual tipo de pessoa você atrai e por quê",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T03:41:05.160Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Que tipo de âncora você representa nas suas amizades.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Que tipo de âncora você representa nas suas amizades",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-08T17:01:42.483Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Que tipo de filme de terror é seu relacionamento atual.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Que tipo de filme de terror é seu relacionamento atual",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T04:02:25.099Z"
-                    },
-                    {
-                        "caminho":  "Quiz/Relacionamentos/Você sabe reconhecer bandeiras na vida real.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "Você sabe reconhecer bandeiras na vida real",
-                        "provas":  1,
-                        "questoes":  15,
-                        "atualizadoEm":  "2026-09-09T03:52:00.135Z"
                     },
                     {
                         "caminho":  "Técnico/tecnico_enfermagem.json",

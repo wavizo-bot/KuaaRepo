@@ -1,7 +1,7 @@
-﻿# Unifica cada pasta de ano em UM único arquivo + elimina duplicidades.
+﻿# Unifica cada pasta de ano E cada tema de Quiz em UM único arquivo.
 # Uso: .\unificar-anos.ps1  (raiz do KuaaRepo)
-# - Junta todos os *.json de cada ano em um único arquivo (dedupe por id).
-# - Elimina questões exatamente duplicadas no ano (mesmo enunciado+gabarito).
+# - Junta todos os *.json da pasta em um único arquivo (dedupe por id).
+# - Elimina questões exatamente duplicadas (mesmo enunciado+gabarito).
 # - Remove os antigos via git rm. Depois: .\gerar-manifest.ps1.
 $ErrorActionPreference = "Stop"
 $Root = $PSScriptRoot
@@ -15,7 +15,11 @@ $anos = @(
   @{ Pasta = "9º ano";    Arquivo = "9ano.json" },
   @{ Pasta = "1º ano EM"; Arquivo = "1ano-em.json" },
   @{ Pasta = "2º ano EM"; Arquivo = "2ano-em.json" },
-  @{ Pasta = "3º ano EM"; Arquivo = "3ano-em.json" }
+  @{ Pasta = "3º ano EM"; Arquivo = "3ano-em.json" },
+  @{ Pasta = "Quiz\Autoconhecimento"; Arquivo = "autoconhecimento.json" },
+  @{ Pasta = "Quiz\Bem-estar"; Arquivo = "bem-estar.json" },
+  @{ Pasta = "Quiz\Diversão"; Arquivo = "diversao.json" },
+  @{ Pasta = "Quiz\Relacionamentos"; Arquivo = "relacionamentos.json" }
 )
 
 foreach ($a in $anos) {
@@ -48,7 +52,10 @@ foreach ($a in $anos) {
       if ($q.text) { $txt = ([string]$q.text -replace "\s+", " ").Trim().ToLower() }
       $gab = ""
       if ($q.correct) { $gab = [string]$q.correct }
-      $chave = "$txt|$gab"
+      $alts = @(@($q.alternatives) | ForEach-Object { ([string]$_.text -replace "\s+", " ").Trim().ToLower() }) -join " ## "
+      $pts = ""
+      try { $pts = (@($q.alternatives) | ForEach-Object { ($_ | ConvertTo-Json -Compress) }) -join " ## " } catch { $pts = "" }
+      $chave = "$txt|$gab|$alts|$pts"
       if ($qsVistas.ContainsKey($chave)) { $qsDup++; continue }
       $qsVistas[$chave] = $true
       $unicas += $q
