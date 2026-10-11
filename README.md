@@ -8,15 +8,22 @@ Pacotes de provas/quiz/formulários em JSON, organizados por pasta, para o app
   para mostrar o acervo online e baixar só o que mudou.
 - **`gerar-manifest.ps1`** regenera o índice. Rode após adicionar, remover ou
   atualizar qualquer JSON: `.\gerar-manifest.ps1`
+- **`reorganizar-anos.ps1`** refaz a organização por ano/tema a partir das
+  fontes (`C:\APPS\Kuaa\quaestions\` + pacote inicial do msix-app). Roda uma
+  vez por publicação, antes do `gerar-manifest.ps1`.
 
 ## Pastas
 
 | Pasta | Conteúdo |
 |---|---|
-| `Ensino Superior/` | Provas de cursos superiores e saúde |
-| `Fundamental e Médio/` | EF/EM, vestibulares e ENEM por tópico |
-| `Quiz/` | Quizzes de personalidade (sem gabarito) |
-| `Tecnico/` | Cursos técnicos |
+| `Ensino Superior/` | Provas de cursos superiores e saúde, por profissão |
+| `5º ano/` … `9º ano/` | Ensino Fundamental, por ano do estudante |
+| `1º ano EM/` … `3º ano EM/` | Ensino Médio/ENEM/vestibular, por ano |
+| `Técnico/` | Cursos técnicos |
+| `Quiz/Autoconhecimento/` | Quizzes de autoconhecimento (sem gabarito) |
+| `Quiz/Bem-estar/` | Quizzes de energia, burnout e rotina (sem gabarito) |
+| `Quiz/Diversão/` | Quizzes de entretenimento (sem gabarito) |
+| `Quiz/Relacionamentos/` | Quizzes afetivos e amorosos (sem gabarito) |
 
 ## Formato dos arquivos
 

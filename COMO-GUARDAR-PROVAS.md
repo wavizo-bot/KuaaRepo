@@ -10,15 +10,16 @@ celular do usuário.
 
 | Pasta | Conteúdo |
 |---|---|
-| `Ensino Superior/` | Provas de cursos superiores e saúde |
-| `Fundamental e Médio/` | EF/EM, vestibulares e ENEM por tópico |
-| `Quiz/` | Quizzes de personalidade (sem gabarito) |
+| `Ensino Superior/` | Provas de cursos superiores e saúde, por profissão |
+| `5º ano/` … `9º ano/` | Ensino Fundamental, por ano do estudante |
+| `1º ano EM/` … `3º ano EM/` | Ensino Médio, ENEM e vestibular, por ano |
 | `Técnico/` | Cursos técnicos |
+| `Quiz/Autoconhecimento/`, `Quiz/Bem-estar/`, `Quiz/Diversão/`, `Quiz/Relacionamentos/` | Quizzes por temática (sem gabarito) |
 
 Não crie pastas novas nem renomeie as existentes sem atualizar o app
-(a ordem de exibição — Superior, Fundamental e Médio, Técnico, Quiz —
-está no código). Nome de **arquivo**: minúsculas, `_` no lugar de espaço
-(ex.: `fisica_mru.json`), um assunto por arquivo.
+(a ordem de exibição está no código). Nome de **arquivo**: minúsculas,
+`_` no lugar de espaço (ex.: `fisica_mru.json`), um assunto por arquivo.
+Exceção: os quizzes mantêm o título como nome de arquivo.
 
 ## 2. Formato de cada JSON (obrigatório)
 
@@ -65,13 +66,19 @@ Não trate quiz como prova de concurso (daria 0 acertos sempre).
 
 A pasta local de entrega é `C:\APPS\Kuaa\KuaaRepo`. Para publicar:
 
-1. Copie os JSONs de `C:\APPS\Kuaa\quaestions\` para as pastas
-   correspondentes aqui (converta o nome da pasta para a forma com
-   acento: `Fundamental e Medio` → `Fundamental e Médio`,
-   `Tecnico` → `Técnico`).
-2. Rode `.\gerar-manifest.ps1` na raiz — ele **regenera** o
-   `manifest.json` (nunca edite esse arquivo à mão).
-3. Confira os totais impressos pelo script e faça `commit` + `push`.
+1. Atualize as fontes (`C:\APPS\Kuaa\quaestions\` e, se houver mudança, o
+   pacote inicial do msix-app).
+2. Rode `.\reorganizar-anos.ps1` na raiz — ele move os arquivos para as
+   pastas de ano/tema (pelo `role` da prova), extrai do pacote inicial só
+   os exames que ainda não estão no repo e preserva o histórico com
+   `git mv`. Depois rode `.\gerar-manifest.ps1` (ele **regenera** o
+   `manifest.json`; nunca edite esse arquivo à mão).
+3. Confira os totais impressos pelos scripts e faça `commit` + `push`.
+
+Regras da divisão por ano: o ano vem do `role` (`5º EF`→`5º ano`, …,
+`3º EM`→`3º ano EM`). Arquivo sem ano no `role` (ex.: banco sintético de
+português, gramática normativa) vai para `3º ano EM`. Quiz segue a tabela
+de temas em `reorganizar-anos.ps1`.
 
 ## 4. O que NÃO fazer
 
