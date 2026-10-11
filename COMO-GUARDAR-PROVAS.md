@@ -17,8 +17,10 @@ celular do usuário.
 | `Quiz/Autoconhecimento/`, `Quiz/Bem-estar/`, `Quiz/Diversão/`, `Quiz/Relacionamentos/` | Quizzes por temática (sem gabarito) |
 
 Não crie pastas novas nem renomeie as existentes sem atualizar o app
-(a ordem de exibição está no código). Nome de **arquivo**: minúsculas,
-`_` no lugar de espaço (ex.: `fisica_mru.json`), um assunto por arquivo.
+(a ordem de exibição está no código). Cada pasta de **ano tem UM único
+arquivo** (`5ano.json`, …, `1ano-em.json`, …) — o app mostra uma linha por
+ano, sem nome de arquivo. Nome de **arquivo** nas demais pastas:
+minúsculas, `_` no lugar de espaço (ex.: `nutricionista.json`).
 Exceção: os quizzes mantêm o título como nome de arquivo.
 
 ## 2. Formato de cada JSON (obrigatório)
@@ -71,8 +73,10 @@ A pasta local de entrega é `C:\APPS\Kuaa\KuaaRepo`. Para publicar:
 2. Rode `.\reorganizar-anos.ps1` na raiz — ele move os arquivos para as
    pastas de ano/tema (pelo `role` da prova), extrai do pacote inicial só
    os exames que ainda não estão no repo e preserva o histórico com
-   `git mv`. Depois rode `.\gerar-manifest.ps1` (ele **regenera** o
-   `manifest.json`; nunca edite esse arquivo à mão).
+   `git mv`. Depois rode `.\unificar-anos.ps1` (junta cada ano em um único
+   arquivo e elimina questões exatamente duplicadas) e por fim
+   `.\gerar-manifest.ps1` (ele **regenera** o `manifest.json`; nunca edite
+   esse arquivo à mão).
 3. Confira os totais impressos pelos scripts e faça `commit` + `push`.
 
 Regras da divisão por ano: o ano vem do `role` (`5º EF`→`5º ano`, …,
