@@ -23,3 +23,9 @@ Pacotes de provas/quiz/formulários em JSON, organizados por pasta, para o app
 Cada JSON segue o envelope `caderno-estudante/v1` (`format`, `createdAt`,
 `exams[]`). Não edite a estrutura à mão — use o fluxo do Kuaa-admin para
 gerar, e rode o script acima depois.
+
+## Regras de guarda
+
+Leia **`COMO-GUARDAR-PROVAS.md`** antes de adicionar ou alterar qualquer
+prova: pastas oficiais, envelope obrigatório, campos exigidos pelo
+importador do app, caso especial dos quizzes e fluxo de publicação.
