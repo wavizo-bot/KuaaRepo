@@ -2,9 +2,9 @@
     "versao":  1,
     "repositorio":  "wavizo-bot/KuaaRepo",
     "branch":  "main",
-    "geradoEm":  "2026-10-11T19:43:04.4893761Z",
+    "geradoEm":  "2026-10-11T20:18:46.5575183Z",
     "totais":  {
-                   "arquivos":  20,
+                   "arquivos":  25,
                    "provas":  880,
                    "questoes":  7737
                },
@@ -82,9 +82,9 @@
                         "atualizadoEm":  "2026-10-01T01:02:54.461Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/engenheiro_alimentar.json",
+                        "caminho":  "Ensino Superior/Engenheiro_Alimentar.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "engenheiro_alimentar",
+                        "arquivo":  "Engenheiro_Alimentar",
                         "provas":  1,
                         "questoes":  30,
                         "atualizadoEm":  "2026-10-01T01:02:54.461Z"
@@ -98,68 +98,108 @@
                         "atualizadoEm":  "2026-10-01T01:00:04.085Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/nutricionista.json",
+                        "caminho":  "Ensino Superior/Nutricionista.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "nutricionista",
+                        "arquivo":  "Nutricionista",
                         "provas":  25,
                         "questoes":  776,
                         "atualizadoEm":  "2026-10-01T01:02:54.461Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/professor_educacao_basica.json",
+                        "caminho":  "Ensino Superior/Professor_Educacao_Basica.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "professor_educacao_basica",
+                        "arquivo":  "Professor_Educacao_Basica",
                         "provas":  27,
                         "questoes":  270,
                         "atualizadoEm":  "2026-10-01T00:58:13.369Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/tecnologo_alimentar.json",
+                        "caminho":  "Ensino Superior/Tecnologo_Alimentar.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "tecnologo_alimentar",
+                        "arquivo":  "Tecnologo_Alimentar",
                         "provas":  2,
                         "questoes":  60,
                         "atualizadoEm":  "2026-10-01T01:02:54.461Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/tecnologo_nutricional.json",
+                        "caminho":  "Ensino Superior/Tecnologo_Nutricional.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "tecnologo_nutricional",
+                        "arquivo":  "Tecnologo_Nutricional",
                         "provas":  1,
                         "questoes":  30,
                         "atualizadoEm":  "2026-10-01T01:02:54.461Z"
                     },
                     {
-                        "caminho":  "Quiz/Autoconhecimento/autoconhecimento.json",
-                        "pasta":  "Quiz/Autoconhecimento",
-                        "arquivo":  "autoconhecimento",
-                        "provas":  13,
-                        "questoes":  195,
-                        "atualizadoEm":  "2026-09-09T04:05:00.419Z"
+                        "caminho":  "Quiz/Adaptabilidade e Rotina/adaptabilidade-e-rotina.json",
+                        "pasta":  "Quiz/Adaptabilidade e Rotina",
+                        "arquivo":  "adaptabilidade-e-rotina",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-17T02:59:55.964Z"
                     },
                     {
-                        "caminho":  "Quiz/Bem-estar/bem-estar.json",
-                        "pasta":  "Quiz/Bem-estar",
-                        "arquivo":  "bem-estar",
+                        "caminho":  "Quiz/Ambição, Sucesso e Tempo/ambicao-sucesso-e-tempo.json",
+                        "pasta":  "Quiz/Ambição, Sucesso e Tempo",
+                        "arquivo":  "ambicao-sucesso-e-tempo",
                         "provas":  5,
                         "questoes":  75,
-                        "atualizadoEm":  "2026-09-08T17:37:10.741Z"
+                        "atualizadoEm":  "2026-09-17T02:57:45.938Z"
                     },
                     {
-                        "caminho":  "Quiz/Diversão/diversao.json",
-                        "pasta":  "Quiz/Diversão",
-                        "arquivo":  "diversao",
+                        "caminho":  "Quiz/Amizades e Vínculos Sociais/amizades-e-vinculos-sociais.json",
+                        "pasta":  "Quiz/Amizades e Vínculos Sociais",
+                        "arquivo":  "amizades-e-vinculos-sociais",
+                        "provas":  3,
+                        "questoes":  45,
+                        "atualizadoEm":  "2026-09-17T03:00:57.188Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Autoconhecimento e Comportamento/autoconhecimento-e-comportamento.json",
+                        "pasta":  "Quiz/Autoconhecimento e Comportamento",
+                        "arquivo":  "autoconhecimento-e-comportamento",
                         "provas":  6,
                         "questoes":  90,
-                        "atualizadoEm":  "2026-09-09T03:59:12.932Z"
+                        "atualizadoEm":  "2026-09-17T03:01:26.394Z"
                     },
                     {
-                        "caminho":  "Quiz/Relacionamentos/relacionamentos.json",
-                        "pasta":  "Quiz/Relacionamentos",
-                        "arquivo":  "relacionamentos",
-                        "provas":  14,
-                        "questoes":  210,
-                        "atualizadoEm":  "2026-09-10T14:03:37.498Z"
+                        "caminho":  "Quiz/Energia, Ritmo e Arquétipos Animais/energia-ritmo-arquetipos-animais.json",
+                        "pasta":  "Quiz/Energia, Ritmo e Arquétipos Animais",
+                        "arquivo":  "energia-ritmo-arquetipos-animais",
+                        "provas":  2,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-09-17T02:58:38.210Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Família e Heranças Emocionais/familia-e-herancas-emocionais.json",
+                        "pasta":  "Quiz/Família e Heranças Emocionais",
+                        "arquivo":  "familia-e-herancas-emocionais",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-17T02:56:35.278Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Identidade e Estilo Pessoal/identidade-e-estilo-pessoal.json",
+                        "pasta":  "Quiz/Identidade e Estilo Pessoal",
+                        "arquivo":  "identidade-e-estilo-pessoal",
+                        "provas":  5,
+                        "questoes":  75,
+                        "atualizadoEm":  "2026-09-17T03:00:27.545Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Relacionamentos e Amor/relacionamentos-e-amor.json",
+                        "pasta":  "Quiz/Relacionamentos e Amor",
+                        "arquivo":  "relacionamentos-e-amor",
+                        "provas":  11,
+                        "questoes":  165,
+                        "atualizadoEm":  "2026-09-17T02:56:07.676Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Sobrevivência e Resiliência/sobrevivencia-e-resiliencia.json",
+                        "pasta":  "Quiz/Sobrevivência e Resiliência",
+                        "arquivo":  "sobrevivencia-e-resiliencia",
+                        "provas":  4,
+                        "questoes":  60,
+                        "atualizadoEm":  "2026-09-17T02:59:36.330Z"
                     },
                     {
                         "caminho":  "Técnico/tecnico_enfermagem.json",

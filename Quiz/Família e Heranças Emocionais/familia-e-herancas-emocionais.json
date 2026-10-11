@@ -1,0 +1,1100 @@
+{
+    "format":  "kuaa/estudante",
+    "exams":  [
+                  {
+                      "id":  "quiz-1788886965948",
+                      "title":  "Qual herança emocional dos seus pais mais guia suas escolhas atuais?",
+                      "city":  "Município não informado",
+                      "state":  "",
+                      "year":  "",
+                      "board":  "",
+                      "booklet":  "👨‍👩‍👧 Família e Heranças Emocionais",
+                      "role":  "Qual herança emocional dos seus pais mais guia suas escolhas atuais?",
+                      "status":  "Revisão pendente",
+                      "questions":  [
+                                        {
+                                            "id":  1,
+                                            "originalNumber":  "1",
+                                            "label":  "Questão 1",
+                                            "text":  "Como você se sente ao receber ajuda de alguém?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Desconfortável — prefiro resolver as coisas sozinho(a)",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Culpado(a) — sinto que não mereço ou que estou devendo algo",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  2,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Desconfiado(a) — espero que a pessoa vá me cobrar depois",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Aliviado(a), mas com vergonha de precisar",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Grato(a) — aprendi que pedir ajuda é humano",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  2,
+                                            "originalNumber":  "2",
+                                            "label":  "Questão 2",
+                                            "text":  "Qual dessas frases ecoa mais na sua mente?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "\"Se quer algo bem feito, faça você mesmo(a)\"",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "\"Você pode fazer melhor que isso\"",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "\"Nunca se sabe o que vai acontecer — melhor se preparar\"",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "\"Cuidado, isso pode ser perigoso\"",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "\"Eu posso escolher ser diferente do que fui ensinado(a)\"",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  3,
+                                            "originalNumber":  "3",
+                                            "label":  "Questão 3",
+                                            "text":  "Como você lida com suas próprias falhas?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Me culpo excessivamente — deveria ter sido mais capaz",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Fico frustrado(a), mas guardo para mim — não vou mostrar fraqueza",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Me desespero — parece que tudo vai desmoronar",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Fico paralisado(a) — e se eu errar de novo?",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Reconheço, aprendo e sigo em frente — errar faz parte",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  4,
+                                            "originalNumber":  "4",
+                                            "label":  "Questão 4",
+                                            "text":  "Como você descreve seu relacionamento com seus pais hoje?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Respeitoso, mas distante — aprendi a não depender deles",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Busco aprovação — mesmo hoje, quero que se orgulhem de mim",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Complicado — cheio de altos e baixos",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Ainda muito influenciado(a) — peço opinião para tudo",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Evoluído — consegui estabelecer uma relação mais saudável",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  5,
+                                            "originalNumber":  "5",
+                                            "label":  "Questão 5",
+                                            "text":  "Quando você toma uma decisão importante, o que pesa mais?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Minha própria avaliação — não costumo consultar ninguém",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "O que vão pensar de mim — especialmente meus pais",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "A sensação de segurança — preciso evitar riscos",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  2,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "O medo de me arrepender depois",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  1,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Um equilíbrio entre razão, emoção e o que aprendi com o passado",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  6,
+                                            "originalNumber":  "6",
+                                            "label":  "Questão 6",
+                                            "text":  "Qual dessas situações te ativa emocionalmente?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Alguém duvidando da minha capacidade",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Receber uma crítica sobre algo que me dediquei muito",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Brigas e discussões — mesmo que não sejam comigo",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Situações novas e imprevisíveis",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Ver alguém repetindo padrões que conheço bem",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  7,
+                                            "originalNumber":  "7",
+                                            "label":  "Questão 7",
+                                            "text":  "Como você se sente em relação ao fracasso?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Fracasso não é uma opção — mas se acontecer, me culpo muito",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "É um dos meus maiores medos — me paralisa",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Aprendo, mas carrego a vergonha por um tempo",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  1,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "É inevitável — mas a vida segue",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  1,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Tento evitar ao máximo — sair da zona de conforto dá medo",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  2,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  8,
+                                            "originalNumber":  "8",
+                                            "label":  "Questão 8",
+                                            "text":  "Como você descreve a relação dos seus pais com dinheiro e trabalho?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Muito trabalho, pouco descanso — dinheiro era sinônimo de segurança",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Trabalho duro era a única forma de validação",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Dinheiro trazia brigas e instabilidade",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Dinheiro era guardado com medo — gastar era errado",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Não repito esse padrão — construí minha própria relação",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  9,
+                                            "originalNumber":  "9",
+                                            "label":  "Questão 9",
+                                            "text":  "Como você age quando precisa confiar em alguém?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "É difícil — só confio depois de muita prova",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Confio rápido — mas fico ansioso(a) esperando a decepção",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Confio com cautela — esperando o pior",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Demoro muito — tenho medo de me machucar",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Confio até que se prove o contrário — aprendi a dar chances",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  10,
+                                            "originalNumber":  "10",
+                                            "label":  "Questão 10",
+                                            "text":  "Qual desses sentimentos é mais presente na sua vida?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "A solidão de ter que dar conta de tudo sozinho(a)",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "A sensação de nunca ser suficiente",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "A ansiedade de esperar o pior",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "O medo de arriscar e se machucar",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Uma paz conquistada com muito esforço e autoconhecimento",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  11,
+                                            "originalNumber":  "11",
+                                            "label":  "Questão 11",
+                                            "text":  "Como você lida com emoções intensas?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Guardo para mim — não quero parecer fraco(a)",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Fico frustrado(a) por não conseguir controlá-las",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Fico sobrecarregado(a) — parece que vou explodir",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Tento fugir — não sei lidar com tanta intensidade",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Aprendi a sentir sem ser dominado(a) por elas",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  12,
+                                            "originalNumber":  "12",
+                                            "label":  "Questão 12",
+                                            "text":  "O que você mais deseja para sua vida adulta?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Ser independente e não depender de ninguém",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Ser reconhecido(a) pelo que conquistei",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Encontrar estabilidade e paz",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Me sentir seguro(a) e protegido(a)",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Construir uma vida com mais leveza e autenticidade",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  13,
+                                            "originalNumber":  "13",
+                                            "label":  "Questão 13",
+                                            "text":  "Como você descreve a forma que seus pais expressavam amor?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Amor era demonstrado através de provisão — não de palavras",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Amor era condicional ao desempenho",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Amor era instável — um dia tinha, outro não",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Amor era expresso com preocupação e cuidado excessivo",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Amor era presente, mas imperfeito — e hoje entendo isso",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  14,
+                                            "originalNumber":  "14",
+                                            "label":  "Questão 14",
+                                            "text":  "Como você lida com o silêncio e a distância em relações importantes?",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Prefiro o silêncio à confrontação",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Fico ansioso(a) — acho que fiz algo errado",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Fico tenso(a) — esperando o pior",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Sofro, mas evito mexer — tenho medo do que pode vir",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Busco entender e, se necessário, converso com calma",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        },
+                                        {
+                                            "id":  15,
+                                            "originalNumber":  "15",
+                                            "label":  "Questão 15",
+                                            "text":  "Se você pudesse deixar um legado diferente para seus filhos (ou futuros), seria:",
+                                            "alternatives":  [
+                                                                 {
+                                                                     "id":  "A",
+                                                                     "text":  "Ensinar que pedir ajuda é uma força, não uma fraqueza",
+                                                                     "pontos":  {
+                                                                                    "final1":  3,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "B",
+                                                                     "text":  "Ensinar que eles são suficientes, independente do que conquistem",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  3,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "C",
+                                                                     "text":  "Ensinar que o mundo pode ser seguro e confiável",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  3,
+                                                                                    "final4":  0,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "D",
+                                                                     "text":  "Ensinar a ter coragem para arriscar e viver",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  3,
+                                                                                    "final5":  0
+                                                                                }
+                                                                 },
+                                                                 {
+                                                                     "id":  "E",
+                                                                     "text":  "Ensinar que o autoconhecimento é o maior presente",
+                                                                     "pontos":  {
+                                                                                    "final1":  0,
+                                                                                    "final2":  0,
+                                                                                    "final3":  0,
+                                                                                    "final4":  0,
+                                                                                    "final5":  3
+                                                                                }
+                                                                 }
+                                                             ],
+                                            "correct":  "",
+                                            "subject":  "",
+                                            "baseText":  "",
+                                            "imageRequired":  false,
+                                            "visualStatus":  "pending",
+                                            "visualNotes":  "",
+                                            "type":  "unica"
+                                        }
+                                    ],
+                      "updatedAt":  "2026-09-17T02:56:35.278Z",
+                      "kind":  "quiz",
+                      "quizFinais":  [
+                                         {
+                                             "id":  "final1",
+                                             "titulo":  "🏠 A Herança da Autossuficiência Forçada",
+                                             "texto":  "Você aprendeu cedo que não podia contar com ninguém. A herança emocional que você carrega é a da autossuficiência — não por escolha, mas por necessidade. Seus pais (ou figuras parentais) estavam ausentes, ocupados ou emocionalmente indisponíveis, e você aprendeu a se virar sozinho(a). O problema? Você carrega essa armadura até hoje. Você não pede ajuda, não se abre com facilidade e acredita que depender dos outros é uma fraqueza. Você é incrivelmente competente, mas também está exausto(a) de carregar tudo nas costas. Sua maior força? Sua independência e resiliência. Seu maior desafio? Aprender que você não precisa fazer tudo sozinho(a) — e que pedir ajuda não é um sinal de fracasso. Você está no caminho de quebrar esse ciclo, mas primeiro precisa se permitir confiar. \"Você aprendeu a andar sozinho(a) muito cedo. Mas andar sozinho(a) não significa que você tenha que andar sozinho(a) para sempre.\""
+                                         },
+                                         {
+                                             "id":  "final2",
+                                             "titulo":  "🎭 A Herança do Perfeccionismo e da Cobrança",
+                                             "texto":  "Você cresceu sob a pressão de ser \"suficientemente bom(a)\" — mas nunca parecia suficiente. A herança emocional que você carrega é a da cobrança constante, do olhar crítico e da sensação de que o amor era condicional ao seu desempenho. Seus pais tinham expectativas altas — e você aprendeu a associar seu valor às suas conquistas. O problema? Você se tornou seu próprio juiz mais severo. Nada é bom o suficiente, você se cobra sem piedade e vive com um medo constante de falhar. Sua maior força? Sua disciplina e excelência. Seu maior desafio? Aprender que você já é suficiente, mesmo quando não está produzindo. Você está no caminho de se libertar da tirania do \"nunca é o bastante\". \"Você foi ensinado(a) que amor se conquista. Mas a verdade é que você já é digno(a) de amor — sem precisar provar nada.\""
+                                         },
+                                         {
+                                             "id":  "final3",
+                                             "titulo":  "💔 A Herança do Conflito e da Instabilidade",
+                                             "texto":  "Você cresceu em um ambiente de tensão — brigas, silêncios pesados, ou uma instabilidade emocional constante. A herança emocional que você carrega é a do caos, da imprevisibilidade e da sensação de que o chão podia sumir a qualquer momento. Seus pais tinham uma relação turbulenta ou eram emocionalmente voláteis, e você aprendeu a ler o ambiente antes de se sentir seguro(a). O problema? Você carrega essa hipervigilância até hoje — está sempre alerta, sempre esperando o pior. Você pode ter dificuldade de confiar na estabilidade ou pode repetir padrões de relacionamentos tumultuados. Sua maior força? Sua percepção aguçada e sua capacidade de sobreviver a crises. Seu maior desafio? Aprender que a paz é possível — e que você pode construir a estabilidade que não teve. \"Você cresceu em uma casa que tremia. Mas você pode construir uma casa que seja firme.\""
+                                         },
+                                         {
+                                             "id":  "final4",
+                                             "titulo":  "🛡️ A Herança da Superproteção e do Medo",
+                                             "texto":  "Você cresceu sendo cuidado(a) de perto — talvez de perto demais. A herança emocional que você carrega é a da superproteção, do medo do mundo e da mensagem de que \"lá fora é perigoso\". Seus pais queriam te proteger, mas talvez tenham te ensinado que o mundo é um lugar assustador e que você não é capaz de lidar com ele sozinho(a). O problema? Você cresceu com dúvidas sobre sua própria capacidade. Você pode ter dificuldade de tomar riscos, confiar em si mesmo(a) ou se sentir seguro(a) longe da sua zona de conforto. Sua maior força? Sua sensibilidade e cuidado com os outros. Seu maior desafio? Aprender que você é mais forte do que seus pais imaginavam — e que o mundo, embora tenha riscos, também tem belezas que valem a pena ser vividas. \"Você foi ensinado(a) a ter medo. Mas o medo não é a única voz dentro de você.\""
+                                         },
+                                         {
+                                             "id":  "final5",
+                                             "titulo":  "🌱 A Herança Transformada (Escolha Consciente)",
+                                             "texto":  "Você é a ponte entre o que foi e o que pode ser. A herança emocional que você carrega é a da transformação consciente — você olhou para o que recebeu, reconheceu o que te fazia mal e fez a escolha ativa de ser diferente. Seus pais podem ter te dado amor, mas também te passaram padrões que você decidiu não repetir. Ou você pode ter vindo de uma infância difícil e decidiu quebrar o ciclo. O problema? Esse caminho é solitário e desgastante. Você está construindo algo novo enquanto ainda carrega as marcas do passado. Sua maior força? Sua autoconsciência e coragem de mudar. Seu maior desafio? Não se culpar pelo que você não teve e não se cobrar por ter que ser \"perfeito(a)\" na sua transformação. Você já está fazendo o mais difícil: reconhecer e escolher diferente. \"Você não é o que fizeram de você. Você é o que você escolheu se tornar — e isso é o ato mais corajoso que existe.\""
+                                         }
+                                     ],
+                      "quizDesempate":  1,
+                      "tematica":  "Família e Heranças Emocionais"
+                  }
+              ],
+    "createdAt":  "2026-10-11T20:18:40.2523050Z"
+}
