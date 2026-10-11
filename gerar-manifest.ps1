@@ -1,4 +1,4 @@
-# Gera manifest.json: indice de todos os pacotes de prova deste repositorio.
+﻿# Gera manifest.json: indice de todos os pacotes de prova deste repositorio.
 # Uso: .\gerar-manifest.ps1  (a partir da raiz do KuaaRepo)
 # Rode de novo sempre que adicionar, remover ou atualizar arquivos.
 $ErrorActionPreference = "Stop"
@@ -29,7 +29,7 @@ foreach ($f in ($files | Sort-Object FullName)) {
   $totalQuestoes += $nq
   $pacotes += [pscustomobject]@{
     caminho      = $rel
-    pasta        = (Split-Path $rel -Parent)
+    pasta        = ((Split-Path $rel -Parent) -replace "\\", "/")
     arquivo      = [System.IO.Path]::GetFileNameWithoutExtension($f.Name)
     provas       = $exams.Count
     questoes     = $nq
