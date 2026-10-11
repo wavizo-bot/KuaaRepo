@@ -1,0 +1,1299 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-09T04:08:03.845Z",
+  "exams": [
+    {
+      "id": "quiz-1788926877628",
+      "title": "Qual seu tipo de amor tóxico preferido?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual seu tipo de amor tóxico preferido?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "O que você sente quando o relacionamento está tranquilo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Tédio — parece que falta algo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Desconfiança — será que a pessoa perdeu o interesse?",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Insegurança — será que eu sou suficiente?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Frustração — quero fazer algo pelo outro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Estranhamento — não é assim que o amor deveria ser?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Alívio — mas com uma ponta de dúvida",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "O que te atrai mais em uma pessoa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "A intensidade — que me faz sentir viva(o)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "O mistério — que me faz querer descobrir",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "A vulnerabilidade — que me faz querer cuidar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "A necessidade — que me faz sentir útil",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "A transgressão — que me faz sentir vivo(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "A inteligência — mas uma que me desestabiliza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você se sente quando a pessoa te ignora?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Isso me atrai ainda mais",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Isso me faz correr atrás",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Isso me faz querer ser melhor para ser notado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Isso me faz tentar ainda mais",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Isso me faz sentir que estou vivo(a) — a adrenalina",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Isso me faz duvidar de mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Qual dessas frases você já disse?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Nós brigamos porque amamos forte\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Eu sei que ele(a) gosta de mim, só precisa de tempo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Ele(a) só precisa de alguém que acredite nele(a)\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Eu posso ajudá-lo(a) a ser melhor\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Ninguém entende o que a gente tem\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"Eu não sei mais o que é real\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "O que te faz sentir que está amando de verdade?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "A paixão que consome tudo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "A dificuldade de conquistar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "A sensação de que estou salvando alguém",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "A certeza de que sou essencial",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "O fato de ser proibido",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "A sensação de que estou sendo destruído(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Como você reage quando o outro é bom demais com você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico desconfiado(a) — é bom demais para ser verdade",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico entediado(a) — falta desafio",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico desconfortável — não sei receber",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico suspeito(a) — deve querer algo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico frustrado(a) — quero emoção",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico paranoico(a) — deve estar escondendo algo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você se sente quando o relacionamento é estável e seguro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Acho que falta paixão",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Acho que a pessoa não se importa o suficiente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Acho que não mereço",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Acho que posso ajudar mais",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Acho que é muito comum — quero algo especial",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Acho que é armadilha — não confio",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "O que te faz sentir que o relacionamento está \"funcionando\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "A intensidade das emoções",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "O esforço que eu faço para conquistar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "A sensação de que estou fazendo a diferença",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "O quanto o outro depende de mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "O quanto é proibido e emocionante",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "O quanto eu estou confuso(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Como você descreveria seu histórico de relacionamentos?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Intensos, curtos e cheios de drama",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Sempre com pessoas que não estavam disponíveis",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sempre com pessoas que precisavam ser salvas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sempre com pessoas que eu tentei mudar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Sempre com pessoas \"erradas\" para mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Sempre com pessoas que me faziam duvidar de mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O que você faz quando o outro é \"perfeito\" demais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Procuro defeitos — algo está errado",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Perco o interesse — não há desafio",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tento encontrar algo para \"consertar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico frustrado(a) — quero ser útil",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico entediado(a) — falta emoção",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico desconfiado(a) — isso não é normal",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O que você sente quando o outro é independente demais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Frustração — quero que dependa de mim",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Atração — gosto do desafio",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Medo — vou perder a pessoa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Frustração — não posso salvar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Tesão — é excitante",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Insegurança — isso é sobre mim?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Você já pensou \"não sou bom(a) o suficiente\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sim — por isso preciso provar o tempo todo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Sim — por isso corro atrás",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sim — por isso tento ser melhor",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sim — por isso quero ajudar os outros",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Sim — por isso busco intensidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Sim — e a pessoa confirma isso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Como você lida com o tédio no relacionamento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Crio drama — não suporto a paz",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Procuro outra pessoa para me sentir vivo(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tento salvar o relacionamento de si mesmo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico frustrado(a) — não tenho função",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Termino — preciso de emoção",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico confuso(a) — isso é amor ou tédio?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O que você acredita sobre o amor?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"O amor é sofrimento\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"O amor é conquista\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"O amor é entrega\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"O amor é sacrifício\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"O amor é proibido\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"O amor é confusão\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse resumir seu tipo de amor tóxico preferido, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Tudo ou nada\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Quanto mais difícil, melhor\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Eu posso curar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Preciso ser útil\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"O que é proibido é mais gostoso\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"Eu nunca tenho certeza\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-09T04:07:57.628Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🎢 A MONTANHA-RUSSA — \"O amor é feito de altos e baixos\"",
+          "texto": "Você é viciado(a) em intensidade. Seu tipo de amor tóxico preferido é a Montanha-Russa — aquela relação onde um dia vocês estão nas nuvens e no outro estão se destruindo. Você confunde caos com paixão, e acha que se não tem drama, não tem amor. O problema? Você está viciado(a) no pico de dopamina que vem depois da briga. Você não ama a pessoa — ama a montanha-russa. E enquanto você estiver nesse looping, vai continuar se sentindo vivo(a) nos momentos de crise e vazio(a) nos momentos de paz. \"A montanha-russa é emocionante até você enjoar. E quando enjoa, já está preso(a) no brinquedo.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🗿 O FRIO — \"Quanto mais distante, mais eu quero\"",
+          "texto": "Você é atraído(a) por quem não te quer. Seu tipo de amor tóxico preferido é o Frio — aquela pessoa que te mantém à distância, que nunca se entrega, que te deixa sempre na dúvida. Você confunde distância com mistério, e frieza com força. O problema? Você está tentando ganhar o amor de alguém que não está disponível para te amar. E quanto mais a pessoa te ignora, mais você corre atrás. Você não ama a pessoa — ama o desafio. E no final, a única coisa que você ganha é a certeza de que não é o suficiente. \"Você passa a vida correndo atrás de quem não te quer. Mas e se você parasse e olhasse para quem está parado do seu lado?\""
+        },
+        {
+          "id": "final3",
+          "titulo": "👨‍👧 A DEPENDÊNCIA — \"Eu não sou ninguém sem você\"",
+          "texto": "Você é atraído(a) por quem te completa — ou melhor, por quem você acha que te completa. Seu tipo de amor tóxico preferido é a Dependência — aquela relação onde um não vive sem o outro, onde os limites se confundem, onde você se anula para que o outro exista. O problema? Você confunde amor com necessidade. Você não ama a pessoa — ama a ideia de não estar sozinho(a). E enquanto você se apega com todas as forças, você se esquece de quem é sem o outro. \"Dependência não é amor. É medo. E o medo nunca construiu nada que valesse a pena.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🦸‍♀️ O SALVADOR — \"Eu posso mudá-lo(a)\"",
+          "texto": "Você é atraído(a) por quem precisa de ajuda. Seu tipo de amor tóxico preferido é o Salvador — aquela relação onde você acredita que o seu amor pode transformar o outro, curar suas feridas, fazer dele(a) uma pessoa melhor. O problema? Você não ama a pessoa que ele(a) é — ama o potencial que você vê nela. Você está num relacionamento com uma fantasia, e enquanto tenta salvar o outro, você se esquece de salvar a si mesmo(a). \"Você não é terapeuta de ninguém. E o único projeto de reforma que vale a pena é o seu.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🔥 O PROIBIDO — \"O amor proibido é mais doce\"",
+          "texto": "Você é atraído(a) por quem é \"errado\" para você. Seu tipo de amor tóxico preferido é o Proibido — aquele amor que não deveria acontecer, que a sociedade não aprova, que os amigos avisam que é furada. Você confunde proibição com intensidade, e segredo com profundidade. O problema? Você ama a adrenalina do proibido, a emoção de estar fazendo algo que não deveria. Você não ama a pessoa — ama a história proibida que você criou. E quando o proibido vira permitido, a magia acaba. \"O amor proibido é emocionante. Mas quando as portas se abrem, você descobre que o que te atraía era a porta fechada.\""
+        },
+        {
+          "id": "final6",
+          "titulo": "🎭 O GASLIGHTER — \"Será que eu estou louca(o)?\"",
+          "texto": "Você é atraído(a) por quem te faz duvidar de si mesmo(a). Seu tipo de amor tóxico preferido é o Gaslighter — aquela pessoa que distorce a realidade, que te faz questionar sua sanidade, que sempre te deixa com a sensação de que você é o problema. O problema? Você foi treinado(a) a acreditar que o amor é confuso, que sentir dúvida é normal, que você precisa de alguém para te dizer o que é real. Você não ama a pessoa — ama a validação que ela te dá quando decide ser gentil. E enquanto você duvida de si, ela tem todo o poder. \"Quem te faz duvidar de si não te ama. Te controla. A confiança que você deposita nela é a confiança que você rouba de si.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

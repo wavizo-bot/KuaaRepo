@@ -1,0 +1,972 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-RESSONANCIA-2026",
+      "title": "Física — Ressonância (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Ressonância",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Ressonância: amplitude máxima quando frequência de excitação coincide com frequência natural do sistema. Sistema massa-mola: f₀ = (1/2π)·√(k/m). Para m = 0,5 kg, k = 200 N/m, f₀ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~3,18 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~1,59 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "~6,37 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~0,8 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~12,7 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Oscilador forçado amortecido: equação m·x'' + b·x' + k·x = F₀·cos(ωt). Amplitude em regime permanente: A = (F₀/m) / √((ω₀² – ω²)² + (bω/m)²). Ressonância em ω_r = √(ω₀² – b²/(2m²)). Para b → 0, ω_r → ω₀.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "O fator de qualidade Q = ω₀·m/b = ω₀/Δω (Δf = f₀/Q = largura de banda a –3 dB). Para oscilador com f₀ = 1000 Hz, Q = 100, a largura de banda Δf =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "100 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "10 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "1 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "1000 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A amplitude na ressonância (ω = ω_r) para oscilador forçado amortecido: A_max = F₀/(b·ω_r) ≈ Q·F₀/k (para b pequeno). Para F₀ = 10 N, k = 100 N/m, Q = 50, A_max =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "5 m"
+            },
+            {
+              "id": "A02",
+              "text": "0,5 m"
+            },
+            {
+              "id": "A03",
+              "text": "0,05 m"
+            },
+            {
+              "id": "A04",
+              "text": "50 m"
+            },
+            {
+              "id": "A05",
+              "text": "0,005 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A potência média absorvida na ressonância: P_avg = ½·F₀·v_max = ½·F₀·(F₀/b) = F₀²/(2b). Em termos de Q: P_max = ½·F₀²·Q/(m·ω₀). Para F₀ = 10 N, m = 1 kg, ω₀ = 100 rad/s, Q = 100, P_max =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "5000 W"
+            },
+            {
+              "id": "A02",
+              "text": "500 W"
+            },
+            {
+              "id": "A03",
+              "text": "50 W"
+            },
+            {
+              "id": "A04",
+              "text": "50000 W"
+            },
+            {
+              "id": "A05",
+              "text": "5 W"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Circuito RLC série: impedância Z = R + j(ωL – 1/ωC). Ressonância: ω₀ = 1/√(LC), Z = R (puro resistivo). Fator de qualidade Q = ω₀·L/R = 1/(R·C·ω₀). Para R = 10 Ω, L = 10 mH, C = 100 μF, f₀ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~159 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~1590 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "~15,9 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~15900 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~1,59 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "No circuito RLC da questão anterior (R = 10 Ω, L = 10 mH, C = 100 μF), o fator de qualidade Q =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,0"
+            },
+            {
+              "id": "A02",
+              "text": "10"
+            },
+            {
+              "id": "A03",
+              "text": "100"
+            },
+            {
+              "id": "A04",
+              "text": "0,1"
+            },
+            {
+              "id": "A05",
+              "text": "1000"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Circuito RLC paralelo: admitância Y = 1/R + j(ωC – 1/ωL). Ressonância: ω₀ = 1/√(LC), Y = 1/R (mínimo admitância, máxima impedância). Q = R·C·ω₀ = R/(L·ω₀). Para R = 1000 Ω, L = 10 mH, C = 100 μF, Q =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "100"
+            },
+            {
+              "id": "A02",
+              "text": "10"
+            },
+            {
+              "id": "A03",
+              "text": "1000"
+            },
+            {
+              "id": "A04",
+              "text": "0,1"
+            },
+            {
+              "id": "A05",
+              "text": "1"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Ressonância em cavidades acústicas (tubo de órgão, sala): modos próprios. Para tubo fechado numa extremidade (L = 1 m, v = 340 m/s), frequências naturais: f_n = n·v/(4L), n = 1,3,5... f₁ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "85 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "170 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "42,5 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "340 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "21,25 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Ressonância de cavidade eletromagnética (forno micro-ondas, aceleradores): modos TE/TM. Cavidade retangular (a × b × d): f_mnp = (c/2)·√((m/a)² + (n/b)² + (p/d)²). Para a = 30 cm, b = 30 cm, d = 20 cm, modo TE₁₀₁ (m=1,n=0,p=1): f =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1,77 GHz"
+            },
+            {
+              "id": "A02",
+              "text": "~2,5 GHz"
+            },
+            {
+              "id": "A03",
+              "text": "~1,77 MHz"
+            },
+            {
+              "id": "A04",
+              "text": "~17,7 GHz"
+            },
+            {
+              "id": "A05",
+              "text": "~0,177 GHz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Ressonância em estruturas mecânicas (pontes, prédios): frequência natural f₀. Se vento ou terremoto excita em f₀, amplitude cresce perigosamente. Exemplo: Ponte Tacoma Narrows (1940). Frequência natural da ponte ~0,2 Hz. Vento criou vórtices alternados (freq. Strouhal St = f·D/v).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Ressonância em circuitos de RF (filtros, osciladores, antenas). Filtro passa-banda: largura de banda Δf = f₀/Q. Para filtro centrado em 100 MHz com largura de banda 1 MHz, Q =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "100"
+            },
+            {
+              "id": "A02",
+              "text": "10"
+            },
+            {
+              "id": "A03",
+              "text": "1000"
+            },
+            {
+              "id": "A04",
+              "text": "0,1"
+            },
+            {
+              "id": "A05",
+              "text": "10000"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O oscilador de cristal de quartzo: piezoelétrico, Q muito alto (10⁴–10⁶). Frequência fundamental: f = (1/2d)·√(Y/ρ) (espessura d, módulo de Young Y, densidade ρ). Para quartzo AT-cut 10 MHz, espessura ~0,166 mm. Variação de frequência com temperatura: curva parabólica (ângulo de corte otimizado).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A ressonância magnética nuclear (NMR/MRI): spins nucleares em campo B₀. Frequência de Larmor ω₀ = γ·B₀ (γ = razão giromagnética). Para próton (γ/2π = 42,58 MHz/T), em B₀ = 1,5 T, f₀ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~63,9 MHz"
+            },
+            {
+              "id": "A02",
+              "text": "~42,6 MHz"
+            },
+            {
+              "id": "A03",
+              "text": "~21,3 MHz"
+            },
+            {
+              "id": "A04",
+              "text": "~127,8 MHz"
+            },
+            {
+              "id": "A05",
+              "text": "~10,6 MHz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "A ressonância paramagnética eletrônica (EPR/ESR): spins eletrônicos, γ_e ≈ 658×γ_p. Para B₀ = 0,35 T (banda X), f ≈ 9,8 GHz (banda X).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Ressonância de ressonância de plasma: frequência de plasma ω_p = √(n·e²/(ε₀·m)). Para plasma com n = 10¹⁸ m⁻³, f_p =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~9 GHz"
+            },
+            {
+              "id": "A02",
+              "text": "~900 MHz"
+            },
+            {
+              "id": "A03",
+              "text": "~90 GHz"
+            },
+            {
+              "id": "A04",
+              "text": "~900 GHz"
+            },
+            {
+              "id": "A05",
+              "text": "~90 MHz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Ressonância de ciclotron: ω_c = q·B/m. Elétrons em B = 1 T: f_c = e·B/(2π·m_e) ≈ 28 GHz/T. Para B = 1 T, f_c ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "28 GHz"
+            },
+            {
+              "id": "A02",
+              "text": "2,8 GHz"
+            },
+            {
+              "id": "A03",
+              "text": "280 GHz"
+            },
+            {
+              "id": "A04",
+              "text": "0,28 GHz"
+            },
+            {
+              "id": "A05",
+              "text": "28 MHz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Ressonância de spin nuclear em campo rotante (NMR pulsado): pulso π/2 (90°) gira magnetização para plano transversal. Sinal FID (Free Induction Decay) decai com tempo T₂* (desfase). Sequência de spin-echo (90° – τ – 180° – τ – echo) refoca desfase estático, mede T₂ verdadeiro.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A relaxação T₁ (longitudinal) e T₂ (transversal) em NMR. T₁ ≥ T₂. Para água pura a 20°C, T₁ ≈ T₂ ≈ 3 s. Em tecidos biológicos, T₁ ~ 0,5–2 s, T₂ ~ 50–200 ms. Contraste T₁-weighted: TR curto, TE curto. T₂-weighted: TR longo, TE longo.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A ressonância de superfície de plasma (SPR): onda evanescente em interface metal-dielétrico acopla-se a plasmones de superfície. Condição de fase: k_x = (ω/c)·n₁·senθ = k_sp = (ω/c)·√(ε_m·ε_d/(ε_m+ε_d)). Usado em biossensores (ligação antígeno-anticorpo muda índice).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Ressonância em MEMS/NEMS: micro/nano-ressonadores. Frequência f₀ = (1/2π)·√(k_eff/m_eff). Fator de qualidade Q = ω₀·m_eff/b. Detecção de massa: Δf/f₀ = –½·Δm/m_eff. Sensibilidade de massa: Δm_min ~ 10⁻¹⁸ kg (NEMS).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Ressonância paramagnética eletrônica (EPR): spins eletrônicos não pareados. Frequência ω = g·μ_B·B/ħ (g ≈ 2). Para banda X (f ≈ 9,5 GHz), B₀ ≈ 0,34 T. Hiperfina: interação com spins nucleares divide linhas. Fator g anisotrópico revela estrutura eletrônica.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Ressonância de ferromagneto (FMR): magnetização M precessa em torno de H_eff. Equação de Landau-Lifshitz-Gilbert: dM/dt = –γ·M×H_eff + (α/M_s)·M×dM/dt. Linha de ressonância: ΔH = ΔH₀ + (α/γ)·ω. Damping α medido pela largura da linha.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Ressonância em cavidades supercondutoras (SRF): cavidades de nióbio, Q₀ ~ 10¹⁰ a 2 K, f ~ 1,3 GHz. Campo acelerador E_acc > 30 MV/m. Perdas de superfície R_s = R_BCS + R_residual. R_BCS ∝ f²·exp(–Δ/kT).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A ressonância de Josephson: junção supercondutora (SIS). Efeito Josephson DC: corrente I = I_c·sen(φ), φ = fase. AC: tensão V = (ħ/2e)·dφ/dt = (Φ₀/2π)·dφ/dt. Frequência de Josephson f = 2e·V/h = 483,6 MHz/µV. Para V = 1 mV, f =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~483,6 GHz"
+            },
+            {
+              "id": "A02",
+              "text": "~483,6 MHz"
+            },
+            {
+              "id": "A03",
+              "text": "~483,6 kHz"
+            },
+            {
+              "id": "A04",
+              "text": "~483,6 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~4,836 GHz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A ressonância de ondas de spin (magnons) em ferromagnetos: dispersão ω(k) = γ·√((H₀ + D·k²)·(H₀ + D·k² + 4πM_s)). Frequência de ferromagnetismo uniforme (k=0): ω₀ = γ·√(H₀·(H₀+4πM_s)) (modo Kittel).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Ressonância de plasma em semicondutores (plasmons): ω_p = √(n·e²/(ε·m*)). Para Si dopado n = 10¹⁹ cm⁻³, m* = 0,26 m_e, ε = 11,7·ε₀, f_p ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~20 THz"
+            },
+            {
+              "id": "A02",
+              "text": "~2 THz"
+            },
+            {
+              "id": "A03",
+              "text": "~200 THz"
+            },
+            {
+              "id": "A04",
+              "text": "~200 GHz"
+            },
+            {
+              "id": "A05",
+              "text": "~200 MHz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A ressonância de superfície de plasma (SPR) em sensores: ângulo de ressonância θ_sp muda com índice de refração na superfície (ligação biomolecular). Sensibilidade: Δθ/Δn ~ 100 deg/RIU. Detecção de ligação antígeno-anticorpo em tempo real, sem marcador.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Ressonância acústica em tubo de Kundt: pó (lira) acumula nos nós (deslocamento zero). Distância entre montes = λ/2. Para f = 1000 Hz, v = 340 m/s, λ = 0,34 m, distância entre montes =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,17 m"
+            },
+            {
+              "id": "A02",
+              "text": "0,34 m"
+            },
+            {
+              "id": "A03",
+              "text": "0,085 m"
+            },
+            {
+              "id": "A04",
+              "text": "0,68 m"
+            },
+            {
+              "id": "A05",
+              "text": "0,0425 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A ressonância de Helmholtz: cavidade com pescoço (garrafa). Frequência f₀ = (v/2π)·√(A/(V·L_eff)) (A = área do pescoço, V = volume da cavidade, L_eff = comprimento efetivo). Para garrafa V = 500 cm³, pescoço A = 1 cm², L = 2 cm, f₀ ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~240 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~24 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "~2400 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~24000 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~240000 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "text": "A ressonância em circuito de Tesla: transformador ressonante de alta tensão. Primário e secundário sintonizados na mesma frequência. Acoplamento crítico k_crit = 1/√(Q₁·Q₂). Para Q₁ = Q₂ = 100, k_crit =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,01"
+            },
+            {
+              "id": "A02",
+              "text": "0,1"
+            },
+            {
+              "id": "A03",
+              "text": "1"
+            },
+            {
+              "id": "A04",
+              "text": "0,001"
+            },
+            {
+              "id": "A05",
+              "text": "10"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        },
+        {
+          "id": 32,
+          "originalNumber": "32",
+          "label": "Questão 32",
+          "text": "A ressonância não-linear (Duffing): x'' + δ·x' + α·x + β·x³ = F·cos(ωt). Curva de resposta amplitudefrequência dobra-se (histerese). Para β > 0 (endurecimento), curva dobra para frequências maiores. Ponto de bifurcação: salto de amplitude.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ressonância",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ressonância"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

@@ -1,0 +1,1299 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-09T04:06:42.796Z",
+  "exams": [
+    {
+      "id": "quiz-1788926797707",
+      "title": "Qual sua linguagem de evitação do amor?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual sua linguagem de evitação do amor?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Quando você sente que está se apaixonando, sua primeira reação é:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ficar na defensiva — preciso manter distância",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Querer fugir — não estou pronto(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fingir que não está acontecendo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Tentar entender logicamente — \"isso faz sentido?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Ficar confuso(a) — não sei se é real",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Me entregar completamente — sem pensar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "O que você sente quando alguém demonstra muito afeto?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Desconforto — parece invasivo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Medo — e se eu não corresponder?",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Suspeita — o que essa pessoa quer?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Análise — será que é sincero(a)?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Dúvida — será que eu sinto o mesmo?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Alívio — finalmente alguém me vê",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você lida com a possibilidade de ser machucado(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me fecho — antes que o outro possa me machucar",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Saio antes — não vou dar chance",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Finjo que não dói",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Analiso os riscos — faz sentido me machucar?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico em dúvida — será que vale a pena?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Me entrego — mesmo sabendo que posso me machucar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Como você costuma terminar relacionamentos?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Simplesmente sumo — não dou explicação",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Vou embora antes de me apaixonar de verdade",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Finjo que está tudo bem — e vou me afastando aos poucos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Termino com uma conversa lógica — \"não faz mais sentido\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Termino dizendo que \"não tenho certeza\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Sofro — porque não consigo viver sem a pessoa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "O que você faz quando percebe que está dependendo demais do outro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me afasto na hora — preciso de independência",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Entro em pânico e procuro uma saída",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Finjo que não estou dependendo — mas fico por perto",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Analiso se essa dependência é saudável ou não",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico em dúvida — será que estou mesmo dependendo?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Me entrego — acho que dependência é amor",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Qual dessas frases você já disse?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Não estou pronto(a) para um relacionamento agora\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Preciso me encontrar antes de amar alguém\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não quero parecer fraco(a)\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vamos analisar essa relação com calma\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Não tenho certeza do que sinto\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"Não consigo viver sem você\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você reage quando o outro quer \"definir\" a relação?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Desvio o assunto — não quero falar sobre isso",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico ansioso(a) — e se for cedo demais?",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Finjo que está tudo bem — mas por dentro estou em pânico",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Quero definir também — mas com regras claras",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico em dúvida — será que é a pessoa certa?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Quero definir — porque preciso de segurança",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você descreveria sua relação com a vulnerabilidade?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "É um perigo — me expõe",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "É assustadora — mas necessária",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "É algo que evito — ser vulnerável é fraqueza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "É algo que eu racionalizo — \"não faz sentido ser vulnerável agora\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "É algo que me confunde — não sei quando ou como ser",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "É a única forma de amar de verdade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "O que te assusta mais no amor?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Perder o controle",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Me entregar e não ser correspondido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ser visto(a) por inteiro — e rejeitado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fazer algo \"irracional\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Escolher a pessoa errada",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Ficar sozinho(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Você já machucou alguém por não conseguir corresponder ao afeto?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sim — e me senti aliviado(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Sim — e me senti culpado(a), mas não consegui mudar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sim — mas acho que foi melhor para os dois",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sim — e tentei explicar racionalmente por quê",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Sim — porque fiquei em dúvida até o fim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Sim — porque não consigo viver sem a pessoa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você reage quando o outro está muito disponível?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico desconfiado(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico assustado(a) — parece muita responsabilidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico na defensiva — \"por que tanto interesse?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Analiso se é saudável",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico em dúvida — será que ele(a) é carente?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico aliviado(a) — finalmente alguém que quer ficar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "O que você faz quando percebe que está se apegando?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me afasto — não posso me apegar",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Entro em pânico — tento desacelerar tudo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Finjo que não estou me apegando",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Analiso se faz sentido me apegar agora",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico em dúvida — será que é apego ou amor?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Me entrego — o apego é inevitável",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Como você reage quando o outro não te procura?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico aliviado(a) — menos pressão",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico ansioso(a) — mas não vou atrás",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Finjo que não ligo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Analiso se isso é um problema ou não",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico em dúvida — será que ele(a) perdeu o interesse?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Sofro — porque não suporto a ausência",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Seu estilo de amor é mais:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Distante — parece que não me importo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fugidio — sempre com um pé na porta",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fechado — ninguém me conhece de verdade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Racional — tudo precisa ser analisado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Confuso — vivo na incerteza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Entregue — me dou por inteiro(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse resumir sua relação com o amor, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"É melhor não sentir do que se machucar\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"O amor é para os corajosos — e eu ainda não sou\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não posso mostrar que preciso\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"O amor precisa fazer sentido\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Não sei o que quero\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"O amor é tudo — sem ele, não sou nada\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-09T04:06:37.707Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🧊 O GELO — \"Eu não sinto falta\"",
+          "texto": "Você é a pessoa que sempre parece estar bem — mesmo quando não está. Sua linguagem de evitação é a frieza. Você não chora, não demonstra, não sente falta (ou pelo menos não admite). Você aprendeu que sentir é perigoso, então você desligou o termostato emocional. O problema? Você não está apenas protegido(a) — você está congelado(a). E quem tenta se aproximar sente o frio antes mesmo de chegar perto. Você pode até achar que está sendo forte, mas a verdade é que você está com medo. Medo de se machucar, de se perder, de precisar de alguém. E enquanto você mantém o gelo, o amor escorre pelo ralo. \"Frio não é força. Frio é o medo que tomou forma de armadura.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🏃‍♂️ A FUGA — \"Não estou pronto(a)\"",
+          "texto": "Você é a pessoa que sempre tem uma desculpa para não se entregar. Sua linguagem de evitação é a fuga — \"não é o momento certo\", \"preciso me encontrar primeiro\", \"estou muito ocupado(a)\". Você se mantém em movimento constante, seja com trabalho, estudos, viagens ou novas paixões superficiais. O problema? Você nunca está pronto(a) — porque pronto(a) não existe. Você foge porque o amor te assusta. Não o amor em si, mas o que ele exige: presença, vulnerabilidade, constância. Você confunde liberdade com fuga. E no fim, você está sempre correndo de algo que poderia ter te pego. \"A fuga não é sobre não querer — é sobre ter medo de ficar.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🎭 A MÁSCARA — \"Eu sou forte\"",
+          "texto": "Você é a pessoa que nunca demonstra fraqueza. Sua linguagem de evitação é a máscara — você está sempre bem, sempre no controle, sempre dando conta. Você não pede ajuda, não se abre, não mostra o que está sentindo. O problema? Você está tão acostumado(a) a ser \"forte\" que esqueceu como é ser humano. E quando alguém tenta te ver de verdade, você usa a máscara como escudo. Você confunde vulnerabilidade com fraqueza. E enquanto você se esconde atrás da máscara, o amor não consegue te alcançar. \"A máscara não te protege — te esconde. E o amor não encontra o que não se mostra.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🧩 A RACIONALIZAÇÃO — \"Isso não faz sentido\"",
+          "texto": "Você é a pessoa que transforma emoções em argumentos. Sua linguagem de evitação é a racionalização — você analisa, compara, pondera, mas nunca sente. Você pode descrever o amor, mas não se deixa levar por ele. O problema? Você está usando a razão como muleta para não sentir o coração. Você confunde inteligência com evitação. E enquanto você analisa o amor, ele passa por você sem te tocar. O amor não é lógico — e você sabe disso. Mas é mais seguro fingir que é. \"Racionalizar é uma forma elegante de fugir. Mas o amor não se explica — se sente.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🌀 A CONFUSÃO — \"Eu não sei o que quero\"",
+          "texto": "Você é a pessoa que nunca tem certeza. Sua linguagem de evitação é a confusão — você não sabe se gosta, não sabe se quer, não sabe se é a pessoa certa. Você mantém tudo em aberto, sempre em dúvida. O problema? A confusão é uma forma de não escolher. E não escolher é, em si, uma escolha. Você fica na dúvida porque, no fundo, você tem medo de escolher errado — ou pior, de escolher certo e se machucar. E enquanto você se perde nas incertezas, o amor se cansa de esperar. \"A confusão é o refúgio de quem não quer se arriscar. Mas o amor só chega para quem escolhe.\""
+        },
+        {
+          "id": "final6",
+          "titulo": "🧸 A DEPENDÊNCIA — \"Eu preciso de você\"",
+          "texto": "Você é a pessoa que se apega rápido demais. Sua linguagem de evitação é a dependência — você se entrega tão completamente que o outro vira o centro da sua vida. O problema? Você não está amando — está se anulando. Você usa o outro como um bote salva-vidas para não afundar. Você confunde amor com necessidade. E no fundo, você tem medo de ser abandonado(a) — então você se agarra com tanta força que acaba sufocando o que poderia crescer. \"Dependência não é amor — é desespero disfarçado. E o amor não sobrevive no aperto de quem tem medo de soltar.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

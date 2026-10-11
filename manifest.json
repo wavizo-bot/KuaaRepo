@@ -1,0 +1,829 @@
+{
+    "versao":  1,
+    "repositorio":  "wavizo-bot/KuaaRepo",
+    "branch":  "main",
+    "geradoEm":  "2026-10-11T17:48:07.1123618Z",
+    "totais":  {
+                   "arquivos":  102,
+                   "provas":  885,
+                   "questoes":  7781
+               },
+    "pacotes":  [
+                    {
+                        "caminho":  "Ensino Superior/Enfermagem.json",
+                        "pasta":  "Ensino Superior",
+                        "arquivo":  "Enfermagem",
+                        "provas":  30,
+                        "questoes":  300,
+                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                    },
+                    {
+                        "caminho":  "Ensino Superior/engenheiro_alimentar.json",
+                        "pasta":  "Ensino Superior",
+                        "arquivo":  "engenheiro_alimentar",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                    },
+                    {
+                        "caminho":  "Ensino Superior/Fisioterapeuta.json",
+                        "pasta":  "Ensino Superior",
+                        "arquivo":  "Fisioterapeuta",
+                        "provas":  2,
+                        "questoes":  150,
+                        "atualizadoEm":  "2026-10-01T01:00:04.085Z"
+                    },
+                    {
+                        "caminho":  "Ensino Superior/nutricionista.json",
+                        "pasta":  "Ensino Superior",
+                        "arquivo":  "nutricionista",
+                        "provas":  25,
+                        "questoes":  777,
+                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                    },
+                    {
+                        "caminho":  "Ensino Superior/professor_educacao_basica.json",
+                        "pasta":  "Ensino Superior",
+                        "arquivo":  "professor_educacao_basica",
+                        "provas":  27,
+                        "questoes":  270,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Ensino Superior/tecnologo_alimentar.json",
+                        "pasta":  "Ensino Superior",
+                        "arquivo":  "tecnologo_alimentar",
+                        "provas":  2,
+                        "questoes":  60,
+                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                    },
+                    {
+                        "caminho":  "Ensino Superior/tecnologo_nutricional.json",
+                        "pasta":  "Ensino Superior",
+                        "arquivo":  "tecnologo_nutricional",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/biologia_ecologia.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "biologia_ecologia",
+                        "provas":  1,
+                        "questoes":  34,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/biologia_mudancas_climaticas.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "biologia_mudancas_climaticas",
+                        "provas":  1,
+                        "questoes":  32,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/biologia_relacoes_ecologicas.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "biologia_relacoes_ecologicas",
+                        "provas":  1,
+                        "questoes":  31,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/biologia_remocao_co2.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "biologia_remocao_co2",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/filosofia_enem_f1.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "filosofia_enem_f1",
+                        "provas":  35,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T02:54:42.8470357Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/filosofia_enem_f2.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "filosofia_enem_f2",
+                        "provas":  35,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T03:14:30.0523645Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/filosofia_enem_f3.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "filosofia_enem_f3",
+                        "provas":  35,
+                        "questoes":  120,
+                        "atualizadoEm":  "2026-10-01T03:34:28.6251174Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_acustica.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_acustica",
+                        "provas":  1,
+                        "questoes":  32,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_calorimetria.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_calorimetria",
+                        "provas":  1,
+                        "questoes":  31,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_cinematica_vetorial.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_cinematica_vetorial",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_circuitos_eletricos.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_circuitos_eletricos",
+                        "provas":  1,
+                        "questoes":  31,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_conversao_energia.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_conversao_energia",
+                        "provas":  1,
+                        "questoes":  31,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_efeito_doppler.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_efeito_doppler",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_eletrodinamica.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_eletrodinamica",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_eletrostatica.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_eletrostatica",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_fenomenos_ondulatorios.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_fenomenos_ondulatorios",
+                        "provas":  1,
+                        "questoes":  32,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_forca_atrito.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_forca_atrito",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_mru.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_mru",
+                        "provas":  1,
+                        "questoes":  31,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_ondas.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_ondas",
+                        "provas":  1,
+                        "questoes":  34,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_optica.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_optica",
+                        "provas":  1,
+                        "questoes":  35,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_ressonancia.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_ressonancia",
+                        "provas":  1,
+                        "questoes":  32,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_termodinamica.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_termodinamica",
+                        "provas":  1,
+                        "questoes":  33,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_transmissao_calor.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_transmissao_calor",
+                        "provas":  1,
+                        "questoes":  32,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fisica_velocidade_media.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fisica_velocidade_media",
+                        "provas":  1,
+                        "questoes":  31,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fundamental_5ano.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fundamental_5ano",
+                        "provas":  11,
+                        "questoes":  359,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fundamental_6ano.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fundamental_6ano",
+                        "provas":  14,
+                        "questoes":  403,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fundamental_7ano.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fundamental_7ano",
+                        "provas":  14,
+                        "questoes":  392,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fundamental_8ano.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fundamental_8ano",
+                        "provas":  14,
+                        "questoes":  264,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/fundamental_9ano.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "fundamental_9ano",
+                        "provas":  14,
+                        "questoes":  243,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/geografia_enem_d.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "geografia_enem_d",
+                        "provas":  64,
+                        "questoes":  120,
+                        "atualizadoEm":  "2026-10-01T08:42:49.1884447Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/geografia_enem_f.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "geografia_enem_f",
+                        "provas":  64,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T03:49:56.4140520Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/geografia_enem_m.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "geografia_enem_m",
+                        "provas":  64,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T03:56:14.2805384Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/historia_transicao_feudalismo.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "historia_transicao_feudalismo",
+                        "provas":  1,
+                        "questoes":  82,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/ingles_enem_f.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "ingles_enem_f",
+                        "provas":  38,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T14:19:29.3619178Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/ingles_enem_m.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "ingles_enem_m",
+                        "provas":  38,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T14:26:08.9331022Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/medio_1ano.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "medio_1ano",
+                        "provas":  20,
+                        "questoes":  512,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/medio_2ano.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "medio_2ano",
+                        "provas":  40,
+                        "questoes":  766,
+                        "atualizadoEm":  "2026-10-01T02:41:14.107Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/portugues_banco_sintetico.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "portugues_banco_sintetico",
+                        "provas":  1,
+                        "questoes":  70,
+                        "atualizadoEm":  "2026-10-01T01:00:30.210Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_carvao_ativado.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_carvao_ativado",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_ciclo_nitrogenio.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_ciclo_nitrogenio",
+                        "provas":  1,
+                        "questoes":  31,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_eletroquimica.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_eletroquimica",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_equilibrio_quimico.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_equilibrio_quimico",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_estequiometria.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_estequiometria",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_forcas_intermoleculares.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_forcas_intermoleculares",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_funcoes_organicas.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_funcoes_organicas",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_ph.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_ph",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_poluicao_agua.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_poluicao_agua",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_radioatividade.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_radioatividade",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_reacoes_redox.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_reacoes_redox",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_remocao_oleo.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_remocao_oleo",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_separacao_misturas.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_separacao_misturas",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_termoquimica.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_termoquimica",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/quimica_tratamento_esgoto.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "quimica_tratamento_esgoto",
+                        "provas":  1,
+                        "questoes":  30,
+                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/sociologia_enem_d.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "sociologia_enem_d",
+                        "provas":  74,
+                        "questoes":  120,
+                        "atualizadoEm":  "2026-10-01T14:11:43.7488855Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/sociologia_enem_f.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "sociologia_enem_f",
+                        "provas":  58,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T09:14:18.6262802Z"
+                    },
+                    {
+                        "caminho":  "Fundamental e Médio/sociologia_enem_m.json",
+                        "pasta":  "Fundamental e Médio",
+                        "arquivo":  "sociologia_enem_m",
+                        "provas":  58,
+                        "questoes":  90,
+                        "atualizadoEm":  "2026-10-01T09:23:40.6096420Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Como é a sua bateria social segundo o reino animal.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Como é a sua bateria social segundo o reino animal",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:34:47.713Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Como está o seu nível invisível de esgotamento burnout.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Como está o seu nível invisível de esgotamento burnout",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T16:59:57.293Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Como você se comporta em relacionamentos afetivos.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Como você se comporta em relacionamentos afetivos",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:41:00.952Z"
+                    },
+                    {
+                        "caminho":  "Quiz/O que a sua irritação com os outros revela sobre a sua Sombra.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "O que a sua irritação com os outros revela sobre a sua Sombra",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:13:44.663Z"
+                    },
+                    {
+                        "caminho":  "Quiz/O que a sua relação com o tempo diz sobre a sua urgência de vida.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "O que a sua relação com o tempo diz sobre a sua urgência de vida",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:15:42.820Z"
+                    },
+                    {
+                        "caminho":  "Quiz/O que você está projetando nos outros.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "O que você está projetando nos outros",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T04:05:00.419Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Quais padrões tóxicos você repete sem perceber.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Quais padrões tóxicos você repete sem perceber",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T03:44:09.173Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual ambição oculta está guiando suas escolhas atuais.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual ambição oculta está guiando suas escolhas atuais",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:18:10.845Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual animal reflete seu nível de energia e ritmo de vida.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual animal reflete seu nível de energia e ritmo de vida",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:33:43.698Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual das Meninas Superpoderosas você seria.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual das Meninas Superpoderosas você seria",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T13:37:11.746Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual doce traduz sua forma de lidar com a vida.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual doce traduz sua forma de lidar com a vida",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:56:10.075Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual docinho de festa você é.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual docinho de festa você é",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T03:59:12.932Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é a sua linguagem oculta para lidar com conflitos.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é a sua linguagem oculta para lidar com conflitos",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:00:05.123Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é a sua postura real diante da vulnerabilidade afetiva.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é a sua postura real diante da vulnerabilidade afetiva",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:00:15.015Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é a sua relação com o controle e a incerteza.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é a sua relação com o controle e a incerteza",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:04:24.300Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é a sua relação invisível com o sucesso.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é a sua relação invisível com o sucesso",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:24:16.441Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é a sua tolerância real ao desconforto e ao tédio.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é a sua tolerância real ao desconforto e ao tédio",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:21:36.874Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é a sua verdadeira moeda de troca nas relações.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é a sua verdadeira moeda de troca nas relações",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:16:59.404Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é o seu mecanismo de defesa predominante diante da frustração.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é o seu mecanismo de defesa predominante diante da frustração",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:12:16.081Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é o seu medo primário oculto.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é o seu medo primário oculto",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:14:47.747Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é o seu método para lidar com encrencas e conflitos.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é o seu método para lidar com encrencas e conflitos",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:36:19.876Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é o seu modelo mental de tomada de decisão sob pressão.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é o seu modelo mental de tomada de decisão sob pressão",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T16:59:47.860Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é o seu perfil de adaptabilidade alimentar e de rotina.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é o seu perfil de adaptabilidade alimentar e de rotina",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:37:10.741Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual é o seu sabotador profissional secreto.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual é o seu sabotador profissional secreto",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T16:59:37.124Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual fase de vida sua mente está vivendo no momento.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual fase de vida sua mente está vivendo no momento",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:05:53.601Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual ferida da infância você trouxe para o amor.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual ferida da infância você trouxe para o amor",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T04:03:42.489Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual herança emocional dos seus pais mais guia suas escolhas atuais.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual herança emocional dos seus pais mais guia suas escolhas atuais",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:02:45.948Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual mulher icônica das telas você seria.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual mulher icônica das telas você seria",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T15:32:42.581Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual seu papel numa briga de casal.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual seu papel numa briga de casal",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-10T14:03:37.498Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual seu tipo de amor tóxico preferido.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual seu tipo de amor tóxico preferido",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T04:07:57.628Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual sua linguagem de evitação do amor.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual sua linguagem de evitação do amor",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T04:06:37.707Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual tipo de apocalipse você estaria mais preparado(a) para enfrentar.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual tipo de apocalipse você estaria mais preparado(a) para enfrentar",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T14:56:28.973Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual tipo de namorado-a você é.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual tipo de namorado-a você é",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T03:34:38.759Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Qual tipo de pessoa você atrai e por quê.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Qual tipo de pessoa você atrai e por quê",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T03:41:05.160Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Que tipo de âncora você representa nas suas amizades.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Que tipo de âncora você representa nas suas amizades",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:01:42.483Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Que tipo de filme de terror é seu relacionamento atual.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Que tipo de filme de terror é seu relacionamento atual",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T04:02:25.099Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Se você fosse algo esquecido em casa, o que seria.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Se você fosse algo esquecido em casa, o que seria",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-08T17:59:02.938Z"
+                    },
+                    {
+                        "caminho":  "Quiz/Você sabe reconhecer bandeiras na vida real.json",
+                        "pasta":  "Quiz",
+                        "arquivo":  "Você sabe reconhecer bandeiras na vida real",
+                        "provas":  1,
+                        "questoes":  15,
+                        "atualizadoEm":  "2026-09-09T03:52:00.135Z"
+                    },
+                    {
+                        "caminho":  "Técnico/tecnico_enfermagem.json",
+                        "pasta":  "Técnico",
+                        "arquivo":  "tecnico_enfermagem",
+                        "provas":  31,
+                        "questoes":  310,
+                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                    }
+                ]
+}

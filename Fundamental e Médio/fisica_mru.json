@@ -1,0 +1,1105 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-MRU-2026",
+      "title": "Física — Movimento Retilíneo Uniforme (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Movimento Retilíneo Uniforme",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "No MRU, a velocidade é constante: v = Δs/Δt. Um carro percorre 150 km em 2 horas. Sua velocidade média é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "75 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "300 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "75 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "20,8 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "50 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A equação horária da posição no MRU: s = s₀ + v·t. Um móvel parte de s₀ = 10 m com v = 5 m/s. Sua posição após 8 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "50 m"
+            },
+            {
+              "id": "A02",
+              "text": "40 m"
+            },
+            {
+              "id": "A03",
+              "text": "18 m"
+            },
+            {
+              "id": "A04",
+              "text": "90 m"
+            },
+            {
+              "id": "A05",
+              "text": "130 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Dois móveis A e B partem do mesmo ponto no mesmo sentido. A: v_A = 20 m/s; B: v_B = 30 m/s (parte 5 s depois). O alcance de B sobre A ocorre em t (contado da partida de A) igual a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "15 s"
+            },
+            {
+              "id": "A02",
+              "text": "10 s"
+            },
+            {
+              "id": "A03",
+              "text": "5 s"
+            },
+            {
+              "id": "A04",
+              "text": "20 s"
+            },
+            {
+              "id": "A05",
+              "text": "25 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Dois móveis partem de pontos opostos (distância D = 100 km) e movem-se um em direção ao outro. v₁ = 60 km/h, v₂ = 40 km/h. O tempo até o encontro é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1 h"
+            },
+            {
+              "id": "A02",
+              "text": "2 h"
+            },
+            {
+              "id": "A03",
+              "text": "0,5 h"
+            },
+            {
+              "id": "A04",
+              "text": "1,5 h"
+            },
+            {
+              "id": "A05",
+              "text": "2,5 h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "O gráfico posição × tempo no MRU é uma reta. A inclinação da reta representa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A velocidade"
+            },
+            {
+              "id": "A02",
+              "text": "A aceleração"
+            },
+            {
+              "id": "A03",
+              "text": "O deslocamento"
+            },
+            {
+              "id": "A04",
+              "text": "O tempo"
+            },
+            {
+              "id": "A05",
+              "text": "A posição inicial"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "O gráfico velocidade × tempo no MRU é uma reta horizontal. A área sob o gráfico representa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O deslocamento"
+            },
+            {
+              "id": "A02",
+              "text": "A aceleração"
+            },
+            {
+              "id": "A03",
+              "text": "A velocidade média"
+            },
+            {
+              "id": "A04",
+              "text": "A distância percorrida"
+            },
+            {
+              "id": "A05",
+              "text": "A velocidade instantânea"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Um trem de comprimento L = 200 m passa por uma ponte de comprimento P = 800 m com velocidade constante v = 72 km/h = 20 m/s. O tempo para o trem atravessar completamente a ponte é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "50 s"
+            },
+            {
+              "id": "A02",
+              "text": "40 s"
+            },
+            {
+              "id": "A03",
+              "text": "10 s"
+            },
+            {
+              "id": "A04",
+              "text": "60 s"
+            },
+            {
+              "id": "A05",
+              "text": "30 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Dois carros A e B movem-se em sentidos opostos na mesma estrada. v_A = 80 km/h, v_B = 60 km/h. A velocidade de aproximação (velocidade relativa) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "140 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "20 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "100 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "4800 km/h"
+            },
+            {
+              "id": "A05",
+              "text": "70 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Um móvel descreve MRU com velocidade v = 15 m/s. Seu deslocamento no intervalo de 2 s a 8 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "90 m"
+            },
+            {
+              "id": "A02",
+              "text": "120 m"
+            },
+            {
+              "id": "A03",
+              "text": "30 m"
+            },
+            {
+              "id": "A04",
+              "text": "150 m"
+            },
+            {
+              "id": "A05",
+              "text": "60 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A equação horária da posição: s = 20 + 10·t (SI). A posição inicial e a velocidade são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "s₀ = 20 m, v = 10 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "s₀ = 10 m, v = 20 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "s₀ = 20 m, v = –10 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "s₀ = 10 m, v = –20 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "s₀ = 0, v = 10 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Um ciclista percorre 30 km a 15 km/h, descansa 30 min, e retorna pelo mesmo caminho a 10 km/h. A velocidade média da viagem total (ida + volta + descanso) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "12 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "12,5 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "15 km/h"
+            },
+            {
+              "id": "A05",
+              "text": "8 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Um carro viaja 100 km a 50 km/h e depois 100 km a 100 km/h. A velocidade média da viagem total é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "66,7 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "75 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "50 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "100 km/h"
+            },
+            {
+              "id": "A05",
+              "text": "80 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Um móvel A parte do repouso com aceleração constante a = 2 m/s². Um móvel B passa pelo mesmo ponto 10 s depois com velocidade constante v_B = 30 m/s. O tempo (após A partir) para B alcançar A é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20 s"
+            },
+            {
+              "id": "A02",
+              "text": "15 s"
+            },
+            {
+              "id": "A03",
+              "text": "10 s"
+            },
+            {
+              "id": "A03",
+              "text": "30 s"
+            },
+            {
+              "id": "A05",
+              "text": "5 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Um projétil é lançado verticalmente para cima com v₀ = 40 m/s (g = 10 m/s²). O tempo de subida até a altura máxima (onde v = 0) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4 s"
+            },
+            {
+              "id": "A02",
+              "text": "2 s"
+            },
+            {
+              "id": "A03",
+              "text": "8 s"
+            },
+            {
+              "id": "A04",
+              "text": "1 s"
+            },
+            {
+              "id": "A05",
+              "text": "5 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "No MRU, o vetor velocidade é constante. Isso significa que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Módulo, direção e sentido são constantes"
+            },
+            {
+              "id": "A02",
+              "text": "Apenas o módulo é constante"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas a direção é constante"
+            },
+            {
+              "id": "A03",
+              "text": "A velocidade varia com o tempo"
+            },
+            {
+              "id": "A05",
+              "text": "A aceleração é constante e não nula"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Um automóvel viaja a 90 km/h. O motorista leva 1,0 s para reagir e frear. A distância percorrida durante o tempo de reação é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "25 m"
+            },
+            {
+              "id": "A02",
+              "text": "90 m"
+            },
+            {
+              "id": "A03",
+              "text": "10 m"
+            },
+            {
+              "id": "A04",
+              "text": "5 m"
+            },
+            {
+              "id": "A05",
+              "text": "50 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Dois trens partem da mesma estação em sentidos opostos. Trem A: v_A = 80 km/h. Trem B: v_B = 100 km/h. Após 3 horas, a distância entre eles é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "540 km"
+            },
+            {
+              "id": "A02",
+              "text": "300 km"
+            },
+            {
+              "id": "A03",
+              "text": "240 km"
+            },
+            {
+              "id": "A04",
+              "text": "180 km"
+            },
+            {
+              "id": "A05",
+              "text": "540 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Um móvel move-se com velocidade v = 10 m/s durante 5 s, depois v = 20 m/s durante 10 s. O deslocamento total é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "250 m"
+            },
+            {
+              "id": "A02",
+              "text": "150 m"
+            },
+            {
+              "id": "A03",
+              "text": "300 m"
+            },
+            {
+              "id": "A04",
+              "text": "50 m"
+            },
+            {
+              "id": "A05",
+              "text": "200 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Um móvel descreve MRU e percorre 240 m em 12 s. Sua velocidade em km/h é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "72 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "20 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "720 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "7,2 km/h"
+            },
+            {
+              "id": "A05",
+              "text": "200 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Um móvel parte de s₀ = 50 m com velocidade v = –10 m/s (sentido negativo). Sua posição após 8 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–30 m"
+            },
+            {
+              "id": "A02",
+              "text": "130 m"
+            },
+            {
+              "id": "A03",
+              "text": "30 m"
+            },
+            {
+              "id": "A04",
+              "text": "–130 m"
+            },
+            {
+              "id": "A05",
+              "text": "–50 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A velocidade média em um intervalo de tempo é definida como: v_m = Δs/Δt. Se um móvel percorre 100 m nos primeiros 5 s e 200 m nos 5 s seguintes, a velocidade média no intervalo de 5 s a 10 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "10 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "30 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "15 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "40 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Um carro viaja de A a B a 60 km/h e retorna de B a A a 40 km/h. A velocidade média da viagem de ida e volta é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "48 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "50 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "60 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "40 km/h"
+            },
+            {
+              "id": "A05",
+              "text": "55 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Dois móveis A e B movem-se em linha reta. A posição de A: s_A = 10 + 5t. A posição de B: s_B = 50 – 10t. O encontro ocorre quando s_A = s_B. O tempo de encontro é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "8/3 s ≈ 2,67 s"
+            },
+            {
+              "id": "A02",
+              "text": "4 s"
+            },
+            {
+              "id": "A03",
+              "text": "2 s"
+            },
+            {
+              "id": "A04",
+              "text": "6 s"
+            },
+            {
+              "id": "A05",
+              "text": "8 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Um móvel move-se com velocidade v = 5 m/s durante 20 s. Em seguida, inverte o sentido e move-se com v = 10 m/s durante 10 s. O deslocamento total (vetorial) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0 m"
+            },
+            {
+              "id": "A02",
+              "text": "100 m"
+            },
+            {
+              "id": "A03",
+              "text": "200 m"
+            },
+            {
+              "id": "A04",
+              "text": "50 m"
+            },
+            {
+              "id": "A05",
+              "text": "150 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A distância total percorrida (escalar) na questão anterior é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "200 m"
+            },
+            {
+              "id": "A02",
+              "text": "100 m"
+            },
+            {
+              "id": "A03",
+              "text": "0 m"
+            },
+            {
+              "id": "A04",
+              "text": "50 m"
+            },
+            {
+              "id": "A05",
+              "text": "150 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Um trem de 300 m de comprimento passa por um poste em 10 s. Sua velocidade é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "30 m/s = 108 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "3 m/s = 10,8 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "300 m/s = 1080 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "30 m/s = 180 km/h"
+            },
+            {
+              "id": "A05",
+              "text": "30 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Um móvel descreve MRU com equação horária s = 30 – 5t. Em que instante a posição é zero?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "6 s"
+            },
+            {
+              "id": "A02",
+              "text": "5 s"
+            },
+            {
+              "id": "A03",
+              "text": "3 s"
+            },
+            {
+              "id": "A04",
+              "text": "10 s"
+            },
+            {
+              "id": "A05",
+              "text": "1 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Dois carros A e B partem do mesmo ponto no mesmo sentido. A: v_A = 60 km/h; B: v_B = 80 km/h (parte 1 h depois). A distância de B para A no momento em que B parte é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "60 km"
+            },
+            {
+              "id": "A02",
+              "text": "80 km"
+            },
+            {
+              "id": "A03",
+              "text": "20 km"
+            },
+            {
+              "id": "A04",
+              "text": "140 km"
+            },
+            {
+              "id": "A05",
+              "text": "0 km"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Na questão anterior, o tempo para B alcançar A (contado da partida de B) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3 h"
+            },
+            {
+              "id": "A02",
+              "text": "1 h"
+            },
+            {
+              "id": "A03",
+              "text": "2 h"
+            },
+            {
+              "id": "A04",
+              "text": "4 h"
+            },
+            {
+              "id": "A05",
+              "text": "0,5 h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Um móvel descreve MRU com velocidade v = 15 m/s. Em t = 0, está em s = 0. Em t = 4 s, inverte instantaneamente o sentido (v = –15 m/s). A posição em t = 10 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–30 m"
+            },
+            {
+              "id": "A02",
+              "text": "90 m"
+            },
+            {
+              "id": "A03",
+              "text": "30 m"
+            },
+            {
+              "id": "A04",
+              "text": "150 m"
+            },
+            {
+              "id": "A05",
+              "text": "–60 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        },
+        {
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "text": "Um carro viaja a velocidade constante v. O motorista vê um obstáculo a 50 m à frente. Tempo de reação = 0,5 s. Desaceleração constante ao frear = 5 m/s². A velocidade máxima v_max (em m/s) para parar antes do obstáculo é: (distância reação + distância frenagem ≤ 50 m)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "12,5 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "10 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "15 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "20 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "25 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Movimento Retilíneo Uniforme",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Movimento Retilíneo Uniforme"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

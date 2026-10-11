@@ -1,0 +1,951 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-15T03:05:08.634Z",
+  "exams": [
+    {
+      "id": "PD20260914H231648",
+      "title": "Nutrição - PRopriedades físico-químicas dos alimentos",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vunesp",
+      "booklet": "Origem: manual",
+      "role": "Engenheiro alimentar",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A atividade de água (Aw) de um alimento é definida como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Teor total de água do alimento"
+            },
+            {
+              "id": "A02",
+              "text": "Razão entre a pressão de vapor da água no alimento e a da água pura"
+            },
+            {
+              "id": "A03",
+              "text": "Quantidade de água livre no alimento"
+            },
+            {
+              "id": "A04",
+              "text": "Umidade relativa do ambiente"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A gelatinização do amido ocorre quando:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O amido é resfriado"
+            },
+            {
+              "id": "A02",
+              "text": "O amido é aquecido em água"
+            },
+            {
+              "id": "A03",
+              "text": "O amido é congelado"
+            },
+            {
+              "id": "A04",
+              "text": "O amido é seco"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A desnaturação proteica é caracterizada por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Quebra das ligações peptídicas"
+            },
+            {
+              "id": "A02",
+              "text": "Perda da estrutura tridimensional"
+            },
+            {
+              "id": "A03",
+              "text": "Aumento da solubilidade"
+            },
+            {
+              "id": "A04",
+              "text": "Formação de novas ligações peptídicas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "O ponto de fusão de um lipídio aumenta com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento da insaturação"
+            },
+            {
+              "id": "A02",
+              "text": "Aumento da saturação"
+            },
+            {
+              "id": "A03",
+              "text": "Redução do comprimento da cadeia"
+            },
+            {
+              "id": "A04",
+              "text": "Presença de ramificações"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "As vitaminas lipossolúveis são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A, D, E e K"
+            },
+            {
+              "id": "A02",
+              "text": "B1, B2, B6 e C"
+            },
+            {
+              "id": "A03",
+              "text": "C, B12, folato e niacina"
+            },
+            {
+              "id": "A04",
+              "text": "Biotina, ácido pantotênico e C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A adição de sal (NaCl) a um alimento pode reduzir a atividade de água porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumenta a água livre"
+            },
+            {
+              "id": "A02",
+              "text": "Liga-se à água, reduzindo a água livre"
+            },
+            {
+              "id": "A03",
+              "text": "Aumenta a pressão de vapor"
+            },
+            {
+              "id": "A04",
+              "text": "Não afeta a Aw"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A retrogradação do amido ocorre quando:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O amido é aquecido"
+            },
+            {
+              "id": "A02",
+              "text": "O amido gelatinizado é resfriado"
+            },
+            {
+              "id": "A03",
+              "text": "O amido é congelado rapidamente"
+            },
+            {
+              "id": "A04",
+              "text": "O amido é seco"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "No ponto isoelétrico de uma proteína, sua solubilidade é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Máxima"
+            },
+            {
+              "id": "A02",
+              "text": "Mínima"
+            },
+            {
+              "id": "A03",
+              "text": "Inalterada"
+            },
+            {
+              "id": "A04",
+              "text": "Aumentada"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A rancidez oxidativa de lipídios é acelerada por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Antioxidantes"
+            },
+            {
+              "id": "A02",
+              "text": "Luz, calor e metais"
+            },
+            {
+              "id": "A03",
+              "text": "Refrigeração"
+            },
+            {
+              "id": "A04",
+              "text": "Embalagem a vácuo"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A caramelização é uma reação que ocorre quando:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Açúcares são aquecidos sem proteínas"
+            },
+            {
+              "id": "A02",
+              "text": "Açúcares reagem com aminoácidos"
+            },
+            {
+              "id": "A03",
+              "text": "Açúcares são fermentados"
+            },
+            {
+              "id": "A04",
+              "text": "Açúcares são resfriados"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A reação de Maillard ocorre entre:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aminoácidos e açúcares redutores"
+            },
+            {
+              "id": "A02",
+              "text": "Ácidos graxos e proteínas"
+            },
+            {
+              "id": "A03",
+              "text": "Vitaminas e minerais"
+            },
+            {
+              "id": "A04",
+              "text": "Amido e água"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Qual valor de atividade de água (Aw) é geralmente considerado mínimo para o crescimento da maioria das bactérias?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,60"
+            },
+            {
+              "id": "A02",
+              "text": "0,91"
+            },
+            {
+              "id": "A03",
+              "text": "0,75"
+            },
+            {
+              "id": "A04",
+              "text": "0,50"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A estabilidade de uma emulsão pode ser aumentada pela adição de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Sal"
+            },
+            {
+              "id": "A02",
+              "text": "Emulsificante"
+            },
+            {
+              "id": "A03",
+              "text": "Ácido"
+            },
+            {
+              "id": "A04",
+              "text": "Açúcar"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A vitamina C é facilmente degradada por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Refrigeração"
+            },
+            {
+              "id": "A02",
+              "text": "Calor, luz e oxigênio"
+            },
+            {
+              "id": "A03",
+              "text": "Embalagem a vácuo"
+            },
+            {
+              "id": "A04",
+              "text": "Congelamento"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "A presença de fitatos em cereais reduz a biodisponibilidade de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Sódio"
+            },
+            {
+              "id": "A02",
+              "text": "Ferro e zinco"
+            },
+            {
+              "id": "A03",
+              "text": "Potássio"
+            },
+            {
+              "id": "A04",
+              "text": "Cloro"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "As fibras solúveis, como a pectina, têm a capacidade de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumentar o colesterol"
+            },
+            {
+              "id": "A02",
+              "text": "Formar géis e reduzir colesterol"
+            },
+            {
+              "id": "A03",
+              "text": "Acelerar o trânsito intestinal"
+            },
+            {
+              "id": "A04",
+              "text": "Não interagir com água"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A formação de gel proteico ocorre por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Quebra das ligações peptídicas"
+            },
+            {
+              "id": "A02",
+              "text": "Desnaturação e agregação ordenada"
+            },
+            {
+              "id": "A03",
+              "text": "Aumento da solubilidade"
+            },
+            {
+              "id": "A04",
+              "text": "Resfriamento sem desnaturação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "O polimorfismo de gorduras refere-se à:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Capacidade de formar diferentes estruturas cristalinas"
+            },
+            {
+              "id": "A02",
+              "text": "Solubilidade em água"
+            },
+            {
+              "id": "A03",
+              "text": "Ponto de fusão único"
+            },
+            {
+              "id": "A04",
+              "text": "Reação com proteínas"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "O amido resistente tipo 3 é formado por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Amido gelatinizado"
+            },
+            {
+              "id": "A02",
+              "text": "Retrogradação do amido"
+            },
+            {
+              "id": "A03",
+              "text": "Amido cru"
+            },
+            {
+              "id": "A04",
+              "text": "Amido modificado quimicamente"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A isoterma de sorção de um alimento relaciona:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Temperatura e umidade"
+            },
+            {
+              "id": "A02",
+              "text": "Conteúdo de água e Aw"
+            },
+            {
+              "id": "A03",
+              "text": "pH e acidez"
+            },
+            {
+              "id": "A04",
+              "text": "Densidade e viscosidade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "O escurecimento enzimático em frutas e vegetais é catalisado principalmente pela:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Lipase"
+            },
+            {
+              "id": "A02",
+              "text": "Polifenoloxidase"
+            },
+            {
+              "id": "A03",
+              "text": "Amilase"
+            },
+            {
+              "id": "A04",
+              "text": "Protease"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Os antioxidantes primários atuam:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Quelando metais"
+            },
+            {
+              "id": "A02",
+              "text": "Doando hidrogênio a radicais livres"
+            },
+            {
+              "id": "A03",
+              "text": "Absorvendo luz UV"
+            },
+            {
+              "id": "A04",
+              "text": "Reduzindo oxigênio"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Qual açúcar apresenta maior poder edulcorante?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Glicose"
+            },
+            {
+              "id": "A02",
+              "text": "Frutose"
+            },
+            {
+              "id": "A03",
+              "text": "Lactose"
+            },
+            {
+              "id": "A04",
+              "text": "Maltose"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "As proteínas atuam como emulsificantes porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "São totalmente hidrofílicas"
+            },
+            {
+              "id": "A02",
+              "text": "Possuem regiões hidrofílicas e hidrofóbicas"
+            },
+            {
+              "id": "A03",
+              "text": "São totalmente hidrofóbicas"
+            },
+            {
+              "id": "A04",
+              "text": "Não interagem com água"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A cocção em água pode reduzir o teor de vitaminas hidrossolúveis porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "São destruídas pelo calor"
+            },
+            {
+              "id": "A02",
+              "text": "Lixiviam para a água de cocção"
+            },
+            {
+              "id": "A03",
+              "text": "Reagem com gorduras"
+            },
+            {
+              "id": "A04",
+              "text": "São voláteis"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "O congelamento lento de alimentos forma cristais de gelo grandes, causando:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Melhora da textura"
+            },
+            {
+              "id": "A02",
+              "text": "Rompimento celular e perda de textura"
+            },
+            {
+              "id": "A03",
+              "text": "Aumento da retenção de água"
+            },
+            {
+              "id": "A04",
+              "text": "Não afeta a qualidade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A gelificação da pectina requer:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas água"
+            },
+            {
+              "id": "A02",
+              "text": "Açúcar, ácido e pectina"
+            },
+            {
+              "id": "A03",
+              "text": "Sal e pectina"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas calor"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A solubilidade de uma proteína em água é geralmente maior:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "No ponto isoelétrico"
+            },
+            {
+              "id": "A02",
+              "text": "Em pH afastado do pI"
+            },
+            {
+              "id": "A03",
+              "text": "Em pH neutro sempre"
+            },
+            {
+              "id": "A04",
+              "text": "Em pH ácido sempre"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A hidrogenação de óleos vegetais causa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento da insaturação"
+            },
+            {
+              "id": "A02",
+              "text": "Formação de gorduras trans e aumento do ponto de fusão"
+            },
+            {
+              "id": "A03",
+              "text": "Redução do ponto de fusão"
+            },
+            {
+              "id": "A04",
+              "text": "Aumento da solubilidade em água"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A vitamina A é sensível a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Refrigeração"
+            },
+            {
+              "id": "A02",
+              "text": "Luz, oxigênio e calor"
+            },
+            {
+              "id": "A03",
+              "text": "Embalagem a vácuo"
+            },
+            {
+              "id": "A04",
+              "text": "Congelamento"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Propriedades físico-químicas dos alimentos"
+        }
+      ],
+      "updatedAt": "2026-10-01T01:02:54.461Z",
+      "kind": "prova"
+    }
+  ]
+}

@@ -1,0 +1,1926 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-15T03:05:08.634Z",
+  "exams": [
+    {
+      "id": "PD20260914H231803",
+      "title": "Nutrição - TEcnologia de alimentos",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "DeepSeek",
+      "booklet": "Origem: manual",
+      "role": "Tecnólogo alimentar",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A pasteurização é um tratamento térmico que visa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Esterilizar completamente o alimento"
+            },
+            {
+              "id": "A02",
+              "text": "Eliminar patógenos e reduzir deteriorantes"
+            },
+            {
+              "id": "A03",
+              "text": "Desidratar o alimento"
+            },
+            {
+              "id": "A04",
+              "text": "Congelar o alimento"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A refrigeração de alimentos geralmente utiliza temperaturas na faixa de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "-18 °C ou menos"
+            },
+            {
+              "id": "A02",
+              "text": "0 a 7 °C"
+            },
+            {
+              "id": "A03",
+              "text": "10 a 15 °C"
+            },
+            {
+              "id": "A04",
+              "text": "20 a 25 °C"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Os conservantes são aditivos utilizados para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Melhorar a cor"
+            },
+            {
+              "id": "A02",
+              "text": "Inibir microrganismos e prolongar a validade"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o valor nutricional"
+            },
+            {
+              "id": "A04",
+              "text": "Modificar a textura"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A principal função da embalagem a vácuo é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumentar o oxigênio"
+            },
+            {
+              "id": "A02",
+              "text": "Remover oxigênio e reduzir oxidação"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar a umidade"
+            },
+            {
+              "id": "A04",
+              "text": "Adicionar conservantes"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A desidratação de alimentos tem como principal objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumentar a atividade de água"
+            },
+            {
+              "id": "A02",
+              "text": "Reduzir a atividade de água"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o teor de gordura"
+            },
+            {
+              "id": "A04",
+              "text": "Adicionar vitaminas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A produção de iogurte envolve qual processo tecnológico?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Fermentação láctica"
+            },
+            {
+              "id": "A02",
+              "text": "Fermentação alcoólica"
+            },
+            {
+              "id": "A03",
+              "text": "Pasteurização"
+            },
+            {
+              "id": "A04",
+              "text": "Desidratação"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A diferença entre pasteurização e esterilização é que a esterilização:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Elimina apenas patógenos"
+            },
+            {
+              "id": "A02",
+              "text": "Elimina todos os microrganismos viáveis, inclusive esporos"
+            },
+            {
+              "id": "A03",
+              "text": "Usa temperaturas mais baixas"
+            },
+            {
+              "id": "A04",
+              "text": "Não usa calor"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Os emulsificantes são aditivos que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumentam a separação de fases"
+            },
+            {
+              "id": "A02",
+              "text": "Estabilizam emulsões"
+            },
+            {
+              "id": "A03",
+              "text": "Adicionam cor"
+            },
+            {
+              "id": "A04",
+              "text": "Aumentam a acidez"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "O congelamento rápido de alimentos é preferível ao lento porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Forma cristais grandes"
+            },
+            {
+              "id": "A02",
+              "text": "Forma cristais pequenos e preserva a textura"
+            },
+            {
+              "id": "A03",
+              "text": "Aumenta a atividade de água"
+            },
+            {
+              "id": "A04",
+              "text": "Reduz o valor nutricional"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A embalagem em atmosfera modificada consiste em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Remover todo o oxigênio"
+            },
+            {
+              "id": "A02",
+              "text": "Substituir o ar por mistura de gases"
+            },
+            {
+              "id": "A03",
+              "text": "Adicionar conservantes"
+            },
+            {
+              "id": "A04",
+              "text": "Aumentar a umidade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A irradiação de alimentos é utilizada para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tornar o alimento radioativo"
+            },
+            {
+              "id": "A02",
+              "text": "Reduzir microrganismos e insetos"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar a atividade de água"
+            },
+            {
+              "id": "A04",
+              "text": "Adicionar vitaminas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Os espessantes são aditivos que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reduzem a viscosidade"
+            },
+            {
+              "id": "A02",
+              "text": "Aumentam a viscosidade"
+            },
+            {
+              "id": "A03",
+              "text": "Adicionam cor"
+            },
+            {
+              "id": "A04",
+              "text": "Conservam o alimento"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A liofilização é um método de secagem que consiste em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aquecimento direto"
+            },
+            {
+              "id": "A02",
+              "text": "Congelamento e sublimação sob vácuo"
+            },
+            {
+              "id": "A03",
+              "text": "Uso de micro-ondas"
+            },
+            {
+              "id": "A04",
+              "text": "Imersão em sal"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A homogeneização do leite tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumentar a separação da gordura"
+            },
+            {
+              "id": "A02",
+              "text": "Reduzir glóbulos de gordura e evitar separação"
+            },
+            {
+              "id": "A03",
+              "text": "Esterilizar o leite"
+            },
+            {
+              "id": "A04",
+              "text": "Aumentar a acidez"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Os antioxidantes são aditivos que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aceleram a oxidação"
+            },
+            {
+              "id": "A02",
+              "text": "Previnem a oxidação"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentam a atividade de água"
+            },
+            {
+              "id": "A04",
+              "text": "Adicionam cor"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "O processo de enlatamento de alimentos inclui etapas como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas aquecimento"
+            },
+            {
+              "id": "A02",
+              "text": "Exaustão, recravação e esterilização"
+            },
+            {
+              "id": "A03",
+              "text": "Desidratação e moagem"
+            },
+            {
+              "id": "A04",
+              "text": "Fermentação e prensagem"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A tecnologia de altas pressões hidrostáticas (HPP) conserva alimentos por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aquecimento intenso"
+            },
+            {
+              "id": "A02",
+              "text": "Inativação microbiana por pressão"
+            },
+            {
+              "id": "A03",
+              "text": "Radiação ionizante"
+            },
+            {
+              "id": "A04",
+              "text": "Desidratação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Uma embalagem ativa é aquela que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas protege mecanicamente"
+            },
+            {
+              "id": "A02",
+              "text": "Interage com o alimento para prolongar a validade"
+            },
+            {
+              "id": "A03",
+              "text": "Não tem contato com o alimento"
+            },
+            {
+              "id": "A04",
+              "text": "É feita apenas de vidro"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "O valor D de um microrganismo representa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tempo para reduzir 1 ciclo log"
+            },
+            {
+              "id": "A02",
+              "text": "Temperatura de esterilização"
+            },
+            {
+              "id": "A03",
+              "text": "Tempo para eliminar todos os microrganismos"
+            },
+            {
+              "id": "A04",
+              "text": "Concentração inicial de microrganismos"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Os corantes podem ser classificados em naturais e artificiais. Qual é um corante natural?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tartrazina"
+            },
+            {
+              "id": "A02",
+              "text": "Antocianina"
+            },
+            {
+              "id": "A03",
+              "text": "Vermelho 40"
+            },
+            {
+              "id": "A04",
+              "text": "Azul brilhante"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A enzima pectina metilesterase é utilizada na tecnologia de alimentos para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Clarificar sucos"
+            },
+            {
+              "id": "A02",
+              "text": "Adoçar alimentos"
+            },
+            {
+              "id": "A03",
+              "text": "Conservar carnes"
+            },
+            {
+              "id": "A04",
+              "text": "Produzir corantes"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A tecnologia de barreiras (hurdle technology) baseia-se em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Uso de um único método intenso"
+            },
+            {
+              "id": "A02",
+              "text": "Combinação de múltiplos obstáculos"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas refrigeração"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas adição de conservantes"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O tratamento UHT (Ultra High Temperature) do leite consiste em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aquecimento a 63 °C por 30 minutos"
+            },
+            {
+              "id": "A02",
+              "text": "Aquecimento a 135-150 °C por 2-4 segundos"
+            },
+            {
+              "id": "A03",
+              "text": "Congelamento rápido"
+            },
+            {
+              "id": "A04",
+              "text": "Desidratação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Qual material de embalagem apresenta maior barreira ao oxigênio?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Polietileno (PE)"
+            },
+            {
+              "id": "A02",
+              "text": "EVOH"
+            },
+            {
+              "id": "A03",
+              "text": "Poliestireno (PS)"
+            },
+            {
+              "id": "A04",
+              "text": "Papel"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A maturação de carnes tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumentar a dureza"
+            },
+            {
+              "id": "A02",
+              "text": "Melhorar maciez e sabor"
+            },
+            {
+              "id": "A03",
+              "text": "Reduzir a umidade"
+            },
+            {
+              "id": "A04",
+              "text": "Adicionar conservantes"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Qual edulcorante é considerado natural e de baixa caloria?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aspartame"
+            },
+            {
+              "id": "A02",
+              "text": "Stevia"
+            },
+            {
+              "id": "A03",
+              "text": "Sacarina"
+            },
+            {
+              "id": "A04",
+              "text": "Ciclamato"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O processo de refino de óleos vegetais inclui etapas como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas prensagem"
+            },
+            {
+              "id": "A02",
+              "text": "Degomagem, neutralização e desodorização"
+            },
+            {
+              "id": "A03",
+              "text": "Fermentação"
+            },
+            {
+              "id": "A04",
+              "text": "Hidrogenação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "O aquecimento por micro-ondas em alimentos ocorre por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Condução térmica"
+            },
+            {
+              "id": "A02",
+              "text": "Vibração de moléculas de água"
+            },
+            {
+              "id": "A03",
+              "text": "Radiação ionizante"
+            },
+            {
+              "id": "A04",
+              "text": "Convecção forçada"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A clarificação de sucos de frutas pode ser feita com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Adição de amido"
+            },
+            {
+              "id": "A02",
+              "text": "Enzimas pectinases e filtração"
+            },
+            {
+              "id": "A03",
+              "text": "Aquecimento intenso"
+            },
+            {
+              "id": "A04",
+              "text": "Congelamento"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Uma embalagem inteligente é aquela que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas protege o alimento"
+            },
+            {
+              "id": "A02",
+              "text": "Monitora e comunica condições do alimento"
+            },
+            {
+              "id": "A03",
+              "text": "Interage liberando conservantes"
+            },
+            {
+              "id": "A04",
+              "text": "É feita apenas de plástico"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Tecnologia de alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tecnologia de alimentos"
+        }
+      ],
+      "updatedAt": "2026-10-01T01:02:54.461Z",
+      "kind": "prova"
+    },
+    {
+      "id": "PD20260914H232157",
+      "title": "Nutrição - TÉcnica dietética - Planejamento e aquisição de gêneros alimentícios",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vunesp",
+      "booklet": "Origem: manual",
+      "role": "Tecnólogo alimentar",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "O planejamento de cardápios em unidades de alimentação e nutrição tem como objetivo principal:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas reduzir custos"
+            },
+            {
+              "id": "A02",
+              "text": "Atender necessidades nutricionais e otimizar recursos"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o desperdício"
+            },
+            {
+              "id": "A04",
+              "text": "Ignorar hábitos alimentares"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Na aquisição de gêneros alimentícios, é fundamental avaliar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas o preço"
+            },
+            {
+              "id": "A02",
+              "text": "Procedência, qualidade e condições sanitárias"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas a marca"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas o prazo de validade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "No armazenamento de gêneros alimentícios, a regra PEPS significa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Primeiro que Entra, Primeiro que Sai"
+            },
+            {
+              "id": "A02",
+              "text": "Primeiro que Entra, Por Último que Sai"
+            },
+            {
+              "id": "A03",
+              "text": "Produto Estocado Para Sempre"
+            },
+            {
+              "id": "A04",
+              "text": "Peso Exato Por Semana"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A ficha técnica de preparação é um documento que contém:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas o nome da preparação"
+            },
+            {
+              "id": "A02",
+              "text": "Ingredientes, quantidades e modo de preparo"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas o custo"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas o valor calórico"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "No recebimento de gêneros alimentícios, deve-se verificar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas a quantidade"
+            },
+            {
+              "id": "A02",
+              "text": "Temperatura, embalagem e validade"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas o preço"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas a marca"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "O per capita em técnica dietética refere-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Quantidade total de alimento"
+            },
+            {
+              "id": "A02",
+              "text": "Quantidade de alimento por pessoa"
+            },
+            {
+              "id": "A03",
+              "text": "Custo total da refeição"
+            },
+            {
+              "id": "A04",
+              "text": "Número de refeições"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "O fator de correção (FC) de um alimento é calculado pela razão entre:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Peso líquido / peso bruto"
+            },
+            {
+              "id": "A02",
+              "text": "Peso bruto / peso líquido"
+            },
+            {
+              "id": "A03",
+              "text": "Peso cozido / peso cru"
+            },
+            {
+              "id": "A04",
+              "text": "Peso cru / peso cozido"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "O fator de cocção (FCç) é a razão entre:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Peso bruto / peso líquido"
+            },
+            {
+              "id": "A02",
+              "text": "Peso cozido / peso cru"
+            },
+            {
+              "id": "A03",
+              "text": "Peso líquido / peso bruto"
+            },
+            {
+              "id": "A04",
+              "text": "Peso cru / peso cozido"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A especificação de gêneros alimentícios é importante porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumenta o custo"
+            },
+            {
+              "id": "A02",
+              "text": "Garante a qualidade do produto adquirido"
+            },
+            {
+              "id": "A03",
+              "text": "Reduz a validade"
+            },
+            {
+              "id": "A04",
+              "text": "Dificulta a compra"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Alimentos não perecíveis devem ser armazenados em local:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Úmido e quente"
+            },
+            {
+              "id": "A02",
+              "text": "Ventilado, seco e ao abrigo da luz"
+            },
+            {
+              "id": "A03",
+              "text": "Refrigerado"
+            },
+            {
+              "id": "A04",
+              "text": "Congelado"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O controle de custos em uma unidade de alimentação e nutrição envolve:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas o preço dos alimentos"
+            },
+            {
+              "id": "A02",
+              "text": "Perdas, desperdícios e rendimento"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas o número de refeições"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas a mão de obra"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A compra de gêneros alimentícios por licitação é obrigatória em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Empresas privadas"
+            },
+            {
+              "id": "A02",
+              "text": "Órgãos públicos"
+            },
+            {
+              "id": "A03",
+              "text": "Restaurantes comerciais"
+            },
+            {
+              "id": "A04",
+              "text": "Lanches escolares"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O rendimento de uma preparação é importante para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas calcular o custo"
+            },
+            {
+              "id": "A02",
+              "text": "Determinar o número de porções"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o desperdício"
+            },
+            {
+              "id": "A04",
+              "text": "Reduzir a qualidade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O controle de validade dos alimentos estocados deve ser feito:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas na compra"
+            },
+            {
+              "id": "A02",
+              "text": "Periodicamente, com etiquetagem e PEPS"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas no consumo"
+            },
+            {
+              "id": "A04",
+              "text": "Nunca"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "A análise nutricional do cardápio permite:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas calcular custos"
+            },
+            {
+              "id": "A02",
+              "text": "Verificar adequação de nutrientes"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o desperdício"
+            },
+            {
+              "id": "A04",
+              "text": "Reduzir a variedade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "A avaliação da qualidade de gêneros alimentícios no recebimento inclui:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas o peso"
+            },
+            {
+              "id": "A02",
+              "text": "Aparência, cor, odor e temperatura"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas a marca"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas o preço"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "O indicador de rejeição (IR) de uma preparação é calculado pela razão entre:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Peso da sobra / peso servido"
+            },
+            {
+              "id": "A02",
+              "text": "Peso servido / peso da sobra"
+            },
+            {
+              "id": "A03",
+              "text": "Peso bruto / peso líquido"
+            },
+            {
+              "id": "A04",
+              "text": "Peso cozido / peso cru"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A sobra limpa em uma unidade de alimentação e nutrição refere-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Restos nos pratos"
+            },
+            {
+              "id": "A02",
+              "text": "Alimento não servido e reaproveitável"
+            },
+            {
+              "id": "A03",
+              "text": "Alimento deteriorado"
+            },
+            {
+              "id": "A04",
+              "text": "Perdas no pré-preparo"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A curva ABC no controle de estoque classifica os itens em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas por preço"
+            },
+            {
+              "id": "A02",
+              "text": "Por valor e consumo"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas por validade"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas por marca"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Para calcular a quantidade total de alimento a comprar, deve-se multiplicar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Per capita × número de refeições"
+            },
+            {
+              "id": "A02",
+              "text": "Per capita ÷ número de refeições"
+            },
+            {
+              "id": "A03",
+              "text": "Fator de correção × per capita"
+            },
+            {
+              "id": "A04",
+              "text": "Peso líquido × fator de cocção"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Carnes frescas devem ser armazenadas sob refrigeração na faixa de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0 a 4 °C"
+            },
+            {
+              "id": "A02",
+              "text": "5 a 10 °C"
+            },
+            {
+              "id": "A03",
+              "text": "-18 °C ou menos"
+            },
+            {
+              "id": "A04",
+              "text": "10 a 15 °C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "O custo da refeição é calculado somando-se:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas gêneros alimentícios"
+            },
+            {
+              "id": "A02",
+              "text": "Gêneros, mão de obra e custos indiretos"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas mão de obra"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas custos indiretos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O inventário de estoque é importante para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas calcular impostos"
+            },
+            {
+              "id": "A02",
+              "text": "Controlar entradas, saídas e planejar compras"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o desperdício"
+            },
+            {
+              "id": "A04",
+              "text": "Reduzir a qualidade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Considerar a sazonalidade dos alimentos no planejamento de cardápios é importante porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumenta o custo"
+            },
+            {
+              "id": "A02",
+              "text": "Reduz custos e melhora a qualidade"
+            },
+            {
+              "id": "A03",
+              "text": "Diminui a variedade"
+            },
+            {
+              "id": "A04",
+              "text": "Não tem impacto"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A ficha técnica de preparação deve ser atualizada quando:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Nunca"
+            },
+            {
+              "id": "A02",
+              "text": "Houver mudanças de ingredientes, preços ou rendimento"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas anualmente"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas na implantação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Na aquisição de alimentos, a rotulagem deve ser verificada quanto a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas a marca"
+            },
+            {
+              "id": "A02",
+              "text": "Validade, lote, ingredientes e registro"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas o preço"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas a cor da embalagem"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A redução do desperdício em unidades de alimentação e nutrição pode ser alcançada com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento das porções"
+            },
+            {
+              "id": "A02",
+              "text": "Treinamento e controle de porções"
+            },
+            {
+              "id": "A03",
+              "text": "Redução da variedade"
+            },
+            {
+              "id": "A04",
+              "text": "Eliminação de fichas técnicas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Na organização de câmaras frias, os alimentos devem ser dispostos:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Amontoados"
+            },
+            {
+              "id": "A02",
+              "text": "Separados por tipo e com espaçamento"
+            },
+            {
+              "id": "A03",
+              "text": "No chão"
+            },
+            {
+              "id": "A04",
+              "text": "Junto com produtos de limpeza"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "O índice de resto-ingesta é calculado pela razão entre:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Peso dos restos / peso distribuído"
+            },
+            {
+              "id": "A02",
+              "text": "Peso distribuído / peso dos restos"
+            },
+            {
+              "id": "A03",
+              "text": "Peso bruto / peso líquido"
+            },
+            {
+              "id": "A04",
+              "text": "Peso cozido / peso cru"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Na gestão de contratos de fornecimento de alimentos, é essencial:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas assinar"
+            },
+            {
+              "id": "A02",
+              "text": "Acompanhar prazos, qualidade e penalidades"
+            },
+            {
+              "id": "A03",
+              "text": "Ignorar cláusulas"
+            },
+            {
+              "id": "A04",
+              "text": "Não fiscalizar"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Técnica dietética > Planejamento e aquisição de gêneros alimentícios",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Técnica dietética",
+          "tema": "Planejamento e aquisição de gêneros alimentícios"
+        }
+      ],
+      "updatedAt": "2026-10-01T01:02:54.461Z",
+      "kind": "prova"
+    }
+  ]
+}

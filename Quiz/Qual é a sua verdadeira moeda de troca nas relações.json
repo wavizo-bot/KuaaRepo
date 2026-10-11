@@ -1,0 +1,809 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:17:04.895Z",
+  "exams": [
+    {
+      "id": "quiz-1788887819404",
+      "title": "Qual é a sua verdadeira moeda de troca nas relações?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual é a sua verdadeira moeda de troca nas relações?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Quando você ajuda alguém, qual é a sensação mais presente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico feliz quando a pessoa me agradece — parece que fui vista(o)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Gosto de sentir que eu fiz a diferença — que minhas ideias foram seguidas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Me sinto bem por estar construindo uma relação sólida e confiável",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Me sinto parte de algo — como se eu pertencesse àquela história",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "O que te frustra mais em uma relação?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Não ser reconhecido(a) pelo que você faz",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Que as coisas não saiam como você planejou",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "A sensação de que a pessoa pode ir embora a qualquer momento",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Ser deixado(a) de fora — não ser incluído(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "O que você mais valoriza em um amigo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Que ele(a) me veja e me reconheça",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Que ele(a) me ouça e siga meus conselhos",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Que ele(a) seja confiável e esteja sempre lá",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que ele(a) me inclua e me faça sentir parte",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Como você reage quando não é convidado(a) para algo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico magoado(a) — parece que não sou importante",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico irritado(a) — como ousam fazer isso sem mim?",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico inseguro(a) — será que não sou mais bem-vindo(a)?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico profundamente magoado(a) — sinto que não pertenço",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "O que você sente quando alguém te elogia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Alívio — finalmente fui visto(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Satisfação — meus esforços foram reconhecidos",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Segurança — essa pessoa confia em mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Calor — me sinto parte de algo bom",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Como você escolhe as pessoas que entram na sua vida?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Pessoas que me fazem sentir especial e reconhecido(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Pessoas que posso influenciar e guiar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Pessoas que são estáveis e previsíveis",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Pessoas que me acolhem e me fazem sentir parte",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Qual dessas situações te faz sentir mais vivo(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Quando alguém reconhece publicamente o que você fez",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Quando você consegue influenciar uma decisão importante",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Quando você sente que pode confiar plenamente em alguém",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Quando você se sente parte de um grupo ou comunidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "O que você mais teme nas relações?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ser ignorado(a) ou invisível",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Perder o controle da situação",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "A incerteza — não saber se a pessoa vai ficar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Ser excluído(a) ou deixado(a) de fora",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Como você costuma se sentir após uma conversa difícil?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Aliviado(a) se a pessoa validou meu ponto de vista",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Satisfeito(a) se consegui direcionar a conversa",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tranquilo(a) se a relação permaneceu estável",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Conectado(a) se senti que fui compreendido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Quando você se sente inseguro(a), o que busca?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Alguém que me diga que sou bom(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Uma forma de retomar o controle da situação",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Alguém que me ofereça estabilidade e previsibilidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Um grupo onde me sinta acolhido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Qual dessas palavras descreve melhor o que você busca?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reconhecimento",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Influência",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estabilidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Conexão",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Como você reage quando alguém não reconhece seu esforço?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico magoado(a) — parece que não fui visto(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico frustrado(a) — o controle está escapando",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico inseguro(a) — será que ainda confiam em mim?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico triste — sinto que não pertenço àquele espaço",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Se você pudesse ter uma \"garantia\" em uma relação, qual seria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Garantia de que serei sempre reconhecido(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Garantia de que serei ouvido(a) e seguido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Garantia de que a pessoa não vai me abandonar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Garantia de que serei sempre incluído(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Como você se sente quando está sozinho(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Invisível — parece que não existo sem o olhar do outro",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Sem direção — não sei o que fazer sem influenciar alguém",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Inseguro(a) — sem a estabilidade do outro, me sinto perdido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Desconectado(a) — parece que não pertenço a lugar nenhum",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse resumir o que você busca, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Quero ser visto(a) e lembrado(a)\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Quero ter influência e fazer a diferença\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Quero ter alguém em quem confiar plenamente\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Quero pertencer a algo maior que eu\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:16:59.404Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🪙 VALIDAÇÃO — A Moeda do Reconhecimento",
+          "texto": "O que você realmente busca nas relações é ser visto(a) e reconhecido(a). Como alguém movido pela moeda da validação, você ajuda os outros porque, no fundo, quer saber que é importante, que sua presença faz diferença, que você é notado(a). Você se doa, se esforça e está sempre disponível — e uma parte de você espera que isso seja retribuído na forma de apreciação, afeto ou admiração. Sua maior força? Sua generosidade e disposição para estar presente. Seu maior desafio? Você pode se sentir vazio(a) quando o reconhecimento não vem — e pode, sem perceber, se anular para ser visto(a). A validação é uma moeda que só tem valor quando você já sabe que vale algo por si só. Aprenda a se reconhecer antes de buscar o olhar do outro. \"Você busca ser visto(a) porque ainda não aprendeu a se enxergar. A verdadeira validação não vem de fora — é uma luz que você acende dentro de si.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🎮 CONTROLE — A Moeda do Poder",
+          "texto": "O que você realmente busca nas relações é ter influência e previsibilidade. Como alguém movido pela moeda do controle, você ajuda os outros porque isso te dá uma sensação de poder e de ordem. Você gosta de ser procurado(a) para conselhos, de ser a pessoa que resolve os problemas, de ter as respostas. Sua maior força? Sua capacidade de organizar, liderar e proteger. Seu maior desafio? Você pode, sem perceber, sufocar os outros com sua presença ou se sentir frustrado(a) quando as coisas não saem como você planejou. O controle é uma moeda que te dá segurança, mas que pode te isolar. Aprenda a confiar: a vida não é um tabuleiro onde você precisa mover todas as peças. \"Você quer controlar porque tem medo do caos. Mas o caos também é vida — e a vida não se controla, se vive.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🛡️ SEGURANÇA — A Moeda da Estabilidade",
+          "texto": "O que você realmente busca nas relações é previsibilidade e proteção. Como alguém movido pela moeda da segurança, você ajuda os outros porque quer construir laços sólidos, confiáveis e duradouros. Você valoriza a lealdade, a constância e a certeza de que as pessoas vão ficar. Sua maior força? Sua confiabilidade e comprometimento. Seu maior desafio? Você pode evitar riscos emocionais, se prender a relações que já não te servem, ou sentir medo de perder o que construiu. A segurança é uma moeda que te dá conforto, mas que pode te manter em uma zona onde você não cresce. Aprenda a arriscar: a vida não é sobre nunca cair — é sobre saber que você pode se levantar. \"Você busca segurança porque o mundo te assustou. Mas a segurança verdadeira não está nos outros — está na sua capacidade de lidar com o inesperado.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🌍 PERTENCIMENTO — A Moeda da Conexão",
+          "texto": "O que você realmente busca nas relações é fazer parte de algo maior. Como alguém movido pela moeda do pertencimento, você ajuda os outros porque quer ser incluído(a), quer ter um lugar no mundo, quer ser parte de uma tribo, de uma família, de uma comunidade. Sua maior força? Sua capacidade de acolher, de criar laços e de construir pontes. Seu maior desafio? Você pode se perder na tentativa de agradar, de se encaixar, de ser aceito(a) — e pode abrir mão de si mesmo(a) para não ficar de fora. O pertencimento é uma moeda que te dá calor, mas que pode te fazer esquecer que você já é completo(a) sozinho(a). Aprenda a pertencer a si mesmo(a) antes de buscar pertencer aos outros. \"Você quer pertencer porque sente que não tem um lugar. Mas o lugar que você mais precisa ocupar é o seu próprio coração.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

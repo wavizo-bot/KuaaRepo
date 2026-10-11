@@ -1,0 +1,710 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "BIOLOGIA-REMOCAO-CO2-2026",
+      "title": "Biologia — Remoção de CO₂ (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Remoção de CO₂",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Remoção de CO₂ (CDR - Carbon Dioxide Removal): processos que removem CO₂ da atmosfera e o armazenam duravelmente. Categorias: natural (baseado em ecossistemas) e tecnológico (engenharia). Necessário para atingir zero líquido (net zero) e reverter aquecimento (cenários 1,5°C). IPCC: CDR indispensável.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "CDR natural baseado em terra: florestamento (plantar onde não havia floresta), reflorestamento (restaurar floresta degradada), regeneração natural assistida (RNA), agrofloresta (SAF), manejo florestal sustentável, restauração de solos degradados, agroecologia. Potencial: ~5–10 GtCO₂/ano. Co-benefícios: biodiversidade, solo, água, meios de vida.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Restauração de solos: sequestro de carbono orgânico no solo (SOC). Práticas: plantio direto, rotação de culturas, culturas de cobertura, adubação orgânica, pastagens melhoradas, integração lavoura-pecuária-floresta (ILPF), biochar. Potencial global: ~2–5 GtCO₂/ano. Co-benefícios: fertilidade, retenção água, biodiversidade.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Biochar: pirólise de biomassa (300–700°C, baixo O₂) → carvão poroso, rico em C, estável (centenas/ milhares anos). Aplicado ao solo: sequestra C, melhora fertilidade, retenção água, pH, atividade microbiana. Pirólise também produz bio-óleo e gás de síntese (energia). Sustentabilidade: resíduos agrícolas/florestais, evitar competição terra/alimento.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Restauração de wetlands (pântanos, manguezais, turfeiras): alta densidade de carbono (solo anaeróbio preserva matéria orgânica). Manguezais: sequestram 3–5× mais C/ha que florestas tropicais. Turfeiras: 30% C do solo global em 3% área. Restauração: reumidificação, replantio. Co-benefícios: biodiversidade, proteção costeira, qualidade água.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "CDR baseado no oceano: fertilização oceânica (ferro, nutrientes → floração fitoplâncton → exportação C para profundezas), alcalinização oceânica (adicionar minerais alcalinos → aumenta captação CO₂), cultivo de macroalgas (kelp) e afundamento, upwelling artificial, armazenamento sub-seabed (CCS marinho). Incertezas: eficácia, ecologia, governança, permanência.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "CDR tecnológico: Captura Direta do Ar (DAC - Direct Air Capture). Ventiladores movem ar sobre sorvente (sólido: aminas, MOFs, zeólitos; líquido: hidróxido potássio/cálcio). CO₂ liberado por calor (80–100°C) ou vácuo/umidade. Concentrado, comprimido, armazenado/usado. Empresas: Climeworks, Carbon Engineering, Global Thermostat, Heirloom.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "DAC: consumo energético ~1,5–2,5 MWh/tCO₂ (térmico) + 0,2–0,5 MWh/tCO₂ (elétrico). Custo atual: US$ 200–600/tCO₂. Meta: < US$ 100/tCO₂. Escalabilidade: modular, localizável, mas requer energia limpa massiva, área, água. Co-localização com fontes renováveis/geotérmicas/residuais.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "BECCS (Bioenergia com Captura e Armazenamento de Carbono): biomassa cresce (absorve CO₂) → queima para energia → captura CO₂ da chaminé → armazena geologicamente. Emissões negativas líquidas. Potencial: ~0,5–5 GtCO₂/ano (limitado por terra, água, biodiversidade, sustentabilidade). Integração: usinas termoelétricas, etanol, biogás, papel/celulose.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Armazenamento geológico de CO₂: formações salinas profundas (maior capacidade), reservatórios de petróleo/gás esgotados (EOR - recuperação avançada), formações basálticas (mineralização rápida). Requisitos: porosidade, permeabilidade, selo impermeável (caprock), monitoramento (sísmica, poços), permanência > 1000 anos. Capacidade global: ~10.000–20.000 GtCO₂.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Mineralização acelerada (enhanced weathering): espalhar rochas silicáticas finas (olivina, basalto, wollastonita) em solos/ocano. Reação: CaMgSiO₄ + 2CO₂ → MgCO₃ + CaCO₃ + SiO₂. Natural: milhões anos. Acelerado: moagem fina, clima quente/úmido, solos ácidos. Potencial: ~1–4 GtCO₂/ano. Co-benefícios: fertilidade solo, pH, nutrientes.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Alcalinização oceânica (OAE): adicionar minerais alcalinos (cal, olivina, hidróxidos) → aumenta alcalinidade → desloca equilíbrio CO₂/HCO₃⁻/CO₃²⁻ → oceano absorve mais CO₂ atmosférico. Formas: espalhar minerais, adição direta, reatores eletroquímicos. Riscos: ecologia marinha, metais pesados, governança, custo, energia.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Cultivo de macroalgas (kelp, sargasso): crescimento rápido (até 50 cm/dia), não compete por terra/água doce. Colheita e afundamento em profundidades > 1000 m (armazenamento séculos). Potencial: ~0,1–1 GtCO₂/ano. Desafios: escala, monitoramento, ecologia, permissão, permanência, custo. Empresas: Running Tide, Pull To Refresh.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Carbonato de cálcio precipitado (PCC) e mineralização de CO₂: CO₂ + Ca(OH)₂ → CaCO₃ + H₂O (carbonatação). Usos: cimento (substitui clínquer), agregados, papel, plásticos. Carbonatação de resíduos alcalinos (escória siderúrgica, cinzas, resíduos mineração): CaO/MgO + CO₂ → carbonatos. Sequestro permanente, valoriza resíduos.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Uso de CO₂ (CCU - Carbon Capture and Utilization): não remove permanentemente (ciclo curto), mas substitui fósseis. Usos: combustíveis (metanol, metano, combustíveis de aviação - e-fuels), químicos (ureia, policarbonatos, poliuréanos), materiais (concreto carbonatado, agregados), agricultura (estufas), bebidas. Ciclo de vida crucial: se CO₂ retorna à atmosfera rápido, não é CDR.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Economia do CDR: custo atual DAC US$ 200–600/tCO₂, BECCS US$ 50–200/tCO₂, florestamento US$ 10–50/tCO₂, solos US$ 10–30/tCO₂, intemperismo US$ 50–200/tCO₂, DAC alvo < US$ 100/tCO₂. Políticas: precificação carbono (taxa, ETS), créditos de remoção (verificação MRV), subsídios (45Q EUA, Contratos por Diferença EU), mandatos, compras públicas.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "MRV (Monitoramento, Relatório, Verificação): essencial para créditos de carbono/remoção. Adicionalidade (não ocorreria sem projeto), Permanência (reversão), Vazamento (deslocamento emissão), Mensuração (direta/modelos), Verificação independente (terceiros). Padrões: Verra (VCS), Gold Standard, Puro.earth, Isometric, CarbonPlan.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Riscos e limitações do CDR: escala (terra, água, energia), reversibilidade (incêndios, pragas, vazamento), competição por terra/água (alimento, biodiversidade), justiça social (direitos terra, povos indígenas), dependência tecnológica (risco moral: atrasa mitigação), custo, energia (DAC), governança (geoengenharia), permanência incerta.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "CDR em cenários IPCC (AR6): todos cenários 1,5°C (C1, C2) e 2°C (C3) requerem CDR. C1 (1,5°C sem superação): CDR ~2–4 GtCO₂/ano em 2050, ~5–15 GtCO₂/ano em 2100. Cumulativo 2020–2100: ~100–1000 GtCO₂. Desdobramento atrasado aumenta dependência CDR e riscos.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Políticas para CDR: precificação carbono (taxa, ETS), créditos de remoção (Artigo 6.4 Paris, mercado voluntário), subsídios diretos (45Q EUA: US$ 85/tCO₂ DAC, US$ 60/tCO₂ BECCS/CCS; Contratos por Diferença EU), compras públicas (First Movers Coalition, Frontier Climate), P&D (DOE Carbon Negative Shot: < US$ 100/tCO₂ até 2032), padrões de produto (cimento verde).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Justiça climática e CDR: evitar \"terra nullius\" (terras indígenas/comunitárias), consentimento livre, prévio, informado (CLPI), benefícios compartilhados, direitos de terra, segurança alimentar, transição justa. Evitar \"carbon colonialism\" (países ricos comprando terra no Sul para CDR). Governança inclusiva, direitos humanos.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Risco moral (moral hazard): CDR pode atrasar mitigação (redução emissões na fonte) se percebido como \"seguro\". Princípio: mitigação prioritária, CDR complementar. Princípio de Oxford: CDR deve ser adicional, verificável, permanente, socialmente justo. Governança: Tratado sobre CDR? Protocolo de Montreal como modelo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Permanência e reversibilidade: florestas (incêndios, pragas, seca, desmatamento) → décadas/séculos. Solos (mudança manejo, clima) → décadas. Mineralização (carbonatos) → milênios (permanente). Armazenamento geológico (vazamento) → milênios (se bem selecionado). Mineralização oceânica/terrestre: mais permanente. Biochar: séculos–milênios.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "MRV (Monitoramento, Relatório, Verificação) para CDR: medição direta (flux towers, câmaras, sensores remotos, inventários florestais, amostragem solo), modelagem (process-based, data-driven), verificação terceira parte (verificadores acreditados). Padrões: Verra (VM0042, VM0043), Gold Standard, Puro.earth (biochar, mineralização), Isometric, CarbonPlan, ICROA. Transparência, rastreabilidade (blockchain?).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "Iniciativas de mercado CDR: Frontier Climate (Stripe, Alphabet, Shopify, Meta, McKinsey) – US$ 1 bi até 2030, contratos antecipados. First Movers Coalition (empresas comprando CDR). Carbon Removal Xprize (Elon Musk, US$ 100M). Puro.earth (marketplace biochar, mineralização). Isometric (registro CDR). CarbonPlan (avaliação científica).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Brasil e CDR: potencial enorme (terra, sol, biomassa, geologia). Florestas: Amazônia, Cerrado, Mata Atlântica (restauração, REDD+). Solos: plantio direto, ILPF, biochar (resíduos cana/soja/milho). BECCS: etanol cana (fermentação CO₂ puro), biogás, termelétricas biomassa. DAC: energia solar abundante, geologia favorável (bacia do Paraná, Recôncavo). Mineralização: basalto (Paraná), resíduos mineração. Políticas: PLANAVEG, ABC+, RenovaBio, mercado carbono brasileiro (PL 528/2021 / Lei 14.119/2021).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Pesquisa e desenvolvimento CDR: Carbon Negative Shot (DOE EUA): < US$ 100/tCO₂ até 2032. Mission Innovation CDR Mission. EU Innovation Fund. Breakthrough Energy (Gates). ARPA-E. Missão CDR no Brasil? Necessário: P&D sorventes DAC (MOFs, aminas, zeólitas, hidróxidos), materiais mineralização, biologia sintética (cianobactérias, algas engenheiras), catálise eletroquímica CO₂, biochar otimizado, MRV digital (satélites, IA, blockchain).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "CDR e biodiversidade: sinergias (restauração nativa, corredores, agrofloresta, solos) vs trade-offs (monoculturas exóticas para BECCS/florestamento, monoculturas de macroalgas, mineração minerais alcalinização, DAC energia/terra). Princípio: priorizar CDR com co-benefícios biodiversidade (restauração nativa, agrofloresta, solos, wetlands, manguezais).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "CDR e segurança alimentar: competição por terra (BECCS em larga escala ~ 100–300 Mha, competindo com culturas), água (irrigação biomassa, DAC resfriamento), nutrientes. Mitigação: usar terras marginais/degradadas, resíduos agrícolas/florestais, macroalgas oceânicas, DAC em áreas não agrícolas, priorizar redução de desperdício alimentar (1/3 global) e dietas sustentáveis.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Futuro do CDR: portfólio diversificado (não depender de uma tecnologia), implantação responsável (governança, MRV, justiça), integração com mitigação profunda (CDR não substitui corte emissões), inovação contínua (custos, eficiência, materiais), escala global (cooperação internacional, Artigo 6 Paris, tratado CDR?). Meta: gigatoneladas/ano até 2050. Cada década de atraso dobra necessidade CDR.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Remoção de CO₂",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de CO₂"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

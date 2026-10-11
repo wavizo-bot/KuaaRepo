@@ -1,0 +1,1299 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:35:09.754Z",
+  "exams": [
+    {
+      "id": "quiz-1788888887713",
+      "title": "Como é a sua bateria social segundo o reino animal?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Como é a sua bateria social segundo o reino animal?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Como você se sente depois de passar horas em uma festa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Exausto(a) — preciso de dias de silêncio para me recuperar",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Revigorado(a) — quero mais! Que festa incrível",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Depende — se foi no meu ritmo, ok; se não, cansei",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Eu provavelmente não estava na festa — ou fui e saí cedo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Feliz por estar com minha \"matilha\" — foi bom",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Maravilhoso! Adorei ser o centro das atenções",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Qual desses cenários sociais te atrai mais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Um encontro tranquilo com uma ou duas pessoas",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Uma festa cheia de gente, música alta e animação",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Um evento onde posso chegar e sair quando quiser",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Um encontro noturno, com poucas pessoas e conversas profundas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Estar com minha \"matilha\" — meus escolhidos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Qualquer lugar onde eu seja o centro das atenções",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você costuma recarregar sua bateria social?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sozinho(a) — longe de todos, no meu canto",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Saindo com amigos — quanto mais melhor",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Passando tempo sozinho(a) — mas com a opção de socializar se der vontade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "À noite, em silêncio, com poucas pessoas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Com pessoas que confio — uma boa conversa e um abraço",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Em eventos onde posso brilhar — adoro a atenção",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "O que te desgasta mais socialmente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Conversas vazias e ambientes cheios",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Ficar muito tempo sozinho(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ser obrigado(a) a socializar quando não estou a fim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Ambientes muito iluminados e barulhentos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Ficar muito tempo longe da minha matilha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Não ser notado(a) ou valorizado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Como você descreveria sua presença em um grupo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Discreto(a) — observo mais do que participo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "O coração do grupo — sempre animando todo mundo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Apareço quando quero, sumo quando quero",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Presente, mas no meu próprio ritmo e horário",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "O protetor — cuido dos meus escolhidos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "O centro das atenções — onde todo mundo olha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Você prefere conversas...",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Curtas e objetivas — profundidade só com quem confio",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Leves, divertidas e com muitas pessoas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Quando eu estou a fim — se não, melhor ficar calado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Profundas e noturnas — com poucas pessoas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Com pessoas que confio — que são minha matilha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Onde eu seja o foco — adoro contar histórias",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você lida com convites para eventos sociais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Recuso a maioria — só vou se for importante",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Vou em quase todos — adoro sair e ver gente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Vou se estiver a fim — e saio quando quiser",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Aceito se for noturno, e se for com pessoas especiais",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Vou se minha matilha estiver junto",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Vou em tudo — é minha chance de brilhar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você se sente quando está sozinho(a) por muito tempo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Em paz — a solidão é minha aliada",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Inquieto(a) — preciso de gente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Confortável — desde que seja por escolha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Produtivo(a) — a noite me inspira",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Um pouco vazio(a) — sinto falta da minha matilha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Entediado(a) — preciso de plateia",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "O que você mais valoriza em uma amizade?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Respeito pelo meu espaço e meu silêncio",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Energia, alegria e disposição para sair junto",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Entender que nem sempre estou disponível — e tudo bem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Conversas profundas em horários inusitados",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Lealdade e presença constante — estar junto nos momentos difíceis",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Admiração e reconhecimento — gosto de ser visto(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Como você costuma dizer \"não\" a um convite social?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Diretamente — \"Não vou, obrigado(a)\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Com uma sugestão alternativa — \"Não hoje, mas vamos marcar algo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "De forma educada, sem dar muitas explicações",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Desapareço — não respondo e depois apareço",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Falo a verdade — \"Preciso de um tempo para mim\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Nunca digo não — adoro sair e ser visto",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você lida com discussões em grupo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Evito — fico na minha e observo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Entro com energia — adoro debater e trocar ideias",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Participo se me interessar — se não, saio",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico observando até achar o momento certo de falar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Entro para mediar e proteger a matilha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Tento ser o centro — quero que ouçam minha opinião",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Como seus amigos descreveriam sua presença?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Aquele que some, mas quando aparece, é especial\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"A alma de qualquer rolê — sempre anima\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"O gato — aparece quando quer, mas a gente adora\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"O notívago — só aparece depois das 22h\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Aquele que sempre está junto — confiável demais\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"A estrela do grupo — todo mundo olha\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Como você reage quando está em um ambiente social e sua bateria acaba?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Vou embora sem avisar — preciso do meu espaço",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico um pouco mais, mas começo a sentir cansaço",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Dou um jeito de sair discretamente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Me retiro para um canto mais silencioso e escuro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico até o fim — a matilha precisa de mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Não acontece — minha bateria social é infinita",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Qual desses superpoderes sociais você gostaria de ter?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ficar invisível quando não quero interagir",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Energia infinita para interações sociais",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "A capacidade de socializar exatamente quando e como quiser",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Visão noturna para conversas no escuro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Sentir quando minha matilha precisa de mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Brilhar mais do que qualquer outro em qualquer ambiente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse resumir sua vida social em uma frase, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Menos é mais — qualidade sobre quantidade\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Quanto mais, melhor — a vida é feita de conexões\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Quando eu quero, eu vou. Quando não, não vou. Ponto.\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"O melhor das festas acontece depois que o sol se põe\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Minha matilha é minha família escolhida\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"O palco é meu lugar favorito\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:34:47.713Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🐺 LOBO-GUARÁ — O Solitário Territorial",
+          "texto": "Você é o lobo-guará das relações humanas. Como este animal belo e solitário, você valoriza seu território, sua independência e sua paz acima de tudo. Você não é antissocial — você é seletivo. Sua bateria social é como uma moeda rara: você gasta com cuidado e só com quem realmente importa. Você prefere encontros profundos e significativos a conversas rasas. Sua maior força? Você não precisa da validação dos outros para se sentir inteiro(a). Seu maior desafio? Você pode, sem perceber, se isolar demais — e a solidão, que antes era escolha, pode virar um hábito. Pessoas como você são raras e preciosas. Você é o amigo que está lá quando realmente importa. Só não se esqueça: até o lobo-guará precisa uivar para a lua de vez em quando — e isso significa se conectar com outros lobos. \"Solidão escolhida é liberdade. Solidão imposta é prisão. Você sabe a diferença — mas às vezes a linha é tênue.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🐬 GOLFINHO-NARIZ-DE-GARRAFA — O Sociável Brincalhão",
+          "texto": "Você é a alma das interações sociais. Como o golfinho, você é extremamente sociável, brincalhão e cooperativo. Sua bateria social recarrega no contato com os outros — você se sente vivo(a) quando está rodeado(a) de pessoas, trocando ideias, rindo e criando laços. Sua maior força? Sua capacidade de criar conexões rápidas e genuínas, e sua energia contagiante. Seu maior desafio? Você pode se sobrecarregar tentando agradar todo mundo, ou pode se sentir vazio(a) quando está sozinho(a) por muito tempo. Pessoas como você são o coração de qualquer grupo — mas precisam aprender que também são completos(as) sozinhos(as). Você é luz, alegria e movimento. Só não se esqueça de que o oceano também tem momentos de calma. \"A alegria do encontro te define. Mas a alegria do reencontro consigo mesmo(a) também é uma arte.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🐈 GATO DOMÉSTICO — O Social Sob Demanda",
+          "texto": "Você é o mestre da socialização sob medida. Como o gato doméstico, você é social — mas apenas sob seus próprios termos e condições. Você decide quando, com quem e por quanto tempo vai interagir. Você não tem medo de se retirar no meio de uma festa se a bateria acabar — e não se sente culpado(a) por isso. Sua maior força? Você conhece seus limites e os respeita. Sua maior desafio? Você pode ser visto(a) como \"frio(a)\" ou \"distante\" por quem não entende que seu silêncio não é rejeição — é autocuidado. Pessoas como você são um mistério delicioso: você dá carinho na medida certa, e quem te conhece sabe que sua presença é um presente. Você não é antissocial — você é autossuficiente. \"Você não precisa de muita gente para ser feliz. Você precisa das pessoas certas, no momento certo, e na quantidade certa.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🦇 MORCEGO — O Notívago Social",
+          "texto": "Você é o ser da noite e das conexões profundas. Como o morcego, sua bateria social se ativa quando o sol se põe. Você prefere ambientes noturnos, conversas intimistas e grupos pequenos. Você não é contra socializar — você só prefere o momento e o ambiente certos. Sua maior força? Sua capacidade de criar laços profundos e significativos quando o mundo está quieto. Seu maior desafio? Você pode ser visto(a) como \"estranho(a)\" ou \"recluso(a)\" por quem não entende que seu pico social é diferente. Pessoas como você são as que enxergam o que os outros não veem — e que têm conversas que os outros não têm. Você é o amigo das horas tardias, dos segredos compartilhados e das risadas abafadas. \"O sol se põe e você desperta. Não há nada de errado com isso — o mundo também precisa de quem brilha na escuridão.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🐕 CACHORRO — O Leal Protetor",
+          "texto": "Você é o amigo que todo mundo gostaria de ter. Como o cachorro, você é leal, protetor e sempre está pronto para estar presente. Sua bateria social é abastecida pela conexão com sua \"matilha\" — seus amigos, sua família, seus escolhidos. Você não precisa de multidões — você precisa de pessoas que confiam em você e em quem você confia. Sua maior força? Sua lealdade incondicional e sua capacidade de estar presente nos momentos difíceis. Seu maior desafio? Você pode se doar demais, esquecer de si mesmo(a) e se sentir vazio(a) quando a matilha não está por perto. Pessoas como você são o alicerce de qualquer comunidade. Você é o amigo que fica, o ombro amigo e a presença constante. Só não se esqueça: você também merece ser cuidado(a). \"Sua lealdade é sua maior força. Mas a lealdade a si mesmo(a) também é uma forma de cuidado — e você merece esse cuidado.\""
+        },
+        {
+          "id": "final6",
+          "titulo": "🦚 PAVÃO — O Social Extrovertido",
+          "texto": "Você é a estrela do show! Como o pavão, você adora ser visto(a), admirado(a) e celebrado(a). Sua bateria social é alimentada pela atenção, pelo reconhecimento e pela interação com os outros. Você é carismático(a), brilhante e não tem medo de ocupar espaço. Sua maior força? Sua capacidade de iluminar qualquer ambiente e fazer os outros se sentirem bem. Seu maior desafio? Você pode, sem perceber, se tornar dependente da validação externa — e se sentir vazio(a) quando os holofotes se apagam. Pessoas como você trazem cor e vida para qualquer lugar. Você é a alma da festa, o centro das atenções e o brilho que não passa despercebido. Só não se esqueça: seu brilho vem de dentro — não do reflexo nos olhos dos outros. \"Você nasceu para brilhar. Mas o brilho verdadeiro é aquele que permanece mesmo quando ninguém está olhando.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

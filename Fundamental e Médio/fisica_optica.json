@@ -1,0 +1,1053 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-OPTICA-2026",
+      "title": "Física — Óptica (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Óptica",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A lei da reflexão: ângulo de incidência = ângulo de reflexão (θ_i = θ_r), medidos em relação à normal. Raio incidente a 30° da normal. Ângulo de reflexão:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "30°"
+            },
+            {
+              "id": "A02",
+              "text": "60°"
+            },
+            {
+              "id": "A03",
+              "text": "15°"
+            },
+            {
+              "id": "A04",
+              "text": "90°"
+            },
+            {
+              "id": "A05",
+              "text": "0°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A lei de Snell-Descartes (refração): n₁·senθ₁ = n₂·senθ₂. Raio passa do ar (n₁ = 1) para água (n₂ = 1,33) com θ₁ = 30°. Ângulo de refração θ₂:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~22°"
+            },
+            {
+              "id": "A02",
+              "text": "~45°"
+            },
+            {
+              "id": "A03",
+              "text": "~30°"
+            },
+            {
+              "id": "A04",
+              "text": "~15°"
+            },
+            {
+              "id": "A05",
+              "text": "~60°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "O índice de refração n = c/v (c = velocidade no vácuo, v = velocidade no meio). Para vidro n = 1,5, a velocidade da luz no vidro é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2×10⁸ m/s"
+            },
+            {
+              "id": "A02",
+              "text": "3×10⁸ m/s"
+            },
+            {
+              "id": "A03",
+              "text": "4,5×10⁸ m/s"
+            },
+            {
+              "id": "A04",
+              "text": "1,5×10⁸ m/s"
+            },
+            {
+              "id": "A05",
+              "text": "6×10⁸ m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Reflexão total: ocorre quando n₁ > n₂ e θ₁ > θ_c = arcsin(n₂/n₁). Para vidro (n₁ = 1,5) para ar (n₂ = 1), ângulo crítico θ_c =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~41,8°"
+            },
+            {
+              "id": "A02",
+              "text": "~30°"
+            },
+            {
+              "id": "A03",
+              "text": "~45°"
+            },
+            {
+              "id": "A04",
+              "text": "~60°"
+            },
+            {
+              "id": "A05",
+              "text": "~90°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Espelho plano: imagem virtual, direita, mesmo tamanho, mesma distância atrás do espelho. Objeto a 2 m do espelho. Imagem forma-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2 m atrás do espelho"
+            },
+            {
+              "id": "A02",
+              "text": "1 m atrás do espelho"
+            },
+            {
+              "id": "A03",
+              "text": "4 m atrás do espelho"
+            },
+            {
+              "id": "A04",
+              "text": "Na superfície do espelho"
+            },
+            {
+              "id": "A05",
+              "text": "No objeto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Espelho esférico côncavo: equação de Gauss 1/f = 1/p + 1/p' (f = R/2, p = distância objeto, p' = distância imagem). Objeto a 30 cm de espelho côncavo f = 10 cm. Imagem forma-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "15 cm (real, invertida)"
+            },
+            {
+              "id": "A02",
+              "text": "30 cm (virtual)"
+            },
+            {
+              "id": "A03",
+              "text": "20 cm (real)"
+            },
+            {
+              "id": "A04",
+              "text": "7,5 cm (virtual)"
+            },
+            {
+              "id": "A05",
+              "text": "No infinito"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Aumento linear: A = –p'/p = h'/h. Para p = 20 cm, p' = 10 cm (imagem real), A =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–0,5 (invertida, metade)"
+            },
+            {
+              "id": "A02",
+              "text": "0,5 (direita)"
+            },
+            {
+              "id": "A03",
+              "text": "–2 (invertida, dobro)"
+            },
+            {
+              "id": "A04",
+              "text": "2 (direita, dobro)"
+            },
+            {
+              "id": "A05",
+              "text": "–1 (invertida, mesmo tamanho)"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Lente esférica delgada: 1/f = 1/p + 1/p' (sinais: f > 0 convergente, f < 0 divergente; p > 0 objeto real; p' > 0 imagem real). Lente convergente f = 15 cm, objeto a 30 cm. Imagem forma-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "30 cm (real, invertida, mesmo tamanho)"
+            },
+            {
+              "id": "A02",
+              "text": "15 cm"
+            },
+            {
+              "id": "A03",
+              "text": "10 cm"
+            },
+            {
+              "id": "A04",
+              "text": "60 cm"
+            },
+            {
+              "id": "A05",
+              "text": "7,5 cm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Lente divergente f = –20 cm, objeto a 30 cm. Imagem forma-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–12 cm (virtual, direita, 2/5 do tamanho)"
+            },
+            {
+              "id": "A02",
+              "text": "12 cm (real)"
+            },
+            {
+              "id": "A03",
+              "text": "–60 cm"
+            },
+            {
+              "id": "A04",
+              "text": "60 cm (real)"
+            },
+            {
+              "id": "A05",
+              "text": "–30 cm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Lentes em contato: 1/f_eq = 1/f₁ + 1/f₂. Lente convergente 20 cm + divergente –30 cm. f_eq =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "60 cm (convergente)"
+            },
+            {
+              "id": "A02",
+              "text": "–60 cm (divergente)"
+            },
+            {
+              "id": "A03",
+              "text": "12 cm"
+            },
+            {
+              "id": "A04",
+              "text": "–12 cm"
+            },
+            {
+              "id": "A05",
+              "text": "50 cm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O olho humano: córnea + cristalino ≈ lente convergente f ≈ 1,7 cm (relaxado). Ponto próximo ~25 cm. Potência máxima de acomodação: ΔP = 1/0,25 – 1/∞ = 4 D. Para míope (vê perto, não longe): foco antes da retina. Correção: lente divergente.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Hipermetrope (vê longe, não perto): foco depois da retina. Correção: lente convergente. Presbiopia: perda de acomodação com idade. Astigmatismo: córnea não esférica. Correção: lente cilíndrica.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O microscópio composto: objetiva (f_o curta) forma imagem real, invertida, ampliada. Ocular (f_e) funciona como lupa. Ampliação total M = M_obj·M_oc = (–L/f_o)·(25 cm/f_e) (L = distância tubo ≈ 16 cm). Para f_o = 0,5 cm, f_e = 2,5 cm, M =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–800x"
+            },
+            {
+              "id": "A02",
+              "text": "–400x"
+            },
+            {
+              "id": "A03",
+              "text": "–1600x"
+            },
+            {
+              "id": "A04",
+              "text": "–200x"
+            },
+            {
+              "id": "A05",
+              "text": "–100x"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Telescópio astronômico (refrator): objetiva f_o longa, ocular f_e curta. Ampliação angular M = –f_o/f_e. Para f_o = 100 cm, f_e = 2 cm, M =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–50x"
+            },
+            {
+              "id": "A02",
+              "text": "–200x"
+            },
+            {
+              "id": "A03",
+              "text": "–500x"
+            },
+            {
+              "id": "A04",
+              "text": "–5x"
+            },
+            {
+              "id": "A05",
+              "text": "–5000x"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Resolução angular (Rayleigh): θ_min = 1,22·λ/D (D = diâmetro da abertura). Telescópio D = 10 cm, λ = 500 nm. θ_min =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~6,1×10⁻⁶ rad ≈ 1,26''"
+            },
+            {
+              "id": "A02",
+              "text": "~6,1×10⁻⁵ rad"
+            },
+            {
+              "id": "A03",
+              "text": "~6,1×10⁻⁷ rad"
+            },
+            {
+              "id": "A04",
+              "text": "~6,1×10⁻⁴ rad"
+            },
+            {
+              "id": "A05",
+              "text": "~6,1×10⁻³ rad"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "A interferência em filme fino (bolha de sabão, óleo na água): diferença de caminho óptico Δ = 2nt·cosθ. Para reflexão ar-filme-ar (n_filme > n_ar), inversão de fase na primeira superfície. Construtiva em reflexão: 2nt·cosθ = (m + ½)λ. Para filme de água (n = 1,33, t = 200 nm), luz normal, primeira cor reforçada (m=0):",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~532 nm (verde)"
+            },
+            {
+              "id": "A02",
+              "text": "~1064 nm (IV)"
+            },
+            {
+              "id": "A03",
+              "text": "~266 nm (UV)"
+            },
+            {
+              "id": "A04",
+              "text": "~800 nm (IV próximo)"
+            },
+            {
+              "id": "A05",
+              "text": "~400 nm (violeta)"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Anéis de Newton: lente plano-convexa sobre placa plana. Franjas circulares concêntricas. Raios dos anéis escuros (reflexão): r_m² = m·λ·R (m = 0,1,2...; R = raio de curvatura da lente). Para R = 1 m, λ = 500 nm, raio do 5º anel escuro:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1,58 mm"
+            },
+            {
+              "id": "A02",
+              "text": "~15,8 mm"
+            },
+            {
+              "id": "A03",
+              "text": "~0,158 mm"
+            },
+            {
+              "id": "A04",
+              "text": "~15,8 cm"
+            },
+            {
+              "id": "A05",
+              "text": "~0,0158 mm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A difração em fenda única: a·senθ = mλ (m = ±1,±2...). Para a = 0,1 mm, λ = 600 nm, primeiro mínimo (m=1): θ ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,006 rad ≈ 0,34°"
+            },
+            {
+              "id": "A02",
+              "text": "0,06 rad"
+            },
+            {
+              "id": "A03",
+              "text": "0,0006 rad"
+            },
+            {
+              "id": "A04",
+              "text": "0,6 rad"
+            },
+            {
+              "id": "A05",
+              "text": "6 rad"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Rede de difração: d·senθ = mλ (m = 0,±1,±2...). Para d = 2 µm, λ = 500 nm, primeira ordem (m=1): θ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~14,5°"
+            },
+            {
+              "id": "A02",
+              "text": "~30°"
+            },
+            {
+              "id": "A03",
+              "text": "~14,5°"
+            },
+            {
+              "id": "A04",
+              "text": "~1,45°"
+            },
+            {
+              "id": "A05",
+              "text": "~145°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A polarização: luz natural (não polarizada). Polarizador linear: transmite componente paralela ao eixo (Lei de Malus: I = I₀·cos²θ). Luz não polarizada I₀ atravessa polarizador a 0° e depois analisador a 60°. Intensidade final:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "I₀/8"
+            },
+            {
+              "id": "A02",
+              "text": "I₀/4"
+            },
+            {
+              "id": "A03",
+              "text": "I₀/2"
+            },
+            {
+              "id": "A04",
+              "text": "I₀/16"
+            },
+            {
+              "id": "A05",
+              "text": "0"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A polarização por reflexão (ângulo de Brewster): tanθ_B = n₂/n₁. Luz incidente em ângulo de Brewster: reflexão perfeitamente polarizada paralela à interface. Para ar (n=1) para vidro (n=1,5), θ_B =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~56,3°"
+            },
+            {
+              "id": "A02",
+              "text": "~33,7°"
+            },
+            {
+              "id": "A03",
+              "text": "~45°"
+            },
+            {
+              "id": "A04",
+              "text": "~60°"
+            },
+            {
+              "id": "A05",
+              "text": "~30°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A birrefringência (dupla refração): cristal anisotrópico (calcita, quartzo). Dois índices n_o (ordinário) e n_e (extraordinário). Placa de meia onda (λ/2): rotação do plano de polarização em 2θ. Placa de quarto de onda (λ/4): luz linear → circular (se θ = 45°).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "A interferometria: Michelson (divisão de amplitude), Fabry-Pérot (múltiplas reflexões). Michelson: Δ = 2d (d = deslocamento espelho). Fringes circulares. Deslocamento Δx = λ/2 → desloca 1 franja.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A holografia: registra amplitude E fase (interferência objeto-referência). Reconstrução: ilumina com onda de referência → reconstrói onda objeto (imagem 3D). Holograma registra padrão de interferência (franjas).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A fibra óptica: núcleo (n₁) e casca (n₂ < n₁). Propagação por reflexão total interna. Abertura numérica NA = senθ_a = √(n₁² – n₂²). Modos de propagação: monomodo (V < 2,405) ou multimodo. Parâmetro V = (2πa/λ)·NA.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A dispersão em fibra óptica: cromática (D), modal, polarização (PMD). Pulso alarga. Para fibra monomodo a 1550 nm: D ≈ 17 ps/nm·km. Pulso 10 ps, Δλ = 1 nm, 100 km → largura ≈ 1700 ps. Compensação: fibra com D negativo (DCF), Bragg grating.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A óptica não-linear: P = ε₀(χ⁽¹⁾E + χ⁽²⁾E² + χ⁽³⁾E³...). SHG (segunda harmônica): 2ω → ω. Requer χ⁽²⁾ ≠ 0 (meio não centrossimétrico). Cristal: KDP, BBO, LiNbO₃. Condição de fase: n(2ω) = n(ω).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A auto-focalização (Kerr): n = n₀ + n₂·I. Potência crítica P_cr ≈ 3,77λ²/(8πn₀n₂). Para ar (n₂ ≈ 3×10⁻²³ m²/W, λ = 800 nm), P_cr ≈ 3 GW. Filamentação: múltiplos filamentos, geração de supercontinuidade.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A geração de supercontinuidade em fibra: pulso femtossegundo, alta potência, fibra fotônica. Processos: SPM (auto-modulação de fase), dispersão, Raman, FWM (four-wave mixing). Espectro alargado de ~400 nm a > 2000 nm.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A óptica quântica: estados comprimidos (squeezed) reduzem ruído em um quadrante abaixo do vácuo. Parâmetro de compressão r: variância reduzida por e^(–2r). Para r = 1, redução = e⁻² ≈ 0,135.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "text": "A cavidade óptica (Fabry-Pérot): duas superfícies paralelas R. Transmissão máxima quando 2nd·cosθ = mλ. Finura F = π√R/(1–R). Para R = 0,99, F ≈ 313. Livres alcance espectral FSR = c/(2nd).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 32,
+          "originalNumber": "32",
+          "label": "Questão 32",
+          "text": "A óptica de raios X: índice n = 1 – δ + iβ (δ ~ 10⁻⁵ a 10⁻⁶). Ângulo crítico de reflexão total θ_c ≈ √(2δ). Para δ = 10⁻⁵, θ_c ≈ 0,0045 rad ≈ 0,26°. Óptica de raios X usa incidência rasante.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 33,
+          "originalNumber": "33",
+          "label": "Questão 33",
+          "text": "A óptica de átomos frios: lentes magnéticas/ópticas para átomos. Espelhamento atômico em evanescente (evanescent wave mirror). Lente gravitacional atômica. Interferometria atômica (sensor de rotação, gravímetro). Sensibilidade Δg/g ~ 10⁻⁹.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 34,
+          "originalNumber": "34",
+          "label": "Questão 34",
+          "text": "A microscopia de super-resolução (STED, PALM, STORM): supera limite de difração (Abbe λ/2NA). STED: depleção por feixe donut (STED beam) satura emissão estimulada. Resolução ~ λ/(2NA·√(1+I/I_sat)). Resolução ~ 20-50 nm.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        },
+        {
+          "id": 35,
+          "originalNumber": "35",
+          "label": "Questão 35",
+          "text": "A óptica de femtossegundos: pulsos ultracurtos (τ < 100 fs). Largura espectral Δν·Δt ≥ 0,44. Pulso 10 fs → Δλ ~ 100 nm (centrado 800 nm). Medição: autocorrelacionador (SHG, interferométrico). Chirp: variação de frequência instantânea no pulso. Compressão: par de prismas, gratings, SLM.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Óptica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Óptica"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

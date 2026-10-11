@@ -1,0 +1,1105 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-CALORIMETRIA-2026",
+      "title": "Física — Calorimetria (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Calorimetria",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A quantidade de calor sensível: Q = m·c·ΔT. Para aquecer 2 kg de água (c = 4180 J/kg·K) de 20°C a 80°C, o calor necessário é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "501.600 J"
+            },
+            {
+              "id": "A02",
+              "text": "50.160 J"
+            },
+            {
+              "id": "A03",
+              "text": "5.016.000 J"
+            },
+            {
+              "id": "A04",
+              "text": "5.016 J"
+            },
+            {
+              "id": "A05",
+              "text": "50.160.000 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "O calor latente de fusão do gelo: L_f = 334 kJ/kg. O calor para fundir 500 g de gelo a 0°C é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "167.000 J"
+            },
+            {
+              "id": "A02",
+              "text": "16.700 J"
+            },
+            {
+              "id": "A03",
+              "text": "1.670.000 J"
+            },
+            {
+              "id": "A04",
+              "text": "1.670 J"
+            },
+            {
+              "id": "A05",
+              "text": "167.000.000 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "O calor latente de vaporização da água a 100°C: L_v = 2257 kJ/kg. O calor para vaporizar 100 g de água a 100°C é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "225.700 J"
+            },
+            {
+              "id": "A02",
+              "text": "22.570 J"
+            },
+            {
+              "id": "A03",
+              "text": "2.257.000 J"
+            },
+            {
+              "id": "A04",
+              "text": "2.257 J"
+            },
+            {
+              "id": "A05",
+              "text": "22.570.000 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Princípio da calorimetria (sistema isolado): calor cedido = calor absorvido. Um bloco de metal (m = 200 g, c = 0,4 J/g·K) a 100°C é imerso em 100 g de água (c = 4,18 J/g·K) a 20°C. A temperatura final de equilíbrio é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~34,3°C"
+            },
+            {
+              "id": "A02",
+              "text": "~50°C"
+            },
+            {
+              "id": "A03",
+              "text": "~20°C"
+            },
+            {
+              "id": "A04",
+              "text": "~100°C"
+            },
+            {
+              "id": "A05",
+              "text": "~60°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Um bloco de gelo a 0°C (m = 50 g) é adicionado a 200 g de água a 50°C. A temperatura final (todo gelo funde) é: (c_água = 4,18 J/g·K, L_f = 334 J/g)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~28,4°C"
+            },
+            {
+              "id": "A02",
+              "text": "~40°C"
+            },
+            {
+              "id": "A03",
+              "text": "~20°C"
+            },
+            {
+              "id": "A04",
+              "text": "~0°C"
+            },
+            {
+              "id": "A05",
+              "text": "~10°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Vapor d'água a 100°C (m = 10 g) é injetado em 200 g de água a 20°C. A temperatura final (todo vapor condensa) é: (L_v = 2257 J/g, c_água = 4,18 J/g·K)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~43,5°C"
+            },
+            {
+              "id": "A02",
+              "text": "~20°C"
+            },
+            {
+              "id": "A03",
+              "text": "~100°C"
+            },
+            {
+              "id": "A04",
+              "text": "~60°C"
+            },
+            {
+              "id": "A05",
+              "text": "~80°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Um calorímetro de alumínio (m = 100 g, c = 0,9 J/g·K) contém 200 g de água a 20°C. Adiciona-se 50 g de gelo a –10°C (c_gelo = 2,1 J/g·K, L_f = 334 J/g). A temperatura final (todo gelo funde) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~10,2°C"
+            },
+            {
+              "id": "A02",
+              "text": "~0°C"
+            },
+            {
+              "id": "A03",
+              "text": "~20°C"
+            },
+            {
+              "id": "A04",
+              "text": "~5°C"
+            },
+            {
+              "id": "A05",
+              "text": "~15°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Mistura de 100 g de água a 80°C com 200 g de água a 20°C. A temperatura final é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "40°C"
+            },
+            {
+              "id": "A02",
+              "text": "50°C"
+            },
+            {
+              "id": "A03",
+              "text": "60°C"
+            },
+            {
+              "id": "A04",
+              "text": "30°C"
+            },
+            {
+              "id": "A05",
+              "text": "100°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "O calor específico do ferro é c = 0,45 J/g·K. Para elevar a temperatura de uma barra de 500 g de ferro de 25°C a 75°C, o calor necessário é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "11.250 J"
+            },
+            {
+              "id": "A02",
+              "text": "1.125 J"
+            },
+            {
+              "id": "A03",
+              "text": "112.500 J"
+            },
+            {
+              "id": "A04",
+              "text": "112,5 J"
+            },
+            {
+              "id": "A05",
+              "text": "11.250.000 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Um corpo de massa m e calor específico c é aquecido de T₁ a T₂. O calor absorvido é Q = m·c·(T₂ – T₁). Se m = 3 kg, c = 800 J/kg·K, T₁ = 20°C, T₂ = 80°C, Q =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "144.000 J"
+            },
+            {
+              "id": "A02",
+              "text": "14.400 J"
+            },
+            {
+              "id": "A03",
+              "text": "1.440.000 J"
+            },
+            {
+              "id": "A04",
+              "text": "1.440 J"
+            },
+            {
+              "id": "A05",
+              "text": "14.400.000 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Mistura de 200 g de água a 90°C com 300 g de água a 10°C. A temperatura final é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "42°C"
+            },
+            {
+              "id": "A02",
+              "text": "50°C"
+            },
+            {
+              "id": "A03",
+              "text": "40°C"
+            },
+            {
+              "id": "A04",
+              "text": "45°C"
+            },
+            {
+              "id": "A05",
+              "text": "35°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Um bloco de gelo a –20°C (m = 100 g) é aquecido até virar vapor a 120°C. Etapas: aquecer gelo (c_gelo = 2,1 J/g·K), fundir (L_f = 334 J/g), aquecer água (c_água = 4,18 J/g·K), vaporizar (L_v = 2257 J/g), aquecer vapor (c_vapor = 2,0 J/g·K). O calor total é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~304.000 J"
+            },
+            {
+              "id": "A02",
+              "text": "~30.400 J"
+            },
+            {
+              "id": "A03",
+              "text": "~3.040.000 J"
+            },
+            {
+              "id": "A04",
+              "text": "~3.040 J"
+            },
+            {
+              "id": "A05",
+              "text": "~30.400.000 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Um calorímetro contém 150 g de água a 25°C. Adiciona-se um metal (m = 50 g, T = 100°C). A temperatura final é 30°C. O calor específico do metal é: (c_água = 4,18 J/g·K, calorímetro desprezível)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,63 J/g·K"
+            },
+            {
+              "id": "A02",
+              "text": "~4,18 J/g·K"
+            },
+            {
+              "id": "A03",
+              "text": "~0,1 J/g·K"
+            },
+            {
+              "id": "A04",
+              "text": "~1,0 J/g·K"
+            },
+            {
+              "id": "A05",
+              "text": "~2,0 J/g·K"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O calor latente de fusão de uma substância é L_f = 200 J/g. Se 50 g dessa substância sólida a sua temperatura de fusão absorvem 10.000 J, a massa que funde é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "50 g"
+            },
+            {
+              "id": "A02",
+              "text": "25 g"
+            },
+            {
+              "id": "A03",
+              "text": "100 g"
+            },
+            {
+              "id": "A04",
+              "text": "10 g"
+            },
+            {
+              "id": "A05",
+              "text": "5 g"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Um recipiente adiabático contém 200 g de água a 20°C. Adiciona-se 50 g de vapor a 100°C. A temperatura final é: (L_v = 2257 J/g, c_água = 4,18 J/g·K)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~56,5°C"
+            },
+            {
+              "id": "A02",
+              "text": "~100°C"
+            },
+            {
+              "id": "A03",
+              "text": "~20°C"
+            },
+            {
+              "id": "A04",
+              "text": "~80°C"
+            },
+            {
+              "id": "A05",
+              "text": "~40°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Uma chaleira elétrica de 1500 W aquece 1 L de água de 20°C a 100°C. O tempo necessário (desprezando perdas) é: (c_água = 4180 J/kg·K, m = 1 kg)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~223 s (~3,7 min)"
+            },
+            {
+              "id": "A02",
+              "text": "~22 s"
+            },
+            {
+              "id": "A03",
+              "text": "~2230 s"
+            },
+            {
+              "id": "A04",
+              "text": "~22,3 s"
+            },
+            {
+              "id": "A05",
+              "text": "~22300 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Um bloco de cobre (m = 500 g, c = 0,39 J/g·K) a 150°C é colocado em contato com bloco de alumínio (m = 300 g, c = 0,9 J/g·K) a 30°C. Sistema isolado. Temperatura final:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~94,6°C"
+            },
+            {
+              "id": "A02",
+              "text": "~90°C"
+            },
+            {
+              "id": "A03",
+              "text": "~50°C"
+            },
+            {
+              "id": "A04",
+              "text": "~150°C"
+            },
+            {
+              "id": "A05",
+              "text": "~30°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Mistura de 100 g de gelo a 0°C com 200 g de água a 60°C. A temperatura final (todo gelo funde) é: (L_f = 334 J/g, c_água = 4,18 J/g·K)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~22,3°C"
+            },
+            {
+              "id": "A02",
+              "text": "~0°C"
+            },
+            {
+              "id": "A03",
+              "text": "~40°C"
+            },
+            {
+              "id": "A04",
+              "text": "~20°C"
+            },
+            {
+              "id": "A05",
+              "text": "~10°C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "O calor específico de um gás a volume constante (c_v) e a pressão constante (c_p) relacionam-se por c_p – c_v = R (R = 8,31 J/mol·K). Para gás monoatômico ideal, c_v = 3R/2. Se c_v = 12,5 J/mol·K, c_p =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20,8 J/mol·K"
+            },
+            {
+              "id": "A02",
+              "text": "12,5 J/mol·K"
+            },
+            {
+              "id": "A03",
+              "text": "8,3 J/mol·K"
+            },
+            {
+              "id": "A04",
+              "text": "4,2 J/mol·K"
+            },
+            {
+              "id": "A05",
+              "text": "25,0 J/mol·K"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A equação de estado de gás ideal: PV = nRT. A variação de energia interna em processo isotérmico para gás ideal é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ΔU = 0"
+            },
+            {
+              "id": "A02",
+              "text": "ΔU > 0"
+            },
+            {
+              "id": "A03",
+              "text": "ΔU < 0"
+            },
+            {
+              "id": "A04",
+              "text": "ΔU = Q"
+            },
+            {
+              "id": "A05",
+              "text": "ΔU = W"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Em processo adiabático para gás ideal: Q = 0, ΔU = W. Para compressão adiabática de gás monoatômico (γ = 5/3) de V₁ = 10 L a V₂ = 2 L, T₁ = 300 K. A temperatura final T₂ = T₁·(V₁/V₂)^(γ–1) =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~965 K"
+            },
+            {
+              "id": "A02",
+              "text": "~300 K"
+            },
+            {
+              "id": "A03",
+              "text": "~600 K"
+            },
+            {
+              "id": "A04",
+              "text": "~150 K"
+            },
+            {
+              "id": "A05",
+              "text": "~1930 K"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A lei de Dulong-Petit: calor específico molar de sólidos elementares a alta temperatura ≈ 3R ≈ 25 J/mol·K. Para ferro (M = 56 g/mol), o calor específico em J/g·K é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,45 J/g·K"
+            },
+            {
+              "id": "A02",
+              "text": "0,9 J/g·K"
+            },
+            {
+              "id": "A03",
+              "text": "0,22 J/g·K"
+            },
+            {
+              "id": "A04",
+              "text": "0,1 J/g·K"
+            },
+            {
+              "id": "A05",
+              "text": "1,8 J/g·K"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "A capacidade térmica de um calorímetro (C_cal) é determinada por mistura conhecida. Adiciona-se 100 g de água a 80°C a calorímetro com 200 g de água a 20°C. Temperatura final = 45°C. A capacidade térmica do calorímetro (em J/K) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~34,8 J/K"
+            },
+            {
+              "id": "A02",
+              "text": "~348 J/K"
+            },
+            {
+              "id": "A03",
+              "text": "~3,48 J/K"
+            },
+            {
+              "id": "A04",
+              "text": "~3480 J/K"
+            },
+            {
+              "id": "A05",
+              "text": "~0,348 J/K"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A variação de entalpia em reação química: ΔH = Σn·ΔH_f°(produtos) – Σm·ΔH_f°(reagentes). Para CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH_f°(CH₄) = –74,8, ΔH_f°(CO₂) = –393,5, ΔH_f°(H₂O_l) = –285,8 kJ/mol. ΔH =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–890,3 kJ/mol"
+            },
+            {
+              "id": "A02",
+              "text": "–74,8 kJ/mol"
+            },
+            {
+              "id": "A03",
+              "text": "–393,5 kJ/mol"
+            },
+            {
+              "id": "A04",
+              "text": "–285,8 kJ/mol"
+            },
+            {
+              "id": "A05",
+              "text": "+890,3 kJ/mol"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A calorimetria de bomba (volume constante) mede ΔU. A relação ΔH = ΔU + Δn_g·RT. Para combustão de benzeno C₆H₆(l) + ¹⁵/₂O₂(g) → 6CO₂(g) + 3H₂O(l), Δn_g = 6 – 7,5 = –1,5. A 298 K, ΔH – ΔU =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–3,7 kJ/mol"
+            },
+            {
+              "id": "A02",
+              "text": "+3,7 kJ/mol"
+            },
+            {
+              "id": "A03",
+              "text": "0"
+            },
+            {
+              "id": "A04",
+              "text": "–2,5 kJ/mol"
+            },
+            {
+              "id": "A05",
+              "text": "+2,5 kJ/mol"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "O calor específico de sólidos a baixas temperaturas segue a lei de Debye: c_v ∝ T³. Para T → 0, c_v → 0. A entropia S = ∫(c_v/T)dT de 0 a T é finita porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "c_v ∝ T³ faz c_v/T ∝ T², integral converge"
+            },
+            {
+              "id": "A02",
+              "text": "c_v é constante"
+            },
+            {
+              "id": "A03",
+              "text": "c_v ∝ T"
+            },
+            {
+              "id": "A04",
+              "text": "c_v ∝ T²"
+            },
+            {
+              "id": "A05",
+              "text": "c_v diverge"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A equação de Clausius-Clapeyron: dP/dT = P·ΔH_vap/(RT²). Integrando: ln(P₂/P₁) = –ΔH_vap/R·(1/T₂ – 1/T₁). Para água (ΔH_vap = 40,7 kJ/mol), P₁ = 1 atm a T₁ = 373 K. A pressão de vapor a 353 K é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,33 atm"
+            },
+            {
+              "id": "A02",
+              "text": "~1 atm"
+            },
+            {
+              "id": "A03",
+              "text": "~3 atm"
+            },
+            {
+              "id": "A04",
+              "text": "~0,1 atm"
+            },
+            {
+              "id": "A05",
+              "text": "~10 atm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "O ponto triplo da água: T = 273,16 K, P = 611,7 Pa. A inclinação da curva de sublimação (sólido-vapor) no diagrama P-T é dada por Clapeyron: dP/dT = ΔH_sub/(T·ΔV). Como ΔV ≈ V_vapor (sólido desprezível), a inclinação é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Positiva"
+            },
+            {
+              "id": "A02",
+              "text": "Negativa"
+            },
+            {
+              "id": "A03",
+              "text": "Zero"
+            },
+            {
+              "id": "A04",
+              "text": "Infinita"
+            },
+            {
+              "id": "A05",
+              "text": "Nula"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A curva de fusão da água (sólido-líquido) no diagrama P-T tem inclinação NEGATIVA porque: V_líquido < V_sólido (água expande ao congelar). A equação de Clapeyron dP/dT = ΔH_fus/(T·ΔV) com ΔV < 0 resulta em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "dP/dT < 0"
+            },
+            {
+              "id": "A02",
+              "text": "dP/dT > 0"
+            },
+            {
+              "id": "A03",
+              "text": "dP/dT = 0"
+            },
+            {
+              "id": "A04",
+              "text": "dP/dT = ∞"
+            },
+            {
+              "id": "A05",
+              "text": "dP/dT = 1"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "O ciclo de Carnot entre T_quente = 500 K e T_frio = 300 K tem eficiência η = 1 – T_frio/T_quente = 0,4. Se o motor absorve Q_H = 1000 J do reservatório quente, o trabalho realizado é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "400 J"
+            },
+            {
+              "id": "A02",
+              "text": "600 J"
+            },
+            {
+              "id": "A03",
+              "text": "1000 J"
+            },
+            {
+              "id": "A04",
+              "text": "250 J"
+            },
+            {
+              "id": "A05",
+              "text": "166,7 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        },
+        {
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "text": "A entropia S = k_B·lnΩ (Boltzmann). Para sistema com Ω = 10¹⁰ microestados, a entropia (k_B = 1,38×10⁻²³ J/K) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~3,18×10⁻²² J/K"
+            },
+            {
+              "id": "A02",
+              "text": "~3,18×10⁻²¹ J/K"
+            },
+            {
+              "id": "A03",
+              "text": "~3,18×10⁻²³ J/K"
+            },
+            {
+              "id": "A04",
+              "text": "~3,18×10⁻²⁰ J/K"
+            },
+            {
+              "id": "A05",
+              "text": "~3,18×10⁻¹⁹ J/K"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Calorimetria",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Calorimetria"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

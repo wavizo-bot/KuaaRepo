@@ -1,0 +1,951 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-15T03:05:08.634Z",
+  "exams": [
+    {
+      "id": "PD20260914H232020",
+      "title": "Nutrição - HIgiene, microbiologia e controle de qualidade dos alimentos",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "DeepSeek",
+      "booklet": "Origem: manual",
+      "role": "Tecnólogo nutricional",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Qual grupo de microrganismos é o principal responsável por infecções e intoxicações alimentares?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Vírus"
+            },
+            {
+              "id": "A02",
+              "text": "Bactérias"
+            },
+            {
+              "id": "A03",
+              "text": "Fungos"
+            },
+            {
+              "id": "A04",
+              "text": "Protozoários"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A higienização correta das mãos na manipulação de alimentos deve ser feita:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas com água"
+            },
+            {
+              "id": "A02",
+              "text": "Com água e sabão, por no mínimo 20 segundos"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas com álcool em gel"
+            },
+            {
+              "id": "A04",
+              "text": "Com água e vinagre"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "O sistema APPCC (Análise de Perigos e Pontos Críticos de Controle) tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas analisar o produto final"
+            },
+            {
+              "id": "A02",
+              "text": "Prevenir perigos à segurança dos alimentos"
+            },
+            {
+              "id": "A03",
+              "text": "Reduzir custos de produção"
+            },
+            {
+              "id": "A04",
+              "text": "Aumentar a validade dos alimentos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A deterioração microbiana dos alimentos é favorecida por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Refrigeração"
+            },
+            {
+              "id": "A02",
+              "text": "Temperatura inadequada e umidade"
+            },
+            {
+              "id": "A03",
+              "text": "Embalagem a vácuo"
+            },
+            {
+              "id": "A04",
+              "text": "Baixa atividade de água"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Alimentos perecíveis devem ser armazenados em refrigeração na faixa de temperatura de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10 a 15 °C"
+            },
+            {
+              "id": "A02",
+              "text": "0 a 5 °C"
+            },
+            {
+              "id": "A03",
+              "text": "-18 °C ou menos"
+            },
+            {
+              "id": "A04",
+              "text": "20 a 25 °C"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A análise sensorial de alimentos é utilizada para avaliar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas a composição química"
+            },
+            {
+              "id": "A02",
+              "text": "Atributos como sabor, aroma e textura"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas a carga microbiana"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas o valor nutricional"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A salmonelose é uma infecção alimentar causada por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Staphylococcus aureus"
+            },
+            {
+              "id": "A02",
+              "text": "Salmonella"
+            },
+            {
+              "id": "A03",
+              "text": "Clostridium botulinum"
+            },
+            {
+              "id": "A04",
+              "text": "Bacillus cereus"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "A intoxicação alimentar causada por Staphylococcus aureus está relacionada principalmente a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Alimentos enlatados"
+            },
+            {
+              "id": "A02",
+              "text": "Manipulação inadequada de alimentos"
+            },
+            {
+              "id": "A03",
+              "text": "Alimentos crus"
+            },
+            {
+              "id": "A04",
+              "text": "Água contaminada"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A primeira etapa para implementação do APPCC é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Estabelecer limites críticos"
+            },
+            {
+              "id": "A02",
+              "text": "Identificar os perigos"
+            },
+            {
+              "id": "A03",
+              "text": "Monitorar os PCCs"
+            },
+            {
+              "id": "A04",
+              "text": "Registrar os dados"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Qual agente é comumente utilizado na sanitização de superfícies em serviços de alimentação?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Vinagre"
+            },
+            {
+              "id": "A02",
+              "text": "Hipoclorito de sódio"
+            },
+            {
+              "id": "A03",
+              "text": "Sabão em pó"
+            },
+            {
+              "id": "A04",
+              "text": "Detergente neutro"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A atividade de água (Aw) é um fator intrínseco que influencia o crescimento microbiano. Qual valor de Aw é geralmente mínimo para a maioria das bactérias?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,60"
+            },
+            {
+              "id": "A02",
+              "text": "0,91"
+            },
+            {
+              "id": "A03",
+              "text": "0,75"
+            },
+            {
+              "id": "A04",
+              "text": "0,50"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A contagem de coliformes totais em alimentos é utilizada como indicador de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Contaminação fecal"
+            },
+            {
+              "id": "A02",
+              "text": "Condições higiênicas insatisfatórias"
+            },
+            {
+              "id": "A03",
+              "text": "Presença de vírus"
+            },
+            {
+              "id": "A04",
+              "text": "Deterioração por fungos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A prevenção do botulismo em alimentos enlatados está relacionada principalmente com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Refrigeração"
+            },
+            {
+              "id": "A02",
+              "text": "Esterilização adequada e pH ácido"
+            },
+            {
+              "id": "A03",
+              "text": "Adição de açúcar"
+            },
+            {
+              "id": "A04",
+              "text": "Desidratação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A contaminação cruzada em serviços de alimentação pode ser evitada com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Uso da mesma tábua para carnes e vegetais"
+            },
+            {
+              "id": "A02",
+              "text": "Separação de alimentos crus e cozidos"
+            },
+            {
+              "id": "A03",
+              "text": "Armazenamento conjunto"
+            },
+            {
+              "id": "A04",
+              "text": "Reutilização de embalagens"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "As Boas Práticas de Fabricação (BPF) são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Normas de rotulagem"
+            },
+            {
+              "id": "A02",
+              "text": "Procedimentos que garantem qualidade e segurança"
+            },
+            {
+              "id": "A03",
+              "text": "Métodos de análise sensorial"
+            },
+            {
+              "id": "A04",
+              "text": "Técnicas de embalagem"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "As micotoxinas são substâncias tóxicas produzidas por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Bactérias"
+            },
+            {
+              "id": "A02",
+              "text": "Fungos"
+            },
+            {
+              "id": "A03",
+              "text": "Vírus"
+            },
+            {
+              "id": "A04",
+              "text": "Protozoários"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A fase de crescimento microbiano em que as células se adaptam ao novo ambiente é chamada de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Fase log"
+            },
+            {
+              "id": "A02",
+              "text": "Fase lag"
+            },
+            {
+              "id": "A03",
+              "text": "Fase estacionária"
+            },
+            {
+              "id": "A04",
+              "text": "Fase de morte"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Um ponto crítico de controle (PCC) é definido como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Qualquer etapa do processo"
+            },
+            {
+              "id": "A02",
+              "text": "Etapa onde um perigo pode ser controlado"
+            },
+            {
+              "id": "A03",
+              "text": "Análise do produto final"
+            },
+            {
+              "id": "A04",
+              "text": "Registro de temperatura"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "O norovírus é uma causa comum de surtos alimentares, transmitido principalmente por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Alimentos enlatados"
+            },
+            {
+              "id": "A02",
+              "text": "Manipuladores infectados e água contaminada"
+            },
+            {
+              "id": "A03",
+              "text": "Carnes mal passadas"
+            },
+            {
+              "id": "A04",
+              "text": "Frutas secas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Os perigos à segurança dos alimentos podem ser classificados em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas biológicos"
+            },
+            {
+              "id": "A02",
+              "text": "Biológicos, químicos e físicos"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas químicos"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas físicos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A Escherichia coli O157:H7 é conhecida por causar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Intoxicação alimentar leve"
+            },
+            {
+              "id": "A02",
+              "text": "Colite hemorrágica e síndrome hemolítico-urêmica"
+            },
+            {
+              "id": "A03",
+              "text": "Botulismo"
+            },
+            {
+              "id": "A04",
+              "text": "Salmonelose"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A água utilizada em serviços de alimentação deve atender a padrões de potabilidade. Qual parâmetro microbiológico é exigido?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Presença de coliformes totais"
+            },
+            {
+              "id": "A02",
+              "text": "Ausência de coliformes termotolerantes"
+            },
+            {
+              "id": "A03",
+              "text": "Presença de E. coli"
+            },
+            {
+              "id": "A04",
+              "text": "Ausência de todas as bactérias"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "A rastreabilidade na cadeia alimentar permite:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas reduzir custos"
+            },
+            {
+              "id": "A02",
+              "text": "Identificar origem e percurso do alimento"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar a validade"
+            },
+            {
+              "id": "A04",
+              "text": "Melhorar o sabor"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Bacillus cereus pode causar dois tipos de intoxicação alimentar: emética e diarreica. A forma emética está associada a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Arroz cozido e reaquecido"
+            },
+            {
+              "id": "A02",
+              "text": "Carnes cruas"
+            },
+            {
+              "id": "A03",
+              "text": "Ovos"
+            },
+            {
+              "id": "A04",
+              "text": "Leite pasteurizado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A auditoria em serviços de alimentação tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas punir erros"
+            },
+            {
+              "id": "A02",
+              "text": "Verificar conformidade e promover melhoria"
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar a produção"
+            },
+            {
+              "id": "A04",
+              "text": "Reduzir custos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Listeria monocytogenes é uma bactéria que se destaca por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Não crescer em refrigeração"
+            },
+            {
+              "id": "A02",
+              "text": "Crescer em temperaturas de refrigeração"
+            },
+            {
+              "id": "A03",
+              "text": "Ser inativada por refrigeração"
+            },
+            {
+              "id": "A04",
+              "text": "Não causar doença em humanos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O controle integrado de pragas em serviços de alimentação inclui:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Uso indiscriminado de pesticidas"
+            },
+            {
+              "id": "A02",
+              "text": "Medidas preventivas e monitoramento"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas dedetização anual"
+            },
+            {
+              "id": "A04",
+              "text": "Armazenamento de alimentos abertos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A validação de um processo de controle de qualidade significa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas verificar o produto final"
+            },
+            {
+              "id": "A02",
+              "text": "Comprovar que o processo atinge os resultados esperados"
+            },
+            {
+              "id": "A03",
+              "text": "Calibrar equipamentos"
+            },
+            {
+              "id": "A04",
+              "text": "Treinar funcionários"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A cólera é transmitida principalmente por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ar"
+            },
+            {
+              "id": "A02",
+              "text": "Água e alimentos contaminados"
+            },
+            {
+              "id": "A03",
+              "text": "Contato direto com animais"
+            },
+            {
+              "id": "A04",
+              "text": "Picadas de insetos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A RDC 216/2004 da ANVISA estabelece:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Normas de rotulagem"
+            },
+            {
+              "id": "A02",
+              "text": "Boas Práticas para Serviços de Alimentação"
+            },
+            {
+              "id": "A03",
+              "text": "Padrões de identidade e qualidade"
+            },
+            {
+              "id": "A04",
+              "text": "Regras de importação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Nutrição > Higiene, microbiologia e controle de qualidade dos alimentos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Higiene, microbiologia e controle de qualidade dos alimentos"
+        }
+      ],
+      "updatedAt": "2026-10-01T01:02:54.461Z",
+      "kind": "prova"
+    }
+  ]
+}

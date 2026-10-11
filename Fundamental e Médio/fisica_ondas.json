@@ -1,0 +1,1138 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-ONDAS-2026",
+      "title": "Física — Ondas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Ondas",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Uma onda é uma perturbação que se propaga no espaço e no tempo, transportando energia. Ondas mecânicas requerem meio de propagação; ondas eletromagnéticas propagam-se no vácuo. Qual das seguintes NÃO é uma onda mecânica?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Luz visível"
+            },
+            {
+              "id": "A02",
+              "text": "Som no ar"
+            },
+            {
+              "id": "A03",
+              "text": "Ondas na água"
+            },
+            {
+              "id": "A04",
+              "text": "Ondas sísmicas"
+            },
+            {
+              "id": "A05",
+              "text": "Ondas em corda vibrante"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Classificação quanto à direção de vibração relativa à propagação: Transversal (perpendicular) e Longitudinal (paralela). Ondas eletromagnéticas são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Transversais"
+            },
+            {
+              "id": "A02",
+              "text": "Longitudinais"
+            },
+            {
+              "id": "A03",
+              "text": "Ambas"
+            },
+            {
+              "id": "A04",
+              "text": "Nem uma nem outra"
+            },
+            {
+              "id": "A05",
+              "text": "Depende da frequência"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Ondas sonoras no ar são ondas longitudinais. A velocidade do som no ar a 20°C é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "340 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "3400 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "34 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "1500 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "34000 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A velocidade de uma onda em corda esticada: v = √(T/μ) (T = tensão, μ = densidade linear). Se a tensão quadruplica, a velocidade:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Dobra"
+            },
+            {
+              "id": "A02",
+              "text": "Quadruplica"
+            },
+            {
+              "id": "A03",
+              "text": "Metade"
+            },
+            {
+              "id": "A04",
+              "text": "Permanece igual"
+            },
+            {
+              "id": "A05",
+              "text": "Quadruplica"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A relação fundamental das ondas: v = λ·f (v = velocidade, λ = comprimento de onda, f = frequência). Uma onda de frequência 500 Hz propaga-se a 300 m/s. Seu comprimento de onda é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,6 m"
+            },
+            {
+              "id": "A02",
+              "text": "6 m"
+            },
+            {
+              "id": "A03",
+              "text": "0,06 m"
+            },
+            {
+              "id": "A04",
+              "text": "60 m"
+            },
+            {
+              "id": "A05",
+              "text": "1,2 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "O período T é o inverso da frequência: T = 1/f. Uma onda de frequência 100 Hz tem período:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,01 s"
+            },
+            {
+              "id": "A02",
+              "text": "1 s"
+            },
+            {
+              "id": "A03",
+              "text": "10 s"
+            },
+            {
+              "id": "A04",
+              "text": "0,1 s"
+            },
+            {
+              "id": "A05",
+              "text": "100 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "O número de onda k = 2π/λ. A frequência angular ω = 2πf. A velocidade de fase v_f = ω/k = λf. Para onda com λ = 2 m e f = 100 Hz, ω =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "200π rad/s"
+            },
+            {
+              "id": "A02",
+              "text": "100π rad/s"
+            },
+            {
+              "id": "A03",
+              "text": "400π rad/s"
+            },
+            {
+              "id": "A04",
+              "text": "50π rad/s"
+            },
+            {
+              "id": "A05",
+              "text": "25π rad/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "A intensidade de uma onda (potência por unidade de área) é proporcional ao quadrado da amplitude: I ∝ A². Se a amplitude dobra, a intensidade:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Quadruplica"
+            },
+            {
+              "id": "A02",
+              "text": "Dobra"
+            },
+            {
+              "id": "A03",
+              "text": "Metade"
+            },
+            {
+              "id": "A04",
+              "text": "Permanece igual"
+            },
+            {
+              "id": "A05",
+              "text": "Quadruplica (reduz a 1/4)"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "O princípio da superposição: a resultante de duas ondas é a soma vetorial das amplitudes. Interferência construtiva: amplitude soma. Interferência destrutiva: amplitude subtrai. Duas ondas idênticas em oposição de fase (Δφ = π) resultam em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Amplitude zero"
+            },
+            {
+              "id": "A02",
+              "text": "Amplitude dobrada"
+            },
+            {
+              "id": "A03",
+              "text": "Amplitude igual"
+            },
+            {
+              "id": "A04",
+              "text": "Frequência zero"
+            },
+            {
+              "id": "A05",
+              "text": "Velocidade zero"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Ondas estacionárias: resultante de duas ondas iguais em sentidos opostos. Nós: amplitude zero. Ventres: amplitude máxima. Distância entre dois nós consecutivos:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "λ/2"
+            },
+            {
+              "id": "A02",
+              "text": "λ"
+            },
+            {
+              "id": "A03",
+              "text": "λ/4"
+            },
+            {
+              "id": "A04",
+              "text": "2λ"
+            },
+            {
+              "id": "A05",
+              "text": "λ/8"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Corda fixa nas extremidades (L = 2 m). Frequência fundamental (n=1): f₁ = v/(2L). Para v = 100 m/s, f₁ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "25 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "50 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "100 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "200 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "12,5 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A reflexão de onda em extremidade fixa inverte a fase (π). Em extremidade livre, não há inversão. Uma onda triangular incidente em extremidade fixa reflete:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Invertida (ponta para baixo)"
+            },
+            {
+              "id": "A02",
+              "text": "Igual (ponta para cima)"
+            },
+            {
+              "id": "A03",
+              "text": "Meia amplitude"
+            },
+            {
+              "id": "A04",
+              "text": "Dupla amplitude"
+            },
+            {
+              "id": "A05",
+              "text": "Sem reflexão"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A refração: mudança de direção ao passar entre meios com velocidades diferentes. Lei de Snell: n₁·senθ₁ = n₂·senθ₂ (n = c/v). Ondas vão de meio rápido para lento:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aproximam-se da normal"
+            },
+            {
+              "id": "A02",
+              "text": "Afastam-se da normal"
+            },
+            {
+              "id": "A03",
+              "text": "Não desviam"
+            },
+            {
+              "id": "A04",
+              "text": "Refletem totalmente"
+            },
+            {
+              "id": "A05",
+              "text": "Param"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Reflexão total: ocorre quando onda passa de meio mais refringente (n₁ > n₂) para menos refringente, com ângulo de incidência > ângulo crítico θ_c = arcsin(n₂/n₁). Para n₁ = 1,5, n₂ = 1,0, θ_c =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "41,8°"
+            },
+            {
+              "id": "A02",
+              "text": "30°"
+            },
+            {
+              "id": "A03",
+              "text": "45°"
+            },
+            {
+              "id": "A04",
+              "text": "60°"
+            },
+            {
+              "id": "A05",
+              "text": "90°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "A difração: desvio da onda ao contornar obstáculos ou passar por aberturas. Significativa quando tamanho do obstáculo/abertura ≲ λ. Som (λ ~ metros) difrata facilmente por portas; luz (λ ~ 500 nm) não.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Difração em fenda única: largura a. Mínimos de intensidade: a·senθ = mλ (m = ±1, ±2...). Para a = 0,2 mm, λ = 500 nm, o primeiro mínimo (m=1) está em θ ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,0025 rad ≈ 0,14°"
+            },
+            {
+              "id": "A02",
+              "text": "0,025 rad"
+            },
+            {
+              "id": "A03",
+              "text": "0,00025 rad"
+            },
+            {
+              "id": "A04",
+              "text": "0,25 rad"
+            },
+            {
+              "id": "A05",
+              "text": "2,5 rad"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Rede de difração (múltiplas fendas): máximos principais em d·senθ = mλ (d = espaçamento). Para d = 2 μm, λ = 500 nm, primeira ordem (m=1): θ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~14,5°"
+            },
+            {
+              "id": "A02",
+              "text": "~30°"
+            },
+            {
+              "id": "A03",
+              "text": "~14,5°"
+            },
+            {
+              "id": "A04",
+              "text": "~1,45°"
+            },
+            {
+              "id": "A05",
+              "text": "~145°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A polarização: restrição da direção de vibração das ondas transversais. Luz natural: não polarizada. Polarizador linear transmite componente paralela ao seu eixo (Lei de Malus: I = I₀·cos²θ). Luz polarizada I₀ atinge polarizador com eixo a 60°. Intensidade transmitida:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "I₀/4"
+            },
+            {
+              "id": "A02",
+              "text": "I₀/2"
+            },
+            {
+              "id": "A03",
+              "text": "I₀"
+            },
+            {
+              "id": "A04",
+              "text": "I₀/8"
+            },
+            {
+              "id": "A05",
+              "text": "0"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Luz não polarizada I₀ atravessa dois polarizadores paralelos. Intensidade transmitida:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "I₀/2"
+            },
+            {
+              "id": "A02",
+              "text": "I₀"
+            },
+            {
+              "id": "A03",
+              "text": "I₀/4"
+            },
+            {
+              "id": "A04",
+              "text": "0"
+            },
+            {
+              "id": "A05",
+              "text": "I₀/√2"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Luz não polarizada atravessa três polarizadores: primeiro a 0°, segundo a 45°, terceiro a 90°. Intensidade final:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "I₀/8"
+            },
+            {
+              "id": "A02",
+              "text": "I₀/4"
+            },
+            {
+              "id": "A03",
+              "text": "I₀/2"
+            },
+            {
+              "id": "A04",
+              "text": "0"
+            },
+            {
+              "id": "A05",
+              "text": "I₀"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A polarização por reflexão (ângulo de Brewster): luz refletida fica polarizada paralela à interface. Ângulo de Brewster θ_B: tanθ_B = n₂/n₁. Para ar (n₁=1) para vidro (n₂=1,5), θ_B =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~56,3°"
+            },
+            {
+              "id": "A02",
+              "text": "~33,7°"
+            },
+            {
+              "id": "A03",
+              "text": "~45°"
+            },
+            {
+              "id": "A04",
+              "text": "~30°"
+            },
+            {
+              "id": "A05",
+              "text": "~60°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A bicromatismo: materiais birrefringentes (dois índices de refração). Placa de meia onda (λ/2): rotação do plano de polarização em 2θ. Placa de quarto de onda (λ/4): luz linear → circular (se incidência a 45°).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O experimento de Young (dupla fenda): franjas claras e escuras na tela. Espaçamento entre franjas Δy = λ·D/d. Para λ = 500 nm, D = 1 m, d = 0,2 mm, Δy =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2,5 mm"
+            },
+            {
+              "id": "A02",
+              "text": "0,25 mm"
+            },
+            {
+              "id": "A03",
+              "text": "25 mm"
+            },
+            {
+              "id": "A04",
+              "text": "0,025 mm"
+            },
+            {
+              "id": "A05",
+              "text": "250 mm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A coerência: capacidade de formar franjas de interferência. Coerência temporal (monocromaticidade): Δν·Δt ≥ 1. Coerência espacial (tamanho da fonte). Laser: alta coerência temporal e espacial.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A difração de raios X por cristal (Lei de Bragg): 2d·senθ = nλ. Para cristal com d = 0,3 nm, raios X λ = 0,15 nm, primeira ordem (n=1): θ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~30°"
+            },
+            {
+              "id": "A02",
+              "text": "~14,5°"
+            },
+            {
+              "id": "A03",
+              "text": "~60°"
+            },
+            {
+              "id": "A04",
+              "text": "~30°"
+            },
+            {
+              "id": "A05",
+              "text": "~90°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A holografia: registro de amplitude e fase da onda objeto por interferência com onda de referência. Reconstrução: ilumina-se o holograma com onda de referência, reconstruindo onda objeto. Holograma registra:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Amplitude e fase (informação 3D)"
+            },
+            {
+              "id": "A02",
+              "text": "Apenas intensidade"
+            },
+            {
+              "id": "A03",
+              "text": "Apenas amplitude"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas fase"
+            },
+            {
+              "id": "A05",
+              "text": "Nada"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O interferômetro de Michelson: divisão de amplitude. Se o espelho móvel desloca Δx = λ/2, o número de franjas que passam pelo centro é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1"
+            },
+            {
+              "id": "A02",
+              "text": "0,5"
+            },
+            {
+              "id": "A03",
+              "text": "2"
+            },
+            {
+              "id": "A04",
+              "text": "0,25"
+            },
+            {
+              "id": "A05",
+              "text": "4"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "O interferômetro de Fabry-Pérot: duas superfícies paralelas parcialmente refletivas. Transmissão máxima quando 2nd·cosθ = mλ. Finura F = π√R/(1–R) (R = refletividade). Para R = 0,9, F ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~30"
+            },
+            {
+              "id": "A02",
+              "text": "~3"
+            },
+            {
+              "id": "A03",
+              "text": "~300"
+            },
+            {
+              "id": "A04",
+              "text": "~0,3"
+            },
+            {
+              "id": "A05",
+              "text": "~3000"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "O laser (Light Amplification by Stimulated Emission of Radiation): emissão estimulada, população invertida, cavidade ressonante. Três características principais: monocromaticidade, coerência, direcionalidade.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A fibra óptica: guia de onda dielétrico. Núcleo (n₁) e casca (n₂ < n₁). Propagação por reflexão total interna. Ângulo de aceitação θ_a: NA = senθ_a = √(n₁² – n₂²). Para n₁ = 1,5, n₂ = 1,48, NA =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,24"
+            },
+            {
+              "id": "A02",
+              "text": "~0,02"
+            },
+            {
+              "id": "A03",
+              "text": "~2,4"
+            },
+            {
+              "id": "A04",
+              "text": "~0,002"
+            },
+            {
+              "id": "A05",
+              "text": "~24"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "text": "A dispersão em fibra óptica: diferentes comprimentos de onda viajam a velocidades diferentes (dispersão cromática). Pulso alarga. Parâmetro de dispersão D (ps/nm·km). Para D = 17 ps/nm·km, pulso 10 ps, Δλ = 1 nm, após 100 km, largura ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1700 ps"
+            },
+            {
+              "id": "A02",
+              "text": "~17 ps"
+            },
+            {
+              "id": "A03",
+              "text": "~170 ps"
+            },
+            {
+              "id": "A04",
+              "text": "~17 ps"
+            },
+            {
+              "id": "A05",
+              "text": "~17000 ps"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 32,
+          "originalNumber": "32",
+          "label": "Questão 32",
+          "text": "A óptica não-linear: polarização P = ε₀(χ⁽¹⁾E + χ⁽²⁾E² + χ⁽³⁾E³...). Geração de segunda harmônica (SHG): ω + ω → 2ω. Requer meio não-centrossimétrico (χ⁽²⁾ ≠ 0). Cristal comum: KDP, BBO, LiNbO₃.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 33,
+          "originalNumber": "33",
+          "label": "Questão 33",
+          "text": "A auto-focalização (efeito Kerr): n = n₀ + n₂·I. Feixe de alta potência cria lente positiva induzida. Potência crítica para auto-focalização em ar (n₂ ≈ 3×10⁻²³ m²/W, λ = 800 nm): P_cr ≈ 3,77λ²/(8πn₀n₂) ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3 GW"
+            },
+            {
+              "id": "A02",
+              "text": "3 MW"
+            },
+            {
+              "id": "A03",
+              "text": "300 GW"
+            },
+            {
+              "id": "A04",
+              "text": "3 kW"
+            },
+            {
+              "id": "A05",
+              "text": "3 TW"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        },
+        {
+          "id": 34,
+          "originalNumber": "34",
+          "label": "Questão 34",
+          "text": "A solitão óptica: pulso que mantém forma em fibra devido ao equilíbrio entre dispersão anômala (β₂ < 0) e não-linearidade de Kerr (SPM). Equação de Schrödinger não-linear: i∂u/∂z – ½β₂∂²u/∂t² + γ|u|²u = 0. Solitão fundamental: N = 1. Para pulso sech², energia E = 2|β₂|/(γ·T₀).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Ondas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Ondas"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

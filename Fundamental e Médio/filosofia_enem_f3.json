@@ -1,0 +1,4661 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-10-01T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FILOSOFIA-ENEM-D01",
+      "title": "Filosofia — Afetividade como condição estruturante de ações e projetos (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Afetividade como condição estruturante de ações e projetos",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A psicologia moral contemporânea (Haidt) sustenta que julgamentos morais nascem de intuições afetivas e a razão apenas os justifica depois. Se isso vale também para projetos de vida, a deliberação racional sobre o futuro",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é inútil, pois intuições nunca se educam"
+            },
+            {
+              "id": "A02",
+              "text": "elimina os afetos do processo decisório"
+            },
+            {
+              "id": "A03",
+              "text": "prova a inexistência de qualquer moralidade"
+            },
+            {
+              "id": "A04",
+              "text": "opera sobre fins já dados afetivamente, articulando-os"
+            },
+            {
+              "id": "A05",
+              "text": "equivale a cálculo frio de custos e lucros"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Afetividade como condição estruturante de ações e projetos",
+          "assunto": "Afetividade como condição estruturante de ações e projetos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Nietzsche via nos valores morais a expressão de modos de vida: a moral dos senhores afirma a expansão, a dos escravos ressente-se e inverte valores. Nesse quadro, um projeto de vida orientado pelo ressentimento se reconhece por",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "criar valores próprios a partir da abundância"
+            },
+            {
+              "id": "A02",
+              "text": "afirmar alegremente a diferença alheia"
+            },
+            {
+              "id": "A03",
+              "text": "dispensar qualquer referência ao outro"
+            },
+            {
+              "id": "A04",
+              "text": "definir o bem como negação do que o outro é"
+            },
+            {
+              "id": "A05",
+              "text": "superar toda moral por amor fati"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Afetividade como condição estruturante de ações e projetos",
+          "assunto": "Afetividade como condição estruturante de ações e projetos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O luto prolongado pode paralisar projetos, enquanto o luto elaborado os reorienta. A diferença filosófica entre as duas experiências está em que, no segundo caso, o afeto",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é integrado narrativamente, recompondo o horizonte de sentido"
+            },
+            {
+              "id": "A02",
+              "text": "desaparece por completo da vida do enlutado"
+            },
+            {
+              "id": "A03",
+              "text": "prova a irracionalidade de todo apego"
+            },
+            {
+              "id": "A04",
+              "text": "exige medicamentos para ser superado"
+            },
+            {
+              "id": "A05",
+              "text": "demonstra fraqueza moral incontornável"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Afetividade como condição estruturante de ações e projetos",
+          "assunto": "Afetividade como condição estruturante de ações e projetos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Para Scheler, o amor é ato que descobre valores superiores no amado, ampliando o mundo de quem ama. Aplicada aos projetos de vida, essa concepção implica que amar alguém",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cega para todos os defeitos do parceiro"
+            },
+            {
+              "id": "A02",
+              "text": "reduz o amante à dependência servil"
+            },
+            {
+              "id": "A03",
+              "text": "anula os projetos individuais anteriores"
+            },
+            {
+              "id": "A04",
+              "text": "dispensa o conhecimento real do outro"
+            },
+            {
+              "id": "A05",
+              "text": "revela possibilidades que reorientam o próprio projeto"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Afetividade como condição estruturante de ações e projetos",
+          "assunto": "Afetividade como condição estruturante de ações e projetos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D02",
+      "title": "Filosofia — Afetos, corporalidade e relações intersubjetivas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Afetos, corporalidade e relações intersubjetivas",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Levinas inverte a tradição: o rosto do outro me convoca a uma responsabilidade infinita, anterior a qualquer contrato. Diferente do reconhecimento mútuo simétrico, a relação levinasiana é",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reciprocidade exata de direitos e deveres"
+            },
+            {
+              "id": "A02",
+              "text": "fusão mística que dissolve as diferenças"
+            },
+            {
+              "id": "A03",
+              "text": "indiferença elegante entre estranhos"
+            },
+            {
+              "id": "A04",
+              "text": "responsabilidade assimétrica que me antecede"
+            },
+            {
+              "id": "A05",
+              "text": "negociação de interesses equivalentes"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Afetos, corporalidade e relações intersubjetivas",
+          "assunto": "Afetos, corporalidade e relações intersubjetivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A dor crônica sem lesão visível desafia o dualismo: nem só corpo, nem só mente. A fenomenologia da dor sugere que sentir dor é",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "habitar um corpo que se fez obstáculo e apelo"
+            },
+            {
+              "id": "A02",
+              "text": "ilusão a ser dissolvida pelo pensamento"
+            },
+            {
+              "id": "A03",
+              "text": "prova da separação entre alma e corpo"
+            },
+            {
+              "id": "A04",
+              "text": "fenômeno sem qualquer sentido vivido"
+            },
+            {
+              "id": "A05",
+              "text": "exclusivamente dano tecidual mensurável"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Afetos, corporalidade e relações intersubjetivas",
+          "assunto": "Afetos, corporalidade e relações intersubjetivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Bebês sincronizam gestos e vocalizações com cuidadores antes de falar, numa protoconversação corporal. Essa sintonia precoce indica que a intersubjetividade",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "nasce pronta com a gramática inata"
+            },
+            {
+              "id": "A02",
+              "text": "exige domínio prévio de conceitos"
+            },
+            {
+              "id": "A03",
+              "text": "é impossível antes dos três anos"
+            },
+            {
+              "id": "A04",
+              "text": "depende de instrução formal dos pais"
+            },
+            {
+              "id": "A05",
+              "text": "precede e funda a linguagem verbal"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Afetos, corporalidade e relações intersubjetivas",
+          "assunto": "Afetos, corporalidade e relações intersubjetivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "O nojo moral diante de traições e o nojo físico diante de alimentos estragados ativam áreas cerebrais sobrepostas. Essa continuidade sugere que a moralidade",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é puro cálculo racional descorporificado"
+            },
+            {
+              "id": "A02",
+              "text": "deriva de mandamentos divinos diretos"
+            },
+            {
+              "id": "A03",
+              "text": "nada deve às emoções do corpo"
+            },
+            {
+              "id": "A04",
+              "text": "recicla afetos corporais para julgar condutas"
+            },
+            {
+              "id": "A05",
+              "text": "é idêntica em todas as culturas"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Afetos, corporalidade e relações intersubjetivas",
+          "assunto": "Afetos, corporalidade e relações intersubjetivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D03",
+      "title": "Filosofia — Antropologia filosófica (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Antropologia filosófica",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A tese da excepcionalidade humana (linguagem, cultura, moral) enfrenta a continuidade evolutiva com primatas que usam ferramentas e têm proto-culturas. O desafio antropológico atual consiste em pensar o humano",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "como ruptura absoluta com a animalidade"
+            },
+            {
+              "id": "A02",
+              "text": "como mera ilusão sem base biológica"
+            },
+            {
+              "id": "A03",
+              "text": "como idêntico aos demais primatas"
+            },
+            {
+              "id": "A04",
+              "text": "emergindo da natureza sem separar-se dela"
+            },
+            {
+              "id": "A05",
+              "text": "a partir apenas de textos sagrados"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Antropologia filosófica",
+          "assunto": "Antropologia filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Se uma IA passasse no teste de Turing, alguns negariam consciência a ela por faltar-lhe corpo e história. O argumento antropológico aí implícito é que ser humano envolve",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "corporeidade, finitude e mundo compartilhado"
+            },
+            {
+              "id": "A02",
+              "text": "apenas processamento veloz de símbolos"
+            },
+            {
+              "id": "A03",
+              "text": "memória ilimitada de dados"
+            },
+            {
+              "id": "A04",
+              "text": "obediência a programadores"
+            },
+            {
+              "id": "A05",
+              "text": "ausência de qualquer vulnerabilidade"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Antropologia filosófica",
+          "assunto": "Antropologia filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Kant distinguiu antropologia fisiológica (o que a natureza faz do homem) e pragmática (o que ele faz de si). A segunda funda a dignidade porque mostra o humano como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "autor responsável de sua própria formação"
+            },
+            {
+              "id": "A02",
+              "text": "efeito cego de causas naturais"
+            },
+            {
+              "id": "A03",
+              "text": "espécie sem qualquer plasticidade"
+            },
+            {
+              "id": "A04",
+              "text": "objeto de domesticação social"
+            },
+            {
+              "id": "A05",
+              "text": "resultado exclusivo da genética"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Antropologia filosófica",
+          "assunto": "Antropologia filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "O transumanismo promete superar doença, envelhecimento e morte pela técnica. Seu pressuposto antropológico mais controverso é tratar o humano como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "mistério inviolável refratário à técnica"
+            },
+            {
+              "id": "A02",
+              "text": "espírito puro aprisionado na matéria"
+            },
+            {
+              "id": "A03",
+              "text": "projeto aberto a ser redesenhado sem limites"
+            },
+            {
+              "id": "A04",
+              "text": "animal que deve aceitar seus limites"
+            },
+            {
+              "id": "A05",
+              "text": "obra divina intocável por definição"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Antropologia filosófica",
+          "assunto": "Antropologia filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D04",
+      "title": "Filosofia — Argumentação e expressão filosófica (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Argumentação e expressão filosófica",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Perelman distingue convencer (dirigir-se à razão universal) de persuadir (mover um auditório particular). Um discurso que emociona multidões sem razões generalizáveis",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "convence, pois atinge a todos igualmente"
+            },
+            {
+              "id": "A02",
+              "text": "dispensa qualquer auditório concreto"
+            },
+            {
+              "id": "A03",
+              "text": "demonstra como teorema matemático"
+            },
+            {
+              "id": "A04",
+              "text": "é sempre falacioso por definição"
+            },
+            {
+              "id": "A05",
+              "text": "persuade sem necessariamente convencer"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Argumentação e expressão filosófica",
+          "assunto": "Argumentação e expressão filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "O ônus da prova recai em geral sobre quem afirma o extraordinário. Exigir que céticos provem a inexistência de algo inverte ilegitimamente esse ônus porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "provar negativos existenciais é sempre trivial"
+            },
+            {
+              "id": "A02",
+              "text": "céticos nunca apresentam bons argumentos"
+            },
+            {
+              "id": "A03",
+              "text": "quem alega deve sustentar o alegado"
+            },
+            {
+              "id": "A04",
+              "text": "toda afirmação é automaticamente verdadeira"
+            },
+            {
+              "id": "A05",
+              "text": "o debate deve evitar evidências"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Argumentação e expressão filosófica",
+          "assunto": "Argumentação e expressão filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Analogias ilustram, mas só sustentam conclusões se as semelhanças forem relevantes para o ponto em questão. Comparar o Estado a um corpo só argumenta de fato quando",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a comparação agrada esteticamente"
+            },
+            {
+              "id": "A02",
+              "text": "qualquer semelhança basta para provar"
+            },
+            {
+              "id": "A03",
+              "text": "o orador fala com eloquência"
+            },
+            {
+              "id": "A04",
+              "text": "a plateia desconhece anatomia"
+            },
+            {
+              "id": "A05",
+              "text": "as semelhanças invocadas sustentam a tese"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Argumentação e expressão filosófica",
+          "assunto": "Argumentação e expressão filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Refutar por redução ao absurdo assume a tese adversária e deriva dela consequências inaceitáveis. Sua força depende de que as consequências derivadas sejam",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas prováveis em alguns casos"
+            },
+            {
+              "id": "A02",
+              "text": "emocionalmente impactantes"
+            },
+            {
+              "id": "A03",
+              "text": "aceitas pelo adversário como falsas"
+            },
+            {
+              "id": "A04",
+              "text": "necessárias, dada a tese assumida"
+            },
+            {
+              "id": "A05",
+              "text": "contrárias ao senso comum apenas"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Argumentação e expressão filosófica",
+          "assunto": "Argumentação e expressão filosófica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D05",
+      "title": "Filosofia — Cooperação ou competição: moralidade e ação política (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Cooperação ou competição: moralidade e ação política",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Ostrom mostrou que comunidades gerem bens comuns sem tragédia quando há regras locais, monitoramento e sanções graduadas. Contra Hardin, a lição é que a cooperação se sustenta com",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "privatização total dos recursos comuns"
+            },
+            {
+              "id": "A02",
+              "text": "Estado autoritário onipresente"
+            },
+            {
+              "id": "A03",
+              "text": "abandono de qualquer regra coletiva"
+            },
+            {
+              "id": "A04",
+              "text": "livre acesso irrestrito a todos"
+            },
+            {
+              "id": "A05",
+              "text": "instituições desenhadas pelos próprios usuários"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Cooperação ou competição: moralidade e ação política",
+          "assunto": "Cooperação ou competição: moralidade e ação política",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Jogos repetidos permitem punir traidores e premiar cooperadores, estabilizando a cooperação por reciprocidade. A moralidade da reciprocidade difere da caridade porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "condiciona a ajuda à contrapartida esperada"
+            },
+            {
+              "id": "A02",
+              "text": "doa sem esperar nada em troca"
+            },
+            {
+              "id": "A03",
+              "text": "vale só entre parentes próximos"
+            },
+            {
+              "id": "A04",
+              "text": "exige santidade dos agentes"
+            },
+            {
+              "id": "A05",
+              "text": "dispensa qualquer memória do passado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Cooperação ou competição: moralidade e ação política",
+          "assunto": "Cooperação ou competição: moralidade e ação política",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "A competição fiscal entre municípios atrai empresas com isenções, corroendo receitas de todos. Esse equilíbrio perverso ilustra a lógica da",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cooperação federativa bem-sucedida"
+            },
+            {
+              "id": "A02",
+              "text": "mão invisível que harmoniza interesses"
+            },
+            {
+              "id": "A03",
+              "text": "corrida para baixo da competição descoordenada"
+            },
+            {
+              "id": "A04",
+              "text": "solidariedade entre entes federados"
+            },
+            {
+              "id": "A05",
+              "text": "eficiência alocativa dos mercados"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Cooperação ou competição: moralidade e ação política",
+          "assunto": "Cooperação ou competição: moralidade e ação política",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Sen distingue funcionamentos (o que se faz) e capacidades (liberdades reais para fazer). Políticas que maximizam renda mas ignoram capacidades falham moralmente porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a renda é irrelevante para o bem-estar"
+            },
+            {
+              "id": "A02",
+              "text": "o Estado deve prover felicidade direta"
+            },
+            {
+              "id": "A03",
+              "text": "pobres não sabem usar dinheiro"
+            },
+            {
+              "id": "A04",
+              "text": "recursos só valem convertidos em liberdades"
+            },
+            {
+              "id": "A05",
+              "text": "crescimento resolve tudo sozinho"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Cooperação ou competição: moralidade e ação política",
+          "assunto": "Cooperação ou competição: moralidade e ação política",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D06",
+      "title": "Filosofia — Componentes naturais e culturais da vida humana (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Componentes naturais e culturais da vida humana",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A epigenética mostra o ambiente ligando e desligando genes sem alterar o DNA. Essa descoberta complica o debate natureza-cultura ao provar que",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "genes determinam tudo sozinhos"
+            },
+            {
+              "id": "A02",
+              "text": "o ambiente reescreve o genoma"
+            },
+            {
+              "id": "A03",
+              "text": "a expressão gênica responde ao meio"
+            },
+            {
+              "id": "A04",
+              "text": "a cultura é mera ilusão"
+            },
+            {
+              "id": "A05",
+              "text": "Lamarck estava totalmente certo"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Componentes naturais e culturais da vida humana",
+          "assunto": "Componentes naturais e culturais da vida humana",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Se a agressividade fosse puro instinto, condená-la moralmente seria incoerente; se pura cultura, bastaria reeducar. A responsabilidade moral pressupõe, contra os dois extremos, que o agente",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "seja livre apenas quando age sem causas"
+            },
+            {
+              "id": "A02",
+              "text": "possa modular inclinações sem criá-las do nada"
+            },
+            {
+              "id": "A03",
+              "text": "ignore por completo sua biologia"
+            },
+            {
+              "id": "A04",
+              "text": "obedeça cegamente aos impulsos"
+            },
+            {
+              "id": "A05",
+              "text": "negue qualquer influência social"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Componentes naturais e culturais da vida humana",
+          "assunto": "Componentes naturais e culturais da vida humana",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O efeito Flynn registra ganhos de QI ao longo do século XX, sem mudança genética correspondente. A explicação mais plausível combina nutrição, escolarização e complexidade ambiental, o que",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "refuta qualquer base biológica da mente"
+            },
+            {
+              "id": "A02",
+              "text": "prova a superioridade de certas raças"
+            },
+            {
+              "id": "A03",
+              "text": "confirma o determinismo genético estrito"
+            },
+            {
+              "id": "A04",
+              "text": "mostra a cultura modulando capacidades"
+            },
+            {
+              "id": "A05",
+              "text": "invalida os testes de inteligência"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Componentes naturais e culturais da vida humana",
+          "assunto": "Componentes naturais e culturais da vida humana",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Wilson propôs a sociobiologia: comportamentos sociais teriam base genética selecionada. Seus críticos replicam que, mesmo havendo predisposições, a cultura humana",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reconfigura e ressignifica essas bases"
+            },
+            {
+              "id": "A02",
+              "text": "anula completamente a biologia"
+            },
+            {
+              "id": "A03",
+              "text": "evolui rápido demais para os genes acompanharem"
+            },
+            {
+              "id": "A04",
+              "text": "é mero verniz sobre instintos fixos"
+            },
+            {
+              "id": "A05",
+              "text": "prova a inexistência da evolução"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Componentes naturais e culturais da vida humana",
+          "assunto": "Componentes naturais e culturais da vida humana",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D07",
+      "title": "Filosofia — Corporalidade, gênero e sexualidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Corporalidade, gênero e sexualidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A transexualidade foi retirada dos manuais de transtornos mentais, passando a constar como incongruência de gênero ligada a cuidado em saúde. Essa reclassificação exprime a tese de que a transexualidade",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "deixou de existir como fenômeno clínico"
+            },
+            {
+              "id": "A02",
+              "text": "equivale a qualquer doença crônica"
+            },
+            {
+              "id": "A03",
+              "text": "é variação humana, não patologia mental"
+            },
+            {
+              "id": "A04",
+              "text": "demonstra confusão deliberada dos pacientes"
+            },
+            {
+              "id": "A05",
+              "text": "exige cura por terapias de conversão"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Corporalidade, gênero e sexualidade",
+          "assunto": "Corporalidade, gênero e sexualidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Feministas da diferença (Irigaray) acusam a igualdade formal de medir mulheres por padrão masculino; feministas da igualdade temem que a diferença justifique hierarquias. O impasse revela uma tensão real entre",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "natureza e cultura como domínios separados"
+            },
+            {
+              "id": "A02",
+              "text": "gerações rivais dentro do feminismo"
+            },
+            {
+              "id": "A03",
+              "text": "campo e cidade na divisão do trabalho"
+            },
+            {
+              "id": "A04",
+              "text": "países ricos e pobres quanto ao tema"
+            },
+            {
+              "id": "A05",
+              "text": "reconhecer diferenças sem hierarquizá-las"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Corporalidade, gênero e sexualidade",
+          "assunto": "Corporalidade, gênero e sexualidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "A medicalização da intersexualidade impôs cirurgias precoces para enquadrar corpos em dois sexos. Ativistas intersexo denunciam essas intervenções como violação porque decidem, sem consentimento, sobre",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a identidade e a integridade corporal alheias"
+            },
+            {
+              "id": "A02",
+              "text": "questões sem qualquer relevância ética"
+            },
+            {
+              "id": "A03",
+              "text": "procedimentos sempre bem-sucedidos"
+            },
+            {
+              "id": "A04",
+              "text": "doenças que matariam na infância"
+            },
+            {
+              "id": "A05",
+              "text": "escolhas dos pais, únicos prejudicados"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Corporalidade, gênero e sexualidade",
+          "assunto": "Corporalidade, gênero e sexualidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "O véu islâmico é lido no Ocidente como opressão e por muitas muçulmanas como identidade e resistência. O choque dessas leituras mostra que o sentido de uma prática corporal",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é fixo e universal em toda cultura"
+            },
+            {
+              "id": "A02",
+              "text": "depende apenas da intenção individual"
+            },
+            {
+              "id": "A03",
+              "text": "inexiste fora do olhar ocidental"
+            },
+            {
+              "id": "A04",
+              "text": "se constitui em contextos e disputas"
+            },
+            {
+              "id": "A05",
+              "text": "deve ser decidido por tribunais"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Corporalidade, gênero e sexualidade",
+          "assunto": "Corporalidade, gênero e sexualidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D08",
+      "title": "Filosofia — Cultura, sistema econômico e linguagem articulada (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Cultura, sistema econômico e linguagem articulada",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A hipótese Sapir-Whorf forte diz que a língua determina o pensamento; a fraca, que o influencia. Estudos com cores e espaço mostram efeitos reais porém limitados, o que sustenta a versão",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "forte, pois falantes não percebem o que a língua proíbe"
+            },
+            {
+              "id": "A02",
+              "text": "inexistente, já que a mente é tabula rasa"
+            },
+            {
+              "id": "A03",
+              "text": "mística, fundada em poderes ocultos"
+            },
+            {
+              "id": "A04",
+              "text": "irrelevante para a filosofia contemporânea"
+            },
+            {
+              "id": "A05",
+              "text": "fraca, de influência sem determinação"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Cultura, sistema econômico e linguagem articulada",
+          "assunto": "Cultura, sistema econômico e linguagem articulada",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Polanyi chamou de grande transformação a separação entre economia e sociedade operada pelo mercado autorregulado. Antes dela, a economia estava imersa em relações sociais; depois, a sociedade passa a ser",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "acessório do sistema de mercados"
+            },
+            {
+              "id": "A02",
+              "text": "regulada por costumes imemoriais"
+            },
+            {
+              "id": "A03",
+              "text": "livre de qualquer lógica econômica"
+            },
+            {
+              "id": "A04",
+              "text": "governada por assembleias populares"
+            },
+            {
+              "id": "A05",
+              "text": "idêntica às sociedades antigas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Cultura, sistema econômico e linguagem articulada",
+          "assunto": "Cultura, sistema econômico e linguagem articulada",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Bourdieu analisa o capital cultural (diplomas, gostos, modos) como moeda que rende vantagens escolares e profissionais. Diferente do capital econômico, ele",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "não pode ser transmitido entre gerações"
+            },
+            {
+              "id": "A02",
+              "text": "inexiste nas sociedades modernas"
+            },
+            {
+              "id": "A03",
+              "text": "pertence igualmente a todas as classes"
+            },
+            {
+              "id": "A04",
+              "text": "opera disfarçado de mérito individual"
+            },
+            {
+              "id": "A05",
+              "text": "diz respeito só às belas-artes"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Cultura, sistema econômico e linguagem articulada",
+          "assunto": "Cultura, sistema econômico e linguagem articulada",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Wittgenstein comparou a linguagem a jogos com regras públicas: o sentido está no uso compartilhado, não em ideias privadas. Seguir uma regra, então, é uma prática",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "sustentada por formas de vida em comum"
+            },
+            {
+              "id": "A02",
+              "text": "decidida a cada instante pelo falante"
+            },
+            {
+              "id": "A03",
+              "text": "redutível a estados cerebrais"
+            },
+            {
+              "id": "A04",
+              "text": "impossível de ser ensinada"
+            },
+            {
+              "id": "A05",
+              "text": "idêntica em todas as línguas"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Cultura, sistema econômico e linguagem articulada",
+          "assunto": "Cultura, sistema econômico e linguagem articulada",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D09",
+      "title": "Filosofia — Distribuição regional e populacional da violência no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Distribuição regional e populacional da violência no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A interiorização da violência deslocou homicídios das capitais para cidades médias do interior. Esse deslocamento sugere que políticas focadas só nas capitais",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "resolveram o problema nacional"
+            },
+            {
+              "id": "A02",
+              "text": "devem acompanhar a difusão territorial do crime"
+            },
+            {
+              "id": "A03",
+              "text": "provaram que o interior é pacífico"
+            },
+            {
+              "id": "A04",
+              "text": "bastam, pois o interior se autorregula"
+            },
+            {
+              "id": "A05",
+              "text": "devem ser abandonadas por inúteis"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Distribuição regional e populacional da violência no Brasil",
+          "assunto": "Distribuição regional e populacional da violência no Brasil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Facções expandiram-se pelo sistema prisional e hoje disputam territórios em vários estados. A dimensão interestadual do fenômeno exige, para além da repressão local,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a extinção das polícias estaduais"
+            },
+            {
+              "id": "A02",
+              "text": "a legalização de todas as drogas"
+            },
+            {
+              "id": "A03",
+              "text": "o isolamento total dos presídios"
+            },
+            {
+              "id": "A04",
+              "text": "coordenação federativa e inteligência"
+            },
+            {
+              "id": "A05",
+              "text": "a militarização das fronteiras apenas"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Distribuição regional e populacional da violência no Brasil",
+          "assunto": "Distribuição regional e populacional da violência no Brasil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Milícias vendem proteção, gás e internet em territórios dominados, combinando crime e clientelismo. Diferente do tráfico varejista, seu poder se ancora na",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "disputa aberta com o Estado"
+            },
+            {
+              "id": "A02",
+              "text": "captura de agentes e serviços públicos"
+            },
+            {
+              "id": "A03",
+              "text": "ideologia revolucionária explícita"
+            },
+            {
+              "id": "A04",
+              "text": "ausência total de organização"
+            },
+            {
+              "id": "A05",
+              "text": "rejeição de qualquer lucro"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Distribuição regional e populacional da violência no Brasil",
+          "assunto": "Distribuição regional e populacional da violência no Brasil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "A letalidade policial vitima sobretudo jovens negros pobres, configurando um padrão que os movimentos negros chamam de genocídio. Nomear assim o fenômeno tem força",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "jurídica, tipificando crime internacional"
+            },
+            {
+              "id": "A02",
+              "text": "estatística, sem qualquer dimensão moral"
+            },
+            {
+              "id": "A03",
+              "text": "poética, sem efeitos práticos"
+            },
+            {
+              "id": "A04",
+              "text": "eleitoral, visando apenas votos"
+            },
+            {
+              "id": "A05",
+              "text": "política, denunciando extermínio seletivo"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Distribuição regional e populacional da violência no Brasil",
+          "assunto": "Distribuição regional e populacional da violência no Brasil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D10",
+      "title": "Filosofia — Educação, reprodução, emancipação e controle (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Educação, reprodução, emancipação e controle",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A evasão escolar concentra-se entre alunos pobres, negros e trabalhadores. Explicá-la só por desinteresse individual ignora que a escola",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "oferece condições iguais que nem todos aproveitam"
+            },
+            {
+              "id": "A02",
+              "text": "é neutra quanto a classe, raça e trabalho"
+            },
+            {
+              "id": "A03",
+              "text": "seleciona igualmente por mérito puro"
+            },
+            {
+              "id": "A04",
+              "text": "expulsa os diferentes por seus mecanismos"
+            },
+            {
+              "id": "A05",
+              "text": "resolve sozinha as desigualdades sociais"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Educação, reprodução, emancipação e controle",
+          "assunto": "Educação, reprodução, emancipação e controle",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Freire contrapõe educação bancária e problematizadora; Rancière, embrutecedora e emancipadora. As duas duplas convergem ao opor transmissão que domestica e formação que",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "adestra para o mercado de trabalho"
+            },
+            {
+              "id": "A02",
+              "text": "decora conteúdos sem compreendê-los"
+            },
+            {
+              "id": "A03",
+              "text": "pressupõe igualdade de inteligências"
+            },
+            {
+              "id": "A04",
+              "text": "hierarquiza mestres e ignorantes"
+            },
+            {
+              "id": "A05",
+              "text": "dispensa o esforço do estudo"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Educação, reprodução, emancipação e controle",
+          "assunto": "Educação, reprodução, emancipação e controle",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Plataformas de ensino adaptativo prometem personalizar a aprendizagem por algoritmos. O risco emancipatório é que a personalização algorítmica",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "liberte todos igualmente das desigualdades"
+            },
+            {
+              "id": "A02",
+              "text": "dispense professores e escolas"
+            },
+            {
+              "id": "A03",
+              "text": "garanta excelência universal automática"
+            },
+            {
+              "id": "A04",
+              "text": "elimine qualquer viés dos conteúdos"
+            },
+            {
+              "id": "A05",
+              "text": "trilhe cada aluno sem diálogo nem mundo comum"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Educação, reprodução, emancipação e controle",
+          "assunto": "Educação, reprodução, emancipação e controle",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "O Novo Ensino Médio flexibilizou itinerários, mas escolas pobres oferecem poucas opções. A reforma que prometia escolha produziu, na prática,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "escolha para poucos e funil para muitos"
+            },
+            {
+              "id": "A02",
+              "text": "liberdade ampliada para todos os jovens"
+            },
+            {
+              "id": "A03",
+              "text": "superação do vestibular como funil"
+            },
+            {
+              "id": "A04",
+              "text": "fim das desigualdades regionais"
+            },
+            {
+              "id": "A05",
+              "text": "igualdade de oportunidades entre redes"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Educação, reprodução, emancipação e controle",
+          "assunto": "Educação, reprodução, emancipação e controle",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D11",
+      "title": "Filosofia — Estruturas argumentativas dedutivas e indutivas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Estruturas argumentativas dedutivas e indutivas",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Kuhn mostrou que cientistas resistem a refutações, protegendo paradigmas com hipóteses auxiliares. Essa resistência revela que a relação entre teoria e observação é mediada por",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "dados brutos independentes de teorias"
+            },
+            {
+              "id": "A02",
+              "text": "compromissos teóricos que filtram os fatos"
+            },
+            {
+              "id": "A03",
+              "text": "fraude generalizada nas pesquisas"
+            },
+            {
+              "id": "A04",
+              "text": "irracionalidade completa dos cientistas"
+            },
+            {
+              "id": "A05",
+              "text": "ausência de qualquer método"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Estruturas argumentativas dedutivas e indutivas",
+          "assunto": "Estruturas argumentativas dedutivas e indutivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "O teorema de Bayes atualiza crenças combinando probabilidade prévia e nova evidência. Diferente da indução ingênua, a inferência bayesiana",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "quantifica graus de crença de modo explícito"
+            },
+            {
+              "id": "A02",
+              "text": "dispensa qualquer observação empírica"
+            },
+            {
+              "id": "A03",
+              "text": "garante certeza dedutiva às conclusões"
+            },
+            {
+              "id": "A04",
+              "text": "vale só para jogos de azar"
+            },
+            {
+              "id": "A05",
+              "text": "proíbe o uso de probabilidades"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Estruturas argumentativas dedutivas e indutivas",
+          "assunto": "Estruturas argumentativas dedutivas e indutivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Inferir causas de correlações exige descartar confundidores: sorvete e afogamentos sobem juntos no verão sem relação causal. A lição metodológica é que correlação",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "equivale sempre à causalidade"
+            },
+            {
+              "id": "A02",
+              "text": "dispensa investigação adicional"
+            },
+            {
+              "id": "A03",
+              "text": "sugere, sem provar, vínculo causal"
+            },
+            {
+              "id": "A04",
+              "text": "é inútil para a ciência"
+            },
+            {
+              "id": "A05",
+              "text": "prova conspirações ocultas"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Estruturas argumentativas dedutivas e indutivas",
+          "assunto": "Estruturas argumentativas dedutivas e indutivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Duhem e Quine sustentam que teorias enfrentam a experiência em bloco: um teste adverso pode ser absorvido ajustando hipóteses auxiliares. Disso segue que refutações científicas são",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "impossíveis em qualquer circunstância"
+            },
+            {
+              "id": "A02",
+              "text": "decisivas contra teorias isoladas"
+            },
+            {
+              "id": "A03",
+              "text": "desnecessárias para o progresso"
+            },
+            {
+              "id": "A04",
+              "text": "provas cabais da verdade rival"
+            },
+            {
+              "id": "A05",
+              "text": "sempre relativas ao conjunto teórico"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Estruturas argumentativas dedutivas e indutivas",
+          "assunto": "Estruturas argumentativas dedutivas e indutivas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D12",
+      "title": "Filosofia — Falácias formais e informais (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Falácias formais e informais",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A falácia do espantalho distorce a tese adversária para refutar a caricatura. Num debate sobre cotas, dizer que defensores querem expulsar brancos das universidades",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "resume fielmente a proposta das cotas"
+            },
+            {
+              "id": "A02",
+              "text": "apresenta dados contra as cotas"
+            },
+            {
+              "id": "A03",
+              "text": "demonstra contradição interna da tese"
+            },
+            {
+              "id": "A04",
+              "text": "reforça legitimamente a crítica"
+            },
+            {
+              "id": "A05",
+              "text": "refuta um argumento inexistente"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Falácias formais e informais",
+          "assunto": "Falácias formais e informais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A ladeira escorregadia alega que um primeiro passo levará inevitavelmente ao desastre, sem mostrar a necessidade da sequência. Regular aplicativos de transporte causaria, dizem, o fim da inovação. O defeito está em",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "defender qualquer regulação estatal"
+            },
+            {
+              "id": "A02",
+              "text": "confundir possibilidade com necessidade"
+            },
+            {
+              "id": "A03",
+              "text": "negar efeitos colaterais das leis"
+            },
+            {
+              "id": "A04",
+              "text": "apresentar dados estatísticos falsos"
+            },
+            {
+              "id": "A05",
+              "text": "criticar empresas de tecnologia"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Falácias formais e informais",
+          "assunto": "Falácias formais e informais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Petição de princípio assume disfarçadamente o que deveria provar: Deus existe porque a Bíblia, palavra de Deus, o afirma. A circularidade invalida o argumento porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a conclusão já figura entre as premissas"
+            },
+            {
+              "id": "A02",
+              "text": "Deus comprovadamente não existe"
+            },
+            {
+              "id": "A03",
+              "text": "a Bíblia não deve ser citada"
+            },
+            {
+              "id": "A04",
+              "text": "argumentos longos são inválidos"
+            },
+            {
+              "id": "A05",
+              "text": "faltam citações de autoridades"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Falácias formais e informais",
+          "assunto": "Falácias formais e informais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "A falácia genética rejeita ideias pela origem: desprezar uma tese verdadeira porque veio de um adversário. Seu erro consiste em confundir",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "verdade e falsidade absolutas"
+            },
+            {
+              "id": "A02",
+              "text": "lógica e retórica em geral"
+            },
+            {
+              "id": "A03",
+              "text": "a validade do argumento com sua fonte"
+            },
+            {
+              "id": "A04",
+              "text": "opinião pública e opinião técnica"
+            },
+            {
+              "id": "A05",
+              "text": "ciência e senso comum"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Falácias formais e informais",
+          "assunto": "Falácias formais e informais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D13",
+      "title": "Filosofia — Finitude e formas de atribuir sentido à vida (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Finitude e formas de atribuir sentido à vida",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Epicuristas e estoicos divergem diante da morte: uns a dissolvem como nada-para-nós, outros a integram como parte da ordem a ser aceita. A diferença prática entre as atitudes está em que o estoico",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "foge de qualquer pensamento sobre a morte"
+            },
+            {
+              "id": "A02",
+              "text": "incorpora a finitude à arte de viver"
+            },
+            {
+              "id": "A03",
+              "text": "nega que a morte atinja os sábios"
+            },
+            {
+              "id": "A04",
+              "text": "busca a imortalidade pela fama"
+            },
+            {
+              "id": "A05",
+              "text": "entrega-se ao prazer sem limites"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Finitude e formas de atribuir sentido à vida",
+          "assunto": "Finitude e formas de atribuir sentido à vida",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Testamentos vitais permitem recusar tratamentos fúteis no fim da vida. Filosoficamente, esse instrumento realiza a autonomia porque transfere ao próprio sujeito",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a obrigação de prolongar a vida a todo custo"
+            },
+            {
+              "id": "A02",
+              "text": "a decisão médica para os familiares"
+            },
+            {
+              "id": "A03",
+              "text": "o poder estatal sobre os corpos"
+            },
+            {
+              "id": "A04",
+              "text": "a escolha religiosa dos hospitais"
+            },
+            {
+              "id": "A05",
+              "text": "a decisão sobre o próprio morrer"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Finitude e formas de atribuir sentido à vida",
+          "assunto": "Finitude e formas de atribuir sentido à vida",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O duplo luto — pela pessoa e pelo futuro imaginado com ela — mostra que perdemos não só quem morreu, mas projetos. Elaborar o luto, então, exige",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reconstruir sentidos e projetos sem o outro"
+            },
+            {
+              "id": "A02",
+              "text": "esquecer rapidamente o falecido"
+            },
+            {
+              "id": "A03",
+              "text": "substituir a pessoa por outra igual"
+            },
+            {
+              "id": "A04",
+              "text": "negar que a perda afete planos"
+            },
+            {
+              "id": "A05",
+              "text": "medicalizar toda tristeza como doença"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Finitude e formas de atribuir sentido à vida",
+          "assunto": "Finitude e formas de atribuir sentido à vida",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Arendt distingue labor, trabalho e ação; só a ação, feita entre iguais na esfera pública, confere imortalidade mundana. Buscar sentido apenas no consumo e na carreira seria, para ela, permanecer no nível do",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "pensamento contemplativo puro"
+            },
+            {
+              "id": "A02",
+              "text": "heroísmo guerreiro antigo"
+            },
+            {
+              "id": "A03",
+              "text": "sacrifício religioso redentor"
+            },
+            {
+              "id": "A04",
+              "text": "labor e da fabricação, sem mundo comum"
+            },
+            {
+              "id": "A05",
+              "text": "diálogo socrático permanente"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Finitude e formas de atribuir sentido à vida",
+          "assunto": "Finitude e formas de atribuir sentido à vida",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D14",
+      "title": "Filosofia — Formas de ação transformadora de si, dos demais e do ambiente (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Formas de ação transformadora de si, dos demais e do ambiente",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A desobediência civil (Thoreau, King) viola leis consideradas injustas de forma pública e não violenta, aceitando a punição. Ela se diferencia da delinquência comum porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "busca vantagem pessoal oculta"
+            },
+            {
+              "id": "A02",
+              "text": "recorre necessariamente às armas"
+            },
+            {
+              "id": "A03",
+              "text": "nega qualquer legitimidade às leis"
+            },
+            {
+              "id": "A04",
+              "text": "foge da punição prevista"
+            },
+            {
+              "id": "A05",
+              "text": "apela à consciência pública assumindo o custo"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Formas de ação transformadora de si, dos demais e do ambiente",
+          "assunto": "Formas de ação transformadora de si, dos demais e do ambiente",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Boff propõe o cuidado como ethos: relação amorosa e responsável com a Terra e os pobres, contra a dominação técnica. O cuidado, como ação transformadora, opõe-se à lógica da",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "convivência harmoniosa entre espécies"
+            },
+            {
+              "id": "A02",
+              "text": "justiça social distributiva"
+            },
+            {
+              "id": "A03",
+              "text": "exploração ilimitada dos bens comuns"
+            },
+            {
+              "id": "A04",
+              "text": "contemplação estética da natureza"
+            },
+            {
+              "id": "A05",
+              "text": "pesquisa científica desinteressada"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Formas de ação transformadora de si, dos demais e do ambiente",
+          "assunto": "Formas de ação transformadora de si, dos demais e do ambiente",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Exercícios espirituais antigos (Hadot) — meditar a morte, examinar a consciência — visavam transformar o sujeito, não informar. Diferem do estudo moderno porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "acumulam dados para provas e concursos"
+            },
+            {
+              "id": "A02",
+              "text": "treinam a memória mecânica"
+            },
+            {
+              "id": "A03",
+              "text": "servem à carreira acadêmica"
+            },
+            {
+              "id": "A04",
+              "text": "conformam o ser inteiro a um modo de vida"
+            },
+            {
+              "id": "A05",
+              "text": "dispensam qualquer prática regular"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Formas de ação transformadora de si, dos demais e do ambiente",
+          "assunto": "Formas de ação transformadora de si, dos demais e do ambiente",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "A agroecologia transforma quem planta e o plantado: dispensa venenos, respeita ciclos, organiza cooperativas. Como práxis, ela une em um só movimento transformação",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas econômica, sem efeitos sociais"
+            },
+            {
+              "id": "A02",
+              "text": "pessoal, social e ambiental"
+            },
+            {
+              "id": "A03",
+              "text": "tecnológica sem mudar relações"
+            },
+            {
+              "id": "A04",
+              "text": "estética desvinculada da produção"
+            },
+            {
+              "id": "A05",
+              "text": "individual alheia à coletividade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Formas de ação transformadora de si, dos demais e do ambiente",
+          "assunto": "Formas de ação transformadora de si, dos demais e do ambiente",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D15",
+      "title": "Filosofia — Humanização por meio do trabalho, lazer e acesso a bens culturais (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Humanização por meio do trabalho, lazer e acesso a bens culturais",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O toyotismo exige polivalência e engajamento subjetivo: o operário veste a camisa da empresa. Essa captura da subjetividade aprofunda a alienação porque o trabalhador entrega, além da força,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas horas extras remuneradas"
+            },
+            {
+              "id": "A02",
+              "text": "ferramentas de sua propriedade"
+            },
+            {
+              "id": "A03",
+              "text": "sua inteligência e afetividade ao capital"
+            },
+            {
+              "id": "A04",
+              "text": "sindicatos fortalecidos e atuantes"
+            },
+            {
+              "id": "A05",
+              "text": "tempo livre ampliado e pago"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "assunto": "Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Adorno via na indústria cultural a padronização do gosto: sucessos fabricados anestesiam a crítica. A saída humanizadora que ele propõe passa pela arte",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "autêntica, que nega o consumo passivo"
+            },
+            {
+              "id": "A02",
+              "text": "popular, sempre alienada por definição"
+            },
+            {
+              "id": "A03",
+              "text": "erudita, restrita aos especialistas"
+            },
+            {
+              "id": "A04",
+              "text": "estatal, dirigida pelos governos"
+            },
+            {
+              "id": "A05",
+              "text": "lucrativa acima de qualquer valor"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "assunto": "Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O direito ao lazer consta na Constituição, mas periferias carecem de praças, teatros e cinemas. Essa carência revela que o lazer, sem políticas públicas, funciona como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "direito universal efetivado para todos"
+            },
+            {
+              "id": "A02",
+              "text": "necessidade superada pela tecnologia"
+            },
+            {
+              "id": "A03",
+              "text": "capricho dispensável dos ricos"
+            },
+            {
+              "id": "A04",
+              "text": "dever moral de cada cidadão"
+            },
+            {
+              "id": "A05",
+              "text": "privilégio condicionado à renda e ao território"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "assunto": "Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 04",
+          "text": "Brechit chamou de estranhamento o teatro que impede a identificação emocional para provocar reflexão crítica. Diferente do entretenimento anestesiante, ele humaniza porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "emociona até as lágrimas o espectador"
+            },
+            {
+              "id": "A02",
+              "text": "ativa o juízo sobre a realidade encenada"
+            },
+            {
+              "id": "A03",
+              "text": "confirma os preconceitos da plateia"
+            },
+            {
+              "id": "A04",
+              "text": "distrai das contradições sociais"
+            },
+            {
+              "id": "A05",
+              "text": "exige cenários milionários"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "assunto": "Humanização por meio do trabalho, lazer e acesso a bens culturais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D16",
+      "title": "Filosofia — Justiça social, solidariedade, igualdade e equidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Justiça social, solidariedade, igualdade e equidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Walzer defende esferas de justiça distintas: dinheiro, cargos, saúde e educação obedecem a critérios próprios. Distribuir saúde por poder aquisitivo seria, para ele, uma tirania porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ricos merecem atendimento prioritário"
+            },
+            {
+              "id": "A02",
+              "text": "o mercado resolve a saúde sozinho"
+            },
+            {
+              "id": "A03",
+              "text": "todos devem receber exatamente o mesmo"
+            },
+            {
+              "id": "A04",
+              "text": "um bem invade a esfera própria de outro"
+            },
+            {
+              "id": "A05",
+              "text": "saúde não é bem social relevante"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Justiça social, solidariedade, igualdade e equidade",
+          "assunto": "Justiça social, solidariedade, igualdade e equidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A meritocracia promete recompensar esforço e talento, mas talentos e berços são loterias morais. A crítica filosófica mais forte à meritocracia pura é que ela",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "premia demais os esforçados"
+            },
+            {
+              "id": "A02",
+              "text": "legitima desigualdades imerecidas como merecidas"
+            },
+            {
+              "id": "A03",
+              "text": "exige esforço de todos igualmente"
+            },
+            {
+              "id": "A04",
+              "text": "funciona bem sem correções"
+            },
+            {
+              "id": "A05",
+              "text": "foi refutada empiricamente"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Justiça social, solidariedade, igualdade e equidade",
+          "assunto": "Justiça social, solidariedade, igualdade e equidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Programas focalizados atendem só os miseráveis; universais, como o SUS, atendem a todos. Do ponto de vista da solidariedade, políticas universais prevalecem porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "custam menos aos cofres públicos"
+            },
+            {
+              "id": "A02",
+              "text": "dispensam qualquer financiamento"
+            },
+            {
+              "id": "A03",
+              "text": "evitam estigmas e unem a cidadania"
+            },
+            {
+              "id": "A04",
+              "text": "beneficiam apenas a classe média"
+            },
+            {
+              "id": "A05",
+              "text": "funcionam sem gestão ou controle"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Justiça social, solidariedade, igualdade e equidade",
+          "assunto": "Justiça social, solidariedade, igualdade e equidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D17",
+      "title": "Filosofia — Laicidade, pluralismo e intolerância religiosa (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Laicidade, pluralismo e intolerância religiosa",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A França proíbe símbolos religiosos ostensivos nas escolas públicas; o Brasil permite véus e quipás. Os dois modelos se dizem laicos porque a laicidade admite gradações entre",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "teocracia e confessionalismo obrigatório"
+            },
+            {
+              "id": "A02",
+              "text": "neutralidade que contém e que coopera"
+            },
+            {
+              "id": "A03",
+              "text": "ateísmo oficial e perseguição"
+            },
+            {
+              "id": "A04",
+              "text": "indiferença e hostilidade abertas"
+            },
+            {
+              "id": "A05",
+              "text": "modelos idênticos em todo o mundo"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Laicidade, pluralismo e intolerância religiosa",
+          "assunto": "Laicidade, pluralismo e intolerância religiosa",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Locke excluía ateus da tolerância, temendo que sem Deus ninguém cumpriria promessas. Essa exceção revela um limite histórico do liberalismo nascente quanto à",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "liberdade de consciência dos descrentes"
+            },
+            {
+              "id": "A02",
+              "text": "propriedade privada dos fiéis"
+            },
+            {
+              "id": "A03",
+              "text": "autoridade legítima dos reis"
+            },
+            {
+              "id": "A04",
+              "text": "verdade das religiões oficiais"
+            },
+            {
+              "id": "A05",
+              "text": "possibilidade de qualquer tolerância"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Laicidade, pluralismo e intolerância religiosa",
+          "assunto": "Laicidade, pluralismo e intolerância religiosa",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Feriados católicos oficiais e crucifixos em tribunais tensionam a laicidade brasileira. Para os críticos, esses símbolos no espaço público",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "são neutros por força da tradição"
+            },
+            {
+              "id": "A02",
+              "text": "privilegiam uma crença com o Estado"
+            },
+            {
+              "id": "A03",
+              "text": "ofendem necessariamente a todos"
+            },
+            {
+              "id": "A04",
+              "text": "devem ser multiplicados sem critério"
+            },
+            {
+              "id": "A05",
+              "text": "não têm qualquer significado"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Laicidade, pluralismo e intolerância religiosa",
+          "assunto": "Laicidade, pluralismo e intolerância religiosa",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D18",
+      "title": "Filosofia — Liberdade e mortalidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Liberdade e mortalidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A propaganda promete libertar pelo consumo, mas endivida e padroniza desejos. Essa liberdade de mercado realiza, na crítica filosófica, uma",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "emancipação plena dos consumidores"
+            },
+            {
+              "id": "A02",
+              "text": "autonomia conquistada pelo crédito"
+            },
+            {
+              "id": "A03",
+              "text": "superação das necessidades artificiais"
+            },
+            {
+              "id": "A04",
+              "text": "igualdade real de escolhas"
+            },
+            {
+              "id": "A05",
+              "text": "servidão voluntária aos imperativos do consumo"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Liberdade e mortalidade",
+          "assunto": "Liberdade e mortalidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Berlin distinguiu liberdade negativa (ausência de interferência) e positiva (autogoverno). Políticas paternalistas que restringem escolhas em nome do bem do próprio agente sacrificam a primeira em nome da segunda ao",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "proibirem condutas para o bem do proibido"
+            },
+            {
+              "id": "A02",
+              "text": "ampliarem todas as opções disponíveis"
+            },
+            {
+              "id": "A03",
+              "text": "abolirem qualquer autoridade"
+            },
+            {
+              "id": "A04",
+              "text": "respeitarem integralmente a autonomia"
+            },
+            {
+              "id": "A05",
+              "text": "consultarem sempre os afetados"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Liberdade e mortalidade",
+          "assunto": "Liberdade e mortalidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O luto antecipatório de quem acompanha doentes terminais permite despedidas e legados. Diferente da morte súbita, ele oferece a chance de",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "evitar qualquer sofrimento psíquico"
+            },
+            {
+              "id": "A02",
+              "text": "exercer a liberdade diante do fim anunciado"
+            },
+            {
+              "id": "A03",
+              "text": "negar a gravidade do diagnóstico"
+            },
+            {
+              "id": "A04",
+              "text": "acelerar o processo de morrer"
+            },
+            {
+              "id": "A05",
+              "text": "provar a imortalidade da alma"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Liberdade e mortalidade",
+          "assunto": "Liberdade e mortalidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D19",
+      "title": "Filosofia — Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A eugenia, inspirada em leituras distorcidas de Darwin, esterilizou milhares nos EUA e no nazismo. Seu erro filosófico-científico central foi confundir",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "genética com ambiente em todos os casos"
+            },
+            {
+              "id": "A02",
+              "text": "ciência com tecnologia aplicada"
+            },
+            {
+              "id": "A03",
+              "text": "descrição evolutiva com prescrição moral"
+            },
+            {
+              "id": "A04",
+              "text": "herança com contágio de doenças"
+            },
+            {
+              "id": "A05",
+              "text": "indivíduo com população estatística"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade",
+          "assunto": "Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "O mito do progresso linear supõe que a história caminha do atraso à perfeição. Benjamin, com o anjo de costas para o futuro, opõe a essa visão a imagem do progresso como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "acúmulo de ruínas e catástrofes"
+            },
+            {
+              "id": "A02",
+              "text": "marcha triunfal da razão"
+            },
+            {
+              "id": "A03",
+              "text": "retorno cíclico ao passado"
+            },
+            {
+              "id": "A04",
+              "text": "fim próximo e inevitável"
+            },
+            {
+              "id": "A05",
+              "text": "ilusão sem qualquer base"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade",
+          "assunto": "Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Missionários que proibiam línguas nativas julgavam elevar selvagens à civilização. Sob a ótica antietnocêntrica, essa catequese forçada constitui",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "diálogo fecundo entre culturas"
+            },
+            {
+              "id": "A02",
+              "text": "respeito à diversidade linguística"
+            },
+            {
+              "id": "A03",
+              "text": "avanço humanitário inegável"
+            },
+            {
+              "id": "A04",
+              "text": "violência etnocêntrica travestida de missão"
+            },
+            {
+              "id": "A05",
+              "text": "prova da superioridade europeia"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade",
+          "assunto": "Matrizes conceituais: etnocentrismo, racismo, evolução, modernidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D20",
+      "title": "Filosofia — Mídias sociais, vida em comum e insensibilidade moral (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Mídias sociais, vida em comum e insensibilidade moral",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A esfera pública habermasiana exigia debate racional entre iguais; as redes entregaram fragmentação e ódio. O diagnóstico mais preciso é que as plataformas",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "realizaram o ideal iluminista de debate"
+            },
+            {
+              "id": "A02",
+              "text": "democratizaram sem distorcer a discussão"
+            },
+            {
+              "id": "A03",
+              "text": "aboliram gatekeepers sem criar outros"
+            },
+            {
+              "id": "A04",
+              "text": "privatizaram a mediação do comum"
+            },
+            {
+              "id": "A05",
+              "text": "são neutras quanto aos conteúdos"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Mídias sociais, vida em comum e insensibilidade moral",
+          "assunto": "Mídias sociais, vida em comum e insensibilidade moral",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Deepfakes tornam indistinguíveis imagens reais e fabricadas. Para a vida em comum, a ameaça central é a corrosão da",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "confiança epistêmica compartilhada"
+            },
+            {
+              "id": "A02",
+              "text": "criatividade dos produtores de conteúdo"
+            },
+            {
+              "id": "A03",
+              "text": "diversão proporcionada pelos memes"
+            },
+            {
+              "id": "A04",
+              "text": "velocidade de transmissão dos dados"
+            },
+            {
+              "id": "A05",
+              "text": "estética das fotografias digitais"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Mídias sociais, vida em comum e insensibilidade moral",
+          "assunto": "Mídias sociais, vida em comum e insensibilidade moral",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O direito ao esquecimento opõe memória digital permanente e recomeço pessoal. Filosoficamente, o conflito expressa a tensão entre história coletiva e",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "censura estatal arbitrária"
+            },
+            {
+              "id": "A02",
+              "text": "dignidade de reescrever a própria narrativa"
+            },
+            {
+              "id": "A03",
+              "text": "obrigação de lembrar tudo sempre"
+            },
+            {
+              "id": "A04",
+              "text": "lucro das plataformas de busca"
+            },
+            {
+              "id": "A05",
+              "text": "impunidade garantida aos criminosos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Mídias sociais, vida em comum e insensibilidade moral",
+          "assunto": "Mídias sociais, vida em comum e insensibilidade moral",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D21",
+      "title": "Filosofia — Minorias e violência (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Minorias e violência",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A interseccionalidade (Crenshaw) mostra que opressões de raça, gênero e classe se cruzam, agravando-se mutuamente. Uma mulher negra pobre sofre, portanto, violência",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "idêntica à de qualquer outro grupo"
+            },
+            {
+              "id": "A02",
+              "text": "menor que a de homens negros"
+            },
+            {
+              "id": "A03",
+              "text": "somada e potencializada pelos eixos"
+            },
+            {
+              "id": "A04",
+              "text": "restrita ao ambiente doméstico"
+            },
+            {
+              "id": "A05",
+              "text": "inexistente nas estatísticas oficiais"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Minorias e violência",
+          "assunto": "Minorias e violência",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Genocídios começam com discursos que desumanizam o grupo-alvo, tratando pessoas como pragas. A etapa discursiva é condição do extermínio porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "palavras matam diretamente por si sós"
+            },
+            {
+              "id": "A02",
+              "text": "retira as vítimas da comunidade moral"
+            },
+            {
+              "id": "A03",
+              "text": "convence as vítimas a se entregarem"
+            },
+            {
+              "id": "A04",
+              "text": "substitui as armas na execução"
+            },
+            {
+              "id": "A05",
+              "text": "é crime mais grave que matar"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Minorias e violência",
+          "assunto": "Minorias e violência",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Justiça de transição combina punição, verdade, reparação e reformas para lidar com passados violentos. Sua superioridade sobre a mera anistia está em",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "articular responsabilização e reconciliação"
+            },
+            {
+              "id": "A02",
+              "text": "apagar a memória dos conflitos"
+            },
+            {
+              "id": "A03",
+              "text": "vingar-se exemplarmente dos culpados"
+            },
+            {
+              "id": "A04",
+              "text": "perdoar sem exigir qualquer verdade"
+            },
+            {
+              "id": "A05",
+              "text": "proteger os perpetradores do escrutínio"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Minorias e violência",
+          "assunto": "Minorias e violência",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D22",
+      "title": "Filosofia — Minorias simbólicas no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Minorias simbólicas no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O STF criminalizou a homotransfobia equiparando-a ao racismo, suprindo omissão legislativa. Os críticos formalistas objetam ativismo judicial; os defensores respondem que, diante da omissão inconstitucional, a Corte",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "legisla livremente sem quaisquer limites"
+            },
+            {
+              "id": "A02",
+              "text": "cumpre o dever de proteger direitos fundamentais"
+            },
+            {
+              "id": "A03",
+              "text": "usurpa sempre a função do Congresso"
+            },
+            {
+              "id": "A04",
+              "text": "decide por preferências pessoais dos ministros"
+            },
+            {
+              "id": "A05",
+              "text": "ignora a separação dos poderes"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Minorias simbólicas no Brasil",
+          "assunto": "Minorias simbólicas no Brasil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Cotas em concursos reservam vagas a negros, indígenas e pessoas com deficiência. Sua justificação mais sólida combina reparação histórica com",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "privilégio permanente e hereditário"
+            },
+            {
+              "id": "A02",
+              "text": "exclusão dos demais candidatos"
+            },
+            {
+              "id": "A03",
+              "text": "diversidade funcional nas instituições"
+            },
+            {
+              "id": "A04",
+              "text": "rebaixamento dos critérios de mérito"
+            },
+            {
+              "id": "A05",
+              "text": "segregação benévola dos grupos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Minorias simbólicas no Brasil",
+          "assunto": "Minorias simbólicas no Brasil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "A sub-representação feminina na política persiste mesmo com cotas de candidatura, burladas com laranjas. O fenômeno das candidaturas laranjas demonstra que a norma, sem fiscalização e sanção,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "torna-se letra morta capturada pelos partidos"
+            },
+            {
+              "id": "A02",
+              "text": "resolve sozinha a desigualdade de gênero"
+            },
+            {
+              "id": "A03",
+              "text": "prova o desinteresse das mulheres"
+            },
+            {
+              "id": "A04",
+              "text": "dispensa qualquer engenharia institucional"
+            },
+            {
+              "id": "A05",
+              "text": "deve ser revogada por ineficaz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Minorias simbólicas no Brasil",
+          "assunto": "Minorias simbólicas no Brasil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D23",
+      "title": "Filosofia — Mito da democracia racial e tipos de racismos (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Mito da democracia racial e tipos de racismos",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Florestan Fernandes mostrou que a Abolição jogou ex-escravizados na competição sem recursos, consolidando desvantagens. Sua tese desmonta o mito porque prova que a liberdade formal, sem condições materiais,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "bastou para igualar brancos e negros"
+            },
+            {
+              "id": "A02",
+              "text": "reproduziu a hierarquia racial na ordem competitiva"
+            },
+            {
+              "id": "A03",
+              "text": "eliminou o preconceito de cor"
+            },
+            {
+              "id": "A04",
+              "text": "tornou irrelevante o passado escravista"
+            },
+            {
+              "id": "A05",
+              "text": "demonstra harmonia racial brasileira"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Mito da democracia racial e tipos de racismos",
+          "assunto": "Mito da democracia racial e tipos de racismos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Hasenbalg demonstrou que, a cada etapa educacional, brancos têm mais chance de avançar que negros de mesma origem. O racismo opera aí como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "vantagem cumulativa distribuída desigualmente"
+            },
+            {
+              "id": "A02",
+              "text": "mérito individual puro e simples"
+            },
+            {
+              "id": "A03",
+              "text": "acaso estatístico sem padrão"
+            },
+            {
+              "id": "A04",
+              "text": "prova de esforço menor dos negros"
+            },
+            {
+              "id": "A05",
+              "text": "fenômeno restrito ao mercado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Mito da democracia racial e tipos de racismos",
+          "assunto": "Mito da democracia racial e tipos de racismos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O branqueamento como política (imigração europeia subsidiada) visava diluir a população negra. Como projeto de Estado, ele revela o racismo brasileiro em sua dimensão",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "individual e passageira"
+            },
+            {
+              "id": "A02",
+              "text": "inconsciente e involuntária"
+            },
+            {
+              "id": "A03",
+              "text": "restrita ao Império colonial"
+            },
+            {
+              "id": "A04",
+              "text": "meramente cultural e simbólica"
+            },
+            {
+              "id": "A05",
+              "text": "institucional e planejada"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Mito da democracia racial e tipos de racismos",
+          "assunto": "Mito da democracia racial e tipos de racismos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D24",
+      "title": "Filosofia — Negacionismo científico e políticas públicas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Negacionismo científico e políticas públicas",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A falsa simetria jornalística dá igual espaço a consensos e a negacionistas, sugerindo controvérsia onde há convergência. Essa prática distorce o debate porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "censura as opiniões minoritárias legítimas"
+            },
+            {
+              "id": "A02",
+              "text": "prolonga discussões já encerradas"
+            },
+            {
+              "id": "A03",
+              "text": "favorece apenas os cientistas famosos"
+            },
+            {
+              "id": "A04",
+              "text": "proíbe a divulgação de incertezas"
+            },
+            {
+              "id": "A05",
+              "text": "equipara evidência robusta a palpite isolado"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Negacionismo científico e políticas públicas",
+          "assunto": "Negacionismo científico e políticas públicas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Kuhn admite que paradigmas resistem a anomalias, mas o negacionismo climático cita isso para invalidar a ciência do clima. O uso é ilegítimo porque confunde resistência",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "heroica com fraude deliberada"
+            },
+            {
+              "id": "A02",
+              "text": "teórica pontual com rejeição sistemática de evidências"
+            },
+            {
+              "id": "A03",
+              "text": "justificável com obscurantismo interessado"
+            },
+            {
+              "id": "A04",
+              "text": "dos cientistas com a dos leigos"
+            },
+            {
+              "id": "A05",
+              "text": "passageira com verdade definitiva"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Negacionismo científico e políticas públicas",
+          "assunto": "Negacionismo científico e políticas públicas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Tribunais rejeitam perícias terraplanistas não por dogmatismo, mas por ausência de método e corroboração. A demarcação judicial entre ciência e pseudociência recorre, na prática, a critérios",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "puramente retóricos e arbitrários"
+            },
+            {
+              "id": "A02",
+              "text": "religiosos e confessionais"
+            },
+            {
+              "id": "A03",
+              "text": "econômicos de custo-benefício"
+            },
+            {
+              "id": "A04",
+              "text": "metodológicos partilhados pela comunidade"
+            },
+            {
+              "id": "A05",
+              "text": "estéticos de elegância teórica"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Negacionismo científico e políticas públicas",
+          "assunto": "Negacionismo científico e políticas públicas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D25",
+      "title": "Filosofia — Papel dos especialistas e peritos no estabelecimento de normas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Papel dos especialistas e peritos no estabelecimento de normas",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Comitês de bioética reúnem médicos, juristas, filósofos e pacientes para normatizar pesquisas. A composição plural se justifica porque decisões tecnocientíficas envolvem, além de fatos,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "lucros a maximizar a qualquer custo"
+            },
+            {
+              "id": "A02",
+              "text": "segredos a ocultar do público"
+            },
+            {
+              "id": "A03",
+              "text": "valores que exigem deliberação ampliada"
+            },
+            {
+              "id": "A04",
+              "text": "dogmas indiscutíveis de cada religião"
+            },
+            {
+              "id": "A05",
+              "text": "formalidades sem efeito prático"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Papel dos especialistas e peritos no estabelecimento de normas",
+          "assunto": "Papel dos especialistas e peritos no estabelecimento de normas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A tecnocracia transfere decisões políticas a especialistas, esvaziando o debate democrático. Seu déficit filosófico central está em tratar questões de valores como se fossem",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "governa promovendo e regulando a vida"
+            },
+            {
+              "id": "A02",
+              "text": "problemas técnicos sem dimensão normativa"
+            },
+            {
+              "id": "A03",
+              "text": "abole hospitais e campanhas"
+            },
+            {
+              "id": "A04",
+              "text": "vale só para tempos de guerra"
+            },
+            {
+              "id": "A05",
+              "text": "dispensa saberes médicos e estatísticos"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Papel dos especialistas e peritos no estabelecimento de normas",
+          "assunto": "Papel dos especialistas e peritos no estabelecimento de normas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Audiências públicas submetem pareceres técnicos ao escrutínio popular antes de normatizar. Esse mecanismo corrige o elitismo pericial ao",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "abolir a necessidade de especialistas"
+            },
+            {
+              "id": "A02",
+              "text": "submeter o saber ao controle democrático"
+            },
+            {
+              "id": "A03",
+              "text": "decidir por aclamação imediata"
+            },
+            {
+              "id": "A04",
+              "text": "prolongar indefinidamente as decisões"
+            },
+            {
+              "id": "A05",
+              "text": "substituir dados por opiniões"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Papel dos especialistas e peritos no estabelecimento de normas",
+          "assunto": "Papel dos especialistas e peritos no estabelecimento de normas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D26",
+      "title": "Filosofia — Pobreza, exclusão e vulnerabilidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Pobreza, exclusão e vulnerabilidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A pobreza menstrual afasta meninas pobres da escola por falta de absorventes. O programa de distribuição gratuita se justifica como política de",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "luxo supérfluo do Estado assistencialista"
+            },
+            {
+              "id": "A02",
+              "text": "privilégio injustificável a um grupo"
+            },
+            {
+              "id": "A03",
+              "text": "marketing eleitoreiro sem efeitos"
+            },
+            {
+              "id": "A04",
+              "text": "equidade que remove barreira à escolarização"
+            },
+            {
+              "id": "A05",
+              "text": "controle populacional disfarçado"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Pobreza, exclusão e vulnerabilidade",
+          "assunto": "Pobreza, exclusão e vulnerabilidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A aporofobia, aversão aos pobres enquanto pobres, explica hostilidade a moradores de rua que turistas ricos não sofrem. Diferente do preconceito racial, ela se dirige",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a qualquer estrangeiro em viagem"
+            },
+            {
+              "id": "A02",
+              "text": "aos ricos que ostentam fortuna"
+            },
+            {
+              "id": "A03",
+              "text": "à condição de miséria em si mesma"
+            },
+            {
+              "id": "A04",
+              "text": "a criminosos condenados apenas"
+            },
+            {
+              "id": "A05",
+              "text": "a doentes em hospitais públicos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Pobreza, exclusão e vulnerabilidade",
+          "assunto": "Pobreza, exclusão e vulnerabilidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Refugiados climáticos perdem território sem cruzar fronteiras por perseguição clássica, ficando fora do estatuto de refugiado. Essa lacuna revela que as categorias jurídicas",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "acompanham sempre a realidade social"
+            },
+            {
+              "id": "A02",
+              "text": "bastam para proteger todos os vulneráveis"
+            },
+            {
+              "id": "A03",
+              "text": "devem ser abolidas por inúteis"
+            },
+            {
+              "id": "A04",
+              "text": "são neutras quanto a seus efeitos"
+            },
+            {
+              "id": "A05",
+              "text": "podem deixar desprotegidos novos vulneráveis"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Pobreza, exclusão e vulnerabilidade",
+          "assunto": "Pobreza, exclusão e vulnerabilidade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D27",
+      "title": "Filosofia — Preconceito e desigualdade de gênero (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Preconceito e desigualdade de gênero",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O teto de vidro designa barreiras invisíveis que travam a ascensão feminina a chefias. Diferente de proibições explícitas, ele opera por",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "leis que vetam mulheres diretoras"
+            },
+            {
+              "id": "A02",
+              "text": "editais exclusivos para homens"
+            },
+            {
+              "id": "A03",
+              "text": "redes informais e vieses naturalizados"
+            },
+            {
+              "id": "A04",
+              "text": "falta de ambição das candidatas"
+            },
+            {
+              "id": "A05",
+              "text": "concursos integralmente fraudados"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Preconceito e desigualdade de gênero",
+          "assunto": "Preconceito e desigualdade de gênero",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A linguagem que usa o masculino como genérico (os homens, os alunos) invisibiliza as mulheres no discurso. A crítica feminista a esse uso sustenta que a língua",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reflete a realidade sem moldá-la"
+            },
+            {
+              "id": "A02",
+              "text": "deve abolir todos os gêneros gramaticais"
+            },
+            {
+              "id": "A03",
+              "text": "é imutável por natureza"
+            },
+            {
+              "id": "A04",
+              "text": "reproduz hierarquias ao nomear o mundo"
+            },
+            {
+              "id": "A05",
+              "text": "pertence apenas aos gramáticos"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Preconceito e desigualdade de gênero",
+          "assunto": "Preconceito e desigualdade de gênero",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "A ética do cuidado (Gilligan) valoriza relações e responsabilidades concretas contra a moral abstrata de princípios. Sua contribuição ao debate de gênero está em mostrar que a voz moral",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "feminina é biologicamente inferior"
+            },
+            {
+              "id": "A02",
+              "text": "pode articular-se em registro próprio e legítimo"
+            },
+            {
+              "id": "A03",
+              "text": "deve imitar o modelo masculino"
+            },
+            {
+              "id": "A04",
+              "text": "inexiste fora da maternidade"
+            },
+            {
+              "id": "A05",
+              "text": "dispensa qualquer justificação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Preconceito e desigualdade de gênero",
+          "assunto": "Preconceito e desigualdade de gênero",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D28",
+      "title": "Filosofia — Racismo institucional e racismo estrutural (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Racismo institucional e racismo estrutural",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Auditorias com currículos idênticos mostram preferência sistemática por nomes brancos. Como os avaliadores negam preconceito, o experimento isola o racismo",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "declarado em discursos de ódio"
+            },
+            {
+              "id": "A02",
+              "text": "restrito a regimes escravistas"
+            },
+            {
+              "id": "A03",
+              "text": "superado por leis antirracistas"
+            },
+            {
+              "id": "A04",
+              "text": "implícito nas decisões cotidianas"
+            },
+            {
+              "id": "A05",
+              "text": "inexistente segundo os dados"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Racismo institucional e racismo estrutural",
+          "assunto": "Racismo institucional e racismo estrutural",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "O encarceramento em massa atinge desproporcionalmente jovens negros por crimes sem violência, como o tráfico varejista. Essa seletividade penal configura racismo",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "individual de juízes isolados"
+            },
+            {
+              "id": "A02",
+              "text": "institucional do sistema de justiça"
+            },
+            {
+              "id": "A03",
+              "text": "reverso contra brancos pobres"
+            },
+            {
+              "id": "A04",
+              "text": "superado pela Constituição de 1988"
+            },
+            {
+              "id": "A05",
+              "text": "ausente de qualquer intencionalidade"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Racismo institucional e racismo estrutural",
+          "assunto": "Racismo institucional e racismo estrutural",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Dizer não sou racista, tenho amigos negros individualiza um problema estrutural e encerra o debate. Essa defesa funciona como obstáculo porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "prova a ausência de racismo no país"
+            },
+            {
+              "id": "A02",
+              "text": "demonstra amizades inter-raciais"
+            },
+            {
+              "id": "A03",
+              "text": "desloca o foco das estruturas para intenções"
+            },
+            {
+              "id": "A04",
+              "text": "resolve o problema definitivamente"
+            },
+            {
+              "id": "A05",
+              "text": "ofende os amigos mencionados"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Racismo institucional e racismo estrutural",
+          "assunto": "Racismo institucional e racismo estrutural",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D29",
+      "title": "Filosofia — Relações mediadas por estruturas de poder (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Relações mediadas por estruturas de poder",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O panóptico de Bentham, prisão em que poucos vigiam muitos que se sentem sempre observados, inspirou Foucault a pensar o poder disciplinar. Nas escolas e fábricas, esse poder opera pela",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "internalização da vigilância pelos vigiados"
+            },
+            {
+              "id": "A02",
+              "text": "violência física permanente e explícita"
+            },
+            {
+              "id": "A03",
+              "text": "abolição de todas as regras"
+            },
+            {
+              "id": "A04",
+              "text": "liberdade irrestrita dos corpos"
+            },
+            {
+              "id": "A05",
+              "text": "igualdade entre vigias e vigiados"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Relações mediadas por estruturas de poder",
+          "assunto": "Relações mediadas por estruturas de poder",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Biopolítica designa a gestão estatal das populações: natalidade, saúde, higiene. Diferente do poder soberano que mata, ela",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "deixa morrer sem intervir jamais"
+            },
+            {
+              "id": "A02",
+              "text": "governa promovendo e regulando a vida"
+            },
+            {
+              "id": "A03",
+              "text": "abole hospitais e campanhas"
+            },
+            {
+              "id": "A04",
+              "text": "vale só para tempos de guerra"
+            },
+            {
+              "id": "A05",
+              "text": "dispensa saberes médicos e estatísticos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Relações mediadas por estruturas de poder",
+          "assunto": "Relações mediadas por estruturas de poder",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Assimetrias de informação permitem a bancos e planos de saúde lucrar sobre o desconhecimento do cliente. Nessa relação, o poder se exerce pelo controle do",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "território físico das agências"
+            },
+            {
+              "id": "A02",
+              "text": "exército particular das empresas"
+            },
+            {
+              "id": "A03",
+              "text": "saber técnico inacessível ao leigo"
+            },
+            {
+              "id": "A04",
+              "text": "voto dos consumidores"
+            },
+            {
+              "id": "A05",
+              "text": "afeto entre gerente e cliente"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Relações mediadas por estruturas de poder",
+          "assunto": "Relações mediadas por estruturas de poder",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D30",
+      "title": "Filosofia — Representatividade das minorias (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Representatividade das minorias",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Cotas raciais mudaram o perfil das universidades federais em uma década. Para além do acesso, sua presença altera currículos e debates porque corpos diversos",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "rebaixam o nível das instituições"
+            },
+            {
+              "id": "A02",
+              "text": "segregam o ambiente acadêmico"
+            },
+            {
+              "id": "A03",
+              "text": "dispensam políticas de permanência"
+            },
+            {
+              "id": "A04",
+              "text": "rejeitam o conhecimento universal"
+            },
+            {
+              "id": "A05",
+              "text": "trazem saberes e questões antes ausentes"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Representatividade das minorias",
+          "assunto": "Representatividade das minorias",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A paridade de gênero em listas eleitorais enfrenta resistência sob o pretexto do mérito. O argumento da paridade responde que o mérito, em condições desiguais de partida,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é critério neutro e suficiente"
+            },
+            {
+              "id": "A02",
+              "text": "deve ser abolido como conceito"
+            },
+            {
+              "id": "A03",
+              "text": "mede apenas qualidades inatas"
+            },
+            {
+              "id": "A04",
+              "text": "funciona como véu da exclusão"
+            },
+            {
+              "id": "A05",
+              "text": "favorece naturalmente as mulheres"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Representatividade das minorias",
+          "assunto": "Representatividade das minorias",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Quando minorias alcançam o poder e reproduzem as mesmas exclusões, constata-se que a mera substituição de elites não transforma estruturas. Daí segue que representatividade sem redistribuição",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "basta para a justiça social plena"
+            },
+            {
+              "id": "A02",
+              "text": "mantém intactas as hierarquias"
+            },
+            {
+              "id": "A03",
+              "text": "dispensa qualquer crítica interna"
+            },
+            {
+              "id": "A04",
+              "text": "é mal menor a ser celebrado"
+            },
+            {
+              "id": "A05",
+              "text": "resolve a questão econômica"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Representatividade das minorias",
+          "assunto": "Representatividade das minorias",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D31",
+      "title": "Filosofia — Sentido da vida humana e componentes existenciais (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Sentido da vida humana e componentes existenciais",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O suicídio assistido opõe autonomia e sacralidade da vida. Os que o defendem em casos terminais argumentam que a dignidade inclui",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a obrigação de viver a qualquer custo"
+            },
+            {
+              "id": "A02",
+              "text": "a decisão alheia sobre o próprio fim"
+            },
+            {
+              "id": "A03",
+              "text": "o direito de recusar sofrimento inútil"
+            },
+            {
+              "id": "A04",
+              "text": "a pressa em abreviar qualquer dor"
+            },
+            {
+              "id": "A05",
+              "text": "a indiferença diante da morte alheia"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Sentido da vida humana e componentes existenciais",
+          "assunto": "Sentido da vida humana e componentes existenciais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Narrativas de quase-morte relatam túneis de luz e revisões da vida. Para a filosofia, seu interesse está menos na prova do além e mais no que revelam sobre",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a geografia exata do outro mundo"
+            },
+            {
+              "id": "A02",
+              "text": "truques neurológicos sem sentido"
+            },
+            {
+              "id": "A03",
+              "text": "fraudes sistemáticas dos relatos"
+            },
+            {
+              "id": "A04",
+              "text": "provas cabais da imortalidade"
+            },
+            {
+              "id": "A05",
+              "text": "valores e afetos que dão sentido ao viver"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Sentido da vida humana e componentes existenciais",
+          "assunto": "Sentido da vida humana e componentes existenciais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Promessas de vida eterna digital (upload da mente) atualizam o desejo de imortalidade. Sua crítica mais forte sustenta que, sem corpo e finitude, perder-se-ia",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a própria condição do sentido"
+            },
+            {
+              "id": "A02",
+              "text": "apenas o tédio da eternidade"
+            },
+            {
+              "id": "A03",
+              "text": "nada essencial à existência"
+            },
+            {
+              "id": "A04",
+              "text": "somente memórias triviais"
+            },
+            {
+              "id": "A05",
+              "text": "o medo irracional da morte"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Sentido da vida humana e componentes existenciais",
+          "assunto": "Sentido da vida humana e componentes existenciais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D32",
+      "title": "Filosofia — Sexualidade, identidade, orientação e expressão de gênero (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Sexualidade, identidade, orientação e expressão de gênero",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Terapias de conversão prometem curar homossexualidade, mas produzem depressão e suicídio. Sua condenação ética se funda em que a orientação sexual",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é doença a ser tratada"
+            },
+            {
+              "id": "A02",
+              "text": "resulta de traumas curáveis"
+            },
+            {
+              "id": "A03",
+              "text": "pode ser escolhida livremente"
+            },
+            {
+              "id": "A04",
+              "text": "não é patologia nem escolha"
+            },
+            {
+              "id": "A05",
+              "text": "afeta só uma minoria irrelevante"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Sexualidade, identidade, orientação e expressão de gênero",
+          "assunto": "Sexualidade, identidade, orientação e expressão de gênero",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "O armário descreve a pressão para ocultar orientações dissidentes. Sair dele é ato político porque rompe publicamente com",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a norma compulsória da heterossexualidade"
+            },
+            {
+              "id": "A02",
+              "text": "leis que protegem a privacidade"
+            },
+            {
+              "id": "A03",
+              "text": "a própria intimidade e discrição"
+            },
+            {
+              "id": "A04",
+              "text": "o respeito aos mais velhos"
+            },
+            {
+              "id": "A05",
+              "text": "tradições sem qualquer poder"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Sexualidade, identidade, orientação e expressão de gênero",
+          "assunto": "Sexualidade, identidade, orientação e expressão de gênero",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Bissexuais sofrem apagamento tanto em espaços hétero quanto homossexuais. Essa dupla invisibilidade mostra que o binarismo hetero/homo funciona como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "descrição neutra da realidade"
+            },
+            {
+              "id": "A02",
+              "text": "norma que exclui o que escapa"
+            },
+            {
+              "id": "A03",
+              "text": "verdade autoevidente"
+            },
+            {
+              "id": "A04",
+              "text": "consenso científico atual"
+            },
+            {
+              "id": "A05",
+              "text": "fase passageira da juventude"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Sexualidade, identidade, orientação e expressão de gênero",
+          "assunto": "Sexualidade, identidade, orientação e expressão de gênero",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D33",
+      "title": "Filosofia — Sociedade de consumo massificado e sociedade do espetáculo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Sociedade de consumo massificado e sociedade do espetáculo",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O fast fashion barateia roupas à custa de trabalho precário e rios poluídos. O preço baixo, portanto, externaliza custos que",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "recaem sobre trabalhadores e natureza"
+            },
+            {
+              "id": "A02",
+              "text": "são pagos integralmente pelas marcas"
+            },
+            {
+              "id": "A03",
+              "text": "inexistem na produção moderna"
+            },
+            {
+              "id": "A04",
+              "text": "beneficiam o meio ambiente"
+            },
+            {
+              "id": "A05",
+              "text": "provam a eficiência do setor"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Filosofia > Sociedade de consumo massificado e sociedade do espetáculo",
+          "assunto": "Sociedade de consumo massificado e sociedade do espetáculo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A gamificação converte estudo e trabalho em pontos e rankings. Sob a aparência lúdica, ela estende a lógica",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "do ócio contemplativo grego"
+            },
+            {
+              "id": "A02",
+              "text": "da festa popular gratuita"
+            },
+            {
+              "id": "A03",
+              "text": "do desempenho mensurado a tudo"
+            },
+            {
+              "id": "A04",
+              "text": "da cooperação desinteressada"
+            },
+            {
+              "id": "A05",
+              "text": "do lazer improdutivo"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Sociedade de consumo massificado e sociedade do espetáculo",
+          "assunto": "Sociedade de consumo massificado e sociedade do espetáculo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Reality shows transformam intimidade em mercadoria assistida por milhões. O público, ao mesmo tempo voyeur e juiz, participa de um espetáculo que",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "emancipa os participantes da fama"
+            },
+            {
+              "id": "A02",
+              "text": "critica a sociedade do consumo"
+            },
+            {
+              "id": "A03",
+              "text": "educa para a cidadania ativa"
+            },
+            {
+              "id": "A04",
+              "text": "expõe vidas sem lastro ético"
+            },
+            {
+              "id": "A05",
+              "text": "faz da vigilância entretenimento"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Sociedade de consumo massificado e sociedade do espetáculo",
+          "assunto": "Sociedade de consumo massificado e sociedade do espetáculo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D34",
+      "title": "Filosofia — Sociedades tradicionais e urbano-industriais (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Sociedades tradicionais e urbano-industriais",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A revolta contra catracas e tarifas revela o transporte como direito negado aos pobres. Lefebvre chamaria essa luta de reivindicação do direito",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "à propriedade privada dos ônibus"
+            },
+            {
+              "id": "A02",
+              "text": "de ir e vir restrito aos ricos"
+            },
+            {
+              "id": "A03",
+              "text": "à cidade e à vida urbana plena"
+            },
+            {
+              "id": "A04",
+              "text": "de voto aos dezesseis anos"
+            },
+            {
+              "id": "A05",
+              "text": "ao consumo ilimitado"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Sociedades tradicionais e urbano-industriais",
+          "assunto": "Sociedades tradicionais e urbano-industriais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Comunidades tradicionais manejam florestas há séculos sem destruí-las, enquanto o agronegócio desmata em décadas. O contraste sugere que sustentabilidade depende menos de tecnologia e mais de",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "abundância de capital financeiro"
+            },
+            {
+              "id": "A02",
+              "text": "relação não predatória com o território"
+            },
+            {
+              "id": "A03",
+              "text": "isolamento total do mercado"
+            },
+            {
+              "id": "A04",
+              "text": "proibição de qualquer manejo"
+            },
+            {
+              "id": "A05",
+              "text": "sorte climática das regiões"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Sociedades tradicionais e urbano-industriais",
+          "assunto": "Sociedades tradicionais e urbano-industriais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "O êxodo rural esvaziou campos e inchou periferias, rompendo modos de vida comunitários. Para os expulsos, a cidade grande oferece, contraditoriamente,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "integração plena e imediata"
+            },
+            {
+              "id": "A02",
+              "text": "retorno garantido às origens"
+            },
+            {
+              "id": "A03",
+              "text": "anonimato e precariedade juntos"
+            },
+            {
+              "id": "A04",
+              "text": "tradições preservadas intactas"
+            },
+            {
+              "id": "A05",
+              "text": "igualdade substantiva de direitos"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Filosofia > Sociedades tradicionais e urbano-industriais",
+          "assunto": "Sociedades tradicionais e urbano-industriais",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "FILOSOFIA-ENEM-D35",
+      "title": "Filosofia — Teorias da fundação da sociedade civil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Teorias da fundação da sociedade civil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Filmer defendia o poder absoluto dos reis por descendência de Adão; Locke o refutou negando fundamento divino à autoridade. O debate revela que, para o contratualismo nascente, era preciso",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "provar a existência de Adão"
+            },
+            {
+              "id": "A02",
+              "text": "restaurar a monarquia absoluta"
+            },
+            {
+              "id": "A03",
+              "text": "secularizar a fundação do poder"
+            },
+            {
+              "id": "A04",
+              "text": "abolir toda forma de governo"
+            },
+            {
+              "id": "A05",
+              "text": "negar qualquer direito natural"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Filosofia > Teorias da fundação da sociedade civil",
+          "assunto": "Teorias da fundação da sociedade civil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A distinção entre poder constituinte e constituído reserva ao povo a fundação e aos governos o exercício limitado. Quando governantes se declaram refundadores permanentes, violam",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a eficiência administrativa"
+            },
+            {
+              "id": "A02",
+              "text": "a distinção entre fundar e governar"
+            },
+            {
+              "id": "A03",
+              "text": "o princípio da publicidade"
+            },
+            {
+              "id": "A04",
+              "text": "regras de etiqueta institucional"
+            },
+            {
+              "id": "A05",
+              "text": "a separação entre Igreja e Estado"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Filosofia > Teorias da fundação da sociedade civil",
+          "assunto": "Teorias da fundação da sociedade civil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 03",
+          "text": "Contratos hipotéticos (como o de Rawls) não descrevem fatos históricos, mas testam a justiça de instituições. Sua função filosófica é oferecer um critério",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "historiográfico sobre o passado"
+            },
+            {
+              "id": "A02",
+              "text": "técnico para redigir leis"
+            },
+            {
+              "id": "A03",
+              "text": "profético sobre o futuro"
+            },
+            {
+              "id": "A04",
+              "text": "estético para julgar obras"
+            },
+            {
+              "id": "A05",
+              "text": "normativo para avaliar o presente"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Filosofia > Teorias da fundação da sociedade civil",
+          "assunto": "Teorias da fundação da sociedade civil",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed"
+        }
+      ]
+    }
+  ]
+}

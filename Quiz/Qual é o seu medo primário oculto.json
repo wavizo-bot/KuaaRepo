@@ -1,0 +1,809 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:14:52.186Z",
+  "exams": [
+    {
+      "id": "quiz-1788887687747",
+      "title": "Qual é o seu medo primário oculto?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual é o seu medo primário oculto?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Qual dessas situações te causa mais ansiedade?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ser deixado(a) de fora de um evento importante com amigos",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fracassar em um projeto que você se dedicou muito",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sentir que sua vida não tem propósito ou relevância",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Perder o controle sobre uma situação importante",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "O que você mais evita?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Conflitos que possam afastar as pessoas que você ama",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Situações onde você pode ser julgado(a) ou exposto(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ser ignorado(a) ou tratado(a) como invisível",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "O inesperado — situações que você não pode planejar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você se sente quando está sozinho(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Desconfortável — parece que estou sendo abandonado(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Produtivo(a) — posso focar em não falhar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Invisível — como se não existisse",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "No controle — finalmente tudo do meu jeito",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Qual dessas frases ecoa mais dentro de você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Não me deixe\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Preciso provar que sou capaz\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Eu quero ser lembrado(a)\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Preciso manter tudo sob controle\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Como você lida com uma crítica?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico com medo de que a pessoa vá me abandonar",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Me culpo intensamente — mais uma prova do meu fracasso",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico com raiva — estão me diminuindo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico na defensiva — preciso reafirmar minha posição",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "O que você mais deseja em um relacionamento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Que a pessoa nunca me deixe",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Que a pessoa me veja como suficiente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Que a pessoa me ache especial e inesquecível",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que a pessoa seja previsível e confiável",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você lida com o sucesso?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico feliz, mas preocupado(a) — e se as pessoas se afastarem?",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Penso que pode ser sorte — não quero me decepcionar depois",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sinto que finalmente estou sendo visto(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico aliviado(a) — tudo saiu como planejado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Qual desses cenários te assusta mais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Que as pessoas que você ama te esqueçam",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Passar a vida inteira sem alcançar nada significativo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Viver uma vida comum, sem deixar marca no mundo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que tudo saia do lugar e você não consiga consertar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Como você se sente quando alguém não responde suas mensagens?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ansioso(a) — será que fiz algo errado?",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Penso no que poderia ter feito diferente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico irritado(a) — como se eu não fosse importante",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Planejo como abordar o assunto com firmeza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O que te faz sentir seguro(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Saber que as pessoas importantes estão por perto",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Saber que você se preparou o suficiente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ser reconhecido(a) pelo que você faz",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Ter um plano para cada cenário possível",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você reage quando percebe que foi substituído(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sinto um aperto no peito — como se tivesse perdido algo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Penso que não fui bom(a) o suficiente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico com raiva — como ousam me esquecer?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Planejo como retomar o controle da situação",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Qual dessas vozes internas é mais presente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Eles vão te abandonar\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Você não é bom(a) o suficiente\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Você não é importante\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Tudo vai sair do controle\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O que você mais precisa ouvir?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Eu não vou te deixar\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Você já é suficiente, não precisa provar nada\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Você é inesquecível\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Está tudo sob controle\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Se você pudesse eliminar um medo, qual seria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "O medo de ser deixado(a) para trás",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "O medo de não ser bom(a) o suficiente",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "O medo de ser esquecido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "O medo de que tudo desabe",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse transformar seu medo em uma força, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Aprender que você nunca está realmente sozinho(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Aprender que você já é suficiente — sem provas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Aprender que seu valor não depende de ser lembrado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Aprender que a vida não precisa ser controlada — apenas vivida",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:14:47.747Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "💔 MEDO DO ABANDONO — A Fome de Permanência",
+          "texto": "O que realmente move você, no fundo, é o medo de ser deixado(a) para trás. Como alguém com medo primário do abandono, suas decisões são guiadas pela necessidade de manter laços, de ser escolhido(a), de não ser substituído(a). Você pode ser excessivamente agradável, evitar conflitos a todo custo, ou se apegar rápido demais — tudo para garantir que as pessoas fiquem. Você sente uma ansiedade profunda quando alguém se afasta, quando percebe que está sendo excluído(a), ou quando sente que não é prioridade. Sua maior força? Sua lealdade e capacidade de conectar-se profundamente. Seu maior desafio? Aprender que sua permanência no coração dos outros não é algo que você pode controlar — e que você já é inteiro(a) sozinho(a). O abandono que você mais teme é aquele que você mesmo(a) pratica quando se esquece de si. \"O medo do abandono é a voz que diz 'fique'. Mas a verdade é que você já é digno(a) de amor — mesmo quando está sozinho(a).\""
+        },
+        {
+          "id": "final2",
+          "titulo": "📉 MEDO DO FRACASSO — A Corrida pela Prova",
+          "texto": "O que realmente move você, no fundo, é o medo de não ser bom(a) o suficiente. Como alguém com medo primário do fracasso, suas decisões são guiadas pela necessidade de provar seu valor — para si mesmo(a) e para os outros. Você se cobra implacavelmente, evita riscos que possam te expor, e transforma cada erro em uma ferida profunda. Você pode ser workaholic, perfeccionista, ou evitar desafios para não correr o risco de falhar. Sua maior força? Sua disciplina e busca por excelência. Seu maior desafio? Aprender que seu valor não está no que você conquista — e que o fracasso não te define. O fracasso que você mais teme é aquele que você nunca vai experimentar se não tentar. \"O medo do fracasso é a voz que diz 'prove'. Mas a verdade é que você já é suficiente — mesmo quando não está produzindo.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "👻 MEDO DA INSIGNIFICÂNCIA — A Busca por Ser Visto",
+          "texto": "O que realmente move você, no fundo, é o medo de não importar. Como alguém com medo primário da insignificância, suas decisões são guiadas pela necessidade de ser lembrado(a), de marcar presença, de deixar uma marca no mundo. Você pode buscar holofotes, acumular títulos, ou se sentir invisível quando não é notado(a). Você teme ser apenas mais um(a) no meio da multidão — e faz de tudo para se destacar. Sua maior força? Sua ambição e desejo de fazer a diferença. Seu maior desafio? Aprender que você já importa — não pelo que faz, mas por quem é. A insignificância que você mais teme é aquela que você sente quando se esquece de que já é único(a). \"O medo da insignificância é a voz que diz 'veja-me'. Mas a verdade é que você já é memorável — mesmo quando ninguém está olhando.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🎮 MEDO DA PERDA DE CONTROLE — A Ilusão da Certeza",
+          "texto": "O que realmente move você, no fundo, é o medo de que tudo desabe. Como alguém com medo primário da perda de controle, suas decisões são guiadas pela necessidade de prever, planejar e garantir que nada saia do lugar. Você pode ser excessivamente rígido(a), ansioso(a) com imprevistos, ou ter dificuldade de confiar nos outros. Você teme o caos, a incerteza, a sensação de que o chão pode sumir — e faz de tudo para manter as rédeas na mão. Sua maior força? Sua capacidade de organização e previsão. Seu maior desafio? Aprender que o controle é uma ilusão — e que a vida é, por natureza, incerta. A perda de controle que você mais teme é aquela que você já está vivendo ao tentar controlar o incontrolável. \"O medo da perda de controle é a voz que diz 'segure'. Mas a verdade é que você só aprende a voar quando solta as mãos.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

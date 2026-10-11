@@ -1,0 +1,809 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:09:43.834Z",
+  "exams": [
+    {
+      "id": "quiz-1788887153601",
+      "title": "Qual \"fase de vida\" sua mente está vivendo no momento?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual \"fase de vida\" sua mente está vivendo no momento?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Como você descreveria seu momento de vida atual?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Estou começando muitas coisas novas — ainda estou me descobrindo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Estou colhendo os frutos do que plantei — as coisas estão se estabilizando",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estou passando por grandes mudanças — muitas coisas estão se desfazendo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Estou soltando o que não importa mais — focando no essencial",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você se sente em relação ao futuro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Empolgado(a) — tudo é possível, estou cheio(a) de planos",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Confiante — estou no caminho certo e as coisas estão fluindo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Incerteza — não sei o que vem pela frente, e isso me assusta e me anima",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sereno(a) — o futuro é incerto, mas isso não me preocupa mais",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "O que ocupa mais a sua mente hoje?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Descobrir quem eu sou e o que quero fazer da vida",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fazer minha carreira/relacionamentos/vida dar certo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Lidar com mudanças que estão acontecendo — mesmo sem saber para onde vão",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Deixar ir o que já não faz sentido — e viver com mais leveza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Como você se sente em relação ao seu passado?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "É uma fonte de aprendizado — ainda estou processando muitas coisas",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Estou em paz — o passado me trouxe até aqui",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estou fazendo as pazes com ele — algumas coisas ainda doem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Já não peso tanto — o que passou, passou",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Qual dessas palavras descreve melhor seu momento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Descoberta",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Estabilidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Mudança",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Desapego",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Qual é sua relação com seus objetivos atuais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Estou definindo eles — ainda não sei exatamente quais são",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Estou alcançando eles — as coisas estão se concretizando",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estou reavaliando eles — os antigos já não fazem sentido",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Já não tenho objetivos rígidos — a vida flui, e eu acompanho",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você lida com a ideia de \"não saber\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me incomoda — quero respostas e direção",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Aceito, desde que tenha um plano geral",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estou aprendendo a conviver com isso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Estou em paz — a vida é mistério, e isso é lindo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Qual desses sentimentos é mais presente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Empolgação e ansiedade por tudo o que está por vir",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Realização e gratidão pelo que construí",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Inquietação e curiosidade sobre o que vem depois",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Serenidade e aceitação do que é",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Como você se vê daqui a 5 anos?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Alguém que se encontrou — que descobriu seu caminho",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Alguém que consolidou sua vida — estável e realizado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Alguém que se reinventou — passou por transformações profundas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Alguém que vive com leveza — sem tantas amarras",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O que você mais deseja neste momento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Direção — saber para onde estou indo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Reconhecimento — ver meu esforço ser recompensado",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Clareza — entender o que está mudando e por quê",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Liberdade — sentir que posso ser quem sou sem amarras",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você descreve sua relação com o tempo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sinto que o tempo está passando rápido demais — preciso correr",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Sinto que o tempo está no meu favor — as coisas estão acontecendo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sinto que o tempo está meio confuso — algumas coisas avançam, outras param",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sinto que o tempo é uma ilusão — o importante é o agora",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Como você lida com a ideia de \"começar de novo\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Com empolgação — adoro novos começos",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Com cautela — já tenho uma base, não quero recomeçar do zero",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Com medo e coragem — é necessário, mas assusta",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Com naturalidade — a vida é feita de ciclos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O que você sente ao olhar para pessoas mais jovens?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Identificação — ainda estou na mesma vibe",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Empatia — já passei por isso, sei como é",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estranhamento — parece que o mundo delas é muito diferente do meu",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Admiração — elas têm uma energia que já não me é tão necessária",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O que você sente ao olhar para pessoas mais velhas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Admiração — quero chegar lá e ter essa sabedoria",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Identificação — já estou começando a entender o que elas passaram",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Curiosidade — como elas chegaram até aqui?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Conexão — entendo profundamente o que elas vivem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se você pudesse dar um conselho para seu eu de 10 anos atrás, qual seria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Confia no processo — tudo vai se encaixar\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Continue no caminho — você está indo bem\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não tenha medo das mudanças — elas vão te levar a lugares incríveis\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Nada disso importa tanto quanto você pensa — viva mais leve\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:05:53.601Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🌱 CONSTRUÇÃO — A Primavera da Vida",
+          "texto": "Você está na fase da construção — e isso é empolgante e assustador ao mesmo tempo. Como alguém em construção, sua mente está focada em criar, edificar e lançar as bases do que virá. Você está absorvendo informações como uma esponja, experimentando caminhos, cometendo erros e aprendendo com eles. Sua energia é abundante, sua curiosidade é infinita e sua disposição para correr riscos é alta. Você está construindo sua identidade, sua carreira, seus relacionamentos — e tudo parece possível. Sua maior força? Sua capacidade de sonhar e agir. Seu maior desafio? A impaciência — você quer que as coisas aconteçam agora, e a vida tem seus próprios tempos. Pessoas como você são sementes que estão brotando. Aprenda a confiar no processo: a construção leva tempo, e cada tijolo colocado hoje é o alicerce do amanhã. \"Você não está atrasado(a). Você está exatamente onde precisa estar para construir algo que vai durar.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🌳 CONSOLIDAÇÃO — O Verão da Vida",
+          "texto": "Você está na fase da consolidação — e isso é fruto de muito trabalho. Como alguém em consolidação, sua mente está colhendo o que plantou. Você já passou pela fase de experimentação e agora está solidificando suas escolhas. Você sabe quem é, o que quer e para onde vai. Sua energia está mais estável, sua confiança é mais sólida e você começa a ver os frutos do seu esforço. Você está construindo legado, aprofundando relacionamentos e estabilizando sua vida. Sua maior força? Sua maturidade e clareza. Seu maior desafio? Não se acomodar — a consolidação pode virar estagnação se você parar de crescer. Pessoas como você são árvores frondosas que dão sombra e frutos. Aprenda a equilibrar: aproveite o que construiu, mas continue se nutrindo. A vida não é um destino — é um movimento constante. \"Você colhe hoje o que plantou ontem. Mas lembre-se: você ainda pode plantar novas sementes.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🍂 TRANSIÇÃO — O Outono da Vida",
+          "texto": "Você está na fase da transição — e isso é desconfortável, mas necessário. Como alguém em transição, sua mente está em movimento. Algo antigo está morrendo, e algo novo ainda não nasceu. Você pode estar mudando de carreira, de relacionamento, de cidade, de identidade. As certezas que você tinha estão se dissolvendo, e você está aprendendo a navegar na névoa. Essa é uma fase de perdas, mas também de descobertas. Sua maior força? Sua coragem de se reinventar. Seu maior desafio? A paciência para esperar o novo emergir — enquanto você sente o desconforto do \"entre\". Pessoas como você estão no limiar de algo novo. Aprenda a confiar na queda: as folhas caem para que a árvore renasça. Você não está perdido(a) — está se transformando. \"A transição é o útero da transformação. O desconforto que você sente é o preço do renascimento.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🕊️ DESAPEGO — O Inverno da Vida",
+          "texto": "Você está na fase do desapego — e isso é uma sabedoria rara. Como alguém em desapego, sua mente já não se prende às mesmas coisas de antes. Você já construiu, já consolidou, já transitou — e agora está deixando ir. Não por derrota, mas por maturidade. Você entende que a vida é fluida, que as posses, os títulos e até as identidades são temporários. Você está mais interessado(a) no essencial do que no acessório. Sua maior força? Sua paz e sua perspectiva. Seu maior desafio? Não se tornar indiferente — o desapego não é apatia, é liberdade. Pessoas como você são faróis de sabedoria para quem está começando a jornada. Aprenda a compartilhar: sua experiência é um presente. O desapego não é o fim — é o começo de uma nova forma de viver. \"O desapego não é perder. É perceber que você nunca precisou segurar.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:15:48.145Z",
+  "exams": [
+    {
+      "id": "quiz-1788887742820",
+      "title": "O que a sua relação com o tempo diz sobre a sua urgência de vida?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "O que a sua relação com o tempo diz sobre a sua urgência de vida?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Quando você está entediado(a), para onde sua mente costuma ir?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Para memórias — lembro de momentos bons ou ruins do passado",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Para o que está na minha frente — o que preciso fazer agora?",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Para o futuro — o que vem depois? O que pode acontecer?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Qual dessas frases você mais se identifica?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Os bons e velhos tempos...\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Um dia de cada vez\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"O que será de mim amanhã?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você se sente ao olhar fotos antigas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Uma mistura de carinho e tristeza — parece que já foi melhor",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Não olho muito — tô focado(a) no que está acontecendo agora",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Penso em como as coisas vão estar no futuro — quem vou ser?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Quando você faz planos, como se sente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Prefiro não fazer muitos — os melhores momentos foram os que não planejei",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Faço o que é necessário e sigo em frente — sem grandes expectativas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Planejo tudo — e fico ansioso(a) se algo sai do previsto",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Como você descreveria sua relação com a morte?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Penso com nostalgia — na morte, tudo se encontra no passado",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Não penso muito — tô vivo(a), então não é problema agora",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Me assusta — o tempo está passando rápido demais",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "O que te dá mais angústia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "O que já foi e não volta mais",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "A sensação de estar perdendo o tempo enquanto não faço nada",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Não saber o que vai acontecer — a incerteza do amanhã",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você se sente no seu aniversário?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Nostálgico(a) — lembro de todos os aniversários que passaram",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "É só mais um dia — o que importa é o que faço hoje",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ansioso(a) — mais um ano se foi, o que ainda não fiz?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "O que você pensa quando ouve a expressão \"carpe diem\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Sei lá, aproveitar o dia parece esquecer o que veio antes\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Sim, é isso — viver o momento, sem firulas\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Fácil falar — mas e o amanhã?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Você costuma guardar objetos ou lembranças?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sim — tenho dificuldade de me desfazer de coisas com história",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Não ligo — o que importa é o que está vivo agora",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Guardo o que pode ser útil no futuro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Quando você se pega sonhando acordado(a), o que geralmente sonha?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Lembranças — momentos que já vivi, pessoas que já se foram",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Nada muito específico — o que está rolando agora",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Cenários futuros — como minha vida vai ser, o que vou alcançar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você se sente em relação ao \"agora\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "É um lugar meio estranho — sempre fico comparando com o passado",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "É onde eu vivo — não tem outro lugar para estar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "É só uma ponte para o futuro — o que importa é onde vou chegar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "O que te faz sentir que está vivendo de verdade?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Revisitar lugares e memórias que me marcaram",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Estar completamente imerso(a) no que estou fazendo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estar construindo algo que vai durar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Qual desses sentimentos é mais frequente em você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Saudade",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tédio ou cansaço",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ansiedade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Como você lida com o fim de um ciclo (término, formatura, mudança)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Choro, sinto falta, quero manter o que já foi",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Segue em frente — acabou, agora é vida nova",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico ansioso(a) — e agora? O que vem depois?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse escolher uma forma de viver, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Viver revivendo os melhores momentos — como um filme que passa sempre",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Viver como se cada dia fosse único — sem peso do ontem ou do amanhã",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Viver construindo um futuro grandioso — mesmo que o presente sofra",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:15:42.820Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "⏳ PRISIONEIRO DO PASSADO — A Nostalgia como Lar",
+          "texto": "Você vive com um pé no passado — e isso te dá conforto, mas também te prende. Como alguém que habita o passado, você tem uma relação profunda com as memórias, as histórias e as pessoas que já não estão mais no seu presente. Você sente falta de \"como as coisas eram\", e muitas vezes compara o agora com o que já foi. O passado é um lugar seguro — você sabe como ele funciona, você já viveu aquilo. Mas enquanto você olha para trás, a vida continua passando à sua frente. Sua maior força? Sua capacidade de honrar a memória, de valorizar o que foi vivido e de aprender com a história. Seu maior desafio? Perceber que o passado é uma âncora — e que, para navegar, você precisa soltar a corrente. A nostalgia pode ser um abraço quentinho, mas também pode ser uma prisão onde você se mantém refém do que já acabou. \"O passado é um lugar de memórias, não de moradia. Visite-o com carinho, mas não se mude para lá.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🌀 PRISIONEIRO DO PRESENTE — O Automatismo do Agora",
+          "texto": "Você vive no piloto automático — e isso te faz eficiente, mas também te desconecta de si mesmo. Como alguém que habita o presente, você está sempre lidando com o que está na sua frente: tarefas, obrigações, urgências. Você não olha muito para trás (dói) nem para frente (assusta). Você só quer dar conta do que está aqui e agora. Mas esse \"aqui e agora\" muitas vezes não é presença — é fuga. Você se mantém ocupado(a) para não sentir, para não pensar, para não parar. Sua maior força? Sua capacidade de lidar com o que precisa ser feito, sua disciplina e sua resiliência. Seu maior desafio? Perceber que o presente não é só sobre fazer — é sobre sentir. Sobre estar, não apenas sobre agir. O automatismo é um escudo que te protege, mas também te impede de sentir a vida. \"Você está tão ocupado(a) sobrevivendo que esqueceu de viver. O agora não é só sobre o que você faz — é sobre quem você é enquanto faz.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🔮 PRISIONEIRO DO FUTURO — A Ansiedade do Amanhã",
+          "texto": "Você vive com um olho no futuro — e isso te faz planejar, mas também te rouba o presente. Como alguém que habita o futuro, você está sempre antecipando o que vai acontecer, imaginando cenários, se preparando para o pior (ou para o melhor). O futuro é um lugar de possibilidades — e você quer estar pronto para todas elas. Mas enquanto você se prepara para o que ainda não aconteceu, o presente escorre entre seus dedos. Sua maior força? Sua visão, sua capacidade de planejar e sua ambição. Seu maior desafio? Perceber que o futuro não existe — só o agora. E que toda a ansiedade que você sente é sobre algo que ainda não aconteceu, e que talvez nunca aconteça. O futuro é uma promessa, não uma certeza. E você está cansado(a) de esperar por ele. \"Você está tão ocupado(a) imaginando o amanhã que esqueceu que a vida só acontece no hoje. O futuro não é um lugar para se viver — é um lugar para se construir.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

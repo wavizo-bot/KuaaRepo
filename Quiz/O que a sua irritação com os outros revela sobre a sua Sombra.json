@@ -1,0 +1,1039 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:13:53.854Z",
+  "exams": [
+    {
+      "id": "quiz-1788887624663",
+      "title": "O que a sua irritação com os outros revela sobre a sua Sombra?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "O que a sua irritação com os outros revela sobre a sua Sombra?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "O que mais te irrita em algumas pessoas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Gente que se acha superior e fala como se soubesse tudo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Pessoas carentes que não sabem ficar sozinhas e grudam demais",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Gente que vive se promovendo e chamando atenção",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Pessoas explosivas que perdem o controle e gritam",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Gente que não tem opinião e aceita tudo sem questionar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você reage quando alguém se impõe de forma autoritária?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me incomoda profundamente — parece uma falta de respeito",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico desconfortável — parece uma invasão",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Me irrita — a pessoa quer ser o centro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Me ativa — quero confrontar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Acho estranho — mas talvez seja melhor evitar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Alguém próximo a você é muito carente e dependente. Sua reação:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Parece que quer me controlar também\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Não suporto isso — cresça, por favor\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Fico desconfortável com essa vulnerabilidade\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Sinto raiva — parece manipulação\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Não sei lidar com isso\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 2,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "O que você sente quando alguém se vangloria de suas conquistas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Que necessidade de validação!\" (com desdém)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"A pessoa é tão egocêntrica\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Um pouco de humildade não faria mal\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Me faz questionar minhas próprias conquistas\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Não me importo — cada um é cada um\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 2,
+                "final4": 0,
+                "final5": 0
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Como você lida com pessoas explosivas e dramáticas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Que imaturidade — não consigo respeitar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Isso me deixa tenso(a) — parece que vou explodir também\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Elas precisam aprender a se controlar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Não suporto esse tipo de comportamento\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fico desconfortável e quero sair de perto\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 2,
+                "final5": 0
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "O que mais te incomoda em um líder ou chefe?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Quando é autoritário e não escuta ninguém",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Quando espera que eu resolva tudo sozinho(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Quando rouba os créditos dos outros",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Quando grita e perde a paciência com a equipe",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Quando não toma decisão nenhuma",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Você se incomoda com pessoas que...",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Dão ordens como se fossem donas da verdade",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Não sabem ficar sozinhas e precisam de atenção constante",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Se gabam o tempo todo de tudo que fazem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Perdem o controle por qualquer motivo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Nunca se posicionam e deixam tudo pra lá",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você reage quando alguém te diz \"você está errado(a)\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Essa pessoa é arrogante — acha que sabe mais que todo mundo\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Fico magoado(a) e penso se a pessoa ainda gosta de mim\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Essa pessoa está com inveja — quer me diminuir\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Quero discutir até provar que estou certo(a)\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Será que estou mesmo errado(a)?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "O que te faz perder a paciência mais rápido?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Pessoas que não escutam e interrompem",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Pessoas que são muito dependentes e inseguras",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Pessoas que se acham melhores que todo mundo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Pessoas que gritam e fazem escândalo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Pessoas que não fazem nada e esperam que os outros resolvam",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Se alguém próximo a você é muito competitivo, você sente:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Essa pessoa é arrogante — quer sempre estar acima\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Precisa de validação externa — é meio carente\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Inveja, pura inveja — não aguenta que outro brilhe\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Competitividade saudável? Só se for à força\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Não entendo — por que competir?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O que mais te irrita em ambientes de trabalho?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Gente que quer mandar em tudo sem ter autoridade",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Colegas que não sabem fazer nada sozinhos",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Pessoas que vivem puxando o saco dos chefes",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Gente que explode por qualquer coisa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Colegas que não tomam atitude e empurram tudo com a barriga",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Você se sente especialmente irritado(a) com:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Pessoas que falam \"eu te avisei\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Pessoas que \"não conseguem\" fazer nada sozinhas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Pessoas que monopolizam conversas com suas conquistas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Pessoas que fazem \"tempestade em copo d'água\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Pessoas que não têm opinião e concordam com tudo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Como você descreveria seu \"gatilho\" emocional?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Arrogância — não suporto quem se acha superior",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Dependência — não suporto quem não se vira",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Exibicionismo — não suporto quem vive se gabando",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Falta de controle — não suporto quem explode",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Passividade — não suporto quem não age",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Se um amigo te diz \"você está sendo arrogante\", sua reação é:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Como assim? Eu sou humilde!\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Será que estou carente?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Você está com ciúmes\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Não falo mais nada então\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Talvez você tenha razão\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse transformar sua irritação em algo, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reconhecer que também tenho meu lado mandão",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Aceitar que também preciso dos outros",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Permitir que eu também queira ser visto(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Validar minha própria raiva e intensidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Dar o direito de também não querer lutar o tempo todo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:13:44.663Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🔥 A SOMBRA DA ARROGÂNCIA E AUTORITARISMO",
+          "texto": "O que te irrita nos outros revela que você reprime sua própria arrogância e desejo de controle. Você se incomoda profundamente com pessoas que se acham superiores, que dão ordens sem pedir, que falam como se soubessem tudo. Mas a verdade é que, dentro de você, há uma parte que também quer mandar, que se sente melhor que os outros, que quer ser a voz que decide. Você aprendeu que isso é \"feio\" ou \"errado\" — então enterrou essa parte. O problema? Ela não morreu. Ela apenas se esconde em cada irritação sua. Seu desafio é reconhecer que você também tem direito de ocupar espaço, de ter opinião forte, de se impor — sem precisar se odiar por isso. Quando você aceitar sua própria arrogância, ela deixará de te atormentar nos outros. \"A Sombra que você mais condena nos outros é a força que você mais teme em si mesmo(a). Não é sobre eles — é sobre você.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🎭 A SOMBRA DA DEPENDÊNCIA E CARÊNCIA",
+          "texto": "O que te irrita nos outros revela que você reprime sua própria vulnerabilidade e necessidade de conexão. Você se incomoda com pessoas carentes, grudenta, que parecem não saber ficar sozinhas. Você julga quem precisa de atenção constante, quem demonstra muita dependência emocional. Mas a verdade é que, dentro de você, há uma parte que também precisa dos outros, que sente medo da solidão, que quer ser acolhido(a). Você aprendeu que depender é fraqueza — então enterrou essa parte. O problema? Ela se manifesta na forma de julgamento e distância. Seu desafio é reconhecer que sua necessidade de conexão não te faz fraca(a) — te faz humana. Quando você aceitar sua própria carência, ela deixará de te incomodar nos outros. \"O que você rejeita nos outros é o que você rejeita em si. E o que você rejeita em si, nunca pode curar.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "⚡ A SOMBRA DA COMPETIÇÃO E INVEJA",
+          "texto": "O que te irrita nos outros revela que você reprime sua própria ambição e desejo de ser reconhecido(a). Você se incomoda com pessoas que se promovem demais, que chamam a atenção, que parecem querer ser o centro das atenções. Você julga quem é \"exibido(a)\", quem fala de suas conquistas, quem aparece. Mas a verdade é que, dentro de você, há uma parte que também quer ser vista, que deseja reconhecimento, que tem fome de sucesso. Você aprendeu que isso é \"vaidade\" ou \"egoísmo\" — então enterrou essa parte. O problema? Ela se transforma em ressentimento. Seu desafio é reconhecer que seu desejo de brilhar é legítimo — e que você pode fazê-lo sem culpa. Quando você aceitar sua própria ambição, ela deixará de te irritar nos outros. \"A Sombra não é sua inimiga. Ela é a parte de você que pede para ser vista, acolhida e integrada.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🌪️ A SOMBRA DA RAIVA E IMPULSIVIDADE",
+          "texto": "O que te irrita nos outros revela que você reprime sua própria raiva e intensidade. Você se incomoda com pessoas explosivas, que gritam, que perdem o controle, que são \"dramáticas\". Você julga quem não se controla, quem age por impulso, quem mostra emoções fortes. Mas a verdade é que, dentro de você, há uma parte que também sente raiva, que quer gritar, que tem impulsos intensos. Você aprendeu que isso é \"perigoso\" ou \"feio\" — então enterrou essa parte. O problema? Ela se manifesta em forma de irritação crônica, tensão muscular, ou explosões silenciosas. Seu desafio é reconhecer que sua raiva tem um lugar legítimo — e que você pode expressá-la sem se destruir. Quando você aceitar sua própria intensidade, ela deixará de te assombrar nos outros. \"A raiva que você condena nos outros é a raiva que você nunca aprendeu a abraçar em si. Ela não vai embora — só espera.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🕊️ A SOMBRA DA PASSIVIDADE E SUBMISSÃO",
+          "texto": "O que te irrita nos outros revela que você reprime sua própria passividade e incapacidade de se impor. Você se incomoda com pessoas que se deixam levar, que não têm opinião, que aceitam tudo sem questionar. Você julga quem é \"sem personalidade\", quem se submete, quem não luta. Mas a verdade é que, dentro de você, há uma parte que também cansa, que quer ser levado(a), que não quer ter que decidir tudo. Você aprendeu que isso é \"fraqueza\" — então enterrou essa parte. O problema? Ela se manifesta em exaustão e sobrecarga. Seu desafio é reconhecer que você também pode descansar, também pode se render, também pode não ter que lutar o tempo todo. Quando você aceitar sua própria passividade, ela deixará de te irritar nos outros. \"A Sombra não é sua inimiga. Ela é sua professora. E ela só quer que você finalmente a escute.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

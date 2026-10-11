@@ -1,0 +1,1066 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "QUIMICA-SEPARACAO-MISTURAS-2026",
+      "title": "Química — Separação de Misturas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Separação de Misturas",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A destilação simples separa líquidos miscíveis com diferença de pontos de ebulição > 80 °C. Qual par seria melhor separado por destilação simples?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Etanol (78 °C) e água (100 °C)"
+            },
+            {
+              "id": "A02",
+              "text": "Éter etílico (35 °C) e água (100 °C)"
+            },
+            {
+              "id": "A03",
+              "text": "Benzeno (80 °C) e tolueno (111 °C)"
+            },
+            {
+              "id": "A04",
+              "text": "Acetona (56 °C) e metanol (65 °C)"
+            },
+            {
+              "id": "A05",
+              "text": "Hexano (69 °C) e heptano (98 °C)"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A destilação fracionada usa coluna de fracionamento (anel de Raschig, esferas de vidro) para aumentar a eficiência. O princípio é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Múltiplas condensações e revaporizações (placas teóricas) enriquecem o vapor no componente mais volátil."
+            },
+            {
+              "id": "A02",
+              "text": "A coluna resfria o vapor completamente."
+            },
+            {
+              "id": "A03",
+              "text": "A coluna filtra impurezas sólidas."
+            },
+            {
+              "id": "A04",
+              "text": "A coluna catalisa a reação."
+            },
+            {
+              "id": "A05",
+              "text": "A coluna separa por densidade."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A extração líquido-líquido baseia-se na diferença de solubilidade (coeficiente de partição K = C_org/C_aq). Para extrair um ácido orgânico de solução aquosa, usa-se:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Base fraca (NaHCO₃) para converter em sal solúvel em água, depois extrai com solvente orgânico após acidificação."
+            },
+            {
+              "id": "A02",
+              "text": "Ácido forte para protonar."
+            },
+            {
+              "id": "A03",
+              "text": "Solvente polar como etanol."
+            },
+            {
+              "id": "A04",
+              "text": "Aquecimento para evaporar água."
+            },
+            {
+              "id": "A05",
+              "text": "Filtração a vácuo."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A cromatografia em camada delgada (CCD) usa fase estacionária polar (sílica, alumina) e fase móvel apolar/menos polar. O princípio de separação é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Diferencial adsorção/partição entre fases; compostos mais polares movem-se menos (Rf menor)."
+            },
+            {
+              "id": "A02",
+              "text": "Diferença de ponto de ebulição."
+            },
+            {
+              "id": "A03",
+              "text": "Diferença de densidade."
+            },
+            {
+              "id": "A04",
+              "text": "Tamanho molecular."
+            },
+            {
+              "id": "A05",
+              "text": "Carga elétrica apenas."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A filtração a vácuo (Büchner) acelera a separação de sólido-líquido porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reduz a pressão abaixo do filtro, aumentando a força motriz (ΔP)."
+            },
+            {
+              "id": "A02",
+              "text": "Aquece o filtrado."
+            },
+            {
+              "id": "A03",
+              "text": "Usa papel de poro maior."
+            },
+            {
+              "id": "A04",
+              "text": "Adiciona sal para coagular."
+            },
+            {
+              "id": "A05",
+              "text": "Centrifuga a mistura."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A centrifugação separa partículas por densidade usando força centrífuga: F = m·ω²·r. Para separar organelas celulares (núcleo, mitocôndrias, ribossomos), usa-se:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Centrifugação diferencial (velocidades crescentes sucessivas)."
+            },
+            {
+              "id": "A02",
+              "text": "Uma única velocidade alta."
+            },
+            {
+              "id": "A03",
+              "text": "Filtração em gel."
+            },
+            {
+              "id": "A04",
+              "text": "Eletroforese."
+            },
+            {
+              "id": "A05",
+              "text": "Destilação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A cromatografia gasosa (CG) separa compostos voláteis. A fase estacionária é um líquido imobilizado em suporte sólido (coluna capilar) ou sólido adsorvente. A separação baseia-se em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Diferença de partição entre fase móvel (gás inerte) e fase estacionária (polaridade, volatilidade)."
+            },
+            {
+              "id": "A02",
+              "text": "Diferença de massa molecular apenas."
+            },
+            {
+              "id": "A03",
+              "text": "Diferença de cor."
+            },
+            {
+              "id": "A04",
+              "text": "Diferença de condutividade."
+            },
+            {
+              "id": "A05",
+              "text": "Diferença de pH."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "A cromatografia líquida de alta eficiência (HPLC) usa fase móvel líquida bombeada alta pressão. Em fase reversa (C18), a fase estacionária é apolar e a móvel polar (água/MeOH). Compostos mais hidrofóbicos:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Retêm mais (tempo de retenção maior)."
+            },
+            {
+              "id": "A02",
+              "text": "Eluem primeiro."
+            },
+            {
+              "id": "A03",
+              "text": "Não são retidos."
+            },
+            {
+              "id": "A04",
+              "text": "Precipitam na coluna."
+            },
+            {
+              "id": "A05",
+              "text": "Reagem com a fase estacionária."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A destilação a vapor (arraste a vapor) é usada para compostos imiscíveis em água, voláteis com vapor de água. O princípio:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "P_total = P*_água + P*_orgânico (pressões de vapor independentes); ferve abaixo de 100 °C."
+            },
+            {
+              "id": "A02",
+              "text": "O vapor reage quimicamente com o orgânico."
+            },
+            {
+              "id": "A03",
+              "text": "Aumenta a pressão atmosférica."
+            },
+            {
+              "id": "A04",
+              "text": "Diminui a pressão de vapor do orgânico."
+            },
+            {
+              "id": "A05",
+              "text": "Forma azeótropo com água."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A cristalização fracionada separa sólidos com diferentes solubilidades em função da temperatura. O princípio é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Resfriamento lento de solução saturada; composto menos solúvel cristaliza primeiro."
+            },
+            {
+              "id": "A02",
+              "text": "Aquecimento rápido para evaporar solvente."
+            },
+            {
+              "id": "A03",
+              "text": "Adição de anti-solvente para precipitar tudo."
+            },
+            {
+              "id": "A04",
+              "text": "Filtração a quente seguida de resfriamento instantâneo."
+            },
+            {
+              "id": "A05",
+              "text": "Sublimação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A extração em fase sólida (SPE) usa cartuchos com sorvente (C18, sílica, troca iônica). Para concentrar analitos traços de água, o procedimento típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Condicionar → carregar amostra → lavar interferentes → eluir analitos com solvente forte."
+            },
+            {
+              "id": "A02",
+              "text": "Carregar → eluir direto → lavar."
+            },
+            {
+              "id": "A03",
+              "text": "Secar cartucho → carregar → aquecer."
+            },
+            {
+              "id": "A04",
+              "text": "Misturar amostra com sorvente → filtrar → secar."
+            },
+            {
+              "id": "A05",
+              "text": "Ferver amostra no cartucho."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A eletroforese em gel separa biomoléculas (DNA, proteínas) por tamanho/carga. Para DNA, o gel de agarose atua como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Peneira molecular (sieving); fragmentos menores migram mais rápido."
+            },
+            {
+              "id": "A02",
+              "text": "Fase estacionária cromatográfica."
+            },
+            {
+              "id": "A03",
+              "text": "Catalisador."
+            },
+            {
+              "id": "A04",
+              "text": "Fonte de íons."
+            },
+            {
+              "id": "A05",
+              "text": "Buffer apenas."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A osmose reversa usa membrana semipermeável e pressão > pressão osmótica para dessalinização. A pressão osmótica (π) de solução 0,6 M NaCl (i ≈ 2) a 25 °C é: (R = 0,082 atm·L/mol·K)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~29 atm"
+            },
+            {
+              "id": "A02",
+              "text": "~15 atm"
+            },
+            {
+              "id": "A03",
+              "text": "~58 atm"
+            },
+            {
+              "id": "A04",
+              "text": "~7 atm"
+            },
+            {
+              "id": "A05",
+              "text": "~1 atm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A destilação azeotrópica quebra azeótropos (misturas de ebulição constante) adicionando um entrainer (terceiro componente). Para etanol/água (azeótropo 95,6% EtOH), usa-se benzeno ou ciclohexano. O entrainer forma novo azeótropo com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Água, removendo-a e permitindo etanol anidro."
+            },
+            {
+              "id": "A02",
+              "text": "Etanol, removendo-o."
+            },
+            {
+              "id": "A03",
+              "text": "Ambos simultaneamente."
+            },
+            {
+              "id": "A04",
+              "text": "Nenhum, apenas catalisa."
+            },
+            {
+              "id": "A05",
+              "text": "Forma precipitado."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "A extração supercrítica (CO₂ supercrítico, Tc = 31 °C, Pc = 73 atm) é usada para extrair cafeína de café. Vantagens: CO₂ é apolar, ajustável (densidade/pressão), atóxico, fácil remoção. O CO₂ supercrítico comporta-se como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Solvente com propriedades entre gás (difusividade) e líquido (densidade/solvatação)."
+            },
+            {
+              "id": "A02",
+              "text": "Gás ideal."
+            },
+            {
+              "id": "A03",
+              "text": "Líquido incompressível."
+            },
+            {
+              "id": "A04",
+              "text": "Plasma."
+            },
+            {
+              "id": "A05",
+              "text": "Sólido."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "A cromatografia de exclusão por tamanho (gel permeação) separa por volume hidrodinâmico. Moléculas grandes:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Eluem primeiro (não entram nos poros)."
+            },
+            {
+              "id": "A02",
+              "text": "Eluem por último (entram nos poros)."
+            },
+            {
+              "id": "A03",
+              "text": "Ficam retidas permanentemente."
+            },
+            {
+              "id": "A04",
+              "text": "Não são separadas."
+            },
+            {
+              "id": "A05",
+              "text": "Eluem no volume morto."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A cromatografia de afinidade usa interação específica (antígeno-anticorpo, enzima-substrato, lectina-carboidrato). A eluição do ligante retido é feita por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Mudança de pH, força iônica, ou competidor livre (ex: açúcar para lectina)."
+            },
+            {
+              "id": "A02",
+              "text": "Aumento de temperatura apenas."
+            },
+            {
+              "id": "A03",
+              "text": "Diminuição de pressão."
+            },
+            {
+              "id": "A04",
+              "text": "Adição de solvente orgânico puro."
+            },
+            {
+              "id": "A05",
+              "text": "Filtração."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A destilação molecular (alto vácuo, caminho livre médio > distância evaporador-condensador) separa compostos termo-lábeis (vitaminas, ômega-3). A evaporação ocorre sem ebulição porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Pressão extremamente baixa (< 0,01 mbar) faz moléculas irem direto ao condensador sem colisões."
+            },
+            {
+              "id": "A02",
+              "text": "Aquecimento por micro-ondas."
+            },
+            {
+              "id": "A03",
+              "text": "Catalisador reduz ponto de ebulição."
+            },
+            {
+              "id": "A04",
+              "text": "Adição de gás inerte."
+            },
+            {
+              "id": "A05",
+              "text": "Resfriamento do evaporador."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A cromatografia iônica (IC) separa ânions/cátions usando trocador iônico e detector de condutividade. Para ânions, a fase estacionária é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Troca ânion (grupos quaternários de amônio positivos)."
+            },
+            {
+              "id": "A02",
+              "text": "Troca cátion (grupos sulfonato negativos)."
+            },
+            {
+              "id": "A03",
+              "text": "Fase reversa C18."
+            },
+            {
+              "id": "A04",
+              "text": "Sílica nua."
+            },
+            {
+              "id": "A05",
+              "text": "Alumina."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A microextração em fase sólida (SPME) usa fibra revestida (PDMS, PA, CAR) para extrair voláteis/semi-voláteis sem solvente. O equilíbrio é descrito por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Coeficiente de partição K_fs = C_fibra / C_amostra (tempo, temperatura, agitação controlados)."
+            },
+            {
+              "id": "A02",
+              "text": "Lei de Henry apenas."
+            },
+            {
+              "id": "A03",
+              "text": "Equação de Nernst."
+            },
+            {
+              "id": "A04",
+              "text": "Lei de Raoult."
+            },
+            {
+              "id": "A05",
+              "text": "Equação de Henderson-Hasselbalch."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A cromatografia gasosa-espectrometria de massas (CG-EM) identifica compostos por tempo de retenção + espectro de massa. A ionização por impacto eletrônico (EI, 70 eV) produz:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Íon molecular M⁺• e fragmentos característicos (padrão de fragmentação reprodutível)."
+            },
+            {
+              "id": "A02",
+              "text": "Apenas íon molecular intacto."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas fragmentos pequenos."
+            },
+            {
+              "id": "A04",
+              "text": "Íons negativos apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Nenhum íon, só neutros."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A destilação reativa combina reação química e destilação no mesmo equipamento (ex: produção de ésteres). A vantagem é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Remoção contínua de produto (ex: água) desloca equilíbrio para produtos (Le Chatelier)."
+            },
+            {
+              "id": "A02",
+              "text": "Aumento de temperatura acelera reação."
+            },
+            {
+              "id": "A03",
+              "text": "Catalisador homogêneo fácil separação."
+            },
+            {
+              "id": "A04",
+              "text": "Elimina necessidade de reator separado."
+            },
+            {
+              "id": "A05",
+              "text": "Reduz pressão."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "A extração assistida por micro-ondas (MAE) usa aquecimento dielétrico para extrair compostos de matriz sólida. A eficiência depende de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Constante dielétrica do solvente (polar absorve micro-ondas; apolar não)."
+            },
+            {
+              "id": "A03",
+              "text": "Cor do solvente."
+            },
+            {
+              "id": "A04",
+              "text": "Viscosidade apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Ponto de ebulição do soluto."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A cromatografia contracorrente (CCC) usa fase estacionária líquida retida por força centrífuga em bobina rotativa. Não há suporte sólido. Vantagem principal:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "100% recuperação da fase estacionária; sem adsorção irreversível ou degradação."
+            },
+            {
+              "id": "A02",
+              "text": "Velocidade extremamente alta."
+            },
+            {
+              "id": "A03",
+              "text": "Pressão muito alta."
+            },
+            {
+              "id": "A04",
+              "text": "Não usa solvente."
+            },
+            {
+              "id": "A05",
+              "text": "Separa apenas gases."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A separação de enantiômeros (cromatografia quiral) usa fase estacionária quiral (ex: ciclodextrina, polissacarídeo). A separação ocorre porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Enantiômeros formam complexos diastereoméricos transitórios com energia diferente com o seletor quiral."
+            },
+            {
+              "id": "A02",
+              "text": "Enantiômeros têm pontos de ebulição diferentes."
+            },
+            {
+              "id": "A03",
+              "text": "Enantiômeros têm massas diferentes."
+            },
+            {
+              "id": "A04",
+              "text": "Enantiômeros reagem quimicamente com a fase."
+            },
+            {
+              "id": "A05",
+              "text": "Não é possível separar enantiômeros por cromatografia."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A filtração tangencial (cross-flow) minimiza fouling (entupimento) porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O fluxo paralelo à membrana varre a camada de polarização de concentração."
+            },
+            {
+              "id": "A02",
+              "text": "Usa poros maiores."
+            },
+            {
+              "id": "A03",
+              "text": "Não usa membrana."
+            },
+            {
+              "id": "A04",
+              "text": "Opera a vácuo."
+            },
+            {
+              "id": "A05",
+              "text": "Aquece o retentado."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A destilação deazeotrópica por extração usa solvente seletivo que altera a volatilidade relativa. Para separar misturas de ponto de ebulição próximo (ex: isômeros xilenos), usa-se:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Solvente que forma azeótropo com um componente ou altera seletivamente coeficientes de atividade."
+            },
+            {
+              "id": "A02",
+              "text": "Apenas aumento de placas teóricas."
+            },
+            {
+              "id": "A03",
+              "text": "Redução de pressão até vácuo total."
+            },
+            {
+              "id": "A04",
+              "text": "Adição de catalisador ácido."
+            },
+            {
+              "id": "A05",
+              "text": "Resfriamento do topo da coluna."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A cromatografia de gases em duas dimensões (GC×GC) usa duas colunas de polaridade ortogonal (ex: não-polar × polar) com modulador térmico. O ganho principal é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Capacidade de pico (peak capacity) multiplicativa, separando milhares de compostos em matriz complexa (petróleo, metabolômica)."
+            },
+            {
+              "id": "A02",
+              "text": "Tempo de análise reduzido à metade."
+            },
+            {
+              "id": "A03",
+              "text": "Elimina necessidade de detector."
+            },
+            {
+              "id": "A04",
+              "text": "Funciona sem gás carreador."
+            },
+            {
+              "id": "A05",
+              "text": "Separa apenas dois compostos."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A eletroforese capilar (CE) usa tubo de sílica fundida (μm) e alta tensão (kV). O fluxo eletroosmótico (EOF) move tudo para o cátodo. A mobilidade eletroforética (μ_ep) de um analito depende de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Carga/tamanho (q/r); cátions migram rápido, ânions contra EOF, neutros só com EOF."
+            },
+            {
+              "id": "A02",
+              "text": "Apenas massa molecular."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas carga."
+            },
+            {
+              "id": "A04",
+              "text": "Cor do analito."
+            },
+            {
+              "id": "A05",
+              "text": "pH do capilar apenas."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A precipitação fracionada de proteínas por sulfato de amônio (salting out) usa o fato de que altas concentrações de sal:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Competem por água de hidratação, desestabilizando proteínas menos solúveis (precipitam primeiro)."
+            },
+            {
+              "id": "A02",
+              "text": "Desnaturalizam todas as proteínas igualmente."
+            },
+            {
+              "id": "A03",
+              "text": "Aumentam solubilidade de todas."
+            },
+            {
+              "id": "A04",
+              "text": "Não afetam proteínas."
+            },
+            {
+              "id": "A05",
+              "text": "Precipitam apenas ácidos nucleicos."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Separação de Misturas",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Separação de Misturas"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

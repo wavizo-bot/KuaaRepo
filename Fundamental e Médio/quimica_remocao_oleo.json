@@ -1,0 +1,1066 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "QUIMICA-REMOCAO-OLEO-2026",
+      "title": "Química — Remoção de Óleo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Remoção de Óleo",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A separação de óleo/água por gravidade (caixa separadora, tanque API) baseia-se na lei de Stokes para velocidade de sedimentação/flutuação de gotículas: v = g·d²·(ρ_água – ρ_óleo) / (18·μ). Para gotículas de 100 µm (ρ_óleo = 0,85 g/cm³, μ = 1 cP), v ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,5 cm/s (flutuação rápida, separável)"
+            },
+            {
+              "id": "A02",
+              "text": "~0,005 cm/s (muito lenta)"
+            },
+            {
+              "id": "A03",
+              "text": "~50 cm/s (instantânea)"
+            },
+            {
+              "id": "A04",
+              "text": "~5 cm/s"
+            },
+            {
+              "id": "A05",
+              "text": "~0,05 cm/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Emulsões óleo-em-água (O/A) são estabilizadas por surfactantes (cabeça hidrofílica na água, cauda no óleo). Para quebrar emulsão O/A, usa-se:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Desemulsificantes (polímeros catiônicos, bases de resina) que deslocam surfactante na interface e promovem coalescência."
+            },
+            {
+              "id": "A02",
+              "text": "Mais surfactante."
+            },
+            {
+              "id": "A03",
+              "text": "Aumento de pH para > 12."
+            },
+            {
+              "id": "A04",
+              "text": "Resfriamento drástico."
+            },
+            {
+              "id": "A05",
+              "text": "Filtração em carvão ativado."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A flotação por ar dissolvido (DAF) injeta ar saturado sob pressão (3–5 atm) que, ao despressurizar, forma microbolhas (20–50 µm) que aderem a gotículas de óleo/flocos, flutuando-os. A razão ar/sólidos (A/S) típica é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,02–0,06 mL ar/mg SS"
+            },
+            {
+              "id": "A02",
+              "text": "0,5–1,0 mL/mg"
+            },
+            {
+              "id": "A03",
+              "text": "5–10 mL/mg"
+            },
+            {
+              "id": "A04",
+              "text": "50–100 mL/mg"
+            },
+            {
+              "id": "A05",
+              "text": "0,001 mL/mg"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A coalescência de gotículas de óleo em meios porosos (placas inclinadas, empacotamento de malha, fibras) aumenta eficiência porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reduz distância de subida/queda e aumenta probabilidade de colisão/coalescência."
+            },
+            {
+              "id": "A02",
+              "text": "Aumenta viscosidade do meio."
+            },
+            {
+              "id": "A03",
+              "text": "Reage quimicamente com óleo."
+            },
+            {
+              "id": "A04",
+              "text": "Gera microbolhas."
+            },
+            {
+              "id": "A05",
+              "text": "Aquece o efluente."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A adsorção de óleo em materiais hidrofóbicos/oleofílicos (polipropileno expandido, fibras de celulose tratada, aerogéis de sílice, espumas de poliuretano) remove óleo por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Absorção/adsorção seletiva (material prefere óleo à água); capacidade 10–50 g óleo/g adsorvente."
+            },
+            {
+              "id": "A02",
+              "text": "Reação química formando sabão."
+            },
+            {
+              "id": "A03",
+              "text": "Degradação biológica."
+            },
+            {
+              "id": "A04",
+              "text": "Evaporação do óleo."
+            },
+            {
+              "id": "A05",
+              "text": "Filtração por tamanho."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A extração líquido-líquido com solvente (hexano, diclorometano, cloroformo) para análise de óleos e graxas (EPA 1664, SGT-HEM) usa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Acidificação (pH < 2) → extração com solvente clorado → evaporação do solvente → pesagem do resíduo (HEM)."
+            },
+            {
+              "id": "A02",
+              "text": "Extração direta sem acidificação."
+            },
+            {
+              "id": "A03",
+              "text": "Extração com água."
+            },
+            {
+              "id": "A04",
+              "text": "Destilação do óleo."
+            },
+            {
+              "id": "A05",
+              "text": "Centrifugação apenas."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A biodegradação de hidrocarbonetos (alcano, aromáticos) por bactérias (Pseudomonas, Acinetobacter, Alcanivibrio) requer: nutrientes (N, P), O₂, temperatura adequada. A limitação comum em derrames marinhos é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Disponibilidade de N e P (água do mar é oligotrófica); fertilização acelera biodegradação."
+            },
+            {
+              "id": "A02",
+              "text": "Excesso de O₂."
+            },
+            {
+              "id": "A04",
+              "text": "Temperatura muito alta."
+            },
+            {
+              "id": "A05",
+              "text": "pH muito baixo."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "A oxidação avançada (AOP: O₃, H₂O₂/UV, Fenton, fotocatalise TiO₂/UV) para águas com óleo dissolvido/emulsionado fino gera •OH que ataca ligações C–H/C=C. Vantagem vs biológico:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Trata compostos refratários/tóxicos; não produz lodo biológico; rápido (minutos)."
+            },
+            {
+              "id": "A02",
+              "text": "Mais barato que biológico."
+            },
+            {
+              "id": "A03",
+              "text": "Não consome energia."
+            },
+            {
+              "id": "A04",
+              "text": "Remove apenas óleo livre."
+            },
+            {
+              "id": "A05",
+              "text": "Não requer reagentes."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A membrana cerâmica/ polimérica (ultrafiltração, nanofiltração) para separação óleo/água opera em fluxo tangencial. A rejeição de óleo emulsificado (gotículas < 1 µm) por UF (corte 10–100 kDa) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "> 99% (rejeição por tamanho/estericidade); permeado < 10 mg/L óleo."
+            },
+            {
+              "id": "A02",
+              "text": "50–70%."
+            },
+            {
+              "id": "A03",
+              "text": "10–20%."
+            },
+            {
+              "id": "A04",
+              "text": "0% (passa tudo)."
+            },
+            {
+              "id": "A05",
+              "text": "Variável, imprevisível."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O fouling (entupimento) de membranas por óleo é mitigado por: pré-tratamento (DAF, coalescência), fluxo tangencial alto, retro-lavagem (backwash), lavagem química (NaOH, surfactantes, enzimas), controle de pressão transmembrana (TMP). A limpeza alcalina (NaOH 0,1–0,5% + surfactante) remove:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Óleos, graxas, matéria orgânica (saponificação/emulsificação)."
+            },
+            {
+              "id": "A02",
+              "text": "Escala inorgânica (CaCO₃, CaSO₄)."
+            },
+            {
+              "id": "A03",
+              "text": "Biofilme apenas."
+            },
+            {
+              "id": "A04",
+              "text": "Partículas inorgânicas apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Não remove nada."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A separação de emulsões água-em-óleo (A/O) (comum em petróleo pesado) usa: desemulsificantes, aquecimento (reduz viscosidade, aumenta coalescência), tratamento eletrostático (campo elétrico alinha dipolos de água, promove coalescência). O desidratador eletrostático (tratador) opera tipicamente a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "12–25 kV (AC ou DC), temperatura 50–70 °C."
+            },
+            {
+              "id": "A02",
+              "text": "1–5 V."
+            },
+            {
+              "id": "A03",
+              "text": "100–200 V."
+            },
+            {
+              "id": "A04",
+              "text": "1–5 kV."
+            },
+            {
+              "id": "A05",
+              "text": "100–500 kV."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A centrifugação (decanter, disco) separa óleo/água/sólidos por força centrífuga (1000–10000 g). Vantagem vs gravidade:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tempo de residência segundos vs horas; lida com emulsões finas; compacto."
+            },
+            {
+              "id": "A02",
+              "text": "Menor custo de capital."
+            },
+            {
+              "id": "A03",
+              "text": "Não consome energia."
+            },
+            {
+              "id": "A04",
+              "text": "Não requer manutenção."
+            },
+            {
+              "id": "A05",
+              "text": "Remove apenas sólidos."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A remoção de óleo de água produzida de petróleo (produced water) offshore tem restrições de espaço/peso. Tecnologias compactas: hidrociclones (força centrífuga passiva, sem partes móveis), flotadores compactos, membranas. O hidrociclone opera com queda de pressão ΔP tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,5–2,0 bar"
+            },
+            {
+              "id": "A02",
+              "text": "0,01–0,05 bar"
+            },
+            {
+              "id": "A03",
+              "text": "10–20 bar"
+            },
+            {
+              "id": "A04",
+              "text": "50–100 bar"
+            },
+            {
+              "id": "A05",
+              "text": "0,001 bar"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A especiação de óleo em água: óleo livre (gotículas > 40 µm), disperso (1–40 µm), emulsionado (< 1 µm), dissolvido (frações solúveis BTEX, PAH, fenóis). A fração dissolvida é removida por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Adsorção em carvão ativado, AOP, biodegradação, extração com solvente."
+            },
+            {
+              "id": "A02",
+              "text": "Separação por gravidade."
+            },
+            {
+              "id": "A03",
+              "text": "Flotação DAF."
+            },
+            {
+              "id": "A04",
+              "text": "Coalescência."
+            },
+            {
+              "id": "A05",
+              "text": "Centrifugação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "O derrame de óleo no mar: contenção (barreiras), recuperação (skimmers: oleofílicos, vórtice, sucção), dispersantes (Corexit, surfactantes que formam gotículas < 70 µm para biodegradação natural), queima in situ, biorremediação. Dispersantes são controversos porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Transferem óleo da superfície para coluna d'água (exposição bentônica); toxicidade do dispersante + óleo disperso."
+            },
+            {
+              "id": "A02",
+              "text": "Removem 100% do óleo instantaneamente."
+            },
+            {
+              "id": "A03",
+              "text": "Não têm toxicidade."
+            },
+            {
+              "id": "A04",
+              "text": "Funcionam apenas em água doce."
+            },
+            {
+              "id": "A05",
+              "text": "São mais baratos que barreiras."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "A biorremediação de solo contaminado por óleo (landfarming, biopilhas, bioreatores) monitora: TPH (petróleo total), BTEX, PAH. A cinética de degradação de alcano n-C₁₀–C₂₀ é tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Pseudo-primeira ordem; meia-vida 1–30 dias (condições ideais)."
+            },
+            {
+              "id": "A02",
+              "text": "Ordem zero; meia-vida 1 ano."
+            },
+            {
+              "id": "A03",
+              "text": "Segunda ordem; instantânea."
+            },
+            {
+              "id": "A04",
+              "text": "Não degrada."
+            },
+            {
+              "id": "A05",
+              "text": "Meia-vida 100 anos."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A fitorremediação de óleo usa plantas (gramíneas, leguminosas, árvores) que estimulam rizobactérias degradadoras (rizodegradação) e absorvem/transformam contaminantes. Limitação principal:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Lento (anos); profundidade limitada às raízes (0,5–2 m); sazonal; não trata concentrações tóxicas agudas."
+            },
+            {
+              "id": "A02",
+              "text": "Rápido (dias); atinge qualquer profundidade."
+            },
+            {
+              "id": "A03",
+              "text": "Remove 100% em uma estação."
+            },
+            {
+              "id": "A04",
+              "text": "Não requer manutenção."
+            },
+            {
+              "id": "A05",
+              "text": "Funciona em qualquer clima."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A legislação brasileira (CONAMA 430/2011) para lançamento de efluentes oleosos: óleos e graxas (HEM) < 20 mg/L (Classe 2); para águas sensíveis, < 5 mg/L. A determinação por SGT-HEM (silica gel treated) remove:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Óleos minerais/petrolíferos (não polares); retém óleos vegetais/animais (polares) na sílica."
+            },
+            {
+              "id": "A02",
+              "text": "Todos os óleos igualmente."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas óleos vegetais."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas BTEX."
+            },
+            {
+              "id": "A05",
+              "text": "Apenas PAH."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A separação de óleo vegetal/ animal de efluentes de frigoríficos, restaurantes (caixas de gordura) usa: resfriamento (solidifica gordura), flotação, digestão anaeróbia. A caixa de gordura dimensionada para vazão Q (L/s) e tempo de detenção 15–30 min tem volume:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "V = Q × 900–1800 s (L)"
+            },
+            {
+              "id": "A02",
+              "text": "V = Q × 60 s"
+            },
+            {
+              "id": "A03",
+              "text": "V = Q × 3600 s"
+            },
+            {
+              "id": "A04",
+              "text": "V = Q × 100 s"
+            },
+            {
+              "id": "A05",
+              "text": "V = Q × 10 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A remoção de asfaltenos/parafinas (depósitos em dutos, tanques) usa: solventes aromáticos (xileno, tolueno), inibidores (polímeros que impedem agregação), aquecimento, pigging (raspagem mecânica). Os asfaltenos precipitam quando:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Mudança de pressão/temperatura/composição reduz solubilidade (ponto de floculação/onset)."
+            },
+            {
+              "id": "A02",
+              "text": "Aumenta temperatura."
+            },
+            {
+              "id": "A03",
+              "text": "Adiciona solvente aromático."
+            },
+            {
+              "id": "A04",
+              "text": "Mistura com óleo leve."
+            },
+            {
+              "id": "A05",
+              "text": "Aumenta pressão."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A microemulsão surfactante/co-surfactante/óleo/água (sistema Winsor III, fase média) é usada em recuperação avançada de petróleo (EOR químico). A formulação ótima (salinidade ótima) maximiza:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Solubilização de óleo na fase média (baixa tensão interfacial < 10⁻³ mN/m)."
+            },
+            {
+              "id": "A02",
+              "text": "Alta tensão interfacial."
+            },
+            {
+              "id": "A03",
+              "text": "Precipitação de surfactante."
+            },
+            {
+              "id": "A04",
+              "text": "Formação de gel."
+            },
+            {
+              "id": "A05",
+              "text": "Separação de fases instável."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A flotação por ar dissolvido (DAF) com coagulante (FeCl₃, Al₂(SO₄)₃, polímero) remove óleo emulsionado. O coagulante atua por: neutralização de carga + enovelamento (sweep floc). A dose ótima de FeCl₃ para óleo emulsionado 100 mg/L é tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20–50 mg/L (como Fe)"
+            },
+            {
+              "id": "A02",
+              "text": "5–10 mg/L"
+            },
+            {
+              "id": "A03",
+              "text": "100–200 mg/L"
+            },
+            {
+              "id": "A04",
+              "text": "500–1000 mg/L"
+            },
+            {
+              "id": "A05",
+              "text": "1–2 mg/L"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "A remoção de óleo por membranas de ultrafiltração (UF) com pré-coagulação (FeCl₃ 20 mg/L) atinge permeado < 5 mg/L óleo. O fluxo estacionário (J, L/m²·h) em UF cerâmica (corte 50 nm) com retro-lavagem a cada 30 min é tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "50–150 L/m²·h"
+            },
+            {
+              "id": "A02",
+              "text": "5–10 L/m²·h"
+            },
+            {
+              "id": "A03",
+              "text": "500–1000 L/m²·h"
+            },
+            {
+              "id": "A04",
+              "text": "0,5–1 L/m²·h"
+            },
+            {
+              "id": "A05",
+              "text": "2000–5000 L/m²·h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A adsorção de óleo em carvão ativado (GAC) segue isoterma de Freundlich: q = K·C^(1/n). Para óleo mineral em GAC, K ≈ 50–200 (mg/g)/(mg/L)^(1/n), 1/n ≈ 0,3–0,5. Se C = 10 mg/L, K = 100, 1/n = 0,4, q =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~250 mg/g"
+            },
+            {
+              "id": "A02",
+              "text": "~25 mg/g"
+            },
+            {
+              "id": "A03",
+              "text": "~2,5 mg/g"
+            },
+            {
+              "id": "A04",
+              "text": "~2500 mg/g"
+            },
+            {
+              "id": "A05",
+              "text": "~25000 mg/g"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A eletrocoagulação (ânodo Fe/Al, catodo) gera íons metálicos in situ (Fe²⁺ → Fe³⁺, Al³⁺) + bolhas H₂ (catodo) que flutuam flocos. Remove óleo emulsionado, metais, cor, DBO. Vantagem vs coagulação química:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Não requer armazenamento/manuseio de químicos; dose autoajustável via corrente; menos lodo."
+            },
+            {
+              "id": "A02",
+              "text": "Mais barato sempre."
+            },
+            {
+              "id": "A03",
+              "text": "Não consome eletricidade."
+            },
+            {
+              "id": "A04",
+              "text": "Remove apenas óleo livre."
+            },
+            {
+              "id": "A05",
+              "text": "Não requer pós-tratamento."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A oxidação úmida a ar comprimido (WAO, 150–320 °C, 10–100 bar) oxida óleos/orgânicos refratários em fase líquida. A reação global para ácido acético: CH₃COOH + 2O₂ → 2CO₂ + 2H₂O. A cinética é de ordem n em O₂ e m em orgânico. Valores típicos:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "n ≈ 0,5–1,0; m ≈ 1,0–2,0"
+            },
+            {
+              "id": "A02",
+              "text": "n = 0; m = 0"
+            },
+            {
+              "id": "A03",
+              "text": "n = 2; m = 2"
+            },
+            {
+              "id": "A04",
+              "text": "n = 1; m = 0"
+            },
+            {
+              "id": "A05",
+              "text": "n = 0; m = 1"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A fotocatalise TiO₂/UV para degradação de óleo em água gera pares e⁻/h⁺ que formam •OH e O₂•⁻. A recombinação e⁻/h⁺ é perda de eficiência. Estratégias para reduzir: dopagem (N, C, Fe), heterojunção (TiO₂/g-C₃N₄, TiO₂/WO₃), co-catalisadores (Pt, Au). O dopante N em TiO₂:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Estreita bandgap (absorve luz visível); cria estados intermediários que separam cargas."
+            },
+            {
+              "id": "A02",
+              "text": "Alarga bandgap (só UV)."
+            },
+            {
+              "id": "A03",
+              "text": "Não afeta bandgap."
+            },
+            {
+              "id": "A04",
+              "text": "Destrói cristal."
+            },
+            {
+              "id": "A05",
+              "text": "Aumenta recombinação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A separação de emulsões por pervaporação (membrana densa, lado permeado vácuo) usa afinidade química: membrana hidrofílica (PVA, quitosana) permeia água seletivamente de emulsão O/A. O fator de separação α = (Y_água/Y_óleo) / (X_água/X_óleo) típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "100–10000"
+            },
+            {
+              "id": "A02",
+              "text": "1–5"
+            },
+            {
+              "id": "A03",
+              "text": "10–50"
+            },
+            {
+              "id": "A04",
+              "text": "0,1–1"
+            },
+            {
+              "id": "A05",
+              "text": "100000–1000000"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A remoção de óleo por complexação com ciclodextrina (CD) em água: CD forma complexo de inclusão com hidrocarbonetos (hóspede) na cavidade hidrofóbica. A constante de associação K_a para n-hexano/β-CD é ~200–500 M⁻¹. A recuperação do óleo e regeneração da CD é por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Extração com solvente orgânico (hexano) ou mudança de temperatura/pH; CD reutilizável."
+            },
+            {
+              "id": "A02",
+              "text": "Incineração da CD."
+            },
+            {
+              "id": "A03",
+              "text": "Descartar CD após uso único."
+            },
+            {
+              "id": "A04",
+              "text": "Lavagem com água apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Precipitação da CD."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A modelagem de separador óleo/água (API, CPI, DAF) usa dinâmica de fluidos computacional (CFD) para otimizar geometria, distribuição de fluxo, tamanho de gotícula. O número de Stokes (Stk = τ_p·v/D) indica probabilidade de gotícula seguir linhas de corrente vs inércia. Para gotículas de 10 µm em separador API (v = 0,3 m/s, D = 1 m, ρ_óleo = 850 kg/m³, μ = 1 cP), Stk ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,001 (segue fluxo, separação por gravidade domina)"
+            },
+            {
+              "id": "A02",
+              "text": "~1 (inércia significativa)"
+            },
+            {
+              "id": "A03",
+              "text": "~100 (balística)"
+            },
+            {
+              "id": "A04",
+              "text": "~0,1"
+            },
+            {
+              "id": "A05",
+              "text": "~10"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Remoção de Óleo",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Remoção de Óleo"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

@@ -1,0 +1,4296 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-14T16:38:11.875Z",
+  "exams": [
+    {
+      "id": "PD20260914H123902",
+      "title": "Fisioterapeuta · DeepSeek",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "DeepSeek",
+      "booklet": "Anhanguera",
+      "role": "Fisioterapeuta",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A atenção terciária à saúde caracteriza-se por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ações de promoção e prevenção em comunidades."
+            },
+            {
+              "id": "A02",
+              "text": "Atendimentos ambulatoriais de média complexidade."
+            },
+            {
+              "id": "A03",
+              "text": "Serviços de alta complexidade e reabilitação especializada."
+            },
+            {
+              "id": "A04",
+              "text": "Consultas básicas em unidades de saúde da família."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Em uma unidade hospitalar, o fisioterapeuta atua principalmente em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Somente em ambulatórios de baixa complexidade."
+            },
+            {
+              "id": "A02",
+              "text": "UTI, enfermarias, pronto-socorro e ambulatórios."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas em setores administrativos."
+            },
+            {
+              "id": "A04",
+              "text": "Exclusivamente em domicílios."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A atenção secundária em fisioterapia é representada por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Atendimentos de média complexidade, como ambulatórios especializados."
+            },
+            {
+              "id": "A02",
+              "text": "Procedimentos de alta complexidade, como transplantes."
+            },
+            {
+              "id": "A03",
+              "text": "Ações de prevenção primária."
+            },
+            {
+              "id": "A04",
+              "text": "Cuidados paliativos exclusivos."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A fisioterapia dermatofuncional tem como foco principal:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reabilitação cardiorrespiratória."
+            },
+            {
+              "id": "A02",
+              "text": "Tratamento de disfunções dermatológicas e estéticas."
+            },
+            {
+              "id": "A03",
+              "text": "Fisioterapia neurológica infantil."
+            },
+            {
+              "id": "A04",
+              "text": "Fisioterapia traumato-ortopédica esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Na saúde do neonato, o fisioterapeuta atua frequentemente em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Idosos com osteoartrite."
+            },
+            {
+              "id": "A02",
+              "text": "Atletas de alto rendimento."
+            },
+            {
+              "id": "A03",
+              "text": "Prematuridade e desconforto respiratório."
+            },
+            {
+              "id": "A04",
+              "text": "Gestantes de alto risco."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "O principal objetivo da fisioterapia na atenção terciária é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Prevenir doenças em comunidades."
+            },
+            {
+              "id": "A02",
+              "text": "Promover reabilitação intensiva e funcional."
+            },
+            {
+              "id": "A03",
+              "text": "Realizar triagem de baixa complexidade."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas orientar pacientes ambulatoriais."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Qual medida é essencial para prevenir complicações respiratórias em pacientes hospitalizados?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Manter repouso absoluto no leito."
+            },
+            {
+              "id": "A02",
+              "text": "Realizar mobilização precoce e exercícios respiratórios."
+            },
+            {
+              "id": "A03",
+              "text": "Suspender a fisioterapia à noite."
+            },
+            {
+              "id": "A04",
+              "text": "Evitar mudanças de decúbito."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Um exemplo típico de fisioterapia na atenção secundária é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Atendimento em UTI adulto."
+            },
+            {
+              "id": "A02",
+              "text": "Ambulatório de fisioterapia ortopédica."
+            },
+            {
+              "id": "A03",
+              "text": "Visita domiciliar em atenção primária."
+            },
+            {
+              "id": "A04",
+              "text": "Cirurgia de alta complexidade."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Qual recurso é comumente utilizado na fisioterapia dermatofuncional?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ventilação mecânica invasiva."
+            },
+            {
+              "id": "A02",
+              "text": "Radiofrequência e drenagem linfática."
+            },
+            {
+              "id": "A03",
+              "text": "Cateterismo cardíaco."
+            },
+            {
+              "id": "A04",
+              "text": "Teste ergométrico."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Na avaliação do neonato, o fisioterapeuta deve monitorar principalmente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas o peso ao nascer."
+            },
+            {
+              "id": "A02",
+              "text": "Frequência respiratória e saturação de oxigênio."
+            },
+            {
+              "id": "A03",
+              "text": "Somente reflexos primitivos."
+            },
+            {
+              "id": "A04",
+              "text": "Exclusivamente a circunferência craniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Na reabilitação cardiovascular em atenção terciária, a fase hospitalar inicial tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Treinamento de alta intensidade."
+            },
+            {
+              "id": "A02",
+              "text": "Mobilização precoce e prevenção de complicações."
+            },
+            {
+              "id": "A03",
+              "text": "Reabilitação vocacional."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas orientação nutricional."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Durante o desmame da ventilação mecânica, o fisioterapeuta deve avaliar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas a frequência cardíaca."
+            },
+            {
+              "id": "A02",
+              "text": "Força muscular respiratória e troca gasosa."
+            },
+            {
+              "id": "A03",
+              "text": "Somente o nível de consciência."
+            },
+            {
+              "id": "A04",
+              "text": "Exclusivamente a pressão arterial."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Em pacientes com espasticidade na atenção secundária, qual recurso fisioterapêutico é indicado?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Exercícios de fortalecimento intenso."
+            },
+            {
+              "id": "A02",
+              "text": "Alongamento passivo e crioterapia."
+            },
+            {
+              "id": "A03",
+              "text": "Estimulação elétrica de alta frequência."
+            },
+            {
+              "id": "A04",
+              "text": "Repouso absoluto."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "No tratamento de fibrose pós-cirúrgica, a fisioterapia dermatofuncional utiliza:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Massagem transversa profunda e ultrassom."
+            },
+            {
+              "id": "A02",
+              "text": "Exercícios aeróbicos de alto impacto."
+            },
+            {
+              "id": "A03",
+              "text": "Imobilização prolongada."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas hidratação oral."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "A estimulação precoce em neonatos prematuros tem como principal benefício:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento do tempo de internação."
+            },
+            {
+              "id": "A02",
+              "text": "Melhora do desenvolvimento neuropsicomotor."
+            },
+            {
+              "id": "A03",
+              "text": "Redução da frequência cardíaca."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas ganho de peso."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Em cuidados paliativos na atenção terciária, o fisioterapeuta deve priorizar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ganho de força máxima."
+            },
+            {
+              "id": "A02",
+              "text": "Conforto e alívio de sintomas."
+            },
+            {
+              "id": "A03",
+              "text": "Treinamento de alta performance."
+            },
+            {
+              "id": "A04",
+              "text": "Reabilitação esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A frequência recomendada para mudança de decúbito em pacientes acamados é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A cada 8 horas."
+            },
+            {
+              "id": "A02",
+              "text": "A cada 2 horas."
+            },
+            {
+              "id": "A03",
+              "text": "Uma vez ao dia."
+            },
+            {
+              "id": "A04",
+              "text": "A cada 12 horas."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Em pacientes com DPOC na atenção secundária, o treinamento muscular respiratório visa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reduzir a capacidade pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "Aumentar a força e resistência respiratória."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas melhorar a postura."
+            },
+            {
+              "id": "A04",
+              "text": "Diminuir a saturação de oxigênio."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A fase de remodelação da cicatrização caracteriza-se por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Inflamação aguda."
+            },
+            {
+              "id": "A02",
+              "text": "Reorganização do colágeno."
+            },
+            {
+              "id": "A03",
+              "text": "Proliferação de fibroblastos."
+            },
+            {
+              "id": "A04",
+              "text": "Formação de coágulo."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Qual técnica é indicada para higiene brônquica em neonatos?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tapotagem vigorosa."
+            },
+            {
+              "id": "A02",
+              "text": "Vibração e drenagem postural."
+            },
+            {
+              "id": "A03",
+              "text": "Aspiração traqueal de rotina."
+            },
+            {
+              "id": "A04",
+              "text": "Pressão positiva expiratória final."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Sobre a mobilização precoce na UTI, é correto afirmar que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É contraindicada em todos os pacientes em ventilação mecânica."
+            },
+            {
+              "id": "A02",
+              "text": "Deve ser iniciada apenas após alta da UTI."
+            },
+            {
+              "id": "A03",
+              "text": "Reduz tempo de internação e melhora funcionalidade."
+            },
+            {
+              "id": "A04",
+              "text": "Aumenta a mortalidade em pacientes críticos."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A posição prona em pacientes com SDRA tem como principal efeito:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento do shunt pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "Melhora da relação ventilação/perfusão."
+            },
+            {
+              "id": "A03",
+              "text": "Redução da compliance pulmonar."
+            },
+            {
+              "id": "A04",
+              "text": "Aumento da pressão intracraniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "A manobra de Epley é indicada para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Vertigem posicional paroxística benigna."
+            },
+            {
+              "id": "A02",
+              "text": "Paralisia facial periférica."
+            },
+            {
+              "id": "A03",
+              "text": "Neuropatia periférica."
+            },
+            {
+              "id": "A04",
+              "text": "Esclerose múltipla."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Na aplicação do ultrassom terapêutico para fibrose, a frequência mais indicada para tecidos profundos é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1 MHz."
+            },
+            {
+              "id": "A02",
+              "text": "3 MHz."
+            },
+            {
+              "id": "A03",
+              "text": "5 MHz."
+            },
+            {
+              "id": "A04",
+              "text": "7 MHz."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "O CPAP nasal em neonatos prematuros tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reduzir a capacidade residual funcional."
+            },
+            {
+              "id": "A02",
+              "text": "Manter pressão positiva e evitar colapso alveolar."
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o trabalho respiratório."
+            },
+            {
+              "id": "A04",
+              "text": "Induzir apneia."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A neuroplasticidade na reabilitação pós-AVC é favorecida por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Repouso prolongado."
+            },
+            {
+              "id": "A02",
+              "text": "Treino orientado a tarefas repetitivas."
+            },
+            {
+              "id": "A03",
+              "text": "Isolamento social."
+            },
+            {
+              "id": "A04",
+              "text": "Uso exclusivo de medicamentos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Uma lesão por pressão estágio III caracteriza-se por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Eritema que não desaparece à pressão."
+            },
+            {
+              "id": "A02",
+              "text": "Perda parcial da espessura da pele."
+            },
+            {
+              "id": "A03",
+              "text": "Perda total da espessura da pele com exposição de subcutâneo."
+            },
+            {
+              "id": "A04",
+              "text": "Exposição de músculo, tendão ou osso."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "O teste de caminhada de 6 minutos é utilizado na atenção secundária para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Diagnosticar infarto agudo do miocárdio."
+            },
+            {
+              "id": "A02",
+              "text": "Avaliar capacidade funcional submáxima."
+            },
+            {
+              "id": "A03",
+              "text": "Medir pressão intracraniana."
+            },
+            {
+              "id": "A04",
+              "text": "Avaliar reflexos primitivos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A laserterapia de baixa intensidade na fisioterapia dermatofuncional promove:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas efeito térmico."
+            },
+            {
+              "id": "A02",
+              "text": "Efeito anti-inflamatório e cicatrizante."
+            },
+            {
+              "id": "A03",
+              "text": "Destruição tecidual."
+            },
+            {
+              "id": "A04",
+              "text": "Necrose controlada."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "O método canguru em neonatos prematuros proporciona:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento do estresse neonatal."
+            },
+            {
+              "id": "A02",
+              "text": "Estabilidade térmica e ganho de peso."
+            },
+            {
+              "id": "A03",
+              "text": "Redução do vínculo mãe-bebê."
+            },
+            {
+              "id": "A04",
+              "text": "Aumento da frequência de apneias."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "text": "Um gestor hospitalar precisa classificar o serviço de fisioterapia em reabilitação intensiva pós-transplante hepático. Esse serviço pertence a qual nível de atenção?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Atenção primária."
+            },
+            {
+              "id": "A02",
+              "text": "Atenção secundária."
+            },
+            {
+              "id": "A03",
+              "text": "Atenção terciária."
+            },
+            {
+              "id": "A04",
+              "text": "Atenção domiciliar."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 32,
+          "originalNumber": "32",
+          "label": "Questão 32",
+          "text": "Durante um plantão hospitalar, o fisioterapeuta é chamado para atender pacientes em diferentes setores. Qual conjunto representa áreas típicas de atuação hospitalar?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "UTI, enfermarias e pronto-socorro."
+            },
+            {
+              "id": "A02",
+              "text": "Somente ambulatório de baixa complexidade."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas setor administrativo."
+            },
+            {
+              "id": "A04",
+              "text": "Exclusivamente domicílios."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 33,
+          "originalNumber": "33",
+          "label": "Questão 33",
+          "text": "Uma unidade de saúde oferece atendimento fisioterapêutico ambulatorial especializado em ortopedia, sem recursos de alta complexidade. Esse serviço é exemplo de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Atenção primária."
+            },
+            {
+              "id": "A02",
+              "text": "Atenção secundária."
+            },
+            {
+              "id": "A03",
+              "text": "Atenção terciária."
+            },
+            {
+              "id": "A04",
+              "text": "Atenção quaternária."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 34,
+          "originalNumber": "34",
+          "label": "Questão 34",
+          "text": "Uma paciente procura a fisioterapia para tratar cicatrizes de cirurgia plástica e flacidez abdominal. Essa demanda é típica da:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Fisioterapia cardiorrespiratória."
+            },
+            {
+              "id": "A02",
+              "text": "Fisioterapia dermatofuncional."
+            },
+            {
+              "id": "A03",
+              "text": "Fisioterapia neurológica."
+            },
+            {
+              "id": "A04",
+              "text": "Fisioterapia esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 35,
+          "originalNumber": "35",
+          "label": "Questão 35",
+          "text": "Em uma UTI neonatal, o fisioterapeuta é acionado para atender um recém-nascido prematuro com desconforto respiratório. Essa atuação é típica da:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Fisioterapia geriátrica."
+            },
+            {
+              "id": "A02",
+              "text": "Fisioterapia na saúde do neonato."
+            },
+            {
+              "id": "A03",
+              "text": "Fisioterapia esportiva."
+            },
+            {
+              "id": "A04",
+              "text": "Fisioterapia do trabalho."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 36,
+          "originalNumber": "36",
+          "label": "Questão 36",
+          "text": "Após cirurgia de revascularização miocárdica, um paciente é encaminhado à reabilitação intensiva hospitalar. O principal objetivo da fisioterapia nesse contexto é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Prevenir doenças em comunidades."
+            },
+            {
+              "id": "A02",
+              "text": "Promover reabilitação intensiva e funcional."
+            },
+            {
+              "id": "A03",
+              "text": "Realizar triagem de baixa complexidade."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas orientar pacientes ambulatoriais."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 37,
+          "originalNumber": "37",
+          "label": "Questão 37",
+          "text": "Um paciente acamado há 5 dias apresenta risco de complicações respiratórias. Qual medida fisioterapêutica é essencial para preveni-las?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Manter repouso absoluto no leito."
+            },
+            {
+              "id": "A02",
+              "text": "Realizar mobilização precoce e exercícios respiratórios."
+            },
+            {
+              "id": "A03",
+              "text": "Suspender a fisioterapia à noite."
+            },
+            {
+              "id": "A04",
+              "text": "Evitar mudanças de decúbito."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 38,
+          "originalNumber": "38",
+          "label": "Questão 38",
+          "text": "Um paciente com lesão de menisco é encaminhado para fisioterapia ambulatorial especializada. Esse atendimento ocorre tipicamente na:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Atenção primária."
+            },
+            {
+              "id": "A02",
+              "text": "Atenção secundária."
+            },
+            {
+              "id": "A03",
+              "text": "Atenção terciária."
+            },
+            {
+              "id": "A04",
+              "text": "Atenção quaternária."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 39,
+          "originalNumber": "39",
+          "label": "Questão 39",
+          "text": "Para tratar edema pós-operatório e fibrose, o fisioterapeuta dermatofuncional pode utilizar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ventilação mecânica invasiva."
+            },
+            {
+              "id": "A02",
+              "text": "Drenagem linfática e radiofrequência."
+            },
+            {
+              "id": "A03",
+              "text": "Cateterismo cardíaco."
+            },
+            {
+              "id": "A04",
+              "text": "Teste ergométrico."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 40,
+          "originalNumber": "40",
+          "label": "Questão 40",
+          "text": "Ao avaliar um neonato em UTI, o fisioterapeuta deve monitorar prioritariamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas o peso ao nascer."
+            },
+            {
+              "id": "A02",
+              "text": "Frequência respiratória e saturação de oxigênio."
+            },
+            {
+              "id": "A03",
+              "text": "Somente reflexos primitivos."
+            },
+            {
+              "id": "A04",
+              "text": "Exclusivamente a circunferência craniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 41,
+          "originalNumber": "41",
+          "label": "Questão 41",
+          "text": "Um paciente internado após infarto agudo do miocárdio inicia fisioterapia na fase I da reabilitação cardíaca. O objetivo principal dessa fase é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Treinamento de alta intensidade."
+            },
+            {
+              "id": "A02",
+              "text": "Mobilização precoce e prevenção de complicações."
+            },
+            {
+              "id": "A03",
+              "text": "Reabilitação vocacional."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas orientação nutricional."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 42,
+          "originalNumber": "42",
+          "label": "Questão 42",
+          "text": "Durante o desmame da ventilação mecânica, o fisioterapeuta deve avaliar qual conjunto de parâmetros?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas a frequência cardíaca."
+            },
+            {
+              "id": "A02",
+              "text": "Força muscular respiratória e troca gasosa."
+            },
+            {
+              "id": "A03",
+              "text": "Somente o nível de consciência."
+            },
+            {
+              "id": "A04",
+              "text": "Exclusivamente a pressão arterial."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 43,
+          "originalNumber": "43",
+          "label": "Questão 43",
+          "text": "Paciente com espasticidade após AVC é atendido em ambulatório de fisioterapia neurológica. Qual recurso é indicado para manejo inicial?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Exercícios de fortalecimento intenso."
+            },
+            {
+              "id": "A02",
+              "text": "Alongamento passivo e crioterapia."
+            },
+            {
+              "id": "A03",
+              "text": "Estimulação elétrica de alta frequência."
+            },
+            {
+              "id": "A04",
+              "text": "Repouso absoluto."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 44,
+          "originalNumber": "44",
+          "label": "Questão 44",
+          "text": "Após cirurgia de abdominoplastia, uma paciente desenvolve fibrose. Qual recurso fisioterapêutico é mais indicado?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Massagem transversa profunda e ultrassom."
+            },
+            {
+              "id": "A02",
+              "text": "Exercícios aeróbicos de alto impacto."
+            },
+            {
+              "id": "A03",
+              "text": "Imobilização prolongada."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas hidratação oral."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 45,
+          "originalNumber": "45",
+          "label": "Questão 45",
+          "text": "Um neonato prematuro é incluído em programa de estimulação precoce. O principal benefício esperado é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento do tempo de internação."
+            },
+            {
+              "id": "A02",
+              "text": "Melhora do desenvolvimento neuropsicomotor."
+            },
+            {
+              "id": "A03",
+              "text": "Redução da frequência cardíaca."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas ganho de peso."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 46,
+          "originalNumber": "46",
+          "label": "Questão 46",
+          "text": "Em paciente oncológico em cuidados paliativos na atenção terciária, o fisioterapeuta deve priorizar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ganho de força máxima."
+            },
+            {
+              "id": "A02",
+              "text": "Conforto e alívio de sintomas."
+            },
+            {
+              "id": "A03",
+              "text": "Treinamento de alta performance."
+            },
+            {
+              "id": "A04",
+              "text": "Reabilitação esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 47,
+          "originalNumber": "47",
+          "label": "Questão 47",
+          "text": "Um paciente acamado apresenta risco elevado de úlceras por pressão. Qual a frequência recomendada de mudança de decúbito?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A cada 8 horas."
+            },
+            {
+              "id": "A02",
+              "text": "A cada 2 horas."
+            },
+            {
+              "id": "A03",
+              "text": "Uma vez ao dia."
+            },
+            {
+              "id": "A04",
+              "text": "A cada 12 horas."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 48,
+          "originalNumber": "48",
+          "label": "Questão 48",
+          "text": "Paciente com DPOC em programa de reabilitação pulmonar ambulatorial realiza treinamento muscular respiratório com o objetivo de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reduzir a capacidade pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "Aumentar a força e resistência respiratória."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas melhorar a postura."
+            },
+            {
+              "id": "A04",
+              "text": "Diminuir a saturação de oxigênio."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 49,
+          "originalNumber": "49",
+          "label": "Questão 49",
+          "text": "Na fase de remodelação da cicatrização, o fisioterapeuta dermatofuncional deve atuar para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Estimular inflamação aguda."
+            },
+            {
+              "id": "A02",
+              "text": "Favorecer reorganização do colágeno."
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar a proliferação de fibroblastos."
+            },
+            {
+              "id": "A04",
+              "text": "Formar coágulo."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 50,
+          "originalNumber": "50",
+          "label": "Questão 50",
+          "text": "Neonato com secreção brônquica necessita de higiene brônquica. Qual técnica é mais indicada?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tapotagem vigorosa."
+            },
+            {
+              "id": "A02",
+              "text": "Vibração e drenagem postural."
+            },
+            {
+              "id": "A03",
+              "text": "Aspiração traqueal de rotina."
+            },
+            {
+              "id": "A04",
+              "text": "Pressão positiva expiratória final."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 51,
+          "originalNumber": "51",
+          "label": "Questão 51",
+          "text": "Paciente com SDRA é posicionado em prona pelo fisioterapeuta. O principal efeito dessa manobra é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento do shunt pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "Melhora da relação ventilação/perfusão."
+            },
+            {
+              "id": "A03",
+              "text": "Redução da compliance pulmonar."
+            },
+            {
+              "id": "A04",
+              "text": "Aumento da pressão intracraniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 52,
+          "originalNumber": "52",
+          "label": "Questão 52",
+          "text": "Paciente com vertigem posicional paroxística benigna é atendido em ambulatório. A manobra de Epley é indicada para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Vertigem posicional paroxística benigna."
+            },
+            {
+              "id": "A02",
+              "text": "Paralisia facial periférica."
+            },
+            {
+              "id": "A03",
+              "text": "Neuropatia periférica."
+            },
+            {
+              "id": "A04",
+              "text": "Esclerose múltipla."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 53,
+          "originalNumber": "53",
+          "label": "Questão 53",
+          "text": "Para tratar fibrose em tecido profundo, o fisioterapeuta dermatofuncional deve utilizar ultrassom com frequência de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1 MHz."
+            },
+            {
+              "id": "A02",
+              "text": "3 MHz."
+            },
+            {
+              "id": "A03",
+              "text": "5 MHz."
+            },
+            {
+              "id": "A04",
+              "text": "7 MHz."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 54,
+          "originalNumber": "54",
+          "label": "Questão 54",
+          "text": "Neonato prematuro com desconforto respiratório é submetido a CPAP nasal. O objetivo dessa terapia é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reduzir a capacidade residual funcional."
+            },
+            {
+              "id": "A02",
+              "text": "Manter pressão positiva e evitar colapso alveolar."
+            },
+            {
+              "id": "A03",
+              "text": "Aumentar o trabalho respiratório."
+            },
+            {
+              "id": "A04",
+              "text": "Induzir apneia."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 55,
+          "originalNumber": "55",
+          "label": "Questão 55",
+          "text": "Na reabilitação intensiva pós-AVC em centro terciário, a neuroplasticidade é favorecida por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Repouso prolongado."
+            },
+            {
+              "id": "A02",
+              "text": "Treino orientado a tarefas repetitivas."
+            },
+            {
+              "id": "A03",
+              "text": "Isolamento social."
+            },
+            {
+              "id": "A04",
+              "text": "Uso exclusivo de medicamentos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 56,
+          "originalNumber": "56",
+          "label": "Questão 56",
+          "text": "Paciente hospitalizado apresenta lesão por pressão com perda total da espessura da pele e exposição do tecido subcutâneo. Esse estágio é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Estágio I."
+            },
+            {
+              "id": "A02",
+              "text": "Estágio II."
+            },
+            {
+              "id": "A03",
+              "text": "Estágio III."
+            },
+            {
+              "id": "A04",
+              "text": "Estágio IV."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 57,
+          "originalNumber": "57",
+          "label": "Questão 57",
+          "text": "Em ambulatório de reabilitação cardíaca, o teste de caminhada de 6 minutos é utilizado para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Diagnosticar infarto agudo do miocárdio."
+            },
+            {
+              "id": "A02",
+              "text": "Avaliar capacidade funcional submáxima."
+            },
+            {
+              "id": "A03",
+              "text": "Medir pressão intracraniana."
+            },
+            {
+              "id": "A04",
+              "text": "Avaliar reflexos primitivos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 58,
+          "originalNumber": "58",
+          "label": "Questão 58",
+          "text": "Na fisioterapia dermatofuncional, a laserterapia de baixa intensidade promove:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apenas efeito térmico."
+            },
+            {
+              "id": "A02",
+              "text": "Efeito anti-inflamatório e cicatrizante."
+            },
+            {
+              "id": "A03",
+              "text": "Destruição tecidual."
+            },
+            {
+              "id": "A04",
+              "text": "Necrose controlada."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 59,
+          "originalNumber": "59",
+          "label": "Questão 59",
+          "text": "Neonato prematuro é incluído no método canguru. Esse método proporciona:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumento do estresse neonatal."
+            },
+            {
+              "id": "A02",
+              "text": "Estabilidade térmica e ganho de peso."
+            },
+            {
+              "id": "A03",
+              "text": "Redução do vínculo mãe-bebê."
+            },
+            {
+              "id": "A04",
+              "text": "Aumento da frequência de apneias."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 60,
+          "originalNumber": "60",
+          "label": "Questão 60",
+          "text": "A atenção terciária à saúde é caracterizada por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ações de promoção e prevenção em comunidades."
+            },
+            {
+              "id": "A02",
+              "text": "Atendimentos ambulatoriais de média complexidade."
+            },
+            {
+              "id": "A03",
+              "text": "Serviços de alta complexidade e reabilitação especializada."
+            },
+            {
+              "id": "A04",
+              "text": "Consultas básicas em unidades de saúde da família."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 61,
+          "originalNumber": "61",
+          "label": "Questão 61",
+          "text": "A atenção terciária à saúde caracteriza-se pela oferta de serviços de alta complexidade e reabilitação especializada, incluindo procedimentos de maior densidade tecnológica.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 62,
+          "originalNumber": "62",
+          "label": "Questão 62",
+          "text": "Em uma unidade hospitalar, o fisioterapeuta pode atuar em UTI, enfermarias, pronto-socorro e ambulatórios, conforme a necessidade assistencial.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 63,
+          "originalNumber": "63",
+          "label": "Questão 63",
+          "text": "A atenção secundária em fisioterapia compreende atendimentos de média complexidade, como ambulatórios especializados, sem demandar recursos de alta complexidade.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 64,
+          "originalNumber": "64",
+          "label": "Questão 64",
+          "text": "A fisioterapia dermatofuncional tem como foco principal o tratamento de disfunções dermatológicas e estéticas, incluindo cicatrizes, fibroses e flacidez.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 65,
+          "originalNumber": "65",
+          "label": "Questão 65",
+          "text": "Na saúde do neonato, o fisioterapeuta atua frequentemente em casos de prematuridade e desconforto respiratório.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 66,
+          "originalNumber": "66",
+          "label": "Questão 66",
+          "text": "O principal objetivo da fisioterapia na atenção terciária é promover reabilitação intensiva e recuperação funcional máxima do paciente.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 67,
+          "originalNumber": "67",
+          "label": "Questão 67",
+          "text": "A mobilização precoce e os exercícios respiratórios são medidas essenciais para prevenir complicações respiratórias em pacientes hospitalizados.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 68,
+          "originalNumber": "68",
+          "label": "Questão 68",
+          "text": "O atendimento fisioterapêutico em ambulatório de ortopedia é um exemplo típico de atenção secundária.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 69,
+          "originalNumber": "69",
+          "label": "Questão 69",
+          "text": "A radiofrequência e a drenagem linfática são recursos comumente utilizados na fisioterapia dermatofuncional.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 70,
+          "originalNumber": "70",
+          "label": "Questão 70",
+          "text": "Na avaliação do neonato, o fisioterapeuta deve monitorar principalmente a frequência respiratória e a saturação de oxigênio.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 71,
+          "originalNumber": "71",
+          "label": "Questão 71",
+          "text": "Na reabilitação cardiovascular em atenção terciária, a fase hospitalar inicial tem como objetivo a mobilização precoce e a prevenção de complicações.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 72,
+          "originalNumber": "72",
+          "label": "Questão 72",
+          "text": "Durante o desmame da ventilação mecânica, o fisioterapeuta deve avaliar a força muscular respiratória e a troca gasosa do paciente.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 73,
+          "originalNumber": "73",
+          "label": "Questão 73",
+          "text": "Em pacientes com espasticidade na atenção secundária, o alongamento passivo e a crioterapia são recursos fisioterapêuticos indicados.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 74,
+          "originalNumber": "74",
+          "label": "Questão 74",
+          "text": "No tratamento de fibrose pós-cirúrgica, a fisioterapia dermatofuncional utiliza massagem transversa profunda e ultrassom.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 75,
+          "originalNumber": "75",
+          "label": "Questão 75",
+          "text": "A estimulação precoce em neonatos prematuros tem como principal benefício a melhora do desenvolvimento neuropsicomotor.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 76,
+          "originalNumber": "76",
+          "label": "Questão 76",
+          "text": "Em cuidados paliativos na atenção terciária, o fisioterapeuta deve priorizar o conforto e o alívio de sintomas do paciente.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 77,
+          "originalNumber": "77",
+          "label": "Questão 77",
+          "text": "A frequência recomendada para mudança de decúbito em pacientes acamados é a cada 2 horas.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 78,
+          "originalNumber": "78",
+          "label": "Questão 78",
+          "text": "Em pacientes com DPOC na atenção secundária, o treinamento muscular respiratório visa aumentar a força e a resistência respiratória.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 79,
+          "originalNumber": "79",
+          "label": "Questão 79",
+          "text": "A fase de remodelação da cicatrização caracteriza-se pela reorganização do colágeno e aumento da resistência tecidual.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 80,
+          "originalNumber": "80",
+          "label": "Questão 80",
+          "text": "A vibração e a drenagem postural são técnicas indicadas para higiene brônquica em neonatos.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 81,
+          "originalNumber": "81",
+          "label": "Questão 81",
+          "text": "A mobilização precoce na UTI reduz o tempo de internação e melhora a funcionalidade, desde que respeitados os critérios de segurança.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 82,
+          "originalNumber": "82",
+          "label": "Questão 82",
+          "text": "A posição prona em pacientes com SDRA tem como principal efeito a melhora da relação ventilação/perfusão.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 83,
+          "originalNumber": "83",
+          "label": "Questão 83",
+          "text": "A manobra de Epley é indicada para o tratamento da vertigem posicional paroxística benigna.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 84,
+          "originalNumber": "84",
+          "label": "Questão 84",
+          "text": "Na aplicação do ultrassom terapêutico para fibrose, a frequência mais indicada para tecidos profundos é 1 MHz.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 85,
+          "originalNumber": "85",
+          "label": "Questão 85",
+          "text": "O CPAP nasal em neonatos prematuros tem como objetivo manter pressão positiva e evitar o colapso alveolar.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 86,
+          "originalNumber": "86",
+          "label": "Questão 86",
+          "text": "A neuroplasticidade na reabilitação pós-AVC é favorecida pelo treino orientado a tarefas repetitivas.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 87,
+          "originalNumber": "87",
+          "label": "Questão 87",
+          "text": "Uma lesão por pressão estágio III caracteriza-se por perda total da espessura da pele, com exposição do tecido subcutâneo.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 88,
+          "originalNumber": "88",
+          "label": "Questão 88",
+          "text": "O teste de caminhada de 6 minutos é utilizado na atenção secundária para avaliar a capacidade funcional submáxima.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 89,
+          "originalNumber": "89",
+          "label": "Questão 89",
+          "text": "A laserterapia de baixa intensidade na fisioterapia dermatofuncional promove efeito anti-inflamatório e cicatrizante.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 90,
+          "originalNumber": "90",
+          "label": "Questão 90",
+          "text": "O método canguru em neonatos prematuros proporciona estabilidade térmica e ganho de peso.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Certo"
+            },
+            {
+              "id": "A02",
+              "text": "Errado"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 91,
+          "originalNumber": "91",
+          "label": "Questão 91",
+          "text": "Uma cidade de médio porte está reestruturando sua rede de saúde. Um hospital geral de grande porte passa a oferecer um serviço de reabilitação intensiva para pacientes em pós-operatório de transplante hepático, com equipe multiprofissional e tecnologia de alta densidade. Esse serviço é referência para toda a região. Considerando a organização do SUS por níveis de complexidade, o serviço descrito pertence à atenção:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "primária, por ser a porta de entrada do sistema."
+            },
+            {
+              "id": "A02",
+              "text": "secundária, por realizar atendimentos ambulatoriais."
+            },
+            {
+              "id": "A03",
+              "text": "terciária, por envolver alta complexidade e reabilitação especializada."
+            },
+            {
+              "id": "A04",
+              "text": "domiciliar, por priorizar a continuidade do cuidado."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 92,
+          "originalNumber": "92",
+          "label": "Questão 92",
+          "text": "Um fisioterapeuta recém-contratado por um hospital geral recebe seu cronograma de trabalho. Ele será responsável por atendimentos em diferentes setores, incluindo pacientes graves na UTI, enfermarias clínicas e cirúrgicas, além de demandas do pronto-socorro. Ao analisar sua escala, o profissional identifica que sua atuação abrangerá diversos cenários assistenciais. Considerando a prática hospitalar do fisioterapeuta, é correto afirmar que ele atuará em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "somente em ambulatórios de baixa complexidade."
+            },
+            {
+              "id": "A02",
+              "text": "UTI, enfermarias, pronto-socorro e ambulatórios."
+            },
+            {
+              "id": "A03",
+              "text": "apenas em setores administrativos."
+            },
+            {
+              "id": "A04",
+              "text": "exclusivamente em domicílios."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 93,
+          "originalNumber": "93",
+          "label": "Questão 93",
+          "text": "Uma clínica-escola de fisioterapia mantém um ambulatório especializado em reabilitação ortopédica, onde são atendidos pacientes encaminhados pela atenção primária para tratamento de lesões musculoesqueléticas. O serviço conta com fisioterapeutas, equipamentos de média complexidade e agenda regular de atendimentos. Diante desse cenário, a assistência prestada nesse ambulatório caracteriza-se como atenção:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "secundária, por ofertar atendimentos de média complexidade."
+            },
+            {
+              "id": "A02",
+              "text": "primária, por receber encaminhamentos da rede básica."
+            },
+            {
+              "id": "A03",
+              "text": "terciária, por utilizar equipamentos especializados."
+            },
+            {
+              "id": "A04",
+              "text": "quaternária, por atender casos de alta complexidade."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 94,
+          "originalNumber": "94",
+          "label": "Questão 94",
+          "text": "Uma paciente de 38 anos procura uma clínica de fisioterapia relatando insatisfação com cicatrizes abdominais após cirurgia plástica e flacidez na região do abdômen. Durante a avaliação, o fisioterapeuta observa aderências teciduais e alterações na textura da pele. Ele planeja um tratamento com recursos manuais e equipamentos específicos para disfunções dermatológicas e estéticas. Esse tipo de atuação é característico da fisioterapia:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cardiorrespiratória."
+            },
+            {
+              "id": "A02",
+              "text": "dermatofuncional."
+            },
+            {
+              "id": "A03",
+              "text": "neurológica infantil."
+            },
+            {
+              "id": "A04",
+              "text": "traumato-ortopédica esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 95,
+          "originalNumber": "95",
+          "label": "Questão 95",
+          "text": "Em uma maternidade de alto risco, o fisioterapeuta é chamado para compor a equipe da UTI neonatal. Durante o plantão, ele atende recém-nascidos prematuros que apresentam desconforto respiratório e necessitam de suporte ventilatório não invasivo. Além disso, participa de programas de estimulação precoce para bebês com risco de atraso no desenvolvimento. Diante desse contexto, a atuação descrita refere-se à fisioterapia em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "saúde do idoso."
+            },
+            {
+              "id": "A02",
+              "text": "saúde do atleta."
+            },
+            {
+              "id": "A03",
+              "text": "saúde do neonato."
+            },
+            {
+              "id": "A04",
+              "text": "saúde da gestante."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 96,
+          "originalNumber": "96",
+          "label": "Questão 96",
+          "text": "Um paciente de 55 anos, após cirurgia de revascularização do miocárdio, é encaminhado para um centro de reabilitação cardíaca vinculado a um hospital terciário. A equipe de fisioterapia inicia um programa de mobilização precoce, exercícios respiratórios e monitorização hemodinâmica, com o objetivo de acelerar a recuperação funcional e evitar complicações. Nesse contexto, o principal objetivo da fisioterapia na atenção terciária é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "prevenir doenças em comunidades."
+            },
+            {
+              "id": "A02",
+              "text": "promover reabilitação intensiva e funcional."
+            },
+            {
+              "id": "A03",
+              "text": "realizar triagem de baixa complexidade."
+            },
+            {
+              "id": "A04",
+              "text": "apenas orientar pacientes ambulatoriais."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 97,
+          "originalNumber": "97",
+          "label": "Questão 97",
+          "text": "Um paciente de 70 anos está internado há cinco dias por pneumonia e permanece a maior parte do tempo no leito. A equipe de enfermagem solicita avaliação fisioterapêutica devido ao risco de complicações respiratórias e motoras. O fisioterapeuta identifica redução da expansibilidade torácica e risco de atelectasia. Qual medida é essencial para prevenir essas complicações?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Manter repouso absoluto no leito."
+            },
+            {
+              "id": "A02",
+              "text": "Realizar mobilização precoce e exercícios respiratórios."
+            },
+            {
+              "id": "A03",
+              "text": "Suspender a fisioterapia à noite."
+            },
+            {
+              "id": "A04",
+              "text": "Evitar mudanças de decúbito."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 98,
+          "originalNumber": "98",
+          "label": "Questão 98",
+          "text": "Um paciente de 45 anos sofreu lesão meniscal durante prática esportiva e foi encaminhado pela atenção primária para um ambulatório de fisioterapia ortopédica. No local, passa por avaliação funcional e inicia tratamento com exercícios terapêuticos e recursos físicos. Esse tipo de atendimento, realizado em nível ambulatorial especializado, é exemplo de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "atenção primária."
+            },
+            {
+              "id": "A02",
+              "text": "atenção secundária."
+            },
+            {
+              "id": "A03",
+              "text": "atenção terciária."
+            },
+            {
+              "id": "A04",
+              "text": "atenção quaternária."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 99,
+          "originalNumber": "99",
+          "label": "Questão 99",
+          "text": "Uma clínica de fisioterapia dermatofuncional investe em equipamentos para tratar disfunções estéticas e cicatriciais. Entre os recursos disponíveis, estão aparelhos de radiofrequência, laser de baixa intensidade e ultrassom, além de técnicas manuais como drenagem linfática. Uma paciente com edema pós-operatório e fibrose será tratada com esses recursos. Qual recurso é comumente utilizado nessa especialidade?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ventilação mecânica invasiva."
+            },
+            {
+              "id": "A02",
+              "text": "Radiofrequência e drenagem linfática."
+            },
+            {
+              "id": "A03",
+              "text": "Cateterismo cardíaco."
+            },
+            {
+              "id": "A04",
+              "text": "Teste ergométrico."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 100,
+          "originalNumber": "100",
+          "label": "Questão 100",
+          "text": "Um neonato prematuro de 32 semanas está internado na UTI neonatal e apresenta episódios de dessaturação. O fisioterapeuta é chamado para avaliação e monitoramento contínuo. Durante o atendimento, ele observa padrão respiratório irregular e necessidade de suporte de oxigênio. Na avaliação do neonato, o fisioterapeuta deve monitorar principalmente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas o peso ao nascer."
+            },
+            {
+              "id": "A02",
+              "text": "frequência respiratória e saturação de oxigênio."
+            },
+            {
+              "id": "A03",
+              "text": "somente reflexos primitivos."
+            },
+            {
+              "id": "A04",
+              "text": "exclusivamente a circunferência craniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 101,
+          "originalNumber": "101",
+          "label": "Questão 101",
+          "text": "Um paciente de 60 anos, no segundo dia de pós-operatório de cirurgia de revascularização miocárdica, encontra-se internado em um hospital terciário. A equipe de fisioterapia inicia a fase I da reabilitação cardíaca, com exercícios passivos e ativos assistidos no leito, monitorando sinais vitais. O objetivo dessa fase é evitar complicações e preparar o paciente para a progressão segura. Nesse contexto, a fase hospitalar inicial da reabilitação cardíaca tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "treinamento de alta intensidade."
+            },
+            {
+              "id": "A02",
+              "text": "mobilização precoce e prevenção de complicações."
+            },
+            {
+              "id": "A03",
+              "text": "reabilitação vocacional."
+            },
+            {
+              "id": "A04",
+              "text": "apenas orientação nutricional."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 102,
+          "originalNumber": "102",
+          "label": "Questão 102",
+          "text": "Um paciente de 50 anos permanece em ventilação mecânica invasiva há sete dias após quadro de pneumonia grave. A equipe médica decide iniciar o desmame ventilatório e solicita avaliação do fisioterapeuta. Durante a avaliação, o profissional analisa parâmetros respiratórios e hemodinâmicos, além de índices preditivos de sucesso. Para conduzir o desmame com segurança, o fisioterapeuta deve avaliar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas a frequência cardíaca."
+            },
+            {
+              "id": "A02",
+              "text": "força muscular respiratória e troca gasosa."
+            },
+            {
+              "id": "A03",
+              "text": "somente o nível de consciência."
+            },
+            {
+              "id": "A04",
+              "text": "exclusivamente a pressão arterial."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 103,
+          "originalNumber": "103",
+          "label": "Questão 103",
+          "text": "Um paciente de 48 anos, vítima de AVC há seis meses, frequenta ambulatório de fisioterapia neurológica. Ele apresenta espasticidade em membro superior direito, com padrão flexor, o que dificulta a higiene e a funcionalidade. O fisioterapeuta planeja intervenção para reduzir o tônus muscular e melhorar a mobilidade. Em pacientes com espasticidade na atenção secundária, qual recurso fisioterapêutico é indicado?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Exercícios de fortalecimento intenso."
+            },
+            {
+              "id": "A02",
+              "text": "Alongamento passivo e crioterapia."
+            },
+            {
+              "id": "A03",
+              "text": "Estimulação elétrica de alta frequência."
+            },
+            {
+              "id": "A04",
+              "text": "Repouso absoluto."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 104,
+          "originalNumber": "104",
+          "label": "Questão 104",
+          "text": "Uma paciente de 42 anos realizou abdominoplastia há 30 dias e desenvolveu fibrose na região infraumbilical, com aderência tecidual e dor à palpação. Ela procura fisioterapia dermatofuncional para tratamento. O fisioterapeuta avalia a área e define conduta para melhorar a mobilidade tecidual e reduzir a fibrose. No tratamento de fibrose pós-cirúrgica, a fisioterapia dermatofuncional utiliza:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Massagem transversa profunda e ultrassom."
+            },
+            {
+              "id": "A02",
+              "text": "Exercícios aeróbicos de alto impacto."
+            },
+            {
+              "id": "A03",
+              "text": "Imobilização prolongada."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas hidratação oral."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 105,
+          "originalNumber": "105",
+          "label": "Questão 105",
+          "text": "Um neonato prematuro de 30 semanas, agora com 35 semanas de idade corrigida, está estável clinicamente e será incluído em programa de estimulação precoce na UTI neonatal. A equipe de fisioterapia planeja intervenções para favorecer o desenvolvimento neuropsicomotor e prevenir atrasos. Considerando os objetivos da estimulação precoce em neonatos prematuros, o principal benefício esperado é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aumento do tempo de internação."
+            },
+            {
+              "id": "A02",
+              "text": "melhora do desenvolvimento neuropsicomotor."
+            },
+            {
+              "id": "A03",
+              "text": "redução da frequência cardíaca."
+            },
+            {
+              "id": "A04",
+              "text": "apenas ganho de peso."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 106,
+          "originalNumber": "106",
+          "label": "Questão 106",
+          "text": "Um paciente de 68 anos com câncer de pulmão metastático está internado em hospital terciário em cuidados paliativos exclusivos. Ele apresenta dispneia intensa, dor torácica e fadiga. A equipe solicita avaliação fisioterapêutica para manejo de sintomas. O fisioterapeuta deve priorizar intervenções que promovam conforto e alívio, respeitando os limites do paciente. Em cuidados paliativos na atenção terciária, o fisioterapeuta deve priorizar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ganho de força máxima."
+            },
+            {
+              "id": "A02",
+              "text": "conforto e alívio de sintomas."
+            },
+            {
+              "id": "A03",
+              "text": "treinamento de alta performance."
+            },
+            {
+              "id": "A04",
+              "text": "reabilitação esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 107,
+          "originalNumber": "107",
+          "label": "Questão 107",
+          "text": "Um paciente de 80 anos está internado em enfermaria por insuficiência cardíaca descompensada e permanece acamado há 10 dias. Ele apresenta pele frágil e risco elevado de úlceras por pressão. A equipe de enfermagem solicita orientação fisioterapêutica sobre posicionamento e mudança de decúbito. A frequência recomendada para mudança de decúbito em pacientes acamados é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a cada 8 horas."
+            },
+            {
+              "id": "A02",
+              "text": "a cada 2 horas."
+            },
+            {
+              "id": "A03",
+              "text": "uma vez ao dia."
+            },
+            {
+              "id": "A04",
+              "text": "a cada 12 horas."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 108,
+          "originalNumber": "108",
+          "label": "Questão 108",
+          "text": "Um paciente de 65 anos com DPOC moderada frequenta ambulatório de reabilitação pulmonar. Ele apresenta dispneia aos esforços e redução da tolerância ao exercício. O fisioterapeuta inclui treinamento muscular respiratório com uso de threshold inspiratório, além de exercícios aeróbicos. Em pacientes com DPOC na atenção secundária, o treinamento muscular respiratório visa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reduzir a capacidade pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "aumentar a força e resistência respiratória."
+            },
+            {
+              "id": "A03",
+              "text": "apenas melhorar a postura."
+            },
+            {
+              "id": "A04",
+              "text": "diminuir a saturação de oxigênio."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 109,
+          "originalNumber": "109",
+          "label": "Questão 109",
+          "text": "Uma paciente de 35 anos realizou cirurgia de mama há 45 dias e está em acompanhamento fisioterapêutico dermatofuncional. A ferida operatória já está fechada, e o fisioterapeuta identifica tecido fibrótico em organização. Ele planeja intervenções para modular a fase de remodelação da cicatrização. A fase de remodelação da cicatrização caracteriza-se por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "inflamação aguda."
+            },
+            {
+              "id": "A02",
+              "text": "reorganização do colágeno."
+            },
+            {
+              "id": "A03",
+              "text": "proliferação de fibroblastos."
+            },
+            {
+              "id": "A04",
+              "text": "formação de coágulo."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 110,
+          "originalNumber": "110",
+          "label": "Questão 110",
+          "text": "Um neonato de 34 semanas apresenta aumento de secreção brônquica e sinais de desconforto respiratório leve. O fisioterapeuta é chamado para realizar higiene brônquica. Considerando a fragilidade do neonato e a necessidade de técnicas seguras, qual técnica é indicada?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tapotagem vigorosa."
+            },
+            {
+              "id": "A02",
+              "text": "Vibração e drenagem postural."
+            },
+            {
+              "id": "A03",
+              "text": "Aspiração traqueal de rotina."
+            },
+            {
+              "id": "A04",
+              "text": "Pressão positiva expiratória final."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 111,
+          "originalNumber": "111",
+          "label": "Questão 111",
+          "text": "Um paciente de 55 anos está internado em UTI há 10 dias por choque séptico, em ventilação mecânica, mas com melhora gradual do quadro hemodinâmico. A equipe de fisioterapia propõe início de mobilização precoce, incluindo sedestação à beira do leito e transferência para poltrona, com monitorização contínua. A equipe médica questiona a segurança da conduta. Sobre a mobilização precoce na UTI, é correto afirmar que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é contraindicada em todos os pacientes em ventilação mecânica."
+            },
+            {
+              "id": "A02",
+              "text": "deve ser iniciada apenas após alta da UTI."
+            },
+            {
+              "id": "A03",
+              "text": "reduz tempo de internação e melhora funcionalidade."
+            },
+            {
+              "id": "A04",
+              "text": "aumenta a mortalidade em pacientes críticos."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 112,
+          "originalNumber": "112",
+          "label": "Questão 112",
+          "text": "Um paciente de 40 anos com SDRA grave apresenta hipoxemia refratária apesar de ventilação mecânica otimizada. A equipe médica decide iniciar posição prona por 16 horas ao dia, com acompanhamento fisioterapêutico. O fisioterapeuta explica à equipe os efeitos esperados dessa manobra. A posição prona em pacientes com SDRA tem como principal efeito:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aumento do shunt pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "melhora da relação ventilação/perfusão."
+            },
+            {
+              "id": "A03",
+              "text": "redução da compliance pulmonar."
+            },
+            {
+              "id": "A04",
+              "text": "aumento da pressão intracraniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 113,
+          "originalNumber": "113",
+          "label": "Questão 113",
+          "text": "Uma paciente de 50 anos chega ao ambulatório de fisioterapia relatando crises de vertigem desencadeadas por mudanças de posição da cabeça, com duração de segundos, além de náuseas. Após avaliação, o fisioterapeuta diagnostica vertigem posicional paroxística benigna (VPPB) por canal semicircular posterior. Ele decide realizar a manobra de Epley. A manobra de Epley é indicada para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "vertigem posicional paroxística benigna."
+            },
+            {
+              "id": "A02",
+              "text": "paralisia facial periférica."
+            },
+            {
+              "id": "A03",
+              "text": "neuropatia periférica."
+            },
+            {
+              "id": "A04",
+              "text": "esclerose múltipla."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 114,
+          "originalNumber": "114",
+          "label": "Questão 114",
+          "text": "Uma paciente de 45 anos apresenta fibrose profunda em região glútea após lipoaspiração. O fisioterapeuta dermatofuncional decide utilizar ultrassom terapêutico para tratar a área. Para atingir tecidos profundos com maior eficácia, ele deve selecionar a frequência de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1 MHz."
+            },
+            {
+              "id": "A02",
+              "text": "3 MHz."
+            },
+            {
+              "id": "A03",
+              "text": "5 MHz."
+            },
+            {
+              "id": "A04",
+              "text": "7 MHz."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 115,
+          "originalNumber": "115",
+          "label": "Questão 115",
+          "text": "Um neonato prematuro de 30 semanas apresenta desconforto respiratório leve e é submetido a CPAP nasal. O fisioterapeuta explica à equipe de enfermagem os objetivos dessa terapia. O CPAP nasal em neonatos prematuros tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reduzir a capacidade residual funcional."
+            },
+            {
+              "id": "A02",
+              "text": "manter pressão positiva e evitar colapso alveolar."
+            },
+            {
+              "id": "A03",
+              "text": "aumentar o trabalho respiratório."
+            },
+            {
+              "id": "A04",
+              "text": "induzir apneia."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 116,
+          "originalNumber": "116",
+          "label": "Questão 116",
+          "text": "Um paciente de 62 anos, seis meses após AVC isquêmico, participa de programa de reabilitação intensiva em centro terciário. Ele apresenta hemiparesia à direita e dificuldade de marcha. A equipe de fisioterapia utiliza treino orientado a tarefas repetitivas e realidade virtual. A neuroplasticidade na reabilitação pós-AVC é favorecida por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "repouso prolongado."
+            },
+            {
+              "id": "A02",
+              "text": "treino orientado a tarefas repetitivas."
+            },
+            {
+              "id": "A03",
+              "text": "isolamento social."
+            },
+            {
+              "id": "A04",
+              "text": "uso exclusivo de medicamentos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 117,
+          "originalNumber": "117",
+          "label": "Questão 117",
+          "text": "Um paciente de 75 anos, internado em enfermaria por fratura de fêmur, apresenta lesão por pressão em região sacral. O fisioterapeuta avalia e identifica perda total da espessura da pele, com exposição do tecido subcutâneo, sem comprometimento de músculo, tendão ou osso. Segundo o estadiamento das lesões por pressão, essa lesão é classificada como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "estágio I."
+            },
+            {
+              "id": "A02",
+              "text": "estágio II."
+            },
+            {
+              "id": "A03",
+              "text": "estágio III."
+            },
+            {
+              "id": "A04",
+              "text": "estágio IV."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 118,
+          "originalNumber": "118",
+          "label": "Questão 118",
+          "text": "Um paciente de 58 anos com insuficiência cardíaca compensada participa de programa de reabilitação cardíaca em ambulatório. O fisioterapeuta aplica o teste de caminhada de 6 minutos para avaliar a capacidade funcional e orientar a prescrição de exercícios. O teste de caminhada de 6 minutos é utilizado na atenção secundária para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "diagnosticar infarto agudo do miocárdio."
+            },
+            {
+              "id": "A02",
+              "text": "avaliar capacidade funcional submáxima."
+            },
+            {
+              "id": "A03",
+              "text": "medir pressão intracraniana."
+            },
+            {
+              "id": "A04",
+              "text": "avaliar reflexos primitivos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 119,
+          "originalNumber": "119",
+          "label": "Questão 119",
+          "text": "Uma paciente de 40 anos apresenta cicatriz hipertrófica em região torácica após cirurgia. O fisioterapeuta dermatofuncional decide associar laserterapia de baixa intensidade ao tratamento manual. A laserterapia de baixa intensidade na fisioterapia dermatofuncional promove:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas efeito térmico."
+            },
+            {
+              "id": "A02",
+              "text": "efeito anti-inflamatório e cicatrizante."
+            },
+            {
+              "id": "A03",
+              "text": "destruição tecidual."
+            },
+            {
+              "id": "A04",
+              "text": "necrose controlada."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 120,
+          "originalNumber": "120",
+          "label": "Questão 120",
+          "text": "Um neonato prematuro de 32 semanas, clinicamente estável, é incluído no método canguru durante a internação. A equipe de fisioterapia orienta a mãe sobre a posição e os benefícios da técnica. O método canguru em neonatos prematuros proporciona:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aumento do estresse neonatal."
+            },
+            {
+              "id": "A02",
+              "text": "estabilidade térmica e ganho de peso."
+            },
+            {
+              "id": "A03",
+              "text": "redução do vínculo mãe-bebê."
+            },
+            {
+              "id": "A04",
+              "text": "aumento da frequência de apneias."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ],
+      "updatedAt": "2026-10-01T01:00:04.085Z",
+      "kind": "prova"
+    },
+    {
+      "id": "PD20260914H132750",
+      "title": "Fisioterapeuta · DeepSeek - FGV",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "DeepSeek - FGV",
+      "booklet": "Anhanguera",
+      "role": "Fisioterapeuta",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Uma Secretaria Estadual de Saúde está reorganizando a rede de assistência e precisa classificar corretamente os serviços de fisioterapia ofertados em um hospital de grande porte. Nesse hospital, há um centro de reabilitação intensiva que atende pacientes em pós-operatório de transplante hepático, com equipe multiprofissional e tecnologia de alta densidade. O gestor questiona em qual nível de atenção esse serviço deve ser enquadrado. Considerando as diretrizes do SUS e a organização por níveis de complexidade, o serviço descrito pertence à atenção:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "primária, por ser a porta de entrada do sistema."
+            },
+            {
+              "id": "A02",
+              "text": "secundária, por realizar atendimentos ambulatoriais."
+            },
+            {
+              "id": "A03",
+              "text": "terciária, por envolver alta complexidade e reabilitação especializada."
+            },
+            {
+              "id": "A04",
+              "text": "domiciliar, por priorizar a continuidade do cuidado."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Um fisioterapeuta recém-contratado por um hospital geral recebe seu cronograma de trabalho. Ele será responsável por atendimentos em diferentes setores, incluindo pacientes graves na UTI, enfermarias clínicas e cirúrgicas, além de demandas do pronto-socorro. Ao analisar sua escala, o profissional identifica que sua atuação abrangerá diversos cenários assistenciais. Considerando a prática hospitalar do fisioterapeuta, é correto afirmar que ele atuará em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "somente em ambulatórios de baixa complexidade."
+            },
+            {
+              "id": "A02",
+              "text": "UTI, enfermarias, pronto-socorro e ambulatórios."
+            },
+            {
+              "id": "A03",
+              "text": "apenas em setores administrativos."
+            },
+            {
+              "id": "A04",
+              "text": "exclusivamente em domicílios."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Uma clínica-escola de fisioterapia mantém um ambulatório especializado em reabilitação ortopédica, onde são atendidos pacientes encaminhados pela atenção primária para tratamento de lesões musculoesqueléticas. O serviço conta com fisioterapeutas, equipamentos de média complexidade e agenda regular de atendimentos. Diante desse cenário, a assistência prestada nesse ambulatório caracteriza-se como atenção:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "secundária, por ofertar atendimentos de média complexidade."
+            },
+            {
+              "id": "A02",
+              "text": "primária, por receber encaminhamentos da rede básica."
+            },
+            {
+              "id": "A03",
+              "text": "terciária, por utilizar equipamentos especializados."
+            },
+            {
+              "id": "A04",
+              "text": "quaternária, por atender casos de alta complexidade."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Uma paciente de 38 anos procura uma clínica de fisioterapia relatando insatisfação com cicatrizes abdominais após cirurgia plástica e flacidez na região do abdômen. Durante a avaliação, o fisioterapeuta observa aderências teciduais e alterações na textura da pele. Ele planeja um tratamento com recursos manuais e equipamentos específicos para disfunções dermatológicas e estéticas. Esse tipo de atuação é característico da fisioterapia:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cardiorrespiratória."
+            },
+            {
+              "id": "A02",
+              "text": "dermatofuncional."
+            },
+            {
+              "id": "A03",
+              "text": "neurológica infantil."
+            },
+            {
+              "id": "A04",
+              "text": "traumato-ortopédica esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Em uma maternidade de alto risco, o fisioterapeuta é chamado para compor a equipe da UTI neonatal. Durante o plantão, ele atende recém-nascidos prematuros que apresentam desconforto respiratório e necessitam de suporte ventilatório não invasivo. Além disso, participa de programas de estimulação precoce para bebês com risco de atraso no desenvolvimento. Diante desse contexto, a atuação descrita refere-se à fisioterapia em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "saúde do idoso."
+            },
+            {
+              "id": "A02",
+              "text": "saúde do atleta."
+            },
+            {
+              "id": "A03",
+              "text": "saúde do neonato."
+            },
+            {
+              "id": "A04",
+              "text": "saúde da gestante."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Um paciente de 55 anos, após cirurgia de revascularização do miocárdio, é encaminhado para um centro de reabilitação cardíaca vinculado a um hospital terciário. A equipe de fisioterapia inicia um programa de mobilização precoce, exercícios respiratórios e monitorização hemodinâmica, com o objetivo de acelerar a recuperação funcional e evitar complicações. Nesse contexto, o principal objetivo da fisioterapia na atenção terciária é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "prevenir doenças em comunidades."
+            },
+            {
+              "id": "A02",
+              "text": "promover reabilitação intensiva e funcional."
+            },
+            {
+              "id": "A03",
+              "text": "realizar triagem de baixa complexidade."
+            },
+            {
+              "id": "A04",
+              "text": "apenas orientar pacientes ambulatoriais."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Um paciente de 70 anos está internado há cinco dias por pneumonia e permanece a maior parte do tempo no leito. A equipe de enfermagem solicita avaliação fisioterapêutica devido ao risco de complicações respiratórias e motoras. O fisioterapeuta identifica redução da expansibilidade torácica e risco de atelectasia. Qual medida é essencial para prevenir essas complicações?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Manter repouso absoluto no leito."
+            },
+            {
+              "id": "A02",
+              "text": "Realizar mobilização precoce e exercícios respiratórios."
+            },
+            {
+              "id": "A03",
+              "text": "Suspender a fisioterapia à noite."
+            },
+            {
+              "id": "A04",
+              "text": "Evitar mudanças de decúbito."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Um paciente de 45 anos sofreu lesão meniscal durante prática esportiva e foi encaminhado pela atenção primária para um ambulatório de fisioterapia ortopédica. No local, passa por avaliação funcional e inicia tratamento com exercícios terapêuticos e recursos físicos. Esse tipo de atendimento, realizado em nível ambulatorial especializado, é exemplo de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "atenção primária."
+            },
+            {
+              "id": "A02",
+              "text": "atenção secundária."
+            },
+            {
+              "id": "A03",
+              "text": "atenção terciária."
+            },
+            {
+              "id": "A04",
+              "text": "atenção quaternária."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Uma clínica de fisioterapia dermatofuncional investe em equipamentos para tratar disfunções estéticas e cicatriciais. Entre os recursos disponíveis, estão aparelhos de radiofrequência, laser de baixa intensidade e ultrassom, além de técnicas manuais como drenagem linfática. Uma paciente com edema pós-operatório e fibrose será tratada com esses recursos. Qual recurso é comumente utilizado nessa especialidade?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ventilação mecânica invasiva."
+            },
+            {
+              "id": "A02",
+              "text": "Radiofrequência e drenagem linfática."
+            },
+            {
+              "id": "A03",
+              "text": "Cateterismo cardíaco."
+            },
+            {
+              "id": "A04",
+              "text": "Teste ergométrico."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Um neonato prematuro de 32 semanas está internado na UTI neonatal e apresenta episódios de dessaturação. O fisioterapeuta é chamado para avaliação e monitoramento contínuo. Durante o atendimento, ele observa padrão respiratório irregular e necessidade de suporte de oxigênio. Na avaliação do neonato, o fisioterapeuta deve monitorar principalmente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas o peso ao nascer."
+            },
+            {
+              "id": "A02",
+              "text": "frequência respiratória e saturação de oxigênio."
+            },
+            {
+              "id": "A03",
+              "text": "somente reflexos primitivos."
+            },
+            {
+              "id": "A04",
+              "text": "exclusivamente a circunferência craniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Um paciente de 60 anos, no segundo dia de pós-operatório de cirurgia de revascularização miocárdica, encontra-se internado em um hospital terciário. A equipe de fisioterapia inicia a fase I da reabilitação cardíaca, com exercícios passivos e ativos assistidos no leito, monitorando sinais vitais. O objetivo dessa fase é evitar complicações e preparar o paciente para a progressão segura. Nesse contexto, a fase hospitalar inicial da reabilitação cardíaca tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "treinamento de alta intensidade."
+            },
+            {
+              "id": "A02",
+              "text": "mobilização precoce e prevenção de complicações."
+            },
+            {
+              "id": "A03",
+              "text": "reabilitação vocacional."
+            },
+            {
+              "id": "A04",
+              "text": "apenas orientação nutricional."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Um paciente de 50 anos permanece em ventilação mecânica invasiva há sete dias após quadro de pneumonia grave. A equipe médica decide iniciar o desmame ventilatório e solicita avaliação do fisioterapeuta. Durante a avaliação, o profissional analisa parâmetros respiratórios e hemodinâmicos, além de índices preditivos de sucesso. Para conduzir o desmame com segurança, o fisioterapeuta deve avaliar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas a frequência cardíaca."
+            },
+            {
+              "id": "A02",
+              "text": "força muscular respiratória e troca gasosa."
+            },
+            {
+              "id": "A03",
+              "text": "somente o nível de consciência."
+            },
+            {
+              "id": "A04",
+              "text": "exclusivamente a pressão arterial."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Um paciente de 48 anos, vítima de AVC há seis meses, frequenta ambulatório de fisioterapia neurológica. Ele apresenta espasticidade em membro superior direito, com padrão flexor, o que dificulta a higiene e a funcionalidade. O fisioterapeuta planeja intervenção para reduzir o tônus muscular e melhorar a mobilidade. Em pacientes com espasticidade na atenção secundária, qual recurso fisioterapêutico é indicado?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Exercícios de fortalecimento intenso."
+            },
+            {
+              "id": "A02",
+              "text": "Alongamento passivo e crioterapia."
+            },
+            {
+              "id": "A03",
+              "text": "Estimulação elétrica de alta frequência."
+            },
+            {
+              "id": "A04",
+              "text": "Repouso absoluto."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Uma paciente de 42 anos realizou abdominoplastia há 30 dias e desenvolveu fibrose na região infraumbilical, com aderência tecidual e dor à palpação. Ela procura fisioterapia dermatofuncional para tratamento. O fisioterapeuta avalia a área e define conduta para melhorar a mobilidade tecidual e reduzir a fibrose. No tratamento de fibrose pós-cirúrgica, a fisioterapia dermatofuncional utiliza:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Massagem transversa profunda e ultrassom."
+            },
+            {
+              "id": "A02",
+              "text": "Exercícios aeróbicos de alto impacto."
+            },
+            {
+              "id": "A03",
+              "text": "Imobilização prolongada."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas hidratação oral."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Um neonato prematuro de 30 semanas, agora com 35 semanas de idade corrigida, está estável clinicamente e será incluído em programa de estimulação precoce na UTI neonatal. A equipe de fisioterapia planeja intervenções para favorecer o desenvolvimento neuropsicomotor e prevenir atrasos. Considerando os objetivos da estimulação precoce em neonatos prematuros, o principal benefício esperado é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aumento do tempo de internação."
+            },
+            {
+              "id": "A02",
+              "text": "melhora do desenvolvimento neuropsicomotor."
+            },
+            {
+              "id": "A03",
+              "text": "redução da frequência cardíaca."
+            },
+            {
+              "id": "A04",
+              "text": "apenas ganho de peso."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Um paciente de 68 anos com câncer de pulmão metastático está internado em hospital terciário em cuidados paliativos exclusivos. Ele apresenta dispneia intensa, dor torácica e fadiga. A equipe solicita avaliação fisioterapêutica para manejo de sintomas. O fisioterapeuta deve priorizar intervenções que promovam conforto e alívio, respeitando os limites do paciente. Em cuidados paliativos na atenção terciária, o fisioterapeuta deve priorizar:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ganho de força máxima."
+            },
+            {
+              "id": "A02",
+              "text": "conforto e alívio de sintomas."
+            },
+            {
+              "id": "A03",
+              "text": "treinamento de alta performance."
+            },
+            {
+              "id": "A04",
+              "text": "reabilitação esportiva."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Um paciente de 80 anos está internado em enfermaria por insuficiência cardíaca descompensada e permanece acamado há 10 dias. Ele apresenta pele frágil e risco elevado de úlceras por pressão. A equipe de enfermagem solicita orientação fisioterapêutica sobre posicionamento e mudança de decúbito. A frequência recomendada para mudança de decúbito em pacientes acamados é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a cada 8 horas."
+            },
+            {
+              "id": "A02",
+              "text": "a cada 2 horas."
+            },
+            {
+              "id": "A03",
+              "text": "uma vez ao dia."
+            },
+            {
+              "id": "A04",
+              "text": "a cada 12 horas."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Um paciente de 65 anos com DPOC moderada frequenta ambulatório de reabilitação pulmonar. Ele apresenta dispneia aos esforços e redução da tolerância ao exercício. O fisioterapeuta inclui treinamento muscular respiratório com uso de threshold inspiratório, além de exercícios aeróbicos. Em pacientes com DPOC na atenção secundária, o treinamento muscular respiratório visa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reduzir a capacidade pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "aumentar a força e resistência respiratória."
+            },
+            {
+              "id": "A03",
+              "text": "apenas melhorar a postura."
+            },
+            {
+              "id": "A04",
+              "text": "diminuir a saturação de oxigênio."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Uma paciente de 35 anos realizou cirurgia de mama há 45 dias e está em acompanhamento fisioterapêutico dermatofuncional. A ferida operatória já está fechada, e o fisioterapeuta identifica tecido fibrótico em organização. Ele planeja intervenções para modular a fase de remodelação da cicatrização. A fase de remodelação da cicatrização caracteriza-se por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "inflamação aguda."
+            },
+            {
+              "id": "A02",
+              "text": "reorganização do colágeno."
+            },
+            {
+              "id": "A03",
+              "text": "proliferação de fibroblastos."
+            },
+            {
+              "id": "A04",
+              "text": "formação de coágulo."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Um neonato de 34 semanas apresenta aumento de secreção brônquica e sinais de desconforto respiratório leve. O fisioterapeuta é chamado para realizar higiene brônquica. Considerando a fragilidade do neonato e a necessidade de técnicas seguras, qual técnica é indicada?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tapotagem vigorosa."
+            },
+            {
+              "id": "A02",
+              "text": "Vibração e drenagem postural."
+            },
+            {
+              "id": "A03",
+              "text": "Aspiração traqueal de rotina."
+            },
+            {
+              "id": "A04",
+              "text": "Pressão positiva expiratória final."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Um paciente de 55 anos está internado em UTI há 10 dias por choque séptico, em ventilação mecânica, mas com melhora gradual do quadro hemodinâmico. A equipe de fisioterapia propõe início de mobilização precoce, incluindo sedestação à beira do leito e transferência para poltrona, com monitorização contínua. A equipe médica questiona a segurança da conduta. Sobre a mobilização precoce na UTI, é correto afirmar que:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "é contraindicada em todos os pacientes em ventilação mecânica."
+            },
+            {
+              "id": "A02",
+              "text": "deve ser iniciada apenas após alta da UTI."
+            },
+            {
+              "id": "A03",
+              "text": "reduz tempo de internação e melhora funcionalidade."
+            },
+            {
+              "id": "A04",
+              "text": "aumenta a mortalidade em pacientes críticos."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Um paciente de 40 anos com SDRA grave apresenta hipoxemia refratária apesar de ventilação mecânica otimizada. A equipe médica decide iniciar posição prona por 16 horas ao dia, com acompanhamento fisioterapêutico. O fisioterapeuta explica à equipe os efeitos esperados dessa manobra. A posição prona em pacientes com SDRA tem como principal efeito:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aumento do shunt pulmonar."
+            },
+            {
+              "id": "A02",
+              "text": "melhora da relação ventilação/perfusão."
+            },
+            {
+              "id": "A03",
+              "text": "redução da compliance pulmonar."
+            },
+            {
+              "id": "A04",
+              "text": "aumento da pressão intracraniana."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Uma paciente de 50 anos chega ao ambulatório de fisioterapia relatando crises de vertigem desencadeadas por mudanças de posição da cabeça, com duração de segundos, além de náuseas. Após avaliação, o fisioterapeuta diagnostica vertigem posicional paroxística benigna (VPPB) por canal semicircular posterior. Ele decide realizar a manobra de Epley. A manobra de Epley é indicada para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "vertigem posicional paroxística benigna."
+            },
+            {
+              "id": "A02",
+              "text": "paralisia facial periférica."
+            },
+            {
+              "id": "A03",
+              "text": "neuropatia periférica."
+            },
+            {
+              "id": "A04",
+              "text": "esclerose múltipla."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Uma paciente de 45 anos apresenta fibrose profunda em região glútea após lipoaspiração. O fisioterapeuta dermatofuncional decide utilizar ultrassom terapêutico para tratar a área. Para atingir tecidos profundos com maior eficácia, ele deve selecionar a frequência de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1 MHz."
+            },
+            {
+              "id": "A02",
+              "text": "3 MHz."
+            },
+            {
+              "id": "A03",
+              "text": "5 MHz."
+            },
+            {
+              "id": "A04",
+              "text": "7 MHz."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "Um neonato prematuro de 30 semanas apresenta desconforto respiratório leve e é submetido a CPAP nasal. O fisioterapeuta explica à equipe de enfermagem os objetivos dessa terapia. O CPAP nasal em neonatos prematuros tem como objetivo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reduzir a capacidade residual funcional."
+            },
+            {
+              "id": "A02",
+              "text": "manter pressão positiva e evitar colapso alveolar."
+            },
+            {
+              "id": "A03",
+              "text": "aumentar o trabalho respiratório."
+            },
+            {
+              "id": "A04",
+              "text": "induzir apneia."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Um paciente de 62 anos, seis meses após AVC isquêmico, participa de programa de reabilitação intensiva em centro terciário. Ele apresenta hemiparesia à direita e dificuldade de marcha. A equipe de fisioterapia utiliza treino orientado a tarefas repetitivas e realidade virtual. A neuroplasticidade na reabilitação pós-AVC é favorecida por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "repouso prolongado."
+            },
+            {
+              "id": "A02",
+              "text": "treino orientado a tarefas repetitivas."
+            },
+            {
+              "id": "A03",
+              "text": "isolamento social."
+            },
+            {
+              "id": "A04",
+              "text": "uso exclusivo de medicamentos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Um paciente de 75 anos, internado em enfermaria por fratura de fêmur, apresenta lesão por pressão em região sacral. O fisioterapeuta avalia e identifica perda total da espessura da pele, com exposição do tecido subcutâneo, sem comprometimento de músculo, tendão ou osso. Segundo o estadiamento das lesões por pressão, essa lesão é classificada como:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "estágio I."
+            },
+            {
+              "id": "A02",
+              "text": "estágio II."
+            },
+            {
+              "id": "A03",
+              "text": "estágio III."
+            },
+            {
+              "id": "A04",
+              "text": "estágio IV."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Um paciente de 58 anos com insuficiência cardíaca compensada participa de programa de reabilitação cardíaca em ambulatório. O fisioterapeuta aplica o teste de caminhada de 6 minutos para avaliar a capacidade funcional e orientar a prescrição de exercícios. O teste de caminhada de 6 minutos é utilizado na atenção secundária para:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "diagnosticar infarto agudo do miocárdio."
+            },
+            {
+              "id": "A02",
+              "text": "avaliar capacidade funcional submáxima."
+            },
+            {
+              "id": "A03",
+              "text": "medir pressão intracraniana."
+            },
+            {
+              "id": "A04",
+              "text": "avaliar reflexos primitivos."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Uma paciente de 40 anos apresenta cicatriz hipertrófica em região torácica após cirurgia. O fisioterapeuta dermatofuncional decide associar laserterapia de baixa intensidade ao tratamento manual. A laserterapia de baixa intensidade na fisioterapia dermatofuncional promove:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apenas efeito térmico."
+            },
+            {
+              "id": "A02",
+              "text": "efeito anti-inflamatório e cicatrizante."
+            },
+            {
+              "id": "A03",
+              "text": "destruição tecidual."
+            },
+            {
+              "id": "A04",
+              "text": "necrose controlada."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Um neonato prematuro de 32 semanas, clinicamente estável, é incluído no método canguru durante a internação. A equipe de fisioterapia orienta a mãe sobre a posição e os benefícios da técnica. O método canguru em neonatos prematuros proporciona:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aumento do estresse neonatal."
+            },
+            {
+              "id": "A02",
+              "text": "estabilidade térmica e ganho de peso."
+            },
+            {
+              "id": "A03",
+              "text": "redução do vínculo mãe-bebê."
+            },
+            {
+              "id": "A04",
+              "text": "aumento da frequência de apneias."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Fisioterapia",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ],
+      "updatedAt": "2026-10-01T01:00:04.085Z",
+      "kind": "prova"
+    }
+  ]
+}

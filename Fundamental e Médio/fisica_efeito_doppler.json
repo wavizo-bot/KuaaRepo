@@ -1,0 +1,890 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-EFEITO-DOPPLER-2026",
+      "title": "Física — Efeito Doppler (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Efeito Doppler",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "O efeito Doppler: mudança aparente de frequência devido ao movimento relativo entre fonte e observador. Para ondas sonoras (meio material), as fórmulas são: Fonte movendo-se em direção a observador parado: f' = f·v/(v – v_f). Fonte afastando-se de observador parado: f' = f·v/(v + v_f). Observador movendo-se em direção a fonte parada: f' = f·(v + v_o)/v. Observador afastando-se de fonte parada: f' = f·(v – v_o)/v. (v = velocidade do som no meio).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Correto"
+            },
+            {
+              "id": "A02",
+              "text": "Incorreto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Uma ambulância com sirene a 1000 Hz aproxima-se de observador parado a 30 m/s. Velocidade do som v = 340 m/s. A frequência observada é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1097 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~915 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "1000 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "~1111 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~909 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A mesma ambulância afasta-se do observador a 30 m/s. Frequência observada:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~915 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~1097 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "1000 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~1111 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~909 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Observador move-se em direção a fonte parada (f = 500 Hz) a 20 m/s (v = 340 m/s). Frequência observada:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~529 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~474 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "500 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~530 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~470 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Fonte e observador movendo-se um em direção ao outro: f' = f·(v + v_o)/(v – v_f). Fonte 800 Hz move-se a 20 m/s, observador move-se a 10 m/s (v = 340 m/s). f' =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~875 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~734 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "800 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~914 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~727 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Fonte e observador afastando-se um do outro: f' = f·(v – v_o)/(v + v_f). Mesmo caso anterior mas afastando-se. f' =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~734 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~875 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "800 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~727 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~914 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Movimento perpendicular à linha de união: não há efeito Doppler (componente radial da velocidade é zero). Carro passa por observador parado a 30 m/s, emitindo 1000 Hz. No instante de passagem mais próxima, a frequência observada é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1000 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~1097 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "~915 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~1100 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~900 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Efeito Doppler para ondas eletromagnéticas (luz): relativístico. Fonte e observador afastando-se: f' = f·√[(1–β)/(1+β)] (β = v/c). Galáxia afastando-se a 0,1c. Desvio para o vermelho z = (λ'–λ)/λ = √[(1+β)/(1–β)] – 1 ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,105"
+            },
+            {
+              "id": "A02",
+              "text": "~0,1"
+            },
+            {
+              "id": "A03",
+              "text": "~0,2"
+            },
+            {
+              "id": "A04",
+              "text": "~0,05"
+            },
+            {
+              "id": "A05",
+              "text": "~0,01"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Desvio para o vermelho cosmológico: z = (λ_obs – λ_emit)/λ_emit. Para z = 1, o comprimento de onda observado é o dobro do emitido. A distância própria da galáxia (aproximação Hubble): v = H₀·d. Para z = 1, H₀ = 70 km/s/Mpc, distância ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~4,3 Gpc"
+            },
+            {
+              "id": "A02",
+              "text": "~1,5 Gpc"
+            },
+            {
+              "id": "A03",
+              "text": "~10 Gpc"
+            },
+            {
+              "id": "A04",
+              "text": "~100 Mpc"
+            },
+            {
+              "id": "A05",
+              "text": "~100 Gpc"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Radar Doppler (polícia): emite onda, reflete no carro, retorna. Duplo deslocamento Doppler. Carro aproximando-se a v. Frequência emitida f₀. Frequência recebida pelo radar: f' = f₀·(c+v)/(c–v) ≈ f₀·(1 + 2v/c). Para f₀ = 10 GHz, v = 30 m/s, c = 3×10⁸ m/s, Δf = f' – f₀ ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~2 kHz"
+            },
+            {
+              "id": "A02",
+              "text": "~200 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "~20 kHz"
+            },
+            {
+              "id": "A04",
+              "text": "~200 kHz"
+            },
+            {
+              "id": "A05",
+              "text": "~20 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Ultrassom Doppler médico: mede velocidade do sangue. Transdutor emite f₀, reflete em hemácias. Deslocamento Δf = 2·f₀·v·cosθ/c (θ = ângulo entre feixe e fluxo). Para f₀ = 5 MHz, v = 1 m/s, θ = 0°, c = 1540 m/s (tecido), Δf =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~6,5 kHz"
+            },
+            {
+              "id": "A02",
+              "text": "~65 kHz"
+            },
+            {
+              "id": "A03",
+              "text": "~650 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~650 kHz"
+            },
+            {
+              "id": "A05",
+              "text": "~65 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Efeito Doppler em ondas de superfície (água): v_fase = √(gλ/2π) (água profunda). Barco movendo-se a v_b. Comprimento de onda à proa: λ' = (v_fase – v_b)/f. Se barco supera velocidade de fase (v_b > v_fase), forma onda de choque (estirão sônico aquático).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Efeito Doppler em espectroscopia astronômica: linhas espectrais deslocadas. H-α (λ₀ = 656,3 nm) observada em 660 nm. Velocidade radial v = c·(λ_obs – λ₀)/λ₀ ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1690 km/s"
+            },
+            {
+              "id": "A02",
+              "text": "~169 km/s"
+            },
+            {
+              "id": "A03",
+              "text": "~16,9 km/s"
+            },
+            {
+              "id": "A04",
+              "text": "~16900 km/s"
+            },
+            {
+              "id": "A05",
+              "text": "~169000 km/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Binária espectroscópica: duas estrelas orbitando, linhas espectrais deslocam-se periodicamente. Amplitude do deslocamento Δλ/λ₀ = v_rad/c. Período orbital P, semi-amplitude K = v_sen i. Função de massa: f(m) = (M₂·sin i)³/(M₁+M₂)² = P·K³/(2πG).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Efeito Doppler em radar meteorológico: mede velocidade radial de partículas de chuva. Velocidade de fase da precipitação típica 10 m/s. Para radar 5 GHz (λ = 6 cm), deslocamento máximo Δf ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~333 Hz"
+            },
+            {
+              "id": "A02",
+              "text": "~3333 Hz"
+            },
+            {
+              "id": "A03",
+              "text": "~33 Hz"
+            },
+            {
+              "id": "A04",
+              "text": "~33333 Hz"
+            },
+            {
+              "id": "A05",
+              "text": "~3,3 Hz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Efeito Doppler em GPS: satélites a ~4 km/s. Deslocamento Doppler na portadora L1 (1575,42 MHz) chega a ~±5 kHz. O receptor deve compensar. A aceleração do satélite causa taxa de variação do Doppler (Doppler rate) ~0,5 Hz/s.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Efeito Doppler transversal (relativístico): fonte movendo-se perpendicular à linha de vista. Desvio de frequência puramente relativístico: f' = f·√(1–β²) (desvio para o vermelho). Para β = 0,1, f'/f =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,995"
+            },
+            {
+              "id": "A02",
+              "text": "~0,95"
+            },
+            {
+              "id": "A03",
+              "text": "~0,9"
+            },
+            {
+              "id": "A04",
+              "text": "~1,005"
+            },
+            {
+              "id": "A05",
+              "text": "~1,05"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "O radar de abertura sintética (SAR): usa efeito Doppler ao longo da abertura sintética para obter resolução azimutal. Resolução azimutal δx = L/2 (L = comprimento da antena real), independente da distância. Isso é possível porque o Doppler varia linearmente com a posição azimutal.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Efeito Doppler em ondas gravitacionais: binária inspirando. Frequência GW aumenta (chirp). Taxa de variação da frequência: df/dt ∝ f^(11/3)·M_chirp^(5/3). M_chirp = (m₁·m₂)^(3/5)/(m₁+m₂)^(1/5). Medida de df/dt permite determinar M_chirp.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Efeito Doppler em ressonância magnética (MRI): gradientes de campo magnético codificam posição espacial via fase Doppler. Sequência de eco de gradiente: frequência de precessão ω = γ(B₀ + G·x). Diferença de fase Δφ = γ·G·x·TE. Codificação de frequência (frequency encoding) e fase (phase encoding).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Efeito Doppler em espectroscopia de satélites (Doppler lidar): mede vento atmosférico. Laser pulsado, mede deslocamento Doppler do retorno (aerossóis). Resolução vertical ~100 m, precisão velocidade ~1 m/s.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Efeito Doppler em espectroscopia de moléculas frias: resfriamento Doppler. Laser sintonizado ligeiramente abaixo da ressonância (Δ = –Γ/2). Átomos movendo-se contra o laser veem frequência deslocada para cima (ressonância), absorvem fóton, recebem impulso oposto ao movimento. Força de arrasto F ≈ –α·v. Temperatura limite de Doppler: T_D = ħΓ/(2k_B).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O efeito Doppler em ondas de plasma: ondas de Langmuir (plasma frequency ω_p). Deslocamento Doppler observado em espalhamento Thomson (laser em plasma). Medida de temperatura eletrônica (alargamento Doppler) e velocidade de deriva iônica (deslocamento Doppler).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Efeito Doppler em estrelas pulsantes (Cefeidas): raio varia, velocidade radial varia. Curva de velocidade radial permite determinar distância (relação período-luminosidade). Para Cefeida de período 10 dias, amplitude velocidade radial ~30 km/s.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "Efeito Doppler em exoplanetas (velocidade radial): estrela orbita centro de massa com planeta. Amplitude K = (2πG/P)^(1/3)·M_p·sin i / (M_★^(2/3)·√(1–e²)). Para Júpiter-Sol, K ≈ 12,5 m/s. Precisão atual ~1 m/s (HARPS, ESPRESSO).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Efeito Doppler em ressonância de spin eletrônico (ESR): varre campo magnético B, mede absorção em f = g·μ_B·B/h. Modulação de campo (lock-in) cria deslocamento Doppler artificial na frequência de modulação. Detecção de derivada (dI/dB).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Efeito Doppler em Mössbauer: fonte e absorvedor movendo-se. Deslocamento Doppler compensa diferença de energia entre emissão e absorção (desvio isomérico). Velocidade típica ~mm/s. Precisão de energia ΔE/E ~ 10⁻¹².",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Efeito Doppler em óptica de átomos frios: molasses óptico (optical molasses). Seis lasers contrapostos (3 eixos), sintonizados abaixo da ressonância (Δ = –Γ/2). Átomos veem laser oposto deslocado para ressonância, absorvem, freiam. Temperatura limite Doppler T_D = ħΓ/(2k_B). Para Rb-87 (Γ/2π = 6 MHz), T_D ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~146 µK"
+            },
+            {
+              "id": "A02",
+              "text": "~1,46 mK"
+            },
+            {
+              "id": "A03",
+              "text": "~14,6 µK"
+            },
+            {
+              "id": "A04",
+              "text": "~1,46 K"
+            },
+            {
+              "id": "A05",
+              "text": "~146 mK"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Efeito Doppler em ondas gravitacionais (GW150914): binária de buracos negros inspirando. Frequência GW aumenta (chirp) de 35 Hz a 250 Hz em 0,2 s. Massa chirp M_chirp ≈ 30 M_sol. A taxa df/dt no início é ~",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~10 Hz/s"
+            },
+            {
+              "id": "A02",
+              "text": "~1 Hz/s"
+            },
+            {
+              "id": "A03",
+              "text": "~100 Hz/s"
+            },
+            {
+              "id": "A04",
+              "text": "~0,1 Hz/s"
+            },
+            {
+              "id": "A05",
+              "text": "~1000 Hz/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Efeito Doppler em cosmologia: desvio para o vermelho z = a(t_obs)/a(t_emit) – 1. Para z = 0,01 (próximo), v ≈ c·z ≈ 3000 km/s. Lei de Hubble v = H₀·d. Para H₀ = 70 km/s/Mpc, distância ≈ 43 Mpc. Para z > 0,1, deve usar cosmologia relativística (não linear).",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Efeito Doppler",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Efeito Doppler"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T13:37:18.637Z",
+  "exams": [
+    {
+      "id": "quiz-1788874631746",
+      "title": "Qual das Meninas Superpoderosas você seria?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual das Meninas Superpoderosas você seria?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Qual desses slogans combina mais com você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Tudo sob controle, como sempre.\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 1,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"A vida é linda e cheia de cores!\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 1,
+                "final5": 1
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Vai encarar? Então vem!\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Tô nem aí, vou do meu jeito.\"",
+              "pontos": {
+                "final1": 1,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você reage quando algo dá errado?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Analiso a situação e crio um novo plano rapidamente",
+              "pontos": {
+                "final1": 3,
+                "final2": 1,
+                "final3": 1,
+                "final4": 2,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico triste, mas logo encontro alguém pra me abraçar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Parto pra cima com raiva e determinação",
+              "pontos": {
+                "final1": 1,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Dou uma risada e tento de novo com estilo",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Qual desses animais você salvaria primeiro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Uma coruja ferida (inteligente e sábia)",
+              "pontos": {
+                "final1": 3,
+                "final2": 2,
+                "final3": 0,
+                "final4": 1,
+                "final5": 1
+              }
+            },
+            {
+              "id": "B",
+              "text": "Um filhote de cachorro abandonado",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 1,
+                "final4": 1,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Um gato arisco que ninguém consegue chegar perto",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 2,
+                "final4": 2,
+                "final5": 1
+              }
+            },
+            {
+              "id": "D",
+              "text": "Um peixinho dourado num aquário sujo",
+              "pontos": {
+                "final1": 0,
+                "final2": 2,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Qual dessas frases você mais usa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Deixa que eu resolvo.\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 2,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Tudo vai ficar bem, você vai ver!\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 1,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Sai da minha frente!\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Relaxa, eu tô na minha vibe.\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 1,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Qual é seu maior defeito?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ser mandona e perfeccionista demais",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 1,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Ser ingênua e confiar demais nas pessoas",
+              "pontos": {
+                "final1": 0,
+                "final2": 2,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ser bruta e impaciente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Ser desligada e esquecer das coisas",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Que tipo de herói você seria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "A estrategista que sempre tem um plano infalível",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 1,
+                "final4": 2,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "A que salva com um sorriso e um abraço",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 1,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "A que entra na porrada sem pensar duas vezes",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "A que faz tudo com estilo e originalidade",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Qual desses poderes extras você gostaria de ter?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Poder congelar o tempo pra pensar melhor",
+              "pontos": {
+                "final1": 3,
+                "final2": 1,
+                "final3": 1,
+                "final4": 2,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Falar com os animais e entender eles",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Super força e invencibilidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Teletransporte pra ir a qualquer lugar com estilo",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Qual desses looks você usaria no dia a dia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Algo clássico, arrumado e com um laço",
+              "pontos": {
+                "final1": 3,
+                "final2": 1,
+                "final3": 0,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Roupas coloridas, macias e cheias de fofura",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estilo esportivo, prático e despojado",
+              "pontos": {
+                "final1": 1,
+                "final2": 0,
+                "final3": 3,
+                "final4": 2,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Algo moderno, urbano e cheio de atitude",
+              "pontos": {
+                "final1": 1,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "O que você faria se visse um vilão roubando um banco?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Criaria um plano mirabolante para enganá-lo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 1,
+                "final4": 2,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tentaria convencê-lo com palavras doces a desistir",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Daria um socão nele sem nem avisar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Usaria minha criatividade para uma abordagem inusitada",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Qual dessas músicas te anima?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Uma sinfonia clássica e inspiradora",
+              "pontos": {
+                "final1": 3,
+                "final2": 1,
+                "final3": 0,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Uma música fofa e alegre de desenho animado",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Rock pesado ou punk pra extravasar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Hip-hop ou R&B com batida descolada",
+              "pontos": {
+                "final1": 1,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Se você pudesse ter um animal de estimação, qual seria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Um coruja ou raposa (inteligentes e astutos)",
+              "pontos": {
+                "final1": 3,
+                "final2": 1,
+                "final3": 0,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Um coelhinho ou filhote de cachorro",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Um lobo ou águia (fortes e independentes)",
+              "pontos": {
+                "final1": 1,
+                "final2": 0,
+                "final3": 3,
+                "final4": 2,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Um gato estiloso e descolado",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Como você lida com sentimentos?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Racionalizo tudo e só mostro emoção quando necessário",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 1,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Sinto tudo intensamente e choro fácil",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Reprimo e uso a raiva como combustível",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Levo na boa, sem me abalar muito",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O que você acha de trabalho em equipe?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Adoro, desde que eu lidere e organize tudo",
+              "pontos": {
+                "final1": 3,
+                "final2": 1,
+                "final3": 0,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Amo, principalmente se todo mundo for gentil",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 1,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Prefiro fazer sozinha, é mais rápido",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 2,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Gosto, desde que cada um faça sua parte com estilo",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Qual desses lugares você escolheria para passar as férias?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Uma cidade histórica cheia de museus",
+              "pontos": {
+                "final1": 3,
+                "final2": 1,
+                "final3": 0,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Uma praia paradisíaca com golfinhos",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Uma montanha radical para escalar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Nova York ou Tóquio (vida urbana e estilo)",
+              "pontos": {
+                "final1": 1,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se você fosse uma cor, qual seria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Vermelho (poder, liderança, paixão)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 1,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Azul claro (tranquilidade, doçura, harmonia)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 2
+              }
+            },
+            {
+              "id": "C",
+              "text": "Verde (força, natureza, determinação)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Roxo ou preto (mistério, estilo, originalidade)",
+              "pontos": {
+                "final1": 1,
+                "final2": 1,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T13:37:11.746Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "Florzinha (Blossom)",
+          "texto": "Você é a líder nata! Assim como a Florzinha, você é inteligente, estratégica e sempre tem um plano. Perfeccionista e responsável, todos contam com você para tomar as decisões certas. Seu cérebro é sua maior arma — e seu laço vermelho, sua assinatura!"
+        },
+        {
+          "id": "final2",
+          "titulo": "Lindinha (Bubbles)",
+          "texto": "Você é pura doçura e alegria! Como a Lindinha, você vê o lado bom em tudo e todos. Sensível, amorosa e protetora com os animais, sua risada contagiante ilumina qualquer ambiente. Mas cuidado: quando alguém machuca quem você ama, sua fúria é tão poderosa quanto seu encanto!"
+        },
+        {
+          "id": "final3",
+          "titulo": "Docinho (Buttercup)",
+          "texto": "Você é durona na queda! Assim como a Docinho, não tem tempo para frescuras — prefere ação. Competitiva, corajosa e direta, você não foge de uma briga e defende seus amigos com unhas e dentes. Queixo erguido e punhos cerrados, você é a prova que força também é feminina!"
+        },
+        {
+          "id": "final4",
+          "titulo": "Bliss",
+          "texto": "Você é descolada, estilosa e tem atitude! Como a Bliss, você traz a energia de uma irmã mais velha que já viveu mais e tem confiança de sobra. Nova-iorquina de coração, você sabe o que quer e não tem medo de ser diferente. Seu poder quântico é tão único quanto sua personalidade!"
+        },
+        {
+          "id": "final5",
+          "titulo": "Coxinha (Bunny)",
+          "texto": "Você pode ser um pouco desastrada e ingênua, mas seu coração é do tamanho do mundo! Assim como a Coxinha, você tenta dar o seu melhor mesmo quando as coisas dão errado. Sua bondade e determinação fazem você ser amada por todos — e quando você acerta, é espetacular!"
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

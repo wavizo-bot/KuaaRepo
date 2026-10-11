@@ -1,0 +1,3910 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-10-01T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "SOCIOLOGIA-ENEM-F01",
+      "title": "Sociologia — A vida nas cidades: moradia, mobilidade, economia e cultura (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: A vida nas cidades: moradia, mobilidade, economia e cultura",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A sociologia urbana estuda como moradia, deslocamentos, trabalho e lazer se organizam nas cidades e afetam a vida. Seu objeto central é a",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "vida social produzida no espaço urbano"
+            },
+            {
+              "id": "A02",
+              "text": "geologia dos terrenos urbanos"
+            },
+            {
+              "id": "A03",
+              "text": "engenharia de pontes e viadutos"
+            },
+            {
+              "id": "A04",
+              "text": "meteorologia das metrópoles"
+            },
+            {
+              "id": "A05",
+              "text": "arquitetura de interiores"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > A vida nas cidades: moradia, mobilidade, economia e cultura",
+          "assunto": "A vida nas cidades: moradia, mobilidade, economia e cultura",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Quando o aluguel consome metade do salário, sobra pouco para saúde, lazer e poupança. Para a sociologia, o peso da moradia no orçamento revela que habitar é",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "questão puramente individual"
+            },
+            {
+              "id": "A02",
+              "text": "irrelevante para a desigualdade"
+            },
+            {
+              "id": "A03",
+              "text": "resolvido pelo mercado sozinho"
+            },
+            {
+              "id": "A04",
+              "text": "questão social ligada à renda"
+            },
+            {
+              "id": "A05",
+              "text": "problema só dos desempregados"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > A vida nas cidades: moradia, mobilidade, economia e cultura",
+          "assunto": "A vida nas cidades: moradia, mobilidade, economia e cultura",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F02",
+      "title": "Sociologia — Agricultura de subsistência (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Agricultura de subsistência",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Na sociologia rural, a agricultura de subsistência aparece ligada a relações de parentesco, mutirão e festas da colheita. Para além da economia, ela sustenta",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "laços comunitários e tradições"
+            },
+            {
+              "id": "A02",
+              "text": "grandes exportações de grãos"
+            },
+            {
+              "id": "A03",
+              "text": "lucros de multinacionais"
+            },
+            {
+              "id": "A04",
+              "text": "especulação fundiária urbana"
+            },
+            {
+              "id": "A05",
+              "text": "trabalho assalariado formal"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Agricultura de subsistência",
+          "assunto": "Agricultura de subsistência",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "O êxodo rural esvazia comunidades de subsistência quando jovens migram para cidades. Sociologicamente, essa migração expressa a busca por",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aventura sem motivos econômicos"
+            },
+            {
+              "id": "A02",
+              "text": "fuga de dívidas criminosas"
+            },
+            {
+              "id": "A03",
+              "text": "isolamento da vida moderna"
+            },
+            {
+              "id": "A04",
+              "text": "praias e turismo litorâneo"
+            },
+            {
+              "id": "A05",
+              "text": "trabalho, estudo e serviços ausentes no campo"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Agricultura de subsistência",
+          "assunto": "Agricultura de subsistência",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F03",
+      "title": "Sociologia — Cidadania moderna e cidadania antiga (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Cidadania moderna e cidadania antiga",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Na Atenas antiga, cidadania era participar diretamente das decisões na ágora, privilégio de poucos homens livres. Na modernidade, ela se ampliou para",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "direitos iguais para todos perante a lei"
+            },
+            {
+              "id": "A02",
+              "text": "privilégios só para proprietários"
+            },
+            {
+              "id": "A03",
+              "text": "voto exclusivo dos militares"
+            },
+            {
+              "id": "A04",
+              "text": "assembleias apenas de ricos"
+            },
+            {
+              "id": "A05",
+              "text": "exclusão das mulheres do voto"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Cidadania moderna e cidadania antiga",
+          "assunto": "Cidadania moderna e cidadania antiga",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "T. H. Marshall descreveu a cidadania moderna em três dimensões: direitos civis, políticos e sociais. O direito à educação e à saúde pertence à dimensão",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "social, do bem-estar garantido"
+            },
+            {
+              "id": "A02",
+              "text": "política, do voto e partidos"
+            },
+            {
+              "id": "A03",
+              "text": "civil, das liberdades individuais"
+            },
+            {
+              "id": "A04",
+              "text": "natural, anterior à sociedade"
+            },
+            {
+              "id": "A05",
+              "text": "divina, concedida por Deus"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Cidadania moderna e cidadania antiga",
+          "assunto": "Cidadania moderna e cidadania antiga",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F04",
+      "title": "Sociologia — Combate à diferença e à desigualdade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Combate à diferença e à desigualdade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Diferença diz respeito a identidades (ser negro, mulher, nordestino); desigualdade, à distribuição injusta de recursos. Combater a desigualdade sem respeitar a diferença pode gerar",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "igualdade que apaga identidades"
+            },
+            {
+              "id": "A02",
+              "text": "respeito automático às culturas"
+            },
+            {
+              "id": "A03",
+              "text": "fim de todos os preconceitos"
+            },
+            {
+              "id": "A04",
+              "text": "valorização das diversidades"
+            },
+            {
+              "id": "A05",
+              "text": "democracia racial plena"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Combate à diferença e à desigualdade",
+          "assunto": "Combate à diferença e à desigualdade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Políticas que tratam desiguais de forma desigual, como cotas, buscam igualar oportunidades. Essas ações afirmativas se justificam porque a igualdade formal, sozinha,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "resolve todas as injustiças"
+            },
+            {
+              "id": "A02",
+              "text": "é suficiente e completa"
+            },
+            {
+              "id": "A03",
+              "text": "dispensa qualquer política"
+            },
+            {
+              "id": "A04",
+              "text": "cria privilégios indevidos"
+            },
+            {
+              "id": "A05",
+              "text": "mantém vantagens de partida"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Combate à diferença e à desigualdade",
+          "assunto": "Combate à diferença e à desigualdade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F05",
+      "title": "Sociologia — Cooperação ou competição: moralidade e ação política (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Cooperação ou competição: moralidade e ação política",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Durkheim via na divisão do trabalho uma solidariedade nova, feita de interdependência entre diferentes. Quando padeiros, professores e motoristas dependem uns dos outros, há",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "competição generalizada entre todos"
+            },
+            {
+              "id": "A02",
+              "text": "indiferença mútua garantida"
+            },
+            {
+              "id": "A03",
+              "text": "guerra permanente de interesses"
+            },
+            {
+              "id": "A04",
+              "text": "cooperação pela complementaridade"
+            },
+            {
+              "id": "A05",
+              "text": "isolamento dos indivíduos"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Cooperação ou competição: moralidade e ação política",
+          "assunto": "Cooperação ou competição: moralidade e ação política",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Reality shows premiam quem elimina colegas, naturalizando a competição como única relação possível. Essa pedagogia midiática ensina que vencer exige",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "derrotar os outros participantes"
+            },
+            {
+              "id": "A02",
+              "text": "solidariedade com os rivais"
+            },
+            {
+              "id": "A03",
+              "text": "cooperar com a produção"
+            },
+            {
+              "id": "A04",
+              "text": "dividir o prêmio igualmente"
+            },
+            {
+              "id": "A05",
+              "text": "desistir da competição"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Cooperação ou competição: moralidade e ação política",
+          "assunto": "Cooperação ou competição: moralidade e ação política",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F06",
+      "title": "Sociologia — Demarcação de Terras indígenas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Demarcação de Terras indígenas",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A Constituição garante aos índios o usufruto das terras que tradicionalmente ocupam, cabendo à União demarcá-las. Demarcar significa",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "expulsar indígenas para reservas distantes"
+            },
+            {
+              "id": "A02",
+              "text": "vender terras a fazendeiros"
+            },
+            {
+              "id": "A03",
+              "text": "reconhecer oficialmente o território tradicional"
+            },
+            {
+              "id": "A04",
+              "text": "proibir qualquer atividade nas aldeias"
+            },
+            {
+              "id": "A05",
+              "text": "transferir índios para as cidades"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Demarcação de Terras indígenas",
+          "assunto": "Demarcação de Terras indígenas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Ruralistas pressionam contra demarcações alegando travar o progresso, enquanto indígenas defendem seu modo de vida. O conflito opõe dois projetos de",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "igual valor econômico imediato"
+            },
+            {
+              "id": "A02",
+              "text": "idêntica visão de mundo"
+            },
+            {
+              "id": "A03",
+              "text": "mesma origem histórica"
+            },
+            {
+              "id": "A04",
+              "text": "comum interesse minerador"
+            },
+            {
+              "id": "A05",
+              "text": "uso e sentido do território"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Demarcação de Terras indígenas",
+          "assunto": "Demarcação de Terras indígenas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F07",
+      "title": "Sociologia — Democracia antiga e democracia moderna (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Democracia antiga e democracia moderna",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Na democracia ateniense, cidadãos decidiam diretamente na ágora; nas modernas, elegem representantes. A diferença central está",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "na participação direta ou por representantes"
+            },
+            {
+              "id": "A02",
+              "text": "no número de escravos existentes"
+            },
+            {
+              "id": "A03",
+              "text": "no idioma falado nas assembleias"
+            },
+            {
+              "id": "A04",
+              "text": "no clima de cada região"
+            },
+            {
+              "id": "A05",
+              "text": "na roupa dos participantes"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Democracia antiga e democracia moderna",
+          "assunto": "Democracia antiga e democracia moderna",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Mulheres, escravizados e estrangeiros estavam excluídos da cidadania ateniense. Essa exclusão mostra que a democracia antiga era",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "universal e inclusiva"
+            },
+            {
+              "id": "A02",
+              "text": "idêntica à democracia atual"
+            },
+            {
+              "id": "A03",
+              "text": "restrita a poucos privilegiados"
+            },
+            {
+              "id": "A04",
+              "text": "governada por mulheres"
+            },
+            {
+              "id": "A05",
+              "text": "sem qualquer assembleia"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Democracia antiga e democracia moderna",
+          "assunto": "Democracia antiga e democracia moderna",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F08",
+      "title": "Sociologia — Desvio e marginalidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Desvio e marginalidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Becker mostrou que chamar alguém de desviante depende mais da reação social que do ato em si. Ser rotulado como marginal pode levar a pessoa a",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "abandonar de vez o comportamento"
+            },
+            {
+              "id": "A02",
+              "text": "tornar-se presidente da República"
+            },
+            {
+              "id": "A03",
+              "text": "assumir a identidade imposta"
+            },
+            {
+              "id": "A04",
+              "text": "enriquecer com o estigma"
+            },
+            {
+              "id": "A05",
+              "text": "esquecer o ocorrido"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Desvio e marginalidade",
+          "assunto": "Desvio e marginalidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Moradores de rua são vistos como vagabundos, embora muitos trabalhem catando recicláveis. O estigma de marginal esconde que eles",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "escolheram a rua por preguiça"
+            },
+            {
+              "id": "A02",
+              "text": "recusam qualquer ajuda"
+            },
+            {
+              "id": "A03",
+              "text": "são todos criminosos"
+            },
+            {
+              "id": "A04",
+              "text": "vivem sem trabalhar nunca"
+            },
+            {
+              "id": "A05",
+              "text": "trabalham sem direitos garantidos"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Desvio e marginalidade",
+          "assunto": "Desvio e marginalidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F09",
+      "title": "Sociologia — Direito à cidade e espoliação urbana (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Direito à cidade e espoliação urbana",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Quando o transporte consome horas e o aluguel, metade do salário, o trabalhador urbano é explorado também fora da fábrica. Essa espoliação urbana atinge",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "só os desempregados crônicos"
+            },
+            {
+              "id": "A02",
+              "text": "apenas moradores do campo"
+            },
+            {
+              "id": "A03",
+              "text": "todos os habitantes igualmente"
+            },
+            {
+              "id": "A04",
+              "text": "sobretudo os mais pobres"
+            },
+            {
+              "id": "A05",
+              "text": "somente os estrangeiros"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Direito à cidade e espoliação urbana",
+          "assunto": "Direito à cidade e espoliação urbana",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Ocupações urbanas reivindicam moradia digna perto do emprego, contra a expulsão para periferias. O direito à cidade, nesse contexto, significa",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "morar onde houver emprego e serviços"
+            },
+            {
+              "id": "A02",
+              "text": "ganhar imóveis de graça do Estado"
+            },
+            {
+              "id": "A03",
+              "text": "invadir propriedades alheias"
+            },
+            {
+              "id": "A04",
+              "text": "viver sem pagar impostos"
+            },
+            {
+              "id": "A05",
+              "text": "abandonar as grandes cidades"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Direito à cidade e espoliação urbana",
+          "assunto": "Direito à cidade e espoliação urbana",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F10",
+      "title": "Sociologia — Direitos Humanos e concepções de cidadania (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Direitos Humanos e concepções de cidadania",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Ser cidadão é ter direitos garantidos e deveres a cumprir na vida coletiva. Sem cidadania efetiva, as pessoas ficam sujeitas",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "à proteção total do Estado"
+            },
+            {
+              "id": "A02",
+              "text": "à felicidade garantida"
+            },
+            {
+              "id": "A03",
+              "text": "à riqueza distribuída"
+            },
+            {
+              "id": "A04",
+              "text": "à arbitrariedade dos poderosos"
+            },
+            {
+              "id": "A05",
+              "text": "à igualdade automática"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Direitos Humanos e concepções de cidadania",
+          "assunto": "Direitos Humanos e concepções de cidadania",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A Declaração Universal de 1948 afirma direitos para todos os seres humanos, sem distinção. Sua importância histórica está em estabelecer",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "privilégios para países ricos"
+            },
+            {
+              "id": "A02",
+              "text": "deveres só para os pobres"
+            },
+            {
+              "id": "A03",
+              "text": "padrão universal de dignidade"
+            },
+            {
+              "id": "A04",
+              "text": "exceções para ditaduras"
+            },
+            {
+              "id": "A05",
+              "text": "leis válidas só na Europa"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Direitos Humanos e concepções de cidadania",
+          "assunto": "Direitos Humanos e concepções de cidadania",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F11",
+      "title": "Sociologia — Direitos Humanos, identidades e multiculturalismo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Direitos Humanos, identidades e multiculturalismo",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Respeitar identidades diferentes sem abrir mão de direitos iguais para todos é o desafio do multiculturalismo. Ele propõe combinar",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "assimilação forçada de minorias"
+            },
+            {
+              "id": "A02",
+              "text": "segregação total dos grupos"
+            },
+            {
+              "id": "A03",
+              "text": "igualdade de direitos e diferença cultural"
+            },
+            {
+              "id": "A04",
+              "text": "hierarquia entre as culturas"
+            },
+            {
+              "id": "A05",
+              "text": "indiferença estatal completa"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Direitos Humanos, identidades e multiculturalismo",
+          "assunto": "Direitos Humanos, identidades e multiculturalismo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Escolas que proíbem turbantes e guias discriminam alunos de religiões afro. O multiculturalismo exige da escola pública",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "uniformizar todos os alunos"
+            },
+            {
+              "id": "A02",
+              "text": "ignorar conflitos culturais"
+            },
+            {
+              "id": "A03",
+              "text": "proibir qualquer religião"
+            },
+            {
+              "id": "A04",
+              "text": "expulsar alunos diferentes"
+            },
+            {
+              "id": "A05",
+              "text": "acolher a diversidade religiosa"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Direitos Humanos, identidades e multiculturalismo",
+          "assunto": "Direitos Humanos, identidades e multiculturalismo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F12",
+      "title": "Sociologia — Distribuição de aparelhos culturais e de entretenimento pela cidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Distribuição de aparelhos culturais e de entretenimento pela cidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Bibliotecas de bairro fecham por falta de verba enquanto shoppings exibem cinemas caros. Essa geografia cultural mostra lazer tratado como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "direito universal garantido"
+            },
+            {
+              "id": "A02",
+              "text": "dever do poder público"
+            },
+            {
+              "id": "A03",
+              "text": "prioridade dos governos"
+            },
+            {
+              "id": "A04",
+              "text": "mercadoria para quem pode pagar"
+            },
+            {
+              "id": "A05",
+              "text": "questão superada nas cidades"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Distribuição de aparelhos culturais e de entretenimento pela cidade",
+          "assunto": "Distribuição de aparelhos culturais e de entretenimento pela cidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Rolezinhos lotam shoppings com jovens periféricos que consomem pouco e circulam muito. Para os lojistas, eles representam ameaça; para a sociologia,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "vândalos a serem expulsos"
+            },
+            {
+              "id": "A02",
+              "text": "presença legítima no espaço"
+            },
+            {
+              "id": "A03",
+              "text": "criminosos em formação"
+            },
+            {
+              "id": "A04",
+              "text": "problema de segurança apenas"
+            },
+            {
+              "id": "A05",
+              "text": "moda passageira da juventude"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Distribuição de aparelhos culturais e de entretenimento pela cidade",
+          "assunto": "Distribuição de aparelhos culturais e de entretenimento pela cidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F13",
+      "title": "Sociologia — Distribuição regional e populacional da violência no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Distribuição regional e populacional da violência no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Jovens negros morrem muito mais por homicídio que jovens brancos da mesma idade. Essa sobremortalidade revela que a violência no Brasil tem",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "vítimas escolhidas ao acaso"
+            },
+            {
+              "id": "A02",
+              "text": "cor e idade bem definidas"
+            },
+            {
+              "id": "A03",
+              "text": "causas só individuais"
+            },
+            {
+              "id": "A04",
+              "text": "solução apenas policial"
+            },
+            {
+              "id": "A05",
+              "text": "igualdade entre todos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Distribuição regional e populacional da violência no Brasil",
+          "assunto": "Distribuição regional e populacional da violência no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "O mapa da violência mostra o Norte e o Nordeste com taxas maiores que o Sul e o Sudeste. Essa geografia desigual se explica",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "pelo clima mais quente do Norte"
+            },
+            {
+              "id": "A02",
+              "text": "pela ausência de polícia no Sul"
+            },
+            {
+              "id": "A03",
+              "text": "pela preguiça das populações"
+            },
+            {
+              "id": "A04",
+              "text": "por desigualdades históricas regionais"
+            },
+            {
+              "id": "A05",
+              "text": "por acaso estatístico apenas"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Distribuição regional e populacional da violência no Brasil",
+          "assunto": "Distribuição regional e populacional da violência no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F14",
+      "title": "Sociologia — Durabilidade dos produtos e obsolescência programada (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Durabilidade dos produtos e obsolescência programada",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Aparelhos que quebram logo após a garantia acabar geram desconfiança sobre a indústria. Essa desconfiança tem fundamento na estratégia de",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "melhorar sempre a qualidade"
+            },
+            {
+              "id": "A02",
+              "text": "baratear peças de reposição"
+            },
+            {
+              "id": "A03",
+              "text": "encurtar a vida útil de propósito"
+            },
+            {
+              "id": "A04",
+              "text": "contratar mais engenheiros"
+            },
+            {
+              "id": "A05",
+              "text": "reciclar todos os produtos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Durabilidade dos produtos e obsolescência programada",
+          "assunto": "Durabilidade dos produtos e obsolescência programada",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Consumidores que consertam em vez de trocar resistem à lógica do descarte. Essa prática, além de econômica, é",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ilegal na maioria dos países"
+            },
+            {
+              "id": "A02",
+              "text": "ecologicamente mais responsável"
+            },
+            {
+              "id": "A03",
+              "text": "sinal de pobreza extrema"
+            },
+            {
+              "id": "A04",
+              "text": "proibida pelos fabricantes"
+            },
+            {
+              "id": "A05",
+              "text": "inútil contra as empresas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Durabilidade dos produtos e obsolescência programada",
+          "assunto": "Durabilidade dos produtos e obsolescência programada",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F15",
+      "title": "Sociologia — Educação, reprodução, emancipação e controle (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Educação, reprodução, emancipação e controle",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Filhos de diplomados têm mais chance de se diplomar, perpetuando vantagens pela escola. Esse ciclo mostra a educação funcionando como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "elevador social para todos"
+            },
+            {
+              "id": "A02",
+              "text": "reprodutora de desigualdades"
+            },
+            {
+              "id": "A03",
+              "text": "neutra quanto às origens"
+            },
+            {
+              "id": "A04",
+              "text": "inimiga das elites"
+            },
+            {
+              "id": "A05",
+              "text": "irrelevante para a renda"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Educação, reprodução, emancipação e controle",
+          "assunto": "Educação, reprodução, emancipação e controle",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Cursinhos populares aprovam periféricos mostrando que a escola pode libertar. Quando apropriada pelos oprimidos, a educação torna-se",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "instrumento de emancipação"
+            },
+            {
+              "id": "A02",
+              "text": "perda de tempo garantida"
+            },
+            {
+              "id": "A03",
+              "text": "privilégio das elites"
+            },
+            {
+              "id": "A04",
+              "text": "fábrica de desempregados"
+            },
+            {
+              "id": "A05",
+              "text": "inimiga da cultura popular"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Educação, reprodução, emancipação e controle",
+          "assunto": "Educação, reprodução, emancipação e controle",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F16",
+      "title": "Sociologia — Empreendedorismo e multifuncionalidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Empreendedorismo e multifuncionalidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Vendedores ambulantes, costureiras e motoristas de app compõem o empreendedorismo popular. Diferente do empresário inovador, ele nasce",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "de grandes fortunas familiares"
+            },
+            {
+              "id": "A02",
+              "text": "de diplomas prestigiosos"
+            },
+            {
+              "id": "A03",
+              "text": "da necessidade de sobrevivência"
+            },
+            {
+              "id": "A04",
+              "text": "de incentivos milionários"
+            },
+            {
+              "id": "A05",
+              "text": "de herança empresarial"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Empreendedorismo e multifuncionalidade",
+          "assunto": "Empreendedorismo e multifuncionalidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Feiras agroecológicas aproximam quem planta de quem come, com preço justo. Elas mostram multifuncionalidade rural unindo",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "lucro máximo e especulação"
+            },
+            {
+              "id": "A02",
+              "text": "produção, renda e sociabilidade"
+            },
+            {
+              "id": "A03",
+              "text": "monocultura e agrotóxicos"
+            },
+            {
+              "id": "A04",
+              "text": "êxodo e abandono do campo"
+            },
+            {
+              "id": "A05",
+              "text": "dependência de atravessadores"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Empreendedorismo e multifuncionalidade",
+          "assunto": "Empreendedorismo e multifuncionalidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F17",
+      "title": "Sociologia — Escravidão e a questão racial no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Escravidão e a questão racial no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A escravidão marcou quatro séculos da história brasileira, sustentando a economia colonial. Sua herança mais duradoura para as relações raciais atuais é",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "a harmonia racial plena e resolvida"
+            },
+            {
+              "id": "A02",
+              "text": "a igualdade econômica alcançada"
+            },
+            {
+              "id": "A03",
+              "text": "o racismo estrutural persistente"
+            },
+            {
+              "id": "A04",
+              "text": "o esquecimento coletivo total"
+            },
+            {
+              "id": "A05",
+              "text": "a reparação integral concluída"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Escravidão e a questão racial no Brasil",
+          "assunto": "Escravidão e a questão racial no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Quilombos resistiram à escravidão formando comunidades livres, como Palmares. Na sociologia, eles representam",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "fuga individual sem organização"
+            },
+            {
+              "id": "A02",
+              "text": "aceitação pacífica da escravidão"
+            },
+            {
+              "id": "A03",
+              "text": "colaboração com os senhores"
+            },
+            {
+              "id": "A04",
+              "text": "retorno voluntário às fazendas"
+            },
+            {
+              "id": "A05",
+              "text": "resistência coletiva organizada"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Escravidão e a questão racial no Brasil",
+          "assunto": "Escravidão e a questão racial no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F18",
+      "title": "Sociologia — Expansão urbana e ecologia humana (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Expansão urbana e ecologia humana",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A cidade cresce sobre matas e rios, alterando microclimas e cursos d'água. Para a ecologia humana, urbanizar sem planejar produz",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "equilíbrio ambiental automático"
+            },
+            {
+              "id": "A02",
+              "text": "harmonia entre concreto e mata"
+            },
+            {
+              "id": "A03",
+              "text": "cidades autossustentáveis"
+            },
+            {
+              "id": "A04",
+              "text": "fim das enchentes urbanas"
+            },
+            {
+              "id": "A05",
+              "text": "desequilíbrios socioambientais"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Expansão urbana e ecologia humana",
+          "assunto": "Expansão urbana e ecologia humana",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Parques lineares às margens de córregos unem lazer, drenagem e preservação. Esses equipamentos mostram que urbanizar pode",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ignorar totalmente a natureza"
+            },
+            {
+              "id": "A02",
+              "text": "conciliar cidade e ambiente"
+            },
+            {
+              "id": "A03",
+              "text": "asfaltar todos os rios"
+            },
+            {
+              "id": "A04",
+              "text": "expulsar moradores pobres"
+            },
+            {
+              "id": "A05",
+              "text": "privatizar áreas verdes"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Expansão urbana e ecologia humana",
+          "assunto": "Expansão urbana e ecologia humana",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F19",
+      "title": "Sociologia — Flexibilização do trabalho: do fordismo ao toyotismo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Flexibilização do trabalho: do fordismo ao toyotismo",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Na fábrica fordista cada operário repetia um gesto; na toyotista, opera várias máquinas e sugere melhorias. A diferença está",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "no fim de toda hierarquia"
+            },
+            {
+              "id": "A02",
+              "text": "na rigidez contra a polivalência"
+            },
+            {
+              "id": "A03",
+              "text": "na volta ao artesanato"
+            },
+            {
+              "id": "A04",
+              "text": "na igualdade salarial"
+            },
+            {
+              "id": "A05",
+              "text": "no tamanho das fábricas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Flexibilização do trabalho: do fordismo ao toyotismo",
+          "assunto": "Flexibilização do trabalho: do fordismo ao toyotismo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Bicos, freelances e intermitentes crescem entre jovens sem carteira assinada. Essa flexibilização dos vínculos resulta",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "em estabilidade para todos"
+            },
+            {
+              "id": "A02",
+              "text": "em direitos ampliados"
+            },
+            {
+              "id": "A03",
+              "text": "em salários sempre maiores"
+            },
+            {
+              "id": "A04",
+              "text": "em insegurança e rotatividade"
+            },
+            {
+              "id": "A05",
+              "text": "em aposentadoria precoce"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Flexibilização do trabalho: do fordismo ao toyotismo",
+          "assunto": "Flexibilização do trabalho: do fordismo ao toyotismo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F20",
+      "title": "Sociologia — Fluxos migratórios, refugiados e terrorismo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Fluxos migratórios, refugiados e terrorismo",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Nordestinos migraram em massa para São Paulo fugindo da seca e buscando emprego nas indústrias. Essa migração interna foi motivada",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "por turismo e lazer"
+            },
+            {
+              "id": "A02",
+              "text": "por guerras religiosas"
+            },
+            {
+              "id": "A03",
+              "text": "por intercâmbio estudantil"
+            },
+            {
+              "id": "A04",
+              "text": "por fatores econômicos e climáticos"
+            },
+            {
+              "id": "A05",
+              "text": "por sorteios governamentais"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Fluxos migratórios, refugiados e terrorismo",
+          "assunto": "Fluxos migratórios, refugiados e terrorismo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Haitianos e venezuelanos chegam ao Brasil fugindo de crises, e a lei garante acolhimento humanitário. Diferente do migrante econômico, o refugiado foge de",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "tédio e rotina enfadonha"
+            },
+            {
+              "id": "A02",
+              "text": "perseguição, guerra ou desastre"
+            },
+            {
+              "id": "A03",
+              "text": "férias prolongadas"
+            },
+            {
+              "id": "A04",
+              "text": "curiosidade turística"
+            },
+            {
+              "id": "A05",
+              "text": "convites de parentes"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Fluxos migratórios, refugiados e terrorismo",
+          "assunto": "Fluxos migratórios, refugiados e terrorismo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F21",
+      "title": "Sociologia — Formação do povo brasileiro: dominação e trocas culturais (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Formação do povo brasileiro: dominação e trocas culturais",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Darcy Ribeiro descreveu o brasileiro como povo novo, nascido da mistura de índios, negros e europeus sob dominação. Essa formação envolveu",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "harmonia total entre as matrizes"
+            },
+            {
+              "id": "A02",
+              "text": "isolamento das três origens"
+            },
+            {
+              "id": "A03",
+              "text": "violência e trocas culturais"
+            },
+            {
+              "id": "A04",
+              "text": "pureza preservada de cada grupo"
+            },
+            {
+              "id": "A05",
+              "text": "ausência de conflitos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Formação do povo brasileiro: dominação e trocas culturais",
+          "assunto": "Formação do povo brasileiro: dominação e trocas culturais",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Feijoada, samba e capoeira misturam heranças africanas, indígenas e europeias. Essas expressões mostram a cultura brasileira como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cópia fiel da europeia"
+            },
+            {
+              "id": "A02",
+              "text": "puramente africana"
+            },
+            {
+              "id": "A03",
+              "text": "só indígena em essência"
+            },
+            {
+              "id": "A04",
+              "text": "importada dos Estados Unidos"
+            },
+            {
+              "id": "A05",
+              "text": "mestiça e sincrética"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Formação do povo brasileiro: dominação e trocas culturais",
+          "assunto": "Formação do povo brasileiro: dominação e trocas culturais",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F22",
+      "title": "Sociologia — Formas de Estado, sistemas e formas de governo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Formas de Estado, sistemas e formas de governo",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Estado unitário concentra poder no governo central, enquanto o federativo divide entre União, estados e municípios. O Brasil adota a forma",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "unitária e centralizada"
+            },
+            {
+              "id": "A02",
+              "text": "confederada e instável"
+            },
+            {
+              "id": "A03",
+              "text": "imperial e hereditária"
+            },
+            {
+              "id": "A04",
+              "text": "teocrática e religiosa"
+            },
+            {
+              "id": "A05",
+              "text": "federativa e descentralizada"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Formas de Estado, sistemas e formas de governo",
+          "assunto": "Formas de Estado, sistemas e formas de governo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "No presidencialismo, presidente chefia governo e Estado; no parlamentarismo, primeiro-ministro governa e rei ou presidente representa. A diferença está",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "no número de partidos existentes"
+            },
+            {
+              "id": "A02",
+              "text": "na separação entre chefias"
+            },
+            {
+              "id": "A03",
+              "text": "na duração dos mandatos"
+            },
+            {
+              "id": "A04",
+              "text": "no tamanho do território"
+            },
+            {
+              "id": "A05",
+              "text": "na língua oficial adotada"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Formas de Estado, sistemas e formas de governo",
+          "assunto": "Formas de Estado, sistemas e formas de governo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F23",
+      "title": "Sociologia — Formas de governo: República e Monarquia (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Formas de governo: República e Monarquia",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Na República, o chefe de Estado é eleito por tempo determinado; na Monarquia, herda o trono vitaliciamente. O Brasil trocou uma pela outra em",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1822, com a Independência"
+            },
+            {
+              "id": "A02",
+              "text": "1889, com a Proclamação da República"
+            },
+            {
+              "id": "A03",
+              "text": "1930, com a Revolução"
+            },
+            {
+              "id": "A04",
+              "text": "1964, com o golpe militar"
+            },
+            {
+              "id": "A05",
+              "text": "1988, com a Constituição"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Formas de governo: República e Monarquia",
+          "assunto": "Formas de governo: República e Monarquia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Monarquias constitucionais, como a britânica, mantêm reis sem poder de governo efetivo. Nesses regimes, o monarca exerce função",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "legislativa plena e absoluta"
+            },
+            {
+              "id": "A02",
+              "text": "executiva sobre ministérios"
+            },
+            {
+              "id": "A03",
+              "text": "judiciária de última instância"
+            },
+            {
+              "id": "A04",
+              "text": "simbólica e representativa"
+            },
+            {
+              "id": "A05",
+              "text": "militar de comando direto"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Formas de governo: República e Monarquia",
+          "assunto": "Formas de governo: República e Monarquia",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F24",
+      "title": "Sociologia — Futuro do trabalho diante do avanço tecnológico (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Futuro do trabalho diante do avanço tecnológico",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Caixas de supermercado dão lugar a totens de autoatendimento em várias redes. Para os operadores substituídos, a automação significa",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "promoção automática a gerentes"
+            },
+            {
+              "id": "A02",
+              "text": "aumento salarial garantido"
+            },
+            {
+              "id": "A03",
+              "text": "férias remuneradas extensas"
+            },
+            {
+              "id": "A04",
+              "text": "risco de desemprego e precarização"
+            },
+            {
+              "id": "A05",
+              "text": "aposentadoria imediata integral"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Futuro do trabalho diante do avanço tecnológico",
+          "assunto": "Futuro do trabalho diante do avanço tecnológico",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Cursos técnicos em robótica e dados lotam enquanto datilografia sumiu das escolas. Essa troca de habilidades mostra o mercado exigindo",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "menos estudo a cada geração"
+            },
+            {
+              "id": "A02",
+              "text": "atualização constante dos trabalhadores"
+            },
+            {
+              "id": "A03",
+              "text": "volta aos ofícios manuais"
+            },
+            {
+              "id": "A04",
+              "text": "abandono total da escola"
+            },
+            {
+              "id": "A05",
+              "text": "diplomas comprados prontos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Futuro do trabalho diante do avanço tecnológico",
+          "assunto": "Futuro do trabalho diante do avanço tecnológico",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F25",
+      "title": "Sociologia — Inovação: desenvolvimento técnico e tecnológico (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Inovação: desenvolvimento técnico e tecnológico",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O Pix barateou transferências e incluiu milhões sem conta em banco tradicional. Como inovação social e técnica, ele demonstra tecnologia",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reservada aos mais ricos"
+            },
+            {
+              "id": "A02",
+              "text": "inútil para os pobres"
+            },
+            {
+              "id": "A03",
+              "text": "a serviço da inclusão financeira"
+            },
+            {
+              "id": "A04",
+              "text": "prejudicial ao comércio"
+            },
+            {
+              "id": "A05",
+              "text": "controlada por estrangeiros"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Inovação: desenvolvimento técnico e tecnológico",
+          "assunto": "Inovação: desenvolvimento técnico e tecnológico",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Celulares viraram carteiras, mapas e salas de aula no Brasil profundo. Essa multifuncionalidade revela tecnologia apropriada",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "pelo cotidiano dos mais pobres"
+            },
+            {
+              "id": "A02",
+              "text": "contra os interesses populares"
+            },
+            {
+              "id": "A03",
+              "text": "só pelas elites urbanas"
+            },
+            {
+              "id": "A04",
+              "text": "para fins militares"
+            },
+            {
+              "id": "A05",
+              "text": "sem impacto social"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Inovação: desenvolvimento técnico e tecnológico",
+          "assunto": "Inovação: desenvolvimento técnico e tecnológico",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F26",
+      "title": "Sociologia — Justiça social, solidariedade, igualdade e equidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Justiça social, solidariedade, igualdade e equidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Tratar desiguais de forma igual perpetua injustiças, por isso cotas reservam vagas a grupos excluídos. A equidade se diferencia da igualdade porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ignora diferenças entre pessoas"
+            },
+            {
+              "id": "A02",
+              "text": "dá mais a quem já tem mais"
+            },
+            {
+              "id": "A03",
+              "text": "considera pontos de partida distintos"
+            },
+            {
+              "id": "A04",
+              "text": "vale só para questões raciais"
+            },
+            {
+              "id": "A05",
+              "text": "dispensa critérios objetivos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Justiça social, solidariedade, igualdade e equidade",
+          "assunto": "Justiça social, solidariedade, igualdade e equidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Mutirões, vaquinhas e cozinhas solidárias organizam ajuda mútua nas periferias. Essas redes de solidariedade mostram que, diante da ausência do Estado, as comunidades",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "aguardam passivamente socorro"
+            },
+            {
+              "id": "A02",
+              "text": "criam formas próprias de apoio"
+            },
+            {
+              "id": "A03",
+              "text": "abandonam os mais frágeis"
+            },
+            {
+              "id": "A04",
+              "text": "cobram caro pela ajuda"
+            },
+            {
+              "id": "A05",
+              "text": "fogem para outras cidades"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Justiça social, solidariedade, igualdade e equidade",
+          "assunto": "Justiça social, solidariedade, igualdade e equidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F27",
+      "title": "Sociologia — Laicidade, pluralismo e intolerância religiosa (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Laicidade, pluralismo e intolerância religiosa",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O Estado brasileiro é laico desde 1890, sem religião oficial. Na prática, a laicidade significa que o poder público deve",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "financiar só a religião majoritária"
+            },
+            {
+              "id": "A02",
+              "text": "proibir cultos em locais públicos"
+            },
+            {
+              "id": "A03",
+              "text": "escolher padres para cargos"
+            },
+            {
+              "id": "A04",
+              "text": "tratar todas as crenças com igualdade"
+            },
+            {
+              "id": "A05",
+              "text": "perseguir religiões minoritárias"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Laicidade, pluralismo e intolerância religiosa",
+          "assunto": "Laicidade, pluralismo e intolerância religiosa",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Ataques a terreiros e mesquitas configuram intolerância religiosa, crime previsto em lei. O pluralismo religioso exige, em contrapartida,",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "conversão de todos a uma fé"
+            },
+            {
+              "id": "A02",
+              "text": "silêncio das vítimas agredidas"
+            },
+            {
+              "id": "A03",
+              "text": "respeito e convivência entre crenças"
+            },
+            {
+              "id": "A04",
+              "text": "privilégios à maioria religiosa"
+            },
+            {
+              "id": "A05",
+              "text": "fim de todos os cultos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Laicidade, pluralismo e intolerância religiosa",
+          "assunto": "Laicidade, pluralismo e intolerância religiosa",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F28",
+      "title": "Sociologia — Latifúndios e produção monocultora (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Latifúndios e produção monocultora",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Poucas famílias controlam imensas fazendas de soja e cana, enquanto milhões vivem sem terra. Essa concentração fundiária tem origem",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "na reforma agrária radical"
+            },
+            {
+              "id": "A02",
+              "text": "na colonização e na Lei de Terras"
+            },
+            {
+              "id": "A03",
+              "text": "na compra por estrangeiros recente"
+            },
+            {
+              "id": "A04",
+              "text": "na divisão igualitária colonial"
+            },
+            {
+              "id": "A05",
+              "text": "no sorteio de lotes públicos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Latifúndios e produção monocultora",
+          "assunto": "Latifúndios e produção monocultora",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "A monocultura de eucalipto seca nascentes e expulsa comunidades no interior. Social e ambientalmente, ela é criticada por",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "gerar muitos empregos locais"
+            },
+            {
+              "id": "A02",
+              "text": "preservar a biodiversidade"
+            },
+            {
+              "id": "A03",
+              "text": "fixar populações no campo"
+            },
+            {
+              "id": "A04",
+              "text": "concentrar terra e degradar águas"
+            },
+            {
+              "id": "A05",
+              "text": "baratear o papel nacional"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Latifúndios e produção monocultora",
+          "assunto": "Latifúndios e produção monocultora",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F29",
+      "title": "Sociologia — Legislação da terra no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Legislação da terra no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A função social da propriedade exige uso produtivo e respeito ambiental e trabalhista. Terras que a descumprem podem ser",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "premiadas com subsídios"
+            },
+            {
+              "id": "A02",
+              "text": "vendidas a estrangeiros"
+            },
+            {
+              "id": "A03",
+              "text": "desapropriadas para reforma agrária"
+            },
+            {
+              "id": "A04",
+              "text": "transformadas em parques"
+            },
+            {
+              "id": "A05",
+              "text": "ignoradas pelo Estado"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Legislação da terra no Brasil",
+          "assunto": "Legislação da terra no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Grileiros falsificam documentos para tomar terras públicas na Amazônia. Contra a grilagem, o instrumento legal é a",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "anistia ampla e irrestrita"
+            },
+            {
+              "id": "A02",
+              "text": "venda acelerada de florestas"
+            },
+            {
+              "id": "A03",
+              "text": "regularização sem critérios"
+            },
+            {
+              "id": "A04",
+              "text": "privatização das reservas"
+            },
+            {
+              "id": "A05",
+              "text": "fiscalização e titulação criteriosa"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Legislação da terra no Brasil",
+          "assunto": "Legislação da terra no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F30",
+      "title": "Sociologia — Mercado de trabalho e População Economicamente Ativa (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Mercado de trabalho e População Economicamente Ativa",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A taxa de desocupação mede quem procura trabalho sem encontrar, sobre a força de trabalho. Quando ela sobe, significa que",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "todos conseguiram ocupação"
+            },
+            {
+              "id": "A02",
+              "text": "mais gente procura emprego sem achar"
+            },
+            {
+              "id": "A03",
+              "text": "os salários dispararam"
+            },
+            {
+              "id": "A04",
+              "text": "a economia vai muito bem"
+            },
+            {
+              "id": "A05",
+              "text": "sobram vagas para todos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Mercado de trabalho e População Economicamente Ativa",
+          "assunto": "Mercado de trabalho e População Economicamente Ativa",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Jovens entram mais tarde no mercado e idosos permanecem ativos por necessidade. Essas mudanças etárias alteram",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "só as taxas de natalidade"
+            },
+            {
+              "id": "A02",
+              "text": "nada na estrutura social"
+            },
+            {
+              "id": "A03",
+              "text": "apenas o funcionalismo"
+            },
+            {
+              "id": "A04",
+              "text": "o perfil da força de trabalho"
+            },
+            {
+              "id": "A05",
+              "text": "só o trabalho rural"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Mercado de trabalho e População Economicamente Ativa",
+          "assunto": "Mercado de trabalho e População Economicamente Ativa",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F31",
+      "title": "Sociologia — Mídias sociais, vida em comum e insensibilidade moral (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Mídias sociais, vida em comum e insensibilidade moral",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Linchar supostos criminosos em grupos de bairro expõe inocentes e alimenta a violência. Esses justiçamentos digitais mostram redes usadas para",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "organizar mutirões solidários"
+            },
+            {
+              "id": "A02",
+              "text": "divulgar campanhas de saúde"
+            },
+            {
+              "id": "A03",
+              "text": "promover debates racionais"
+            },
+            {
+              "id": "A04",
+              "text": "financiar pequenos negócios"
+            },
+            {
+              "id": "A05",
+              "text": "julgar e punir sem processo"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Mídias sociais, vida em comum e insensibilidade moral",
+          "assunto": "Mídias sociais, vida em comum e insensibilidade moral",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Compartilhar fake news sem checar espalha pânico e ódio em segundos. A responsabilidade pelo compartilhamento é",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "inexistente, pois a culpa é da rede"
+            },
+            {
+              "id": "A02",
+              "text": "só das plataformas digitais"
+            },
+            {
+              "id": "A03",
+              "text": "de quem repassa sem verificar"
+            },
+            {
+              "id": "A04",
+              "text": "apenas do autor original"
+            },
+            {
+              "id": "A05",
+              "text": "do governo federal sempre"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Mídias sociais, vida em comum e insensibilidade moral",
+          "assunto": "Mídias sociais, vida em comum e insensibilidade moral",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F32",
+      "title": "Sociologia — Minorias e violência (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Minorias e violência",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Travestis estão entre as principais vítimas de assassinato no Brasil, com expectativa de vida baixíssima. Essa violência letal expressa",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "proteção estatal eficiente"
+            },
+            {
+              "id": "A02",
+              "text": "aceitação social plena"
+            },
+            {
+              "id": "A03",
+              "text": "harmonia entre os gêneros"
+            },
+            {
+              "id": "A04",
+              "text": "indiferença da sociedade"
+            },
+            {
+              "id": "A05",
+              "text": "transfobia estrutural e letal"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Minorias e violência",
+          "assunto": "Minorias e violência",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 02",
+          "text": "Idosos sofrem violência patrimonial de familiares que tomam aposentadorias. Esse abuso, muitas vezes invisível, revela vulnerabilidade ligada",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "à fama midiática"
+            },
+            {
+              "id": "A02",
+              "text": "à riqueza acumulada"
+            },
+            {
+              "id": "A03",
+              "text": "ao poder político"
+            },
+            {
+              "id": "A04",
+              "text": "à força física"
+            },
+            {
+              "id": "A05",
+              "text": "à idade e à dependência"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Minorias e violência",
+          "assunto": "Minorias e violência",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F33",
+      "title": "Sociologia — Minorias simbólicas no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Minorias simbólicas no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Novelas com protagonistas negros e indígenas ampliam referências para crianças desses grupos. Essa representatividade midiática combate",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "o monopólio branco do imaginário"
+            },
+            {
+              "id": "A02",
+              "text": "a qualidade das produções"
+            },
+            {
+              "id": "A03",
+              "text": "o interesse do público"
+            },
+            {
+              "id": "A04",
+              "text": "a liberdade artística"
+            },
+            {
+              "id": "A05",
+              "text": "a audiência das emissoras"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Minorias simbólicas no Brasil",
+          "assunto": "Minorias simbólicas no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F34",
+      "title": "Sociologia — Mito da democracia racial e tipos de racismos (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Mito da democracia racial e tipos de racismos",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Dizer sou moreno, não negro evita a identidade negra por vergonha introjetada. Essa negação identitária resulta",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "do orgulho da negritude assumida"
+            },
+            {
+              "id": "A02",
+              "text": "de políticas afirmativas"
+            },
+            {
+              "id": "A03",
+              "text": "do racismo internalizado"
+            },
+            {
+              "id": "A04",
+              "text": "da miscigenação harmoniosa"
+            },
+            {
+              "id": "A05",
+              "text": "da democracia racial real"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Mito da democracia racial e tipos de racismos",
+          "assunto": "Mito da democracia racial e tipos de racismos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F35",
+      "title": "Sociologia — Mobilidade urbana (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Mobilidade urbana",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Catracas caras excluem pobres do transporte, empurrando-os para longas caminhadas. A tarifa, nesse caso, funciona como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "incentivo ao transporte público"
+            },
+            {
+              "id": "A02",
+              "text": "subsídio aos mais pobres"
+            },
+            {
+              "id": "A03",
+              "text": "medida ambiental correta"
+            },
+            {
+              "id": "A04",
+              "text": "modernização necessária"
+            },
+            {
+              "id": "A05",
+              "text": "barreira social à mobilidade"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Mobilidade urbana",
+          "assunto": "Mobilidade urbana",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F36",
+      "title": "Sociologia — Moda, gostos e estilos de vida (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Moda, gostos e estilos de vida",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Tênis de marca funcionam como passaporte de status entre jovens periféricos. Esse consumo de distinção mostra que vestir é também",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "proteger os pés do frio"
+            },
+            {
+              "id": "A02",
+              "text": "economizar o salário"
+            },
+            {
+              "id": "A03",
+              "text": "rejeitar marcas famosas"
+            },
+            {
+              "id": "A04",
+              "text": "afirmar pertencimento e valor"
+            },
+            {
+              "id": "A05",
+              "text": "ignorar opiniões alheias"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Moda, gostos e estilos de vida",
+          "assunto": "Moda, gostos e estilos de vida",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F37",
+      "title": "Sociologia — Modernização do Brasil, industrialização e imigração (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Modernização do Brasil, industrialização e imigração",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Imigrantes europeus e japoneses trouxeram técnicas e hábitos que se misturaram à cultura nacional. Para a industrialização paulista, eles forneceram",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "mão de obra e saberes diversos"
+            },
+            {
+              "id": "A02",
+              "text": "capitais milionários apenas"
+            },
+            {
+              "id": "A03",
+              "text": "terras devolutas gratuitas"
+            },
+            {
+              "id": "A04",
+              "text": "escravos para as fábricas"
+            },
+            {
+              "id": "A05",
+              "text": "isolamento cultural total"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Modernização do Brasil, industrialização e imigração",
+          "assunto": "Modernização do Brasil, industrialização e imigração",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F38",
+      "title": "Sociologia — Movimentos de luta pelo direito à terra no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Movimentos de luta pelo direito à terra no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "As Ligas Camponesas dos anos 1960 exigiam reforma agrária antes do golpe militar. Sua repressão mostra que a luta pela terra enfrenta",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "apoio irrestrito das elites"
+            },
+            {
+              "id": "A02",
+              "text": "indiferença total do Estado"
+            },
+            {
+              "id": "A03",
+              "text": "desinteresse dos camponeses"
+            },
+            {
+              "id": "A04",
+              "text": "abundância de terras livres"
+            },
+            {
+              "id": "A05",
+              "text": "violência dos grandes proprietários"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Movimentos de luta pelo direito à terra no Brasil",
+          "assunto": "Movimentos de luta pelo direito à terra no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F39",
+      "title": "Sociologia — Movimentos sociais globais: ONGs, antiglobalistas e alterglobalistas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Movimentos sociais globais: ONGs, antiglobalistas e alterglobalistas",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O Greenpeace combina ações espetaculares com pesquisa para pressionar governos e empresas. Como ONG transnacional, ele atua",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "só dentro de um único país"
+            },
+            {
+              "id": "A02",
+              "text": "sem qualquer financiamento"
+            },
+            {
+              "id": "A03",
+              "text": "contra todos os governos"
+            },
+            {
+              "id": "A04",
+              "text": "além das fronteiras nacionais"
+            },
+            {
+              "id": "A05",
+              "text": "sem usar a mídia"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Movimentos sociais globais: ONGs, antiglobalistas e alterglobalistas",
+          "assunto": "Movimentos sociais globais: ONGs, antiglobalistas e alterglobalistas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F40",
+      "title": "Sociologia — Mundialização da cultura: organização do mundo em redes (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Mundialização da cultura: organização do mundo em redes",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "K-pop, funk e reggaeton circulam globalmente pelas plataformas digitais. Essa circulação em rede permite que culturas periféricas",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "desapareçam diante do pop americano"
+            },
+            {
+              "id": "A02",
+              "text": "alcancem públicos mundiais"
+            },
+            {
+              "id": "A03",
+              "text": "percam toda autenticidade"
+            },
+            {
+              "id": "A04",
+              "text": "se isolem em guetos"
+            },
+            {
+              "id": "A05",
+              "text": "sejam proibidas pelos governos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Mundialização da cultura: organização do mundo em redes",
+          "assunto": "Mundialização da cultura: organização do mundo em redes",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F41",
+      "title": "Sociologia — Negacionismo científico e políticas públicas (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Negacionismo científico e políticas públicas",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Movimentos antivacina espalham boatos que derrubam coberturas vacinais e trazem de volta doenças. O negacionismo vacinal ameaça",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "só quem adere a ele"
+            },
+            {
+              "id": "A02",
+              "text": "a indústria farmacêutica"
+            },
+            {
+              "id": "A03",
+              "text": "os médicos particulares"
+            },
+            {
+              "id": "A04",
+              "text": "a imunidade coletiva de todos"
+            },
+            {
+              "id": "A05",
+              "text": "os laboratórios públicos"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Negacionismo científico e políticas públicas",
+          "assunto": "Negacionismo científico e políticas públicas",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F42",
+      "title": "Sociologia — Papel dos especialistas e peritos (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Papel dos especialistas e peritos",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Peritos criminais traduzem vestígios em provas técnicas para a Justiça. Sem esse trabalho especializado, julgamentos dependeriam",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "só de depoimentos e achismos"
+            },
+            {
+              "id": "A02",
+              "text": "de provas irrefutáveis sempre"
+            },
+            {
+              "id": "A03",
+              "text": "da confissão dos réus"
+            },
+            {
+              "id": "A04",
+              "text": "de sorteios judiciais"
+            },
+            {
+              "id": "A05",
+              "text": "de inteligência artificial"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Papel dos especialistas e peritos",
+          "assunto": "Papel dos especialistas e peritos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F43",
+      "title": "Sociologia — Pobreza, exclusão e vulnerabilidade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Pobreza, exclusão e vulnerabilidade",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "A linha de pobreza define quem recebe benefícios sociais pelos critérios de renda. Embora necessária, ela esconde dimensões como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "salários e empregos formais"
+            },
+            {
+              "id": "A02",
+              "text": "preços dos alimentos"
+            },
+            {
+              "id": "A03",
+              "text": "taxas de juros bancários"
+            },
+            {
+              "id": "A04",
+              "text": "câmbio e inflação"
+            },
+            {
+              "id": "A05",
+              "text": "saúde, moradia e dignidade"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Pobreza, exclusão e vulnerabilidade",
+          "assunto": "Pobreza, exclusão e vulnerabilidade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F44",
+      "title": "Sociologia — Povos indígenas e o discurso do desenvolvimento sustentável (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Povos indígenas e o discurso do desenvolvimento sustentável",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Assembleias indígenas cobram demarcação e saúde diferenciada com protagonismo próprio. Longe da tutela do passado, elas afirmam",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "isolamento total da sociedade"
+            },
+            {
+              "id": "A02",
+              "text": "autonomia e participação política"
+            },
+            {
+              "id": "A03",
+              "text": "retorno à vida nômade"
+            },
+            {
+              "id": "A04",
+              "text": "abandono das tradições"
+            },
+            {
+              "id": "A05",
+              "text": "submissão ao governo"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Povos indígenas e o discurso do desenvolvimento sustentável",
+          "assunto": "Povos indígenas e o discurso do desenvolvimento sustentável",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F45",
+      "title": "Sociologia — Precarização e plataformização do trabalho (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Precarização e plataformização do trabalho",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Motoristas de aplicativo arcam com carro, combustível e riscos, sem férias ou 13º. Essa conta revela que a flexibilidade prometida cobra",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "altos salários garantidos"
+            },
+            {
+              "id": "A02",
+              "text": "estabilidade vitalícia"
+            },
+            {
+              "id": "A03",
+              "text": "proteção social do trabalhador"
+            },
+            {
+              "id": "A04",
+              "text": "férias remuneradas extensas"
+            },
+            {
+              "id": "A05",
+              "text": "aposentadoria integral"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Precarização e plataformização do trabalho",
+          "assunto": "Precarização e plataformização do trabalho",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F46",
+      "title": "Sociologia — Preconceito e desigualdade de gênero (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Preconceito e desigualdade de gênero",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Piadas que diminuem mulheres no trabalho criam ambiente hostil e silenciam talentos. Esse humor de escritório configura",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "brincadeira saudável e inocente"
+            },
+            {
+              "id": "A02",
+              "text": "elogio disfarçado às colegas"
+            },
+            {
+              "id": "A03",
+              "text": "estímulo à produtividade"
+            },
+            {
+              "id": "A04",
+              "text": "assédio moral e de gênero"
+            },
+            {
+              "id": "A05",
+              "text": "integração entre equipes"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Preconceito e desigualdade de gênero",
+          "assunto": "Preconceito e desigualdade de gênero",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F47",
+      "title": "Sociologia — Presidencialismo de coalizão no Brasil (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Presidencialismo de coalizão no Brasil",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Presidentes distribuem ministérios a partidos para aprovar projetos no Congresso. Essa troca de apoio por cargos caracteriza o presidencialismo de coalizão como",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "ditadura disfarçada de democracia"
+            },
+            {
+              "id": "A02",
+              "text": "governo sem qualquer oposição"
+            },
+            {
+              "id": "A03",
+              "text": "monarquia parlamentarista"
+            },
+            {
+              "id": "A04",
+              "text": "negociação permanente por governabilidade"
+            },
+            {
+              "id": "A05",
+              "text": "eleição direta de ministros"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Presidencialismo de coalizão no Brasil",
+          "assunto": "Presidencialismo de coalizão no Brasil",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F48",
+      "title": "Sociologia — Problemas urbanos (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Problemas urbanos",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Falta d'água atinge bairros pobres enquanto condomínios têm poços artesianos. A crise hídrica urbana revela desigualdade no acesso",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "à internet banda larga"
+            },
+            {
+              "id": "A02",
+              "text": "a shoppings centers"
+            },
+            {
+              "id": "A03",
+              "text": "a serviços essenciais"
+            },
+            {
+              "id": "A04",
+              "text": "a cinemas multiplex"
+            },
+            {
+              "id": "A05",
+              "text": "a estádios de futebol"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Problemas urbanos",
+          "assunto": "Problemas urbanos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F49",
+      "title": "Sociologia — Processos de gentrificação (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Processos de gentrificação",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Bares descolados e galerias chegam a bairros populares, seguidos de aluguéis impagáveis. Os antigos moradores, diante da valorização, costumam ser",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "expulsos para áreas mais baratas"
+            },
+            {
+              "id": "A02",
+              "text": "contratados como curadores"
+            },
+            {
+              "id": "A03",
+              "text": "premiados com moradias"
+            },
+            {
+              "id": "A04",
+              "text": "consultados sobre as mudanças"
+            },
+            {
+              "id": "A05",
+              "text": "beneficiados com lucros"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Processos de gentrificação",
+          "assunto": "Processos de gentrificação",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F50",
+      "title": "Sociologia — Produção, descarte, reaproveitamento e reciclagem dos resíduos (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Produção, descarte, reaproveitamento e reciclagem dos resíduos",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Catadores organizados reciclam toneladas que iriam para aterros, com renda incerta. Reconhecer cooperativas na coleta seletiva significa",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "privatizar toda a limpeza urbana"
+            },
+            {
+              "id": "A02",
+              "text": "proibir a reciclagem informal"
+            },
+            {
+              "id": "A03",
+              "text": "multar quem separa o lixo"
+            },
+            {
+              "id": "A04",
+              "text": "incinerar todo o material"
+            },
+            {
+              "id": "A05",
+              "text": "incluir quem recicla de fato"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Produção, descarte, reaproveitamento e reciclagem dos resíduos",
+          "assunto": "Produção, descarte, reaproveitamento e reciclagem dos resíduos",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F51",
+      "title": "Sociologia — Propriedade e concentração fundiária no país (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Propriedade e concentração fundiária no país",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "O Censo Agropecuário mostra poucas propriedades gigantes com a maior parte das terras. Essa fotografia numérica confirma a estrutura fundiária",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "igualitária e familiar"
+            },
+            {
+              "id": "A02",
+              "text": "concentrada em poucas mãos"
+            },
+            {
+              "id": "A03",
+              "text": "coletivizada pelo Estado"
+            },
+            {
+              "id": "A04",
+              "text": "irrelevante economicamente"
+            },
+            {
+              "id": "A05",
+              "text": "superada pela reforma"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Propriedade e concentração fundiária no país",
+          "assunto": "Propriedade e concentração fundiária no país",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F52",
+      "title": "Sociologia — Propriedade rural e poder no campo: patriarcalismo e coronelismo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Propriedade rural e poder no campo: patriarcalismo e coronelismo",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Coronéis trocavam votos por favores, controlando eleitores pela dependência. O voto de cabresto funcionava porque o eleitor",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "dependia do coronel para viver"
+            },
+            {
+              "id": "A02",
+              "text": "admirava ideias democráticas"
+            },
+            {
+              "id": "A03",
+              "text": "recebia ótimos salários"
+            },
+            {
+              "id": "A04",
+              "text": "votava por convicção livre"
+            },
+            {
+              "id": "A05",
+              "text": "desprezava favores pessoais"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Propriedade rural e poder no campo: patriarcalismo e coronelismo",
+          "assunto": "Propriedade rural e poder no campo: patriarcalismo e coronelismo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F53",
+      "title": "Sociologia — Qualificação profissional e remuneração (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Qualificação profissional e remuneração",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Cursos técnicos de enfermagem e eletrotécnica empregam rápido com bons salários. Diante do diploma universitário desvalorizado, a qualificação técnica",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "garante inserção e renda digna"
+            },
+            {
+              "id": "A02",
+              "text": "perdeu todo o valor"
+            },
+            {
+              "id": "A03",
+              "text": "serve só aos ricos"
+            },
+            {
+              "id": "A04",
+              "text": "dispensa qualquer estudo"
+            },
+            {
+              "id": "A05",
+              "text": "impede promoções"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Qualificação profissional e remuneração",
+          "assunto": "Qualificação profissional e remuneração",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F54",
+      "title": "Sociologia — Questão agrária no Brasil e conflitos no campo (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Questão agrária no Brasil e conflitos no campo",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Posseiros antigos entram em choque com fazendeiros que apresentam títulos recentes na Amazônia. Esses conflitos opõem ocupação tradicional e",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "reforma agrária concluída"
+            },
+            {
+              "id": "A02",
+              "text": "harmonia entre as partes"
+            },
+            {
+              "id": "A03",
+              "text": "grilagem com papéis duvidosos"
+            },
+            {
+              "id": "A04",
+              "text": "ausência de interesses"
+            },
+            {
+              "id": "A05",
+              "text": "terras sem qualquer valor"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Sociologia > Questão agrária no Brasil e conflitos no campo",
+          "assunto": "Questão agrária no Brasil e conflitos no campo",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F55",
+      "title": "Sociologia — Racismo institucional e racismo estrutural (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Racismo institucional e racismo estrutural",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Abordagens policiais param desproporcionalmente jovens negros, mesmo sem flagrante. Esse padrão, repetido em várias cidades, indica racismo",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "inexistente nas polícias"
+            },
+            {
+              "id": "A02",
+              "text": "restrito a um policial"
+            },
+            {
+              "id": "A03",
+              "text": "superado pelas câmeras"
+            },
+            {
+              "id": "A04",
+              "text": "acidental e raro"
+            },
+            {
+              "id": "A05",
+              "text": "institucional nas abordagens"
+            }
+          ],
+          "correct": "A05",
+          "subject": "Sociologia > Racismo institucional e racismo estrutural",
+          "assunto": "Racismo institucional e racismo estrutural",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F56",
+      "title": "Sociologia — Representatividade das minorias (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Representatividade das minorias",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Ver deputadas negras e indígenas no Congresso amplia o imaginário de meninas sobre o possível. Essa presença importa porque",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "oferece referências e rompe estereótipos"
+            },
+            {
+              "id": "A02",
+              "text": "resolve sozinha as desigualdades"
+            },
+            {
+              "id": "A03",
+              "text": "dispensa políticas afirmativas"
+            },
+            {
+              "id": "A04",
+              "text": "beneficia só as eleitas"
+            },
+            {
+              "id": "A05",
+              "text": "divide a sociedade"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Sociologia > Representatividade das minorias",
+          "assunto": "Representatividade das minorias",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F57",
+      "title": "Sociologia — Segregação, condomínios fechados, guetos e periferias (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Segregação, condomínios fechados, guetos e periferias",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Muros altos e guaritas separam condomínios de luxo das favelas vizinhas na mesma avenida. Essa paisagem expressa segregação",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "superada pela proximidade física"
+            },
+            {
+              "id": "A02",
+              "text": "socioespacial explícita e murada"
+            },
+            {
+              "id": "A03",
+              "text": "inexistente nas metrópoles"
+            },
+            {
+              "id": "A04",
+              "text": "benéfica para os pobres"
+            },
+            {
+              "id": "A05",
+              "text": "restrita ao passado"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Sociologia > Segregação, condomínios fechados, guetos e periferias",
+          "assunto": "Segregação, condomínios fechados, guetos e periferias",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    },
+    {
+      "id": "SOCIOLOGIA-ENEM-F58",
+      "title": "Sociologia — Sentidos do trabalho (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Sentidos do trabalho",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 01",
+          "text": "Perguntados sobre o sentido do trabalho, jovens citam sustento, mas também reconhecimento e amizades. Para além da renda, trabalhar oferece",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "só cansaço e doenças"
+            },
+            {
+              "id": "A02",
+              "text": "isolamento garantido"
+            },
+            {
+              "id": "A03",
+              "text": "humilhação constante"
+            },
+            {
+              "id": "A04",
+              "text": "vínculos e identidade social"
+            },
+            {
+              "id": "A05",
+              "text": "férias permanentes"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Sociologia > Sentidos do trabalho",
+          "assunto": "Sentidos do trabalho",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed"
+        }
+      ]
+    }
+  ]
+}

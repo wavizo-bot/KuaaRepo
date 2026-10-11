@@ -1,0 +1,1070 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "QUIMICA-TRATAMENTO-ESGOTO-2026",
+      "title": "Química — Tratamento de Esgoto (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Tratamento de Esgoto",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "O tratamento preliminar de esgoto inclui gradeamento (retém sólidos grandes) e desarenamento (retém areia, grit). O desarenamento funciona por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Gravidade (partículas densas sedimentam; matéria orgânica leve permanece em suspensão)."
+            },
+            {
+              "id": "A02",
+              "text": "Flotação por ar dissolvido."
+            },
+            {
+              "id": "A03",
+              "text": "Filtração em membranas."
+            },
+            {
+              "id": "A04",
+              "text": "Centrifugação."
+            },
+            {
+              "id": "A05",
+              "text": "Coagulação química."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "O tratamento primário (sedimentação primária) remove ~60% SS (sólidos em suspensão) e ~30% DBO. O tempo de detenção típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,5–2,5 horas"
+            },
+            {
+              "id": "A02",
+              "text": "30–60 minutos"
+            },
+            {
+              "id": "A03",
+              "text": "4–6 horas"
+            },
+            {
+              "id": "A04",
+              "text": "10–15 minutos"
+            },
+            {
+              "id": "A05",
+              "text": "8–12 horas"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "O tratamento secundário biológico (lodo ativado) remove matéria orgânica dissolvida/coloidal. A reação global aeróbia: C₁₀H₁₉NO₃ (biomassa típica) + O₂ → CO₂ + H₂O + NH₄⁺ + energia. A relação O₂/DBO teórica para oxidação completa é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1,0–1,2 g O₂/g DBO"
+            },
+            {
+              "id": "A02",
+              "text": "~0,5 g O₂/g DBO"
+            },
+            {
+              "id": "A03",
+              "text": "~2,0 g O₂/g DBO"
+            },
+            {
+              "id": "A04",
+              "text": "~3,0 g O₂/g DBO"
+            },
+            {
+              "id": "A05",
+              "text": "~0,1 g O₂/g DBO"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "No lodo ativado, a idade do lodo (SRT, θc) = massa de sólidos no sistema / massa de sólidos desperdiçada por dia. Para remoção apenas de DBO (heterotróficos rápidos), SRT mínima a 20 °C é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~2–4 dias"
+            },
+            {
+              "id": "A02",
+              "text": "~10–15 dias"
+            },
+            {
+              "id": "A03",
+              "text": "~20–30 dias"
+            },
+            {
+              "id": "A04",
+              "text": "~0,5 dias"
+            },
+            {
+              "id": "A05",
+              "text": "~50 dias"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A nitrificação (NH₄⁺ → NO₂⁻ → NO₃⁻) é feita por autotróficos (Nitrosomonas, Nitrobacter) lentos. Requer SRT > θc_min. A θc_min para nitrificação a 15 °C é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "8–12 dias"
+            },
+            {
+              "id": "A02",
+              "text": "2–3 dias"
+            },
+            {
+              "id": "A03",
+              "text": "1–2 dias"
+            },
+            {
+              "id": "A03",
+              "text": "20–30 dias"
+            },
+            {
+              "id": "A05",
+              "text": "0,5 dias"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A desnitrificação (NO₃⁻ → N₂) requer zona anóxica (sem O₂ dissolvido, com NO₃⁻) e fonte de carbono (DBO). A reação: NO₃⁻ + 1,08 CH₃OH + H⁺ → 0,065 C₅H₇NO₂ + 0,47 N₂ + 1,68 CO₂ + H₂O. A relação metanol/NO₃⁻-N é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~2,5–3,0 g CH₃OH/g NO₃⁻-N"
+            },
+            {
+              "id": "A02",
+              "text": "~0,5 g CH₃OH/g NO₃⁻-N"
+            },
+            {
+              "id": "A03",
+              "text": "~10 g CH₃OH/g NO₃⁻-N"
+            },
+            {
+              "id": "A04",
+              "text": "~20 g CH₃OH/g NO₃⁻-N"
+            },
+            {
+              "id": "A05",
+              "text": "~0,1 g CH₃OH/g NO₃⁻-N"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A remoção biológica de fósforo (EBPR) usa bactérias PAOs (Acumuladoras de Polifosfato). No anaeróbio: liberam P, absorvem VFAs (ácidos graxos voláteis) armazenando como PHB. No aeróbio: absorvem P em excesso. O fator limitante é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Disponibilidade de VFAs na zona anaeróbia (relação VFA/P influente > 10–15)."
+            },
+            {
+              "id": "A02",
+              "text": "Alta concentração de nitrato no anaeróbio."
+            },
+            {
+              "id": "A03",
+              "text": "pH > 9."
+            },
+            {
+              "id": "A04",
+              "text": "Temperatura > 35 °C."
+            },
+            {
+              "id": "A05",
+              "text": "Ausência de magnésio."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "A remoção química de fósforo (precipitação) usa sais de Fe³⁺ (cloreto férrico, sulfato férrico) ou Al³⁺. A estequiometria molar Fe/P teórica para formação de FePO₄ é 1:1. Na prática, a dose molar Fe/P necessária é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,5–2,5:1 (competição com hidróxidos, alcalinidade, matéria orgânica)."
+            },
+            {
+              "id": "A02",
+              "text": "1:1 exato."
+            },
+            {
+              "id": "A03",
+              "text": "0,5:1."
+            },
+            {
+              "id": "A04",
+              "text": "5:1."
+            },
+            {
+              "id": "A05",
+              "text": "10:1."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "O decantador secundário separa lodo biológico do efluente tratado. A carga sólida superficial (CSS = Q·X / A, kg/m²·h) deve ser limitada. Valor típico de projeto para lodo ativado convencional:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "50–100 kg SS/m²·d (2–4 kg/m²·h)"
+            },
+            {
+              "id": "A02",
+              "text": "200–300 kg SS/m²·d"
+            },
+            {
+              "id": "A03",
+              "text": "10–20 kg SS/m²·d"
+            },
+            {
+              "id": "A04",
+              "text": "500–1000 kg SS/m²·d"
+            },
+            {
+              "id": "A05",
+              "text": "1–5 kg SS/m²·d"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O bulking de lodo (SVI > 150–200 mL/g) é causado por bactérias filamentosas (Sphaerotilus, Thiothrix, tipo 021N). Causas comuns:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Baixa DBO/N/P, baixo O₂, baixo pH, deficiência de nutrientes."
+            },
+            {
+              "id": "A02",
+              "text": "Excesso de O₂ e nutrientes."
+            },
+            {
+              "id": "A03",
+              "text": "Temperatura muito alta apenas."
+            },
+            {
+              "id": "A04",
+              "text": "pH muito alto apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Excesso de recirculação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O reator UASB (Upflow Anaerobic Sludge Blanket) trata esgoto anaerobicamente. O manto de lodo granular retém biomassa. A reação global: matéria orgânica → CH₄ + CO₂ + biomassa. Vantagem principal vs aeróbio:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Produz energia (biogás) em vez de consumir; menor produção de lodo; menor área."
+            },
+            {
+              "id": "A02",
+              "text": "Remove mais nitrogênio e fósforo."
+            },
+            {
+              "id": "A03",
+              "text": "Não requer controle de pH."
+            },
+            {
+              "id": "A04",
+              "text": "Funciona bem com esgoto muito diluído."
+            },
+            {
+              "id": "A05",
+              "text": "Não produz odores."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A digestão anaeróbia de lodo (estabilização) ocorre em reatores de digestão (mesofílico 35–38 °C, 15–20 dias SRT). Etapas: hidrólise → acidogênese → acetogênese → metanogênese. O grupo mais sensível (limitante) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Metanogênicos (Arqueas, estritos anaeróbios, crescem lento, sensíveis a pH/temperatura/tóxicos)."
+            },
+            {
+              "id": "A02",
+              "text": "Hidrolíticos."
+            },
+            {
+              "id": "A03",
+              "text": "Acidogênicos."
+            },
+            {
+              "id": "A04",
+              "text": "Acetogênicos."
+            },
+            {
+              "id": "A05",
+              "text": "Todos iguais."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O biogás da digestão anaeróbia tem tipicamente 60–70% CH₄, 30–40% CO₂, traços de H₂S. O poder calorífico inferior (PCI) do biogás (65% CH₄) é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "22–24 MJ/m³ (vs 35 MJ/m³ gás natural)"
+            },
+            {
+              "id": "A02",
+              "text": "5–10 MJ/m³"
+            },
+            {
+              "id": "A03",
+              "text": "50–60 MJ/m³"
+            },
+            {
+              "id": "A04",
+              "text": "100 MJ/m³"
+            },
+            {
+              "id": "A05",
+              "text": "1–2 MJ/m³"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A desidratação de lodo (centrífuga, prensa de parafuso, filtro prensa, leitos de secagem) visa reduzir volume para destinação final. O teor de sólidos do lodo desidratado por centrífuga típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "18–25% ST"
+            },
+            {
+              "id": "A02",
+              "text": "1–3% ST"
+            },
+            {
+              "id": "A03",
+              "text": "5–8% ST"
+            },
+            {
+              "id": "A04",
+              "text": "30–40% ST"
+            },
+            {
+              "id": "A05",
+              "text": "50–60% ST"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "O lodo de ETE (biossólidos) pode ser destinado a: uso agrícola (fertilizante/condicionador), incineração, aterro, compostagem. Critério limitante para uso agrícola (CONAMA 375/2006) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Concentração de metais pesados (Hg, Cd, Pb, Cr, Ni, Cu, Zn, As) e patógenos (helmintos, Salmonella)."
+            },
+            {
+              "id": "A02",
+              "text": "Cor do lodo."
+            },
+            {
+              "id": "A03",
+              "text": "Cheiro apenas."
+            },
+            {
+              "id": "A04",
+              "text": "Teor de umidade apenas."
+            },
+            {
+              "id": "A05",
+              "text": "pH apenas."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "O reator MBR (Membrane Bioreactor) combina lodo ativado com micro/ultrafiltração (membranas imersas ou externas). Substitui decantador secundário. Vantagens:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Efluente de alta qualidade (SDT < 1 mg/L, DBO < 5 mg/L, livre de patógenos); SRT alta (15–30 d) sem bulking; footprint reduzido."
+            },
+            {
+              "id": "A02",
+              "text": "Menor custo de capital (CAPEX)."
+            },
+            {
+              "id": "A03",
+              "text": "Não requer aeração."
+            },
+            {
+              "id": "A04",
+              "text": "Não produz lodo."
+            },
+            {
+              "id": "A05",
+              "text": "Opera sem energia."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "O processo Anammox (AMmonium ANox) oxida amônio com nitrito anaerobicamente: NH₄⁺ + NO₂⁻ → N₂ + 2H₂O (bactérias Planctomycetes). Economia vs nitrificação/desnitrificação convencional:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~60% menos O₂; ~100% menos carbono externo; ~90% menos lodo."
+            },
+            {
+              "id": "A02",
+              "text": "Mesmo consumo de O₂ e carbono."
+            },
+            {
+              "id": "A03",
+              "text": "Mais O₂, menos carbono."
+            },
+            {
+              "id": "A04",
+              "text": "Mais carbono, menos O₂."
+            },
+            {
+              "id": "A05",
+              "text": "Não há economia."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "O tratamento terciário (polimento) para reuso pode incluir: filtração (areia, disco, membrana), adsorção (carvão ativado), desinfecção (UV, ozônio, cloro), AOP. Para remoção de fármacos/hormônios (ng/L–µg/L), a barreira mais eficaz é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Osmose reversa + UV/AOP (barreira múltipla)."
+            },
+            {
+              "id": "A02",
+              "text": "Apenas filtração em areia."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas cloração."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas aeração."
+            },
+            {
+              "id": "A05",
+              "text": "Apenas coagulação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A modelagem de processos de lodo ativado (ASM1, ASM2d, ASM3) usa matrizes estequiométricas e cinéticas. O parâmetro cinético Y_H (rendimento heterotrófico, g DBO celular/g DBO consumida) típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,4–0,6 g VSS/g DBO"
+            },
+            {
+              "id": "A02",
+              "text": "1,0–1,5 g VSS/g DBO"
+            },
+            {
+              "id": "A03",
+              "text": "0,1–0,2 g VSS/g DBO"
+            },
+            {
+              "id": "A04",
+              "text": "2,0–3,0 g VSS/g DBO"
+            },
+            {
+              "id": "A05",
+              "text": "0,01–0,05 g VSS/g DBO"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "O controle de odor em ETE (H₂S, mercaptanos, amônia, VOCs) usa: lavadores químicos (NaOH + NaOCl/ H₂O₂), biofiltros, carvão ativado, oxidação térmica. Para H₂S em fase gasosa, a oxidação alcalina:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "H₂S + 4NaOCl → Na₂SO₄ + 4NaCl + H₂O (pH > 10)."
+            },
+            {
+              "id": "A02",
+              "text": "H₂S + 2NaOH → Na₂S + 2H₂O (forma sulfeto solúvel, não remove odor)."
+            },
+            {
+              "id": "A03",
+              "text": "H₂S + O₂ → SO₂ + H₂O (forma SO₂, tóxico)."
+            },
+            {
+              "id": "A04",
+              "text": "H₂S + Cl₂ → 2HCl + S (forma enxofre, mas consome cloro)."
+            },
+            {
+              "id": "A05",
+              "text": "H₂S + H₂O₂ → H₂SO₄ (ácido, corrosivo)."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "O dimensionamento de gradeamento fino (abertura 6 mm) para vazão de pico Q_pico = 2,5 m³/s. Velocidade de aproximação v < 0,6 m/s. Área líquida necessária A = Q/v. Assumindo 50% área livre nas barras, largura do canal para 2 grades paralelas:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~4,2 m total (2,1 m cada)"
+            },
+            {
+              "id": "A02",
+              "text": "~1,0 m total"
+            },
+            {
+              "id": "A03",
+              "text": "~10 m total"
+            },
+            {
+              "id": "A04",
+              "text": "~0,5 m total"
+            },
+            {
+              "id": "A05",
+              "text": "~20 m total"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A remoção de nitrogênio via nitrificação/desnitrificação em lodo ativado (processo Bardenpho, A2/O, etc.). A recirculação interna (aeróbio → anóxica) traz NO₃⁻ para desnitrificação. Taxa típica de recirculação interna (Q_r/Q) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "200–400%"
+            },
+            {
+              "id": "A02",
+              "text": "50–100%"
+            },
+            {
+              "id": "A03",
+              "text": "10–20%"
+            },
+            {
+              "id": "A04",
+              "text": "500–1000%"
+            },
+            {
+              "id": "A05",
+              "text": "0–10%"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O reator SBR (Sequencing Batch Reactor) opera em ciclos: enchimento → reação → sedimentação → decantação → repouso. Vantagem vs contínuo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Flexibilidade operacional (fácil mudar ciclos para N/P); não precisa decantador separado; boa para vazões variáveis."
+            },
+            {
+              "id": "A02",
+              "text": "Maior vazão tratada por volume."
+            },
+            {
+              "id": "A03",
+              "text": "Menor consumo de energia."
+            },
+            {
+              "id": "A04",
+              "text": "Não produz lodo."
+            },
+            {
+              "id": "A05",
+              "text": "Não requer instrumentação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "O wetlands construídos (sistemas de raiz, fluxo subsuperficial horizontal/vertical) tratam esgoto por processos físicos, químicos, biológicos. A remoção de DBO em wetland de fluxo subsuperficial horizontal (HSSF) é tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "70–90% (carga orgânica 10–50 g DBO/m²·d)."
+            },
+            {
+              "id": "A02",
+              "text": ">99%."
+            },
+            {
+              "id": "A03",
+              "text": "30–50%."
+            },
+            {
+              "id": "A04",
+              "text": "10–20%."
+            },
+            {
+              "id": "A05",
+              "text": "Variável, sem padrão."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A lagoa de estabilização (facultativa, anaeróbia, aerada, de maturação) é alternativa de baixo custo. A lagoa facultativa tem zona aeróbia (superfície, algas produzem O₂) e anaeróbia (fundo, sedimentação, digestão). A profundidade típica é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,0–2,0 m"
+            },
+            {
+              "id": "A02",
+              "text": "0,2–0,5 m"
+            },
+            {
+              "id": "A03",
+              "text": "5–10 m"
+            },
+            {
+              "id": "A04",
+              "text": "10–20 m"
+            },
+            {
+              "id": "A05",
+              "text": "0,1 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A remoção de patógenos em lagoas de maturação (última etapa) ocorre por: tempo de detenção (T90 para bactérias, vírus, helmintos), radiação UV solar, pH alto (algas), predação, sedimentação. Para helmintos (ovos), o mecanismo dominante é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Sedimentação (ovos densos) + tempo de detenção longo (> 10–20 dias)."
+            },
+            {
+              "id": "A02",
+              "text": "Radiação UV apenas."
+            },
+            {
+              "id": "A03",
+              "text": "pH alto apenas."
+            },
+            {
+              "id": "A04",
+              "text": "Predação apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Digestão anaeróbia."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O dimensionamento de sopradores para tanque de aeração: demanda de O₂ (kg O₂/d) = DBO_removida + 4,57·N_nitrificado – 2,86·N_desnitrificado. Para esgoto com DBO = 300 mg/L, N = 40 mg/L, vazão 10.000 m³/d, 80% remoção DBO, nitrificação completa, sem desnitrificação. Demanda O₂ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~4.600 kg O₂/d"
+            },
+            {
+              "id": "A02",
+              "text": "~2.400 kg O₂/d"
+            },
+            {
+              "id": "A03",
+              "text": "~6.800 kg O₂/d"
+            },
+            {
+              "id": "A04",
+              "text": "~1.200 kg O₂/d"
+            },
+            {
+              "id": "A05",
+              "text": "~9.200 kg O₂/d"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 5,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A eficiência de transferência de oxigênio (OTE, %) em difusores de bolhas finas (membrana) a 5–6 m submersão é tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20–30% (por metro de submersão ~2–4%/m; total 20–30% a 6 m)"
+            },
+            {
+              "id": "A02",
+              "text": "5–10%"
+            },
+            {
+              "id": "A03",
+              "text": "50–60%"
+            },
+            {
+              "id": "A04",
+              "text": "80–90%"
+            },
+            {
+              "id": "A05",
+              "text": "1–2%"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "O consumo de energia em ETE (kWh/m³ tratado) é dominado por aeração (50–60%), bombeamento, desidratação. Para lodo ativado convencional com nitrificação, valor típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,4–0,6 kWh/m³"
+            },
+            {
+              "id": "A02",
+              "text": "0,05–0,1 kWh/m³"
+            },
+            {
+              "id": "A03",
+              "text": "1,5–2,0 kWh/m³"
+            },
+            {
+              "id": "A04",
+              "text": "3–5 kWh/m³"
+            },
+            {
+              "id": "A05",
+              "text": "0,01 kWh/m³"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A avaliação de ciclo de vida (LCA) de ETE compara impactos (GWP, eutrofização, ecotoxicidade, uso de recursos). Para ETE convencional vs MBR vs UASB+polimento, o maior GWP (kg CO₂eq/m³) costuma ser:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "MBR (alto consumo energia para filtração/limpeza membranas + aeração)."
+            },
+            {
+              "id": "A02",
+              "text": "UASB+polimento (produz biogás, pode ser negativo)."
+            },
+            {
+              "id": "A03",
+              "text": "Convencional (intermediário)."
+            },
+            {
+              "id": "A04",
+              "text": "Todos iguais."
+            },
+            {
+              "id": "A05",
+              "text": "Lagoas (zero energia, mas emissão CH₄/N₂O difusa)."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Tratamento de Esgoto",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Tratamento de Esgoto"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

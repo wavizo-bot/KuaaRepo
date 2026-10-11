@@ -1,0 +1,1070 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "QUIMICA-ELETROQUIMICA-2026",
+      "title": "Química — Eletroquímica (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Eletroquímica",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Na pilha Daniell: Zn(s) | Zn²⁺(aq) || Cu²⁺(aq) | Cu(s). A semirreação de oxidação no ânodo é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Zn → Zn²⁺ + 2e⁻"
+            },
+            {
+              "id": "A02",
+              "text": "Zn²⁺ + 2e⁻ → Zn"
+            },
+            {
+              "id": "A03",
+              "text": "Cu → Cu²⁺ + 2e⁻"
+            },
+            {
+              "id": "A04",
+              "text": "Cu²⁺ + 2e⁻ → Cu"
+            },
+            {
+              "id": "A05",
+              "text": "Zn + Cu²⁺ → Zn²⁺ + Cu"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "O potencial padrão de redução do Cu²⁺/Cu é +0,34 V e do Zn²⁺/Zn é –0,76 V. A f.e.m. padrão da pilha Daniell é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "+1,10 V"
+            },
+            {
+              "id": "A02",
+              "text": "–1,10 V"
+            },
+            {
+              "id": "A03",
+              "text": "+0,42 V"
+            },
+            {
+              "id": "A04",
+              "text": "–0,42 V"
+            },
+            {
+              "id": "A05",
+              "text": "+0,76 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Na eletrolise da água acidificada, os gases formados no cátodo e ânodo são, respectivamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "H₂ e O₂"
+            },
+            {
+              "id": "A02",
+              "text": "O₂ e H₂"
+            },
+            {
+              "id": "A03",
+              "text": "H₂ e Cl₂"
+            },
+            {
+              "id": "A04",
+              "text": "O₂ e Cl₂"
+            },
+            {
+              "id": "A05",
+              "text": "H₂ e H₂"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A lei de Faraday: a massa de substância depositada (m) = (M · I · t) / (n · F). Se 2,0 A passam por 1 hora em solução de CuSO₄ com eletrodos inertes, qual a massa de Cu depositada no cátodo? (M(Cu) = 63,5 g/mol; n = 2; F = 96500 C/mol)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2,37 g"
+            },
+            {
+              "id": "A02",
+              "text": "4,74 g"
+            },
+            {
+              "id": "A03",
+              "text": "1,18 g"
+            },
+            {
+              "id": "A04",
+              "text": "0,59 g"
+            },
+            {
+              "id": "A05",
+              "text": "9,48 g"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "O ânodo em uma pilha galvânica (espontânea) é o polo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Negativo, onde ocorre oxidação."
+            },
+            {
+              "id": "A02",
+              "text": "Positivo, onde ocorre oxidação."
+            },
+            {
+              "id": "A03",
+              "text": "Negativo, onde ocorre redução."
+            },
+            {
+              "id": "A04",
+              "text": "Positivo, onde ocorre redução."
+            },
+            {
+              "id": "A05",
+              "text": "Neutro."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A equação de Nernst a 25 °C: E = E° – (0,0592/n) log Q. Para a pilha Zn|Zn²⁺(0,01 M)||Cu²⁺(1,0 M)|Cu, qual o potencial? (E° = 1,10 V)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,16 V"
+            },
+            {
+              "id": "A02",
+              "text": "1,04 V"
+            },
+            {
+              "id": "A03",
+              "text": "1,10 V"
+            },
+            {
+              "id": "A04",
+              "text": "1,22 V"
+            },
+            {
+              "id": "A05",
+              "text": "0,98 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A pilha de concentração: Ag|Ag⁺(c₁)||Ag⁺(c₂)|Ag. Se c₁ = 0,1 M e c₂ = 1,0 M, a f.e.m. a 25 °C é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,0592 V"
+            },
+            {
+              "id": "A02",
+              "text": "0,0296 V"
+            },
+            {
+              "id": "A03",
+              "text": "0,118 V"
+            },
+            {
+              "id": "A04",
+              "text": "0,0197 V"
+            },
+            {
+              "id": "A05",
+              "text": "0,0395 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Na eletrolise de NaCl fundido, os produtos no cátodo e ânodo são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Na(l) e Cl₂(g)"
+            },
+            {
+              "id": "A02",
+              "text": "H₂(g) e Cl₂(g)"
+            },
+            {
+              "id": "A03",
+              "text": "Na(l) e O₂(g)"
+            },
+            {
+              "id": "A04",
+              "text": "H₂(g) e O₂(g)"
+            },
+            {
+              "id": "A05",
+              "text": "Na(l) e NaCl"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A bateria de chumbo-ácido (descarga): Pb + PbO₂ + 2H₂SO₄ → 2PbSO₄ + 2H₂O. A semirreação no cátodo (PbO₂) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "PbO₂ + 4H⁺ + SO₄²⁻ + 2e⁻ → PbSO₄ + 2H₂O"
+            },
+            {
+              "id": "A02",
+              "text": "Pb + SO₄²⁻ → PbSO₄ + 2e⁻"
+            },
+            {
+              "id": "A03",
+              "text": "PbSO₄ + 2e⁻ → Pb + SO₄²⁻"
+            },
+            {
+              "id": "A04",
+              "text": "PbSO₄ + 2H₂O → PbO₂ + 4H⁺ + SO₄²⁻ + 2e⁻"
+            },
+            {
+              "id": "A05",
+              "text": "Pb²⁺ + 2e⁻ → Pb"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A reação global na pilha de combustível H₂/O₂ (PEM) é: H₂ + ½O₂ → H₂O. Se a f.e.m. padrão é 1,23 V, qual a variação de energia livre padrão (ΔG°) para a reação com 1 mol de H₂? (F = 96500 C/mol)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–237 kJ/mol"
+            },
+            {
+              "id": "A02",
+              "text": "–118 kJ/mol"
+            },
+            {
+              "id": "A03",
+              "text": "–474 kJ/mol"
+            },
+            {
+              "id": "A04",
+              "text": "+237 kJ/mol"
+            },
+            {
+              "id": "A05",
+              "text": "–59 kJ/mol"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A constante de equilíbrio K para a reação Zn + Cu²⁺ ⇌ Zn²⁺ + Cu está relacionada a E° por: ln K = nFE°/RT. Para a pilha Daniell (E° = 1,10 V, n = 2, T = 298 K), a ordem de grandeza de K é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10³⁷"
+            },
+            {
+              "id": "A02",
+              "text": "10¹⁸"
+            },
+            {
+              "id": "A03",
+              "text": "10⁵"
+            },
+            {
+              "id": "A04",
+              "text": "10²⁵"
+            },
+            {
+              "id": "A05",
+              "text": "10¹⁰"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A proteção catódica de um gasoduto de ferro usa um ânodo de sacrifício de magnésio. A reação de oxidação do Mg é: Mg → Mg²⁺ + 2e⁻ (E° = +2,37 V para Mg²⁺/Mg). O Fe é protegido porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O Mg oxida-se preferencialmente (E° mais negativo), poupando o Fe."
+            },
+            {
+              "id": "A02",
+              "text": "O Mg reduz-se, protegendo o Fe."
+            },
+            {
+              "id": "A03",
+              "text": "O Mg forma uma barreira física."
+            },
+            {
+              "id": "A04",
+              "text": "O Mg aumenta o pH do solo."
+            },
+            {
+              "id": "A05",
+              "text": "O Mg catalisa a redução do O₂."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A pilha de íon-lítio (LiCoO₂|C) na descarga: LiCoO₂ + C₆ ⇌ Li₁₋ₓCoO₂ + LiₓC₆. No cátodo, o Co³⁺ oxida-se a Co⁴⁺. A semirreação no cátodo (descarga) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Li₁₋ₓCoO₂ + xLi⁺ + xe⁻ → LiCoO₂"
+            },
+            {
+              "id": "A02",
+              "text": "LiCoO₂ → Li₁₋ₓCoO₂ + xLi⁺ + xe⁻"
+            },
+            {
+              "id": "A03",
+              "text": "Co³⁺ + e⁻ → Co²⁺"
+            },
+            {
+              "id": "A04",
+              "text": "Co⁴⁺ + e⁻ → Co³⁺"
+            },
+            {
+              "id": "A05",
+              "text": "Li⁺ + e⁻ → Li"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "A sobretensão (overpotential) para evolução de H₂ no mercúrio é alta (~0,6 V), enquanto no Pt é baixa (~0,01 V). Na eletrolise de NaCl aquoso com cátodo de Hg, a reação no cátodo é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Na⁺ + e⁻ → Na(Hg) (formação de amálgama)"
+            },
+            {
+              "id": "A02",
+              "text": "2H₂O + 2e⁻ → H₂ + 2OH⁻"
+            },
+            {
+              "id": "A03",
+              "text": "Na⁺ + e⁻ → Na(s)"
+            },
+            {
+              "id": "A04",
+              "text": "Cl₂ + 2e⁻ → 2Cl⁻"
+            },
+            {
+              "id": "A05",
+              "text": "2H⁺ + 2e⁻ → H₂"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "A corrosão do ferro em água aerada: Fe → Fe²⁺ + 2e⁻ (ânodo); O₂ + 2H₂O + 4e⁻ → 4OH⁻ (cátodo). A reação global é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2Fe + O₂ + 2H₂O → 2Fe(OH)₂"
+            },
+            {
+              "id": "A02",
+              "text": "Fe + O₂ → FeO₂"
+            },
+            {
+              "id": "A03",
+              "text": "2Fe + O₂ + 2H₂O → 2Fe(OH)₃"
+            },
+            {
+              "id": "A04",
+              "text": "Fe + ½O₂ + H₂O → Fe(OH)₂"
+            },
+            {
+              "id": "A05",
+              "text": "4Fe + 3O₂ + 6H₂O → 4Fe(OH)₃"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "A eletrolise de CuSO₄ aquoso com eletrodos de Cu (ativos). No ânodo: Cu → Cu²⁺ + 2e⁻. No cátodo: Cu²⁺ + 2e⁻ → Cu. O resultado líquido é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Transferência de Cu do ânodo para o cátodo; [Cu²⁺] constante."
+            },
+            {
+              "id": "A02",
+              "text": "Diminuição de [Cu²⁺] na solução."
+            },
+            {
+              "id": "A03",
+              "text": "Aumento de [Cu²⁺] na solução."
+            },
+            {
+              "id": "A04",
+              "text": "Formação de O₂ no ânodo."
+            },
+            {
+              "id": "A05",
+              "text": "Formação de H₂ no cátodo."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A pilha: Pt|H₂(1 atm)|H⁺(1 M)||Cu²⁺(1 M)|Cu. E°(Cu²⁺/Cu) = +0,34 V. E°(H⁺/H₂) = 0,00 V (por definição). A f.e.m. da pilha é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "+0,34 V"
+            },
+            {
+              "id": "A02",
+              "text": "–0,34 V"
+            },
+            {
+              "id": "A03",
+              "text": "+0,68 V"
+            },
+            {
+              "id": "A04",
+              "text": "0,00 V"
+            },
+            {
+              "id": "A05",
+              "text": "+0,17 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A condutividade molar de um eletrólito forte (ex: KCl) em diluição infinita (Λ°) é a soma das condutividades iônicas limitadas: Λ° = λ°₊ + λ°₋. Para KCl, λ°(K⁺) = 73,5 S·cm²/mol; λ°(Cl⁻) = 76,3 S·cm²/mol. Λ°(KCl) =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "149,8 S·cm²/mol"
+            },
+            {
+              "id": "A02",
+              "text": "2,8 S·cm²/mol"
+            },
+            {
+              "id": "A03",
+              "text": "74,9 S·cm²/mol"
+            },
+            {
+              "id": "A04",
+              "text": "1498 S·cm²/mol"
+            },
+            {
+              "id": "A05",
+              "text": "73,5 S·cm²/mol"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A reação: 2MnO₄⁻ + 5H₂C₂O₄ + 6H⁺ → 2Mn²⁺ + 10CO₂ + 8H₂O. Em uma pilha galvânica baseada nessa reação, quantos elétrons são transferidos por mol de MnO₄⁻ reduzido?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "5"
+            },
+            {
+              "id": "A02",
+              "text": "2"
+            },
+            {
+              "id": "A03",
+              "text": "10"
+            },
+            {
+              "id": "A04",
+              "text": "3"
+            },
+            {
+              "id": "A05",
+              "text": "7"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A bateria Ni-Cd (descarregando): Cd + 2NiO(OH) + 2H₂O → Cd(OH)₂ + 2Ni(OH)₂. A semirreação no ânodo (Cd) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Cd + 2OH⁻ → Cd(OH)₂ + 2e⁻"
+            },
+            {
+              "id": "A02",
+              "text": "Cd(OH)₂ + 2e⁻ → Cd + 2OH⁻"
+            },
+            {
+              "id": "A03",
+              "text": "NiO(OH) + H₂O + e⁻ → Ni(OH)₂ + OH⁻"
+            },
+            {
+              "id": "A04",
+              "text": "Ni(OH)₂ + OH⁻ → NiO(OH) + H₂O + e⁻"
+            },
+            {
+              "id": "A05",
+              "text": "Cd → Cd²⁺ + 2e⁻"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A equação de Nernst para a semirreação: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O (E° = +1,51 V). A 25 °C, pH = 2, [MnO₄⁻] = [Mn²⁺] = 1 M. Qual E?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,51 V"
+            },
+            {
+              "id": "A02",
+              "text": "1,41 V"
+            },
+            {
+              "id": "A03",
+              "text": "1,61 V"
+            },
+            {
+              "id": "A04",
+              "text": "1,31 V"
+            },
+            {
+              "id": "A05",
+              "text": "1,21 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A pilha: Fe|Fe²⁺(0,1 M)||Ag⁺(0,01 M)|Ag. E°(Fe²⁺/Fe) = –0,44 V; E°(Ag⁺/Ag) = +0,80 V. Calcule E a 25 °C.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,21 V"
+            },
+            {
+              "id": "A02",
+              "text": "1,24 V"
+            },
+            {
+              "id": "A03",
+              "text": "1,18 V"
+            },
+            {
+              "id": "A04",
+              "text": "1,31 V"
+            },
+            {
+              "id": "A05",
+              "text": "1,15 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "A eletrolise de água com 10 A por 1 hora produz H₂ e O₂. Qual o volume total de gases (CNTP)? (F = 96500 C/mol; Vm = 22,4 L/mol)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4,19 L"
+            },
+            {
+              "id": "A02",
+              "text": "8,38 L"
+            },
+            {
+              "id": "A03",
+              "text": "2,09 L"
+            },
+            {
+              "id": "A04",
+              "text": "1,05 L"
+            },
+            {
+              "id": "A05",
+              "text": "16,8 L"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A reação: Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O (E° = +1,33 V). A semirreação: I₂ + 2e⁻ → 2I⁻ (E° = +0,54 V). A reação espontânea entre dicromato e iodeto em meio ácido tem E°pilha =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "+0,79 V"
+            },
+            {
+              "id": "A02",
+              "text": "+1,87 V"
+            },
+            {
+              "id": "A03",
+              "text": "–0,79 V"
+            },
+            {
+              "id": "A04",
+              "text": "+0,25 V"
+            },
+            {
+              "id": "A05",
+              "text": "+1,33 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A pilha de concentração de oxigênio (sonda lambda): Pt|O₂(p₁)|eletrólito|O₂(p₂)|Pt. A f.e.m. é E = (RT/4F) ln(p₁/p₂). Se p₁ = 0,21 atm (ar) e p₂ = 0,001 atm (gases de escape), E a 800 °C (1073 K) é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,15 V"
+            },
+            {
+              "id": "A02",
+              "text": "0,05 V"
+            },
+            {
+              "id": "A03",
+              "text": "0,30 V"
+            },
+            {
+              "id": "A04",
+              "text": "0,60 V"
+            },
+            {
+              "id": "A05",
+              "text": "0,01 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A constante de equilíbrio para AgCl(s) + e⁻ ⇌ Ag(s) + Cl⁻(aq) é Ksp. E°(AgCl/Ag,Cl⁻) = +0,222 V. Calcule Ksp a 25 °C. (ln K = nFE°/RT)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,8 × 10⁻¹⁰"
+            },
+            {
+              "id": "A02",
+              "text": "1,0 × 10⁻⁵"
+            },
+            {
+              "id": "A03",
+              "text": "1,8 × 10⁻⁵"
+            },
+            {
+              "id": "A04",
+              "text": "1,0 × 10⁻¹⁰"
+            },
+            {
+              "id": "A05",
+              "text": "1,8 × 10⁻¹⁵"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A reação: 2H⁺ + 2e⁻ → H₂ (E° = 0,00 V). A reação: ½O₂ + 2H⁺ + 2e⁻ → H₂O (E° = +1,23 V). A reação global H₂ + ½O₂ → H₂O tem ΔG° = –nFE°. Qual ΔG° em kJ/mol?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "–237"
+            },
+            {
+              "id": "A02",
+              "text": "–118"
+            },
+            {
+              "id": "A03",
+              "text": "–474"
+            },
+            {
+              "id": "A04",
+              "text": "+237"
+            },
+            {
+              "id": "A05",
+              "text": "–59"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A bateria de lítio-ar (teórica): 2Li + ½O₂ → Li₂O. E° ≈ 3,0 V. A capacidade teórica gravimétrica do Li (M = 6,94 g/mol, n = 1) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3860 mAh/g"
+            },
+            {
+              "id": "A02",
+              "text": "1930 mAh/g"
+            },
+            {
+              "id": "A03",
+              "text": "965 mAh/g"
+            },
+            {
+              "id": "A04",
+              "text": "7720 mAh/g"
+            },
+            {
+              "id": "A05",
+              "text": "482 mAh/g"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A reação: Cu²⁺ + 2e⁻ → Cu (E° = +0,34 V). A reação: Ag⁺ + e⁻ → Ag (E° = +0,80 V). Se um fio de Cu é mergulhado em solução de AgNO₃, ocorre reação espontânea? Qual E°pilha?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Sim, E° = +0,46 V"
+            },
+            {
+              "id": "A02",
+              "text": "Não, E° = –0,46 V"
+            },
+            {
+              "id": "A03",
+              "text": "Sim, E° = +1,14 V"
+            },
+            {
+              "id": "A04",
+              "text": "Não, E° = –1,14 V"
+            },
+            {
+              "id": "A05",
+              "text": "Sim, E° = +0,34 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A pilha: Zn|Zn²⁺(0,1 M)||Ag⁺(0,01 M)|Ag. E°(Zn²⁺/Zn) = –0,76 V; E°(Ag⁺/Ag) = +0,80 V. Calcule E a 25 °C usando Nernst completa.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,51 V"
+            },
+            {
+              "id": "A02",
+              "text": "1,56 V"
+            },
+            {
+              "id": "A03",
+              "text": "1,46 V"
+            },
+            {
+              "id": "A04",
+              "text": "1,61 V"
+            },
+            {
+              "id": "A05",
+              "text": "1,41 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Eletroquímica",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Eletroquímica"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

@@ -1,0 +1,1066 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "QUIMICA-RADIOATIVIDADE-2026",
+      "title": "Química — Radioatividade (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Radioatividade",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A partícula alfa (α) é um núcleo de hélio: ²⁴He. Sua carga elétrica e número de massa são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Carga +2, massa 4"
+            },
+            {
+              "id": "A02",
+              "text": "Carga +1, massa 1"
+            },
+            {
+              "id": "A03",
+              "text": "Carga 0, massa 0"
+            },
+            {
+              "id": "A04",
+              "text": "Carga –1, massa 0"
+            },
+            {
+              "id": "A05",
+              "text": "Carga +2, massa 2"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A partícula beta (β⁻) é um elétron de alta energia. Sua carga e número de massa são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Carga –1, massa 0"
+            },
+            {
+              "id": "A02",
+              "text": "Carga +1, massa 1"
+            },
+            {
+              "id": "A03",
+              "text": "Carga 0, massa 0"
+            },
+            {
+              "id": "A04",
+              "text": "Carga –1, massa 1"
+            },
+            {
+              "id": "A05",
+              "text": "Carga +2, massa 4"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A radiação gama (γ) é uma onda eletromagnética de alta energia. Não altera número atômico (Z) nem número de massa (A). Qual das seguintes afirmações sobre radiação gama é INCORRETA?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Não tem carga elétrica."
+            },
+            {
+              "id": "A02",
+              "text": "Não tem massa de repouso."
+            },
+            {
+              "id": "A03",
+              "text": "Altera o número atômico do núcleo emissor."
+            },
+            {
+              "id": "A04",
+              "text": "É emitida quando o núcleo está em estado excitado."
+            },
+            {
+              "id": "A05",
+              "text": "Tem grande poder de penetração."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "O urânio-238 decai por emissão alfa: ²³⁸₉₂U → ²³⁴₉₀Th + ⁴₂He. O elemento filho é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tório-234 (Th-234)"
+            },
+            {
+              "id": "A02",
+              "text": "Rádio-226 (Ra-226)"
+            },
+            {
+              "id": "A03",
+              "text": "Radônio-222 (Rn-222)"
+            },
+            {
+              "id": "A04",
+              "text": "Polônio-210 (Po-210)"
+            },
+            {
+              "id": "A05",
+              "text": "Urânio-235 (U-235)"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "O carbono-14 decai por emissão beta: ¹⁴₆C → ¹⁴₇N + ⁰₋₁e. O elemento filho é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Nitrogênio-14 (N-14)"
+            },
+            {
+              "id": "A02",
+              "text": "Oxigênio-14 (O-14)"
+            },
+            {
+              "id": "A03",
+              "text": "Boro-14 (B-14)"
+            },
+            {
+              "id": "A04",
+              "text": "Carbono-13 (C-13)"
+            },
+            {
+              "id": "A05",
+              "text": "Carbono-15 (C-15)"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A meia-vida (t½) de um radioisótopo é 10 dias. Após 30 dias, qual fração da amostra original permanece?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1/8"
+            },
+            {
+              "id": "A02",
+              "text": "1/4"
+            },
+            {
+              "id": "A03",
+              "text": "1/2"
+            },
+            {
+              "id": "A04",
+              "text": "1/16"
+            },
+            {
+              "id": "A05",
+              "text": "1/3"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A atividade de uma amostra radioativa cai de 800 Bq para 100 Bq em 12 horas. Qual a meia-vida?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4 horas"
+            },
+            {
+              "id": "A02",
+              "text": "3 horas"
+            },
+            {
+              "id": "A03",
+              "text": "6 horas"
+            },
+            {
+              "id": "A04",
+              "text": "2 horas"
+            },
+            {
+              "id": "A05",
+              "text": "8 horas"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "O iodo-131 (t½ = 8 dias) é usado no tratamento de hipertireoidismo. Um paciente recebe 10 MBq. Qual a atividade restante após 24 dias?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,25 MBq"
+            },
+            {
+              "id": "A02",
+              "text": "2,5 MBq"
+            },
+            {
+              "id": "A03",
+              "text": "5,0 MBq"
+            },
+            {
+              "id": "A04",
+              "text": "0,625 MBq"
+            },
+            {
+              "id": "A05",
+              "text": "10 MBq"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A datação por carbono-14 baseia-se na razão ¹⁴C/¹²C em organismos vivos (equilíbrio com atmosfera). Após a morte, o ¹⁴C decai (t½ = 5730 anos). Se um fóssil tem 25% da atividade original, sua idade aproximada é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "11.460 anos"
+            },
+            {
+              "id": "A02",
+              "text": "5.730 anos"
+            },
+            {
+              "id": "A03",
+              "text": "17.190 anos"
+            },
+            {
+              "id": "A04",
+              "text": "2.865 anos"
+            },
+            {
+              "id": "A05",
+              "text": "22.920 anos"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A constante de decaimento λ está relacionada à meia-vida por λ = ln 2 / t½. Para o ¹⁴C (t½ = 5730 anos), λ em ano⁻¹ é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,21 × 10⁻⁴"
+            },
+            {
+              "id": "A02",
+              "text": "1,21 × 10⁻³"
+            },
+            {
+              "id": "A03",
+              "text": "1,21 × 10⁻²"
+            },
+            {
+              "id": "A04",
+              "text": "1,21 × 10⁻⁵"
+            },
+            {
+              "id": "A05",
+              "text": "5,73 × 10⁻⁴"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A série do urânio-238 termina no chumbo-206 estável. Quantas partículas alfa e beta são emitidas no total? (²³⁸₉₂U → ²⁰⁶₈₂Pb)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "8 α, 6 β"
+            },
+            {
+              "id": "A02",
+              "text": "6 α, 8 β"
+            },
+            {
+              "id": "A03",
+              "text": "7 α, 4 β"
+            },
+            {
+              "id": "A04",
+              "text": "4 α, 7 β"
+            },
+            {
+              "id": "A05",
+              "text": "8 α, 8 β"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A fissão nuclear do U-235 por nêutron térmico: ²³⁵₉₂U + ¹₀n → ⁹⁴₃₈Sr + ¹⁴⁰₅₄Xe + 2¹₀n + energia. Os nêutrons liberados podem sustentar reação em cadeia se:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Pelo menos um nêutron por fissão causar outra fissão (k ≥ 1)."
+            },
+            {
+              "id": "A03",
+              "text": "A massa do U-235 for menor que a massa crítica."
+            },
+            {
+              "id": "A04",
+              "text": "Não houver moderador."
+            },
+            {
+              "id": "A05",
+              "text": "A temperatura for muito baixa."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A fusão nuclear no Sol: 4 ¹₁H → ⁴₂He + 2 ⁰₁e + 2 νₑ + energia. A massa de 4 prótons é 4,0313 u; a massa do ⁴He é 4,0026 u. A massa convertida em energia por reação é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,0287 u"
+            },
+            {
+              "id": "A02",
+              "text": "0,0313 u"
+            },
+            {
+              "id": "A03",
+              "text": "0,0026 u"
+            },
+            {
+              "id": "A04",
+              "text": "0,0261 u"
+            },
+            {
+              "id": "A05",
+              "text": "0,0013 u"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Usando E = mc², a energia liberada na fusão de 4 prótons para ¹ He (Δm = 0,0287 u; 1 u = 931,5 MeV) é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "26,7 MeV"
+            },
+            {
+              "id": "A02",
+              "text": "13,3 MeV"
+            },
+            {
+              "id": "A03",
+              "text": "53,4 MeV"
+            },
+            {
+              "id": "A04",
+              "text": "6,7 MeV"
+            },
+            {
+              "id": "A05",
+              "text": "100 MeV"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "O radônio-222 (t½ = 3,8 dias) é um gás nobre radioativo, produto do decaimento do rádio-226. É perigoso porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É inalado e emite partículas alfa nos pulmões."
+            },
+            {
+              "id": "A02",
+              "text": "É um gás tóxico quimicamente."
+            },
+            {
+              "id": "A03",
+              "text": "Emite radiação gama de alta energia."
+            },
+            {
+              "id": "A04",
+              "text": "Reage violentamente com oxigênio."
+            },
+            {
+              "id": "A05",
+              "text": "É corrosivo para metais."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "A captura eletrônica (CE) é um processo onde o núcleo captura um elétron da camada K: p + e⁻ → n + νₑ. O número atômico Z:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Diminui 1; A inalterado."
+            },
+            {
+              "id": "A02",
+              "text": "Aumenta 1; A inalterado."
+            },
+            {
+              "id": "A03",
+              "text": "Diminui 2; A diminui 4."
+            },
+            {
+              "id": "A04",
+              "text": "Inalterado; A inalterado."
+            },
+            {
+              "id": "A05",
+              "text": "Aumenta 1; A aumenta 1."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "O potássio-40 (t½ = 1,25 × 10⁹ anos) decai por β⁻ (89%) para ⁴⁰Ca e por CE (11%) para ⁴⁰Ar. A datação K-Ar usa o acúmulo de ⁴⁰Ar. Se uma rocha tem razão ⁴⁰Ar/⁴⁰K = 1, qual a idade? (λtotal = λβ + λCE)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,25 × 10⁹ anos"
+            },
+            {
+              "id": "A02",
+              "text": "2,50 × 10⁹ anos"
+            },
+            {
+              "id": "A03",
+              "text": "0,625 × 10⁹ anos"
+            },
+            {
+              "id": "A04",
+              "text": "1,87 × 10⁹ anos"
+            },
+            {
+              "id": "A05",
+              "text": "5,73 × 10³ anos"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A atividade específica (Bq/g) do rádio-226 (t½ = 1600 anos, M = 226 g/mol) é aproximadamente: (1 Ci = 3,7 × 10¹⁰ Bq; NA = 6,02 × 10²³)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3,7 × 10¹⁰ Bq/g (1 Ci/g)"
+            },
+            {
+              "id": "A02",
+              "text": "3,7 × 10⁷ Bq/g"
+            },
+            {
+              "id": "A03",
+              "text": "3,7 × 10¹³ Bq/g"
+            },
+            {
+              "id": "A04",
+              "text": "1,0 × 10¹⁰ Bq/g"
+            },
+            {
+              "id": "A05",
+              "text": "1,0 × 10⁷ Bq/g"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A dose absorvida (Gy = J/kg) de radiação alfa é 20 vezes mais efetiva biologicamente que radiação gama. O fator de ponderação de radiação (wR) para partículas alfa é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20"
+            },
+            {
+              "id": "A02",
+              "text": "1"
+            },
+            {
+              "id": "A03",
+              "text": "5"
+            },
+            {
+              "id": "A04",
+              "text": "10"
+            },
+            {
+              "id": "A05",
+              "text": "2"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "O tecnécio-99m (t½ = 6 horas) é amplamente usado em medicina nuclear. É produzido no hospital a partir de um gerador de molibdênio-99 (t½ = 66 horas). O ⁹⁹Mo decai para ⁹⁹mTc por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Emissão beta"
+            },
+            {
+              "id": "A02",
+              "text": "Emissão alfa"
+            },
+            {
+              "id": "A03",
+              "text": "Captura eletrônica"
+            },
+            {
+              "id": "A04",
+              "text": "Emissão de nêutron"
+            },
+            {
+              "id": "A05",
+              "text": "Fissão espontânea"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A equação de Bateman descreve a atividade do filho em uma série de decaimento pai → filho → neto. Se λpai << λfilho (equilíbrio secular), a atividade do filho iguala a do pai após tempo suficiente. Isso ocorre na série do:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Urânio-238 → Rádio-226 → Radônio-222"
+            },
+            {
+              "id": "A02",
+              "text": "Carbono-14 → Nitrogênio-14"
+            },
+            {
+              "id": "A03",
+              "text": "Iodo-131 → Xenônio-131"
+            },
+            {
+              "id": "A04",
+              "text": "Tecnécio-99m → Tecnecio-99"
+            },
+            {
+              "id": "A05",
+              "text": "Potássio-40 → Argônio-40"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A reação de fissão do U-235 libera ~200 MeV. Quantos joules por fissão? (1 eV = 1,602 × 10⁻¹⁹ J)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3,2 × 10⁻¹¹ J"
+            },
+            {
+              "id": "A02",
+              "text": "3,2 × 10⁻¹³ J"
+            },
+            {
+              "id": "A03",
+              "text": "3,2 × 10⁻⁹ J"
+            },
+            {
+              "id": "A04",
+              "text": "3,2 × 10⁻¹⁵ J"
+            },
+            {
+              "id": "A05",
+              "text": "3,2 × 10⁻¹⁷ J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Um reator nuclear de 1000 MW (elétrica, eficiência 33%) consome U-235. Quantos kg de U-235 por dia? (200 MeV/fissão; 1 MeV = 1,6 × 10⁻¹³ J)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~3 kg/dia"
+            },
+            {
+              "id": "A02",
+              "text": "~1 kg/dia"
+            },
+            {
+              "id": "A03",
+              "text": "~10 kg/dia"
+            },
+            {
+              "id": "A04",
+              "text": "~0,3 kg/dia"
+            },
+            {
+              "id": "A05",
+              "text": "~30 kg/dia"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 5,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "O deutério (²H) e trítio (³H) fundem-se: ²H + ³H → ⁴He + n + 17,6 MeV. A seção de choque máxima ocorre a ~64 keV (temperatura ~7,4 × 10⁸ K). Em reatores de fusão (tokamak), o confinamento magnético visa atingir:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Triple produto n·T·τ (densidade × temperatura × tempo de confinamento) acima do critério de Lawson."
+            },
+            {
+              "id": "A02",
+              "text": "Pressão atmosférica."
+            },
+            {
+              "id": "A03",
+              "text": "Temperatura ambiente."
+            },
+            {
+              "id": "A04",
+              "text": "Estado sólido do combustível."
+            },
+            {
+              "id": "A05",
+              "text": "Fissão do urânio simultânea."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A datação por urânio-chumbo (U-Pb) usa dois decaimentos simultâneos: ²³⁸U → ²⁰⁶Pb (t½ = 4,47 Ga) e ²³⁵U → ²⁰⁷Pb (t½ = 0,704 Ga). A concordância das duas idades valida o resultado. Se uma zircão tem razão ²⁰⁶Pb/²³⁸U = 1 e ²⁰⁷Pb/²³⁵U = 6,35, as idades são concordantes?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Sim, ambas indicam ~4,47 Ga."
+            },
+            {
+              "id": "A02",
+              "text": "Não, a primeira indica 4,47 Ga e a segunda 0,704 Ga."
+            },
+            {
+              "id": "A03",
+              "text": "Sim, ambas indicam ~0,704 Ga."
+            },
+            {
+              "id": "A04",
+              "text": "Não, a primeira indica 2,23 Ga e a segunda 4,47 Ga."
+            },
+            {
+              "id": "A05",
+              "text": "Não é possível determinar."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 5,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "O neptúnio-237 (t½ = 2,14 × 10⁶ anos) é produzido em reatores por captura de nêutrons no U-235 seguida de decaimentos. É um actinídeo de longa vida que contribui para o risco radiológico de longo prazo de rejeitos nucleares. Seu decaimento principal é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Emissão alfa para Pa-233"
+            },
+            {
+              "id": "A02",
+              "text": "Emissão beta para Pu-237"
+            },
+            {
+              "id": "A03",
+              "text": "Emissão alfa para U-233"
+            },
+            {
+              "id": "A04",
+              "text": "Fissão espontânea"
+            },
+            {
+              "id": "A05",
+              "text": "Captura eletrônica para U-237"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A equação de decaimento radioativo: N = N₀e^(-λt). A atividade A = λN. Se A₀ = 1000 Bq e λ = 0,01 min⁻¹, qual a atividade após 100 min?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "368 Bq"
+            },
+            {
+              "id": "A02",
+              "text": "135 Bq"
+            },
+            {
+              "id": "A03",
+              "text": "500 Bq"
+            },
+            {
+              "id": "A04",
+              "text": "100 Bq"
+            },
+            {
+              "id": "A05",
+              "text": "10 Bq"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A ativação por nêutrons: ⁵⁸Fe(n,γ)⁵⁹Fe. O ⁵⁹Fe (t½ = 44,5 dias) emite β⁻ e γ. É usado em estudos de metabolismo de ferro. Se 1 µg de ⁵⁸Fe é irradiado e satura (ativação máxima), qual a atividade máxima? (σ = 1,3 barn; fluxo φ = 10¹³ n/cm²·s; NA = 6,02 × 10²³)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1,3 × 10⁸ Bq"
+            },
+            {
+              "id": "A02",
+              "text": "~1,3 × 10⁶ Bq"
+            },
+            {
+              "id": "A03",
+              "text": "~1,3 × 10¹⁰ Bq"
+            },
+            {
+              "id": "A04",
+              "text": "~1,3 × 10⁴ Bq"
+            },
+            {
+              "id": "A05",
+              "text": "~1,3 × 10¹² Bq"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 5,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "O efeito Mössbauer (emissão/absorção recoil-free de raios γ em sólidos) permite medir deslocamentos de energia de ~10⁻⁸ eV. É usado para estudar interações hiperfinas. O isótopo clássico é ⁵⁷Fe (t½ do estado excitado = 98 ns). A largura natural da linha Γ = ℏ/τ é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4,7 neV"
+            },
+            {
+              "id": "A02",
+              "text": "4,7 meV"
+            },
+            {
+              "id": "A03",
+              "text": "4,7 µeV"
+            },
+            {
+              "id": "A04",
+              "text": "4,7 eV"
+            },
+            {
+              "id": "A05",
+              "text": "4,7 keV"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "O plutônio-239 (t½ = 24.100 anos) é produzido em reatores: ²³⁸U(n,γ)²³⁹U →(β⁻) ²³⁹Np →(β⁻) ²³⁹Pu. A massa crítica de Pu-239 metálico (esfera nua) é ~10 kg. Em uma arma de implosão, a compressão reduz a massa crítica porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumenta a densidade, diminuindo o livre caminho médio dos nêutrons."
+            },
+            {
+              "id": "A02",
+              "text": "Diminui a temperatura."
+            },
+            {
+              "id": "A03",
+              "text": "Aumenta a pureza isotópica."
+            },
+            {
+              "id": "A04",
+              "text": "Elimina a necessidade de moderador."
+            },
+            {
+              "id": "A05",
+              "text": "Transforma Pu-240 em Pu-239."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Radioatividade",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Radioatividade"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

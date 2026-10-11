@@ -1,0 +1,1299 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-09T03:59:19.609Z",
+  "exams": [
+    {
+      "id": "quiz-1788926352932",
+      "title": "Qual docinho de festa você é?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual docinho de festa você é?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Alguém te elogia. Sua reação imediata é:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ficar feliz e agradecer — não consigo esconder",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fazer uma piada para diminuir o elogio",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sorrir educadamente, mas por dentro achar que a pessoa está exagerando",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Dizer \"obrigado\" com a cara mais séria do mundo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Mudar de assunto na mesma hora",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Ficar genuinamente surpreso(a) — \"eu? Isso?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você lida com alguém que te decepciona?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico triste, mas logo aceito — afinal, sou compreensivo(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Finjo que não doeu, mas por dentro estou montando um quebra-cabeça para entender",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Engulo a mágoa e finjo que está tudo bem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico frio(a) — não vou demonstrar que isso me afetou",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Desvio o assunto — não quero falar sobre isso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico pensando no que eu poderia ter feito diferente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Alguém te pergunta \"quem é você de verdade?\" Sua resposta é:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Ah, sou uma pessoa simples\" (e não elabora)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Uma versão bonitinha da sua história",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "O que você acha que a pessoa quer ouvir",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Não sei\" — porque você realmente não sabe",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Uma piada — \"Nossa, que pergunta difícil!\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fica em silêncio porque a pergunta te pegou desprevenido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "O que você faz quando percebe que está com ciúmes?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Finjo que não é ciúmes, é só \"preocupação\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Idealizo uma versão de mim que não sente ciúmes",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sorrio e engulo — não quero parecer possessivo(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico frio(a) — não vou dar o braço a torcer",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Faço uma piada para disfarçar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico surpreso(a) — \"nossa, eu senti ciúmes? que estranho\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Quando alguém te conhece melhor, o que descobre sobre você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Que você é exatamente o que parece",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Que você é mais complicado(a) do que parece",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Que você guarda muita coisa para si",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que você é mais mole por dentro do que aparenta",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Que você nunca se entrega completamente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Que você é um mistério até para si mesmo(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Você está num relacionamento. O que mais te assusta?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ser abandonado(a) — porque você se dedica tanto que o fim te quebraria",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Descobrir que você idealizou tudo — que a pessoa não é quem você pensava",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Mostrar sua verdadeira face e a pessoa fugir",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que o outro descubra o quanto você é frágil por dentro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Que o outro veja que você não é tão interessante quanto parece",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Que o outro te veja por inteiro — e ainda assim fique",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Alguém te diz \"você é muito intenso(a)\" — sua reação:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"É, eu sei\" — e aceita",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fica pensando no que fazer com essa informação",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sorri e muda de assunto — não quer se expor",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"É, eu sou mesmo\" — com orgulho, mas por dentro tá tremendo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Intenso? Eu? Você tá confundindo as coisas\" — defensivo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fica calado(a) e processa a informação",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você age quando está com raiva?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico quieto(a) — vou digerindo por dentro",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tento manter a imagem de \"pessoa boa\" e não deixar transparecer",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Finjo que está tudo bem, mas por dentro estou fervendo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico frio(a) — não vou me rebaixar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Faço piadas ácidas para disfarçar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico confuso(a) — \"isso é raiva mesmo? ou outra coisa?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "O que você mais quer que as pessoas saibam sobre você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Que você é confiável e sempre está lá",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Que você não é tão superficial quanto parece",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Que você não é tão doce quanto aparenta",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que você é mais mole por dentro do que parece",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Que você não é fácil de entender",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Que você ainda está tentando se entender",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Você está numa festa. O que você faz?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Cumprimento todo mundo, mas fico mais nos bastidores",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tento ser o doce mais agradável da mesa",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sorrio, mas por dentro estou contando os minutos para ir embora",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico num canto, observando — com cara de quem não quer ser abordado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Faço piadas com todo mundo para não ter que me aprofundar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico genuinamente perdido(a) — não sei onde me encaixo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Quando alguém te pergunta o que você sente, você:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Diz uma resposta genérica — \"estou bem\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Conta uma versão filtrada — mais bonita do que a verdade",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Diz o que a pessoa quer ouvir",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Desvia — \"nada, tô suave\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Faz uma piada — \"sentimento? isso é coisa de gente normal\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fica em silêncio porque você não sabe colocar em palavras",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "O que te frustra mais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Não ser valorizado(a) pelo que você oferece",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Perceber que a pessoa que você idealizou não é real",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Não conseguir ser você mesmo(a) com medo de ser rejeitado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que as pessoas te vejam como forte, mas você está desmoronando",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Que ninguém te conheça de verdade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Que você mesmo(a) não saiba quem é",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Como você lida com a solidão?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Prefiro não pensar nela — fico rodeado(a) de pessoas",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Finjo que não existe — estou sempre bem",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Engulo e sigo — não quero incomodar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Fico duro(a) — solidão é para os fracos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Faço piada sobre estar sozinho(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Fico com ela — e dói, mas você está aprendendo a sentar com a dor",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O que você acha que os outros pensam de você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Que você é o doce favorito — a pessoa que todo mundo gosta",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Que você é a união perfeita — o doce que completa",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Que você é inocente — a pessoa de boa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Que você é forte — a pessoa que não se abala",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Que você é interessante — mas difícil de decifrar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Que você é um mistério — até para você mesmo(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse se descrever como doce, qual seria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "O que todo mundo quer — o mais pedido",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "O que parece lindo — mas tem camadas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "O que parece doce — mas enjoa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "O que parece duro — mas se desfaz",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "O que parece simples — mas é complexo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "O que não tem nome certo — porque ainda está sendo criado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-09T03:59:12.932Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🍫 BRIGADEIRO — Você achou que era o favorito? Achou errado!",
+          "texto": "Você é o Brigadeiro. E eu sei o que você está pensando: \"Ah, sou o queridinho, o que todo mundo ama, o clássico!\" Errado. Você é o Brigadeiro que todo mundo come com os olhos, mas ninguém lembra depois da festa. Você é agradável, fácil de engolir e está sempre disponível — mas falta profundidade. Você se molda para agradar, se derrete fácil, e no fim, você está sempre na mesa, esperando ser escolhido. E pior: você é tão comum que todo mundo acha que sabe exatamente como você é — e raramente se surpreende. Você é o doce que todo mundo come, mas que ninguém leva para casa. Não é sobre ser ruim — é sobre ser previsível. \"Você não é o favorito. Você é o que sobra no final da festa, quando todo mundo já está satisfeito.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🍩 BEM-CASADO — Você achou que era romântico? Achou errado!",
+          "texto": "Você é o Bem-Casado. E eu sei o que você pensou: \"Que lindo, sou a união perfeita, o amor eterno.\" Não. Você é o doce que tem duas camadas que não conversam entre si. Você tenta juntar o que não combina — e no fim, fica uma massa grudenta que ninguém sabe como comer. Você força conexões, tenta encaixar peças que não pertencem uma à outra. Você idealiza a \"união\" perfeita, mas esquece de perguntar se as duas partes querem estar juntas. Você é o doce da aparência — parece bonito por fora, mas por dentro é uma cola que não se desfaz. \"Você ama a ideia de amor. A realidade? Você ainda está tentando colar o que não combina.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🥥 COCADA BRANCA — Você achou que era pura? Achou errado!",
+          "texto": "Você é a Cocada Branca. Parece tão inocente, tão pura, tão delicada. Mas você é DOCE DEMAIS. Tão doce que enjoa. Você é aquela pessoa que sempre sorri, que nunca se irrita, que nunca diz o que realmente pensa. E por baixo dessa pureza toda, há um ressentimento que você nunca expressa, uma raiva que você engole, uma verdade que você esconde atrás de açúcar. Você não é pura — você é o doce que ninguém consegue comer inteiro porque é doce demais para ser verdade. \"Açúcar demais esconde o amargo. Você não está sendo doce. Você está se escondendo atrás do doce.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🍪 COOKIE — Você achou que era durão? Achou errado!",
+          "texto": "Você é o Cookie. Parece firme, crocante, com uma casca que não quebra fácil. Você se orgulha de ser \"duro(a)\" — até alguém te morder. Porque por dentro, você é mole. Você é a pessoa que fala que não se importa, que não sente falta, que não vai atrás. Mas quando a noite chega, você está lá, desmoronando em migalhas. Você é duro(a) por fora para proteger o centro mole que todo mundo vê — menos você. Você não é o durão que finge ser. Você é o doce que se desfaz no primeiro aperto. \"Sua casca não engana ninguém. Todo mundo já viu que você é mole por dentro.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🍬 BALA DE GOMA — Você achou que era flexível? Achou errado!",
+          "texto": "Você é a Bala de Goma. Você se acha adaptável, flexível, \"vou com a onda\". Mas sabe o que acontece com a bala de goma quando fica muito tempo no mesmo lugar? Ela endurece. E fica tão grudada que ninguém consegue tirar. Você se adapta tanto às situações que esquece quem você é. Você dobra para não quebrar, mas no fundo você está endurecido(a) por dentro, preso(a) em si mesmo(a), impossível de remover. Você não é flexível — você é teimoso(a) disfarçado(a) de maleável. \"Você se acha leve, mas você é um dos doces mais difíceis de engolir.\""
+        },
+        {
+          "id": "final6",
+          "titulo": "🍰 PEDAÇO DE BOLO — Você achou que era completo? Achou errado!",
+          "texto": "Você é o Pedaço de Bolo. Você se acha uma pessoa completa, pronta, total. Mas você é só uma fatia. Uma parte de algo maior que você insiste em chamar de \"inteiro\". Você mostra o melhor de si para os outros, mas esconde as migalhas, os cantos quebrados, a parte que não foi bonita de cortar. Você quer ser o bolo inteiro — mas você é só um pedaço. E isso não é uma vergonha. É só um convite para aceitar que você ainda está sendo montado. \"Você não é completo. Você está em construção. E está tudo bem — desde que você pare de fingir que já está pronto.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

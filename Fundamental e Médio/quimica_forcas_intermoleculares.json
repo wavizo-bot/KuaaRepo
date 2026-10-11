@@ -1,0 +1,1066 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "QUIMICA-FORCAS-INTERMOLECULARES-2026",
+      "title": "Química — Forças Intermoleculares (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Forças Intermoleculares",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "As forças de London (dispersão) existem em todas as moléculas, polares ou apolares. Sua origem é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Flutuações instantâneas da nuvem eletrônica criando dipolos temporários."
+            },
+            {
+              "id": "A02",
+              "text": "Atração entre dipolos permanentes."
+            },
+            {
+              "id": "A03",
+              "text": "Ligação de hidrogênio."
+            },
+            {
+              "id": "A04",
+              "text": "Interação íon-dipolo."
+            },
+            {
+              "id": "A05",
+              "text": "Repulsão estérica."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A ligação de hidrogênio ocorre quando H está ligado a átomos muito eletronegativos (N, O, F) e interage com par de elétrons livre de outro N, O ou F. Qual das seguintes substâncias NÃO forma ligação de hidrogênio?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "CH₄"
+            },
+            {
+              "id": "A02",
+              "text": "H₂O"
+            },
+            {
+              "id": "A03",
+              "text": "NH₃"
+            },
+            {
+              "id": "A04",
+              "text": "HF"
+            },
+            {
+              "id": "A05",
+              "text": "CH₃OH"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A ordem crescente de intensidade das forças intermoleculares é geralmente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "London < dipolo-dipolo < ligação H < íon-dipolo"
+            },
+            {
+              "id": "A02",
+              "text": "Ligação H < London < dipolo-dipolo < íon-dipolo"
+            },
+            {
+              "id": "A03",
+              "text": "Íon-dipolo < London < dipolo-dipolo < ligação H"
+            },
+            {
+              "id": "A04",
+              "text": "Dipolo-dipolo < London < ligação H < íon-dipolo"
+            },
+            {
+              "id": "A05",
+              "text": "London < ligação H < dipolo-dipolo < íon-dipolo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "O ponto de ebulição do H₂O (100 °C) é anormalmente alto para sua massa molar (18 g/mol) devido a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Extensa rede de ligações de hidrogênio."
+            },
+            {
+              "id": "A02",
+              "text": "Fortes forças de London."
+            },
+            {
+              "id": "A03",
+              "text": "Dipolo-dipolo fraco."
+            },
+            {
+              "id": "A04",
+              "text": "Interação íon-dipolo."
+            },
+            {
+              "id": "A05",
+              "text": "Ligação covalente forte."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Comparando CH₄ (PM = 16), SiH₄ (PM = 32), GeH₄ (PM = 77), SnH₄ (PM = 123). A tendência dos pontos de ebulição segue:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aumenta com a massa molar (forças de London mais fortes)."
+            },
+            {
+              "id": "A02",
+              "text": "Diminui com a massa molar."
+            },
+            {
+              "id": "A03",
+              "text": "São todos iguais."
+            },
+            {
+              "id": "A04",
+              "text": "CH₄ > SiH₄ > GeH₄ > SnH₄."
+            },
+            {
+              "id": "A05",
+              "text": "Não há correlação."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "O HCl (polar, μ = 1,08 D) tem ponto de ebulição –85 °C. O F₂ (apolar, PM = 38) tem –188 °C. O HCl ferve a temperatura mais alta porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tem forças dipolo-dipolo além de London."
+            },
+            {
+              "id": "A02",
+              "text": "Tem ligação de hidrogênio."
+            },
+            {
+              "id": "A03",
+              "text": "É mais leve."
+            },
+            {
+              "id": "A04",
+              "text": "Forma dímeros."
+            },
+            {
+              "id": "A05",
+              "text": "Tem ligação iônica."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "A solubilidade do NaCl em água deve-se à interação:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Íon-dipolo (Na⁺ e Cl⁻ com H₂O)."
+            },
+            {
+              "id": "A02",
+              "text": "Ligação de hidrogênio."
+            },
+            {
+              "id": "A03",
+              "text": "Dipolo-dipolo."
+            },
+            {
+              "id": "A04",
+              "text": "Forças de London."
+            },
+            {
+              "id": "A05",
+              "text": "Ligação covalente."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "O CO₂ é linear e apolar. O SO₂ é angular e polar. O ponto de ebulição do SO₂ (–10 °C) é maior que do CO₂ (–78 °C, sublima) porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "SO₂ tem forças dipolo-dipolo; CO₂ só tem London."
+            },
+            {
+              "id": "A02",
+              "text": "SO₂ tem ligação de hidrogênio."
+            },
+            {
+              "id": "A03",
+              "text": "CO₂ tem ligação iônica."
+            },
+            {
+              "id": "A04",
+              "text": "SO₂ é mais leve."
+            },
+            {
+              "id": "A05",
+              "text": "CO₂ tem dipolo permanente."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A tensão superficial da água (72 mN/m a 25 °C) é alta devido a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ligações de hidrogênio coesivas na superfície."
+            },
+            {
+              "id": "A02",
+              "text": "Forças de London."
+            },
+            {
+              "id": "A03",
+              "text": "Repulsão entre moléculas."
+            },
+            {
+              "id": "A04",
+              "text": "Pressão atmosférica."
+            },
+            {
+              "id": "A05",
+              "text": "Viscosidade."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A viscosidade do glicerol (CH₂OH–CHOH–CH₂OH) é muito maior que a da água porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Três grupos OH formam extensa rede de ligações H, dificultando o fluxo."
+            },
+            {
+              "id": "A02",
+              "text": "É mais denso."
+            },
+            {
+              "id": "A03",
+              "text": "Não tem ligação H."
+            },
+            {
+              "id": "A04",
+              "text": "As forças de London dominam."
+            },
+            {
+              "id": "A05",
+              "text": "É um gás à temperatura ambiente."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O etanol (CH₃CH₂OH) e o dimetiléter (CH₃OCH₃) são isômeros (C₂H₆O). O etanol ferve a 78 °C; o dimetiléter a –24 °C. A diferença deve-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Etanol tem ligação H (OH); dimetiléter não tem H ligado a O/N/F."
+            },
+            {
+              "id": "A02",
+              "text": "Dimetiléter tem ligação H mais forte."
+            },
+            {
+              "id": "A03",
+              "text": "Etanol é apolar."
+            },
+            {
+              "id": "A04",
+              "text": "Dimetiléter tem maior massa molar."
+            },
+            {
+              "id": "A05",
+              "text": "Etanol tem forças de London mais fracas."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "A regra da solubilidade 'semelhante dissolve semelhante' baseia-se em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Compatibilidade das forças intermoleculares entre soluto e solvente."
+            },
+            {
+              "id": "A02",
+              "text": "Massas molares iguais."
+            },
+            {
+              "id": "A03",
+              "text": "Mesmo número de átomos."
+            },
+            {
+              "id": "A04",
+              "text": "Mesma geometria molecular."
+            },
+            {
+              "id": "A05",
+              "text": "Mesma cor."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "O I₂ (sólido molecular, só London) dissolve-se bem em CCl₄ (apolar) mas mal em H₂O (polar). Isso ocorre porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Em CCl₄, as forças soluto-solvente (London) são semelhantes às soluto-soluto e solvente-solvente."
+            },
+            {
+              "id": "A02",
+              "text": "I₂ forma ligação H com CCl₄."
+            },
+            {
+              "id": "A03",
+              "text": "I₂ reage com água."
+            },
+            {
+              "id": "A04",
+              "text": "CCl₄ é iônico."
+            },
+            {
+              "id": "A05",
+              "text": "Água não tem forças de London."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O ponto de fusão do NaCl (801 °C) é muito maior que o do Cl₂ (–101 °C) porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "NaCl é rede iônica (forças eletrostáticas fortes); Cl₂ é molecular (só London)."
+            },
+            {
+              "id": "A02",
+              "text": "Cl₂ tem ligação iônica."
+            },
+            {
+              "id": "A03",
+              "text": "NaCl tem ligação de hidrogênio."
+            },
+            {
+              "id": "A04",
+              "text": "Cl₂ é metálico."
+            },
+            {
+              "id": "A05",
+              "text": "NaCl é apolar."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "O grafite lubrifica porque suas camadas deslizam. As forças entre camadas são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Forças de London (fracas)."
+            },
+            {
+              "id": "A02",
+              "text": "Ligações covalentes."
+            },
+            {
+              "id": "A03",
+              "text": "Ligações iônicas."
+            },
+            {
+              "id": "A04",
+              "text": "Ligações de hidrogênio."
+            },
+            {
+              "id": "A05",
+              "text": "Forças dipolo-dipolo."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "O DNA tem dupla hélice mantida por ligações de hidrogênio entre bases complementares (A-T: 2 pontes H; G-C: 3 pontes H). A temperatura de desnaturalização (melting) é maior para sequências ricas em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "G-C"
+            },
+            {
+              "id": "A02",
+              "text": "A-T"
+            },
+            {
+              "id": "A03",
+              "text": "São iguais."
+            },
+            {
+              "id": "A04",
+              "text": "Depende do comprimento apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Não depende da composição."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A pressão de vapor de um líquido a dada temperatura depende da facilidade de moléculas escaparem da superfície. Líquidos com fortes forças intermoleculares têm:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Baixa pressão de vapor."
+            },
+            {
+              "id": "A02",
+              "text": "Alta pressão de vapor."
+            },
+            {
+              "id": "A03",
+              "text": "Pressão de vapor igual à atmosférica."
+            },
+            {
+              "id": "A04",
+              "text": "Pressão de vapor negativa."
+            },
+            {
+              "id": "A05",
+              "text": "Pressão de vapor independentes das forças."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A entalpia de vaporização do H₂O (40,7 kJ/mol a 100 °C) é maior que a do CH₃OH (35,2 kJ/mol a 65 °C) porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Cada H₂O forma até 4 ligações H (2 doadoras + 2 aceitadoras); CH₃OH forma menos."
+            },
+            {
+              "id": "A02",
+              "text": "CH₃OH tem mais ligações H."
+            },
+            {
+              "id": "A03",
+              "text": "H₂O não tem ligação H."
+            },
+            {
+              "id": "A04",
+              "text": "CH₃OH tem forças iônicas."
+            },
+            {
+              "id": "A05",
+              "text": "Massas molares iguais."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A equação de Clausius-Clapeyron: ln(P₂/P₁) = –(ΔHvap/R)(1/T₂ – 1/T₁). Para água (ΔHvap = 40,7 kJ/mol), a pressão de vapor a 80 °C (353 K) é aproximadamente: (P₁ = 1 atm a 373 K)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,47 atm"
+            },
+            {
+              "id": "A02",
+              "text": "0,25 atm"
+            },
+            {
+              "id": "A03",
+              "text": "0,75 atm"
+            },
+            {
+              "id": "A04",
+              "text": "1,5 atm"
+            },
+            {
+              "id": "A05",
+              "text": "0,10 atm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A tensão superficial (γ) diminui com a temperatura. A equação de Eötvös: γ = k(Tc – T)/V²/³. Para água (Tc = 647 K, V = 18 cm³/mol), a constante k é aproximadamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2,1 × 10⁻⁷ J·K⁻¹·mol⁻²/³"
+            },
+            {
+              "id": "A02",
+              "text": "2,1 × 10⁻⁵ J·K⁻¹·mol⁻²/³"
+            },
+            {
+              "id": "A03",
+              "text": "2,1 × 10⁻⁹ J·K⁻¹·mol⁻²/³"
+            },
+            {
+              "id": "A04",
+              "text": "2,1 × 10⁻³ J·K⁻¹·mol⁻²/³"
+            },
+            {
+              "id": "A05",
+              "text": "2,1 × 10⁻¹¹ J·K⁻¹·mol⁻²/³"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A capilaridade: h = 2γ cosθ / (ρgr). Para água em tubo de vidro (θ ≈ 0°, γ = 0,072 N/m, ρ = 1000 kg/m³, g = 9,8 m/s², r = 0,5 mm), a altura h é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2,9 cm"
+            },
+            {
+              "id": "A02",
+              "text": "5,8 cm"
+            },
+            {
+              "id": "A03",
+              "text": "1,5 cm"
+            },
+            {
+              "id": "A04",
+              "text": "0,3 cm"
+            },
+            {
+              "id": "A05",
+              "text": "10 cm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A adsorção de gases em carvão ativado é favorecida por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Forças de London entre gás e superfície de carbono."
+            },
+            {
+              "id": "A02",
+              "text": "Ligação de hidrogênio."
+            },
+            {
+              "id": "A03",
+              "text": "Reação química irreversível."
+            },
+            {
+              "id": "A04",
+              "text": "Forças iônicas."
+            },
+            {
+              "id": "A05",
+              "text": "Dipolo-dipolo forte."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O efeito hidrofóbico: moléculas apolares em água agregam-se para minimizar a superfície de contato com água. Isso ocorre porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A água forma 'gaiolas' ordenadas ao redor do apolar (entropia negativa); agregação libera água, aumentando entropia."
+            },
+            {
+              "id": "A03",
+              "text": "Moléculas apolares têm forte atração entre si."
+            },
+            {
+              "id": "A04",
+              "text": "A água repele ativamente o apolar."
+            },
+            {
+              "id": "A05",
+              "text": "Ligações H se formam entre apolar e água."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "As micelas de surfactantes (ex: SDS) formam-se acima da CMC (concentração micelar crítica). O interior da micela é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Hidrofóbico (caudas alquila), afastado da água."
+            },
+            {
+              "id": "A02",
+              "text": "Hidrofílico (cabeças polares)."
+            },
+            {
+              "id": "A03",
+              "text": "Iônico."
+            },
+            {
+              "id": "A04",
+              "text": "Metálico."
+            },
+            {
+              "id": "A05",
+              "text": "Gasoso."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A constante de Hamaker (A) para interação de London entre duas partículas idênticas no vácuo: V = –A/(12πD²). Para materiais típicos (orgânicos), A ≈ 10⁻¹⁹ J. A energia de interação a D = 1 nm é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~2,6 × 10⁻²⁰ J"
+            },
+            {
+              "id": "A02",
+              "text": "~2,6 × 10⁻¹⁸ J"
+            },
+            {
+              "id": "A03",
+              "text": "~2,6 × 10⁻²² J"
+            },
+            {
+              "id": "A04",
+              "text": "~2,6 × 10⁻¹⁶ J"
+            },
+            {
+              "id": "A05",
+              "text": "~2,6 × 10⁻²⁴ J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A equação de Young-Laplace para pressão dentro de uma bolha esférica: ΔP = 2γ/R (bolha de líquido) ou 4γ/R (bolha de sabão, duas superfícies). Para bolha de sabão R = 1 cm, γ = 0,03 N/m, ΔP =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "12 Pa"
+            },
+            {
+              "id": "A02",
+              "text": "6 Pa"
+            },
+            {
+              "id": "A03",
+              "text": "3 Pa"
+            },
+            {
+              "id": "A04",
+              "text": "24 Pa"
+            },
+            {
+              "id": "A05",
+              "text": "1,2 Pa"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "A solubilidade de gases em líquidos (Lei de Henry: C = kH·P) diminui com a temperatura para a maioria dos gases. Isso ocorre porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A solubilização é exotérmica (gás + solvente → solução + calor); aumento de T desloca equilíbrio para o gás (Le Chatelier)."
+            },
+            {
+              "id": "A02",
+              "text": "A solubilização é endotérmica."
+            },
+            {
+              "id": "A03",
+              "text": "O gás se decompõe a alta T."
+            },
+            {
+              "id": "A04",
+              "text": "A pressão de vapor do líquido diminui."
+            },
+            {
+              "id": "A05",
+              "text": "As forças de London aumentam com T."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A interação cátion-π (ex: Na⁺ com anel benzênico) é importante em proteínas e reconhecimento molecular. Sua energia típica é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "50–100 kJ/mol (comparável a ligação H forte)."
+            },
+            {
+              "id": "A02",
+              "text": "1–5 kJ/mol (forças de London)."
+            },
+            {
+              "id": "A03",
+              "text": "200–400 kJ/mol (ligação covalente)."
+            },
+            {
+              "id": "A04",
+              "text": "10–20 kJ/mol (dipolo-dipolo)."
+            },
+            {
+              "id": "A05",
+              "text": "0 kJ/mol (não existe)."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A formação de hidratos de gás (clatrados): moléculas de gás (CH₄, CO₂) aprisionadas em gaiolas de água. A estabilidade deve-se a:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ligações H da rede de água + interação van der Waals gás-água (encerramento)."
+            },
+            {
+              "id": "A02",
+              "text": "Ligação covalente gás-água."
+            },
+            {
+              "id": "A03",
+              "text": "Forças iônicas."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas forças de London."
+            },
+            {
+              "id": "A05",
+              "text": "Reação química."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A constante de associação (Ka) para formação de complexo de inclusão ciclodextrina-fármaco em água é tipicamente 10²–10⁴ M⁻¹. A força motriz principal é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Efeito hidrofóbico (liberação de água de alta energia da cavidade da ciclodextrina)."
+            },
+            {
+              "id": "A02",
+              "text": "Ligação covalente."
+            },
+            {
+              "id": "A03",
+              "text": "Atração iônica."
+            },
+            {
+              "id": "A04",
+              "text": "Forças de London puras."
+            },
+            {
+              "id": "A05",
+              "text": "Dipolo-dipolo."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Forças Intermoleculares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Forças Intermoleculares"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

@@ -1,0 +1,1039 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:07:26.665Z",
+  "exams": [
+    {
+      "id": "quiz-1788886797293",
+      "title": "Como está o seu nível invisível de esgotamento (burnout)?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Como está o seu nível invisível de esgotamento (burnout)?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Como você acorda na maioria dos dias?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Descansado(a) e com energia para o dia",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Um pouco cansado(a), mas depois do café melhoro",
+              "pontos": {
+                "final1": 1,
+                "final2": 2,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Já acordo cansado(a) e arrastado(a) todos os dias",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Acordo exausto(a) como se não tivesse dormido",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 1
+              }
+            },
+            {
+              "id": "E",
+              "text": "Mal consigo sair da cama — o esforço parece imenso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como está sua qualidade de sono?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Durmo bem, profundamente e acordo renovado(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Durmo, mas acordo algumas vezes durante a noite",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tenho dificuldade para pegar no sono e acordo cedo demais",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Insônia frequente — passo horas acordado(a) à noite",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Durmo muito mal há semanas — pesadelos, suor, despertares",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você se sente durante o dia de trabalho?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Focado(a), produtivo(a) e com energia constante",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tenho bons e maus momentos — uma hora tô bem, outra não",
+              "pontos": {
+                "final1": 0,
+                "final2": 2,
+                "final3": 1,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sinto que estou no piloto automático a maior parte do tempo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Tenho dificuldade de me concentrar e sou muito esquecido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Mal consigo fazer o básico — cada tarefa parece uma montanha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Como você se sente no final de semana?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Descanso, aproveito e me sinto renovado(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Desacelero, mas o cansaço acumulado ainda está lá",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Passo o final de semana inteiro me recuperando — e ainda assim não basta",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Não consigo relaxar — fico pensando no trabalho ou ansioso(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Nem final de semana existe mais — tudo se mistura",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Você consegue \"desligar\" o trabalho?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sim! Quando saio, saio — e não penso mais nisso",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Às vezes — mas a mente ainda fica vagando para o trabalho",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Dificilmente — estou sempre pensando no que ficou para trás",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Praticamente nunca — a cabeça não para mesmo em casa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Totalmente impossível — o trabalho se tornou minha identidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Como está sua energia no meio da tarde?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Mantenho um ritmo constante até o fim do dia",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Caio um pouco, mas um café ou pausa me recupera",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tenho uma queda de energia fortíssima — preciso me esforçar",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Estou exausto(a) o dia todo, mas a tarde é o pior momento",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Não consigo mais funcionar depois do almoço — é uma luta",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você está se relacionando com as pessoas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Tenho paciência, energia e prazer nas interações",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Estou mais irritado(a) que o normal, mas ainda controlo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ando explodindo fácil com quem eu amo",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Estou me isolando — não quero ver ninguém",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 1
+              }
+            },
+            {
+              "id": "E",
+              "text": "Me sinto desconectado(a) de todo mundo, como se estivesse num vidro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Você sente prazer nas atividades que antes amava?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sim, ainda sinto entusiasmo pelas minhas paixões",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Algumas coisas ainda me animam, outras perdeu a graça",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tenho dificuldade de sentir prazer em qualquer coisa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 1,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Nada mais parece interessante — é tudo cinza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 1
+              }
+            },
+            {
+              "id": "E",
+              "text": "Não me lembro da última vez que senti alegria genuína",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Como está sua alimentação?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Como de forma regular e saudável",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tento me alimentar bem, mas às vezes pulo refeições",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Não tenho fome ou como qualquer coisa por falta de tempo",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Como em excesso para aliviar a ansiedade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Perdi completamente o apetite — é um esforço comer",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Como está seu corpo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me sinto bem — sem dores ou desconfortos constantes",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tenho algumas tensões musculares, especialmente nos ombros",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sinto dores frequentes — cabeça, costas, pescoço",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Estou sempre doente — minha imunidade está baixa",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Meu corpo está em colapso — sintomas físicos intensos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você vê o seu futuro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Com otimismo e planos",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Com alguma ansiedade, mas confiante",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Com desânimo — parece que nada vai mudar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Com apatia — não sei nem se quero estar aqui",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 1
+              }
+            },
+            {
+              "id": "E",
+              "text": "Desesperança — não consigo ver saída",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Você consegue estabelecer limites?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sim — digo \"não\" quando preciso e sem culpa",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Consigo na maioria das vezes, mas às vezes cedo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tenho dificuldade — fico me sentindo culpado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Quase não consigo — sempre priorizo os outros",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Não consigo de jeito nenhum — me sinto refém das demandas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Você se sente culpado(a) por descansar?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Não — descanso é parte da minha rotina e não me culpo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Às vezes penso \"devia estar fazendo algo útil\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Quase sempre — descansar me parece preguiça",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sim — e mesmo descansando, não consigo relaxar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Descansei? Nem sei mais o que é isso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Como está sua relação com o trabalho?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ainda gosto do que faço e me sinto motivado(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Gosto, mas o cansaço tem roubado o prazer",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Faço por obrigação — perdeu o sentido",
+              "pontos": {
+                "final1": 0,
+                "final2": 1,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Estou completamente desmotivado(a) e sem energia",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Sinto nojo só de pensar no trabalho",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se você pudesse descrever sua vida agora, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Equilibrada, leve e com momentos de alegria",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Desgastante, mas ainda consigo ver saída",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Exaustiva — cada dia é uma luta",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Insustentável — não sei quanto tempo mais vou aguentar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 1,
+                "final4": 3,
+                "final5": 1
+              }
+            },
+            {
+              "id": "E",
+              "text": "Desesperadora — estou no fundo do poço",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 1,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T16:59:57.293Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🟢 Nível 1 - Floresta Verdejante",
+          "texto": "Você está em um ótimo momento! Como alguém no nível 1 de esgotamento, você tem uma relação saudável com o trabalho e o descanso. Você sabe dizer \"não\" quando precisa, respeita seus limites e recarrega suas energias regularmente. Sua rotina inclui momentos de lazer, conexão com pessoas queridas e atividades que te trazem alegria. Você dorme bem, come regularmente e consegue desligar o trabalho no final do dia. Claro, você tem dias cansativos, mas eles são exceção, não regra. Continue assim! Sua maior força é a consciência de que descanso não é preguiça — é combustível. E você já entendeu isso. \"Descansar não é desistir. É se preparar para continuar.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🟡 Nível 2 - Campo de Feno",
+          "texto": "Você está no caminho do esgotamento — mas ainda dá tempo de frear. Como alguém no nível 2, você tem dias de muito cansaço, mas ainda consegue se recuperar com um bom descanso no fim de semana. Você começa a perceber sinais: está mais irritado(a) que o normal, sua energia oscila, você tem dificuldade de desconectar do trabalho. Você ainda consegue dizer \"não\", mas está cada vez mais difícil. A linha entre trabalho e vida pessoal começa a se borrar. Hora de acender o alerta amarelo. Você ainda não está em crise, mas a estrada está ficando perigosa. Reserve um tempo para si mesmo(a) antes que o cansaço vire exaustão. \"O descanso não é um luxo. É uma necessidade que você está ignorando.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🟠 Nível 3 - Terra Árida",
+          "texto": "O esgotamento já bateu à sua porta. Como alguém no nível 3, você vive uma exaustão constante — não só física, mas mental e emocional. Seu corpo está pedindo socorro de várias formas: insônia, dores musculares, queda de imunidade, ansiedade. Você acorda cansado(a), passa o dia cansado(a) e vai dormir cansado(a). A produtividade caiu, sua criatividade sumiu, e você já não sente prazer no que faz. Você está no \"piloto automático\", fazendo apenas o mínimo para sobreviver ao dia. Hora de parar. Literalmente. Você precisa de uma pausa real. Sua saúde não é um recurso inesgotável. \"Você não pode encher o copo de ninguém se seu próprio copo está vazio.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🔴 Nível 4 - Deserto Escaldante",
+          "texto": "O esgotamento se tornou sua realidade diária — e seu corpo está gritando. Como alguém no nível 4, você está em estado de exaustão profunda. Você não se lembra da última vez que acordou descansado(a). Seu sistema imunológico está comprometido, sua memória está falhando, e a ansiedade ou depressão já podem estar presentes. Você está emocionalmente esgotado(a), irritável com tudo e todos, e sente um vazio que nada parece preencher. Você sabe que precisa parar, mas não vê como. Este é o momento de buscar ajuda profissional. Sério. Burnout não é frescura — é uma condição médica que precisa de tratamento. \"Quando você não consegue mais enxergar a luz, não caminhe sozinho(a). Peça ajuda.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🖤 Nível 5 - Zona Fantasma",
+          "texto": "O esgotamento já te levou para um lugar muito escuro. Como alguém no nível 5, você está em crise. Você se sente desconectado(a) de si mesmo(a), dos outros e da realidade. Nada parece fazer sentido. A fadiga é avassaladora, a tristeza é constante, e você já não se lembra de como era se sentir vivo(a). Sua saúde física está comprometida, sua saúde mental também. Você pode estar tendo pensamentos de desesperança. Isso não é apenas cansaço — é um pedido de socorro. Você precisa de ajuda imediata. Fale com um médico, um psicólogo, um psiquiatra. Ligue para um amigo ou familiar. Você não precisa passar por isso sozinho(a). Existe ajuda, existe saída. E você merece essa saída. \"Não importa quão escura a noite pareça, o sol sempre volta a nascer. E você merece ver esse sol.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

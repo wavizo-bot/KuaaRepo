@@ -1,0 +1,1039 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:09:26.981Z",
+  "exams": [
+    {
+      "id": "quiz-1788887064300",
+      "title": "Qual é a sua relação com o controle e a incerteza?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual é a sua relação com o controle e a incerteza?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Você está planejando uma viagem. Como se sente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Preciso ter cada detalhe planejado — hotéis, rotas, horários",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Prefiro ter um roteiro flexível — alguns pontos, mas sem rigidez",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Faço o planejamento básico, mas fico ansioso(a) se algo sai do previsto",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Prefiro viajar sem planejar nada — a aventura é a graça",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Preciso saber exatamente onde vou ficar e o que vou fazer",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você reage quando um plano é cancelado de última hora?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico frustrado(a) — tinha tudo organizado",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Lido bem — faço outra coisa",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico ansioso(a), mas finjo que está tudo bem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Acho até melhor — gosto de surpresas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico muito irritado(a) — isso bagunça tudo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você toma decisões importantes?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Pesquiso exaustivamente e só decido quando tenho certeza",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Confio no instinto e decido rápido",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico meses pensando e, quando decido, ainda duvido",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Tento não pensar muito — se der errado, a gente vê depois",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Preciso ter todas as respostas antes de agir",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Qual dessas frases combina mais com você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"O futuro se constrói com planejamento\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"A vida é o que acontece enquanto você faz planos\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Planejo, mas sempre fico com medo de dar errado\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Planejar é perder tempo — a vida é agora\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Só me sinto seguro(a) quando sei o que vai acontecer\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Como você lida com situações imprevistas no trabalho?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Tenho um plano de contingência para tudo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Improviso — é onde meu melhor trabalho acontece",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico ansioso(a), mas consigo me virar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Deixo rolar — se der problema, resolvo depois",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico extremamente desconfortável — odeio não ter controle",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Como você se sente em relação ao futuro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Planejado(a) e confiante — sei para onde vou",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Aberto(a) — curioso(a) para ver o que virá",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ansioso(a) — incerteza me deixa tenso(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Despreocupado(a) — o que tiver que ser, será",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Apreensivo(a) — não gosto de não saber o que vem pela frente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "O que você faz quando algo foge totalmente do seu controle?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Tento recuperar o controle de qualquer forma",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Aceito e me adapto à nova situação",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico preocupado(a), mas tento encontrar uma solução",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Deixo fluir — o que vier, vier",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Entro em pânico — não sei lidar com a falta de controle",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você se sente ao ver outras pessoas mais despreocupadas que você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Invejo a leveza — mas não consigo ser assim",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Admiro — acho bonito quem confia no processo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico confuso(a) — como elas não se preocupam com o futuro?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Me identifico — também sou despreocupado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Acho irresponsável — é melhor estar preparado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Como você organiza sua rotina?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Tenho horários fixos para tudo — rotina é sagrada",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tenho uma estrutura flexível — mas sem rigidez",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Tento organizar, mas a ansiedade me atrapalha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Quase não tenho rotina — cada dia é um dia",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Minha rotina é muito rígida — qualquer mudança me desestabiliza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O que te dá mais segurança?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Saber que tenho um plano",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Saber que consigo me adaptar a qualquer situação",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ter informações suficientes para tomar uma decisão",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Acreditar que tudo vai dar certo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Ter certeza do que vai acontecer",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você lida com a dúvida?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Não gosto — busco respostas imediatamente",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Aceito — a dúvida faz parte da vida",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Me paralisa — não consigo avançar sem certeza",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Ignoro — pensar demais atrapalha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Preciso eliminar a dúvida para me sentir seguro(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Como você se sente quando não sabe o que vai acontecer amanhã?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ansioso(a) — preciso de planos",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Curioso(a) — gosto da surpresa",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Inquieto(a) — mas consigo lidar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Tranquilo(a) — um dia de cada vez",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Angustiado(a) — a incerteza me consome",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Qual desses cenários te causa mais desconforto?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Um projeto sem prazo definido",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Uma situação onde você precisa agir sem saber o resultado",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ter que tomar uma decisão com informações incompletas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Rotinas muito rígidas e previsíveis",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Não saber o que esperar de uma situação importante",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Se você pudesse escolher, como seria sua vida ideal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Organizada, previsível e com planos claros",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Cheia de aventuras e surpresas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Com algum equilíbrio — mas sem muitas surpresas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Livre de amarras e obrigações",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Completamente previsível e segura",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "O que você diria para uma criança que tem medo do escuro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Vamos fazer um plano para você se sentir segura\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"O escuro não é perigoso — e você sempre pode explorá-lo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Vamos descobrir juntos o que está te assustando\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Você pode enfrentar o escuro com coragem\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Não se preocupe — eu vou te proteger\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:04:24.300Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🧠 O Arquiteto do Controle",
+          "texto": "Você é o mestre do planejamento — e o terror do improviso. Como o Arquiteto do Controle, você tem uma necessidade profunda de prever, organizar e estruturar cada aspecto da sua vida. Você faz listas, planos A, B e C, e se sente desconfortável quando as coisas fogem do esperado. Sua maior força? Sua capacidade de antecipar problemas e se preparar para eles. Sua maior fraqueza? Você gasta tanta energia tentando controlar o incontrolável que esquece de viver o presente. Quando um imprevisto acontece, você pode entrar em paralisia ou irritação — porque seu cérebro já tinha tudo mapeado. Pessoas como você são excelentes gestores e estrategistas, mas precisam aprender que a vida não é um roteiro. Aprenda a relaxar: nem tudo precisa ser previsto. Às vezes, o melhor momento é o que você não planejou. \"Planejar é inteligente. Controlar é ilusão. A diferença entre os dois é o que separa a preparação da ansiedade.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🌊 O Navegador da Incerteza",
+          "texto": "Você é o rei ou a rainha do improviso — e o terror dos planejadores. Como o Navegador da Incerteza, você não só tolera o imprevisto como se sente vivo(a) quando ele acontece. Para você, a rigidez é a verdadeira inimiga. Você confia na sua capacidade de reagir, de se adaptar e de encontrar soluções criativas no meio do caos. Sua maior força? Sua flexibilidade e sua coragem de enfrentar o desconhecido. Sua maior fraqueza? Você pode negligenciar o planejamento básico, deixando pontas soltas que poderiam ser evitadas. Pessoas como você são empreendedores natos e solucionadores de problemas, mas precisam aprender que um pouco de estrutura não é prisão — é base. Aprenda a equilibrar: a incerteza é emocionante, mas nem todo caos é libertador. \"A vida é uma surpresa — e você abraça isso. Só não esqueça de ter um guarda-chuva quando a tempestade chegar.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "⚖️ O Equilibrista da Tensão",
+          "texto": "Você vive no fio da navalha entre o controle e a entrega. Como o Equilibrista da Tensão, você sente o desejo de planejar, mas também reconhece a impotência de tentar controlar tudo. Você pode oscilar entre momentos de rigidez e momentos de total desapego — e isso te gasta. Sua maior força? Sua consciência da tensão entre controle e incerteza. Sua maior fraqueza? Essa mesma consciência pode te deixar paralisado(a), dividido(a) entre querer controlar e querer deixar fluir. Pessoas como você têm uma sensibilidade rara para os extremos, mas precisam encontrar um ponto de equilíbrio que não exija tanta energia. Aprenda a se ancorar: o controle não é seu inimigo, e a incerteza não é sua adversária. Ambas são ferramentas. O segredo está em saber quando usar cada uma. \"Você dança entre o controle e o caos. Mas a melhor dança é aquela onde você não precisa escolher — só fluir.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🌀 O Fugitivo do Controle",
+          "texto": "Você tem uma relação complicada com o controle — e por isso, muitas vezes, foge dele. Como o Fugitivo do Controle, a ideia de planejar demais te sufoca. Você associa controle a rigidez, a autoritarismo, a falta de liberdade. Você prefere deixar a vida te levar, mesmo que isso signifique se perder no caminho. Sua maior força? Sua leveza e sua capacidade de não se prender a expectativas rígidas. Sua maior fraqueza? A falta de estrutura pode te levar a situações de caos desnecessário, onde um pouco de planejamento teria evitado sofrimento. Pessoas como você são livres e espontâneas, mas precisam aprender que controle não é prisão — é cuidado. Aprenda a se ancorar: ter um plano não significa ser engessado(a). Às vezes, um pouco de direção pode te levar a lugares ainda mais incríveis. \"Você foge do controle como quem foge de uma gaiola. Mas às vezes, a gaiola está só na sua cabeça.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🏔️ O Guardião da Certeza",
+          "texto": "Você tem uma necessidade profunda de saber — e o desconhecido te assusta. Como o Guardião da Certeza, você busca respostas definitivas, verdades absolutas e caminhos claros. A ambiguidade te desgasta, e você tende a evitar situações onde o resultado é incerto. Sua maior força? Sua clareza de propósito e sua capacidade de tomar decisões firmes. Sua maior fraqueza? Você pode perder oportunidades incríveis porque não conseguia ver o caminho com clareza. Pessoas como você são pilares de estabilidade, mas precisam aprender que a vida é, por natureza, incerta — e que a beleza muitas vezes está no mistério. Aprenda a abrir mão: a certeza é confortável, mas é também uma ilusão. O desconhecido não é seu inimigo — é seu professor. \"Você quer certeza como quem quer um mapa. Mas a vida não é um mapa — é um oceano.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

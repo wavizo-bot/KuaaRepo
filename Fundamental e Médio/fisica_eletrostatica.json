@@ -1,0 +1,1058 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-ELETROSTATICA-2026",
+      "title": "Física — Eletrostática (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Eletrostática",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "A lei de Coulomb: força entre duas cargas pontuais F = k·|q₁·q₂|/r² (k = 9×10⁹ N·m²/C² no vácuo). Duas cargas q₁ = 2 µC, q₂ = –3 µC estão a 10 cm de distância. A magnitude da força é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "5,4 N"
+            },
+            {
+              "id": "A02",
+              "text": "54 N"
+            },
+            {
+              "id": "A03",
+              "text": "0,54 N"
+            },
+            {
+              "id": "A04",
+              "text": "540 N"
+            },
+            {
+              "id": "A05",
+              "text": "0,054 N"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "O campo elétrico de carga pontual: E = k·|q|/r² (direção radial). Carga q = 5 µC a distância r = 20 cm. O campo elétrico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,125×10⁶ N/C"
+            },
+            {
+              "id": "A02",
+              "text": "1,125×10⁵ N/C"
+            },
+            {
+              "id": "A03",
+              "text": "1,125×10⁴ N/C"
+            },
+            {
+              "id": "A04",
+              "text": "1,125×10⁷ N/C"
+            },
+            {
+              "id": "A05",
+              "text": "1,125×10³ N/C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "O potencial elétrico de carga pontual: V = k·q/r (referência no infinito). Carga q = 10 µC a r = 0,5 m. V = (k = 9×10⁹)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "180.000 V"
+            },
+            {
+              "id": "A02",
+              "text": "18.000 V"
+            },
+            {
+              "id": "A03",
+              "text": "1.800.000 V"
+            },
+            {
+              "id": "A04",
+              "text": "1.800 V"
+            },
+            {
+              "id": "A05",
+              "text": "180 V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A energia potencial elétrica entre duas cargas: U = k·q₁·q₂/r. Duas cargas iguais q = 2 µC a r = 10 cm. U =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,36 J"
+            },
+            {
+              "id": "A02",
+              "text": "3,6 J"
+            },
+            {
+              "id": "A03",
+              "text": "0,036 J"
+            },
+            {
+              "id": "A04",
+              "text": "36 J"
+            },
+            {
+              "id": "A05",
+              "text": "3,6×10⁻³ J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "O princípio da superposição para campos: E_total = ΣE_i (soma vetorial). Duas cargas q₁ = +3 µC em x = 0 e q₂ = –3 µC em x = 10 cm. Campo no ponto médio (x = 5 cm):",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2,16×10⁷ N/C (direção +x)"
+            },
+            {
+              "id": "A02",
+              "text": "2,16×10⁶ N/C"
+            },
+            {
+              "id": "A03",
+              "text": "0"
+            },
+            {
+              "id": "A04",
+              "text": "1,08×10⁷ N/C"
+            },
+            {
+              "id": "A05",
+              "text": "4,32×10⁷ N/C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "O dipolo elétrico: duas cargas +q e –q separadas por distância d. Momento dipolar p = q·d (direção –q para +q). Campo no eixo do dipolo a distância r ≫ d: E = 2k·p/r³. Para p = 10⁻⁹ C·m, r = 1 m:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~0,018 N/C"
+            },
+            {
+              "id": "A02",
+              "text": "~0,18 N/C"
+            },
+            {
+              "id": "A03",
+              "text": "~1,8 N/C"
+            },
+            {
+              "id": "A04",
+              "text": "~18 N/C"
+            },
+            {
+              "id": "A05",
+              "text": "~180 N/C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "O torque sobre dipolo em campo uniforme: τ = p × E = p·E·senθ. Energia potencial: U = –p·E = –p·E·cosθ. Dipolo p = 10⁻⁹ C·m em E = 10⁴ N/C, θ = 90°. Torque =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10⁻⁵ N·m"
+            },
+            {
+              "id": "A02",
+              "text": "10⁻⁴ N·m"
+            },
+            {
+              "id": "A03",
+              "text": "10⁻⁶ N·m"
+            },
+            {
+              "id": "A04",
+              "text": "10⁻³ N·m"
+            },
+            {
+              "id": "A05",
+              "text": "10⁻² N·m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Lei de Gauss: Φ_E = ∮E·dA = Q_enc/ε₀ (ε₀ = 8,85×10⁻¹² C²/N·m²). Esfera condutora carregada Q = 10 µC, raio R = 10 cm. Campo logo fora da superfície (r = R⁺):",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "9×10⁵ N/C"
+            },
+            {
+              "id": "A02",
+              "text": "9×10⁴ N/C"
+            },
+            {
+              "id": "A03",
+              "text": "9×10⁶ N/C"
+            },
+            {
+              "id": "A04",
+              "text": "9×10³ N/C"
+            },
+            {
+              "id": "A05",
+              "text": "9×10⁷ N/C"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Dentro de condutor em equilíbrio eletrostático: E = 0, V = constante, carga reside na superfície. Esfera condutora Q = 10 µC, R = 10 cm. Campo dentro (r < R):",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0"
+            },
+            {
+              "id": "A02",
+              "text": "9×10⁵ N/C"
+            },
+            {
+              "id": "A03",
+              "text": "9×10⁴ N/C"
+            },
+            {
+              "id": "A04",
+              "text": "Variável"
+            },
+            {
+              "id": "A05",
+              "text": "Infinito"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Capacitor de placas paralelas: C = ε₀·A/d. Placas A = 100 cm², d = 1 mm. C = (ε₀ = 8,85×10⁻¹² F/m)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "8,85 pF"
+            },
+            {
+              "id": "A02",
+              "text": "88,5 pF"
+            },
+            {
+              "id": "A03",
+              "text": "0,885 pF"
+            },
+            {
+              "id": "A04",
+              "text": "885 pF"
+            },
+            {
+              "id": "A05",
+              "text": "88,5 nF"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Capacitores em série: 1/C_eq = 1/C₁ + 1/C₂. C₁ = 2 µF, C₂ = 3 µF. C_eq =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1,2 µF"
+            },
+            {
+              "id": "A02",
+              "text": "5 µF"
+            },
+            {
+              "id": "A03",
+              "text": "1,5 µF"
+            },
+            {
+              "id": "A04",
+              "text": "0,6 µF"
+            },
+            {
+              "id": "A05",
+              "text": "6 µF"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Capacitores em paralelo: C_eq = C₁ + C₂. C₁ = 2 µF, C₂ = 3 µF. C_eq =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "5 µF"
+            },
+            {
+              "id": "A02",
+              "text": "1,2 µF"
+            },
+            {
+              "id": "A03",
+              "text": "6 µF"
+            },
+            {
+              "id": "A04",
+              "text": "1,5 µF"
+            },
+            {
+              "id": "A05",
+              "text": "1 µF"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Energia armazenada em capacitor: U = ½·C·V² = ½·Q·V = ½·Q²/C. Capacitor 10 µF carregado a 100 V. Energia =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,05 J"
+            },
+            {
+              "id": "A02",
+              "text": "0,5 J"
+            },
+            {
+              "id": "A03",
+              "text": "0,005 J"
+            },
+            {
+              "id": "A04",
+              "text": "0,0005 J"
+            },
+            {
+              "id": "A05",
+              "text": "5 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Capacitor com dielétrico: C = κ·C₀ (κ = constante dielétrica). Capacitor vazio C₀ = 10 pF. Insere dielétrico κ = 5. Nova capacitância:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "50 pF"
+            },
+            {
+              "id": "A02",
+              "text": "2 pF"
+            },
+            {
+              "id": "A03",
+              "text": "10 pF"
+            },
+            {
+              "id": "A04",
+              "text": "500 pF"
+            },
+            {
+              "id": "A05",
+              "text": "1 pF"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Força entre placas de capacitor: F = ½·Q·E = ½·Q²/(ε₀·A) = ½·C·V²/d. Para capacitor 10 µF, V = 100 V, d = 1 mm, F =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,5 N"
+            },
+            {
+              "id": "A02",
+              "text": "5 N"
+            },
+            {
+              "id": "A03",
+              "text": "0,05 N"
+            },
+            {
+              "id": "A04",
+              "text": "50 N"
+            },
+            {
+              "id": "A05",
+              "text": "0,005 N"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Densidade de energia no campo elétrico: u = ½·ε₀·E². Para E = 10⁶ V/m, u = (ε₀ = 8,85×10⁻¹²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4,425 J/m³"
+            },
+            {
+              "id": "A02",
+              "text": "44,25 J/m³"
+            },
+            {
+              "id": "A03",
+              "text": "0,4425 J/m³"
+            },
+            {
+              "id": "A04",
+              "text": "44,25 J/m³"
+            },
+            {
+              "id": "A05",
+              "text": "442,5 J/m³"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "O método das imagens: carga pontual q a distância d de plano condutor aterrado. Imagem –q a distância d atrás do plano. Força de atração: F = k·q²/(2d)² = k·q²/(4d²). Para q = 1 µC, d = 10 cm:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,225 N"
+            },
+            {
+              "id": "A02",
+              "text": "0,9 N"
+            },
+            {
+              "id": "A03",
+              "text": "0,0225 N"
+            },
+            {
+              "id": "A04",
+              "text": "9 N"
+            },
+            {
+              "id": "A05",
+              "text": "0,09 N"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Capacitor esférico: duas esferas concêntricas raios a < b. C = 4πε₀·ab/(b – a). Para a = 5 cm, b = 10 cm: C = (ε₀ = 8,85×10⁻¹²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~5,56 pF"
+            },
+            {
+              "id": "A02",
+              "text": "~55,6 pF"
+            },
+            {
+              "id": "A03",
+              "text": "~0,556 pF"
+            },
+            {
+              "id": "A04",
+              "text": "~556 pF"
+            },
+            {
+              "id": "A05",
+              "text": "~0,0556 pF"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Capacitor cilíndrico: dois cilindros concêntricos raios a < b, comprimento L. C = 2πε₀·L/ln(b/a). Para a = 1 cm, b = 2 cm, L = 1 m: C =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~80 pF"
+            },
+            {
+              "id": "A02",
+              "text": "~8 pF"
+            },
+            {
+              "id": "A03",
+              "text": "~800 pF"
+            },
+            {
+              "id": "A04",
+              "text": "~0,8 pF"
+            },
+            {
+              "id": "A05",
+              "text": "~8000 pF"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A energia eletrostática de sistema de cargas: U = ½·Σq_i·V_i (V_i = potencial no local de q_i devido às outras). Três cargas q = 1 µC nos vértices de triângulo equilátero lado 10 cm. Energia total:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,27 J"
+            },
+            {
+              "id": "A02",
+              "text": "0,09 J"
+            },
+            {
+              "id": "A03",
+              "text": "0,03 J"
+            },
+            {
+              "id": "A04",
+              "text": "0,81 J"
+            },
+            {
+              "id": "A05",
+              "text": "0,027 J"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "O deslocamento elétrico D = ε₀·E + P = ε·E (P = polarização). Em dielétrico linear: P = ε₀·χ_e·E, ε = ε₀(1+χ_e) = ε₀·κ. Condição de contorno na interface: D₁ₙ – D₂ₙ = σ_livre; E₁ₜ – E₂ₜ = 0.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Verdadeiro"
+            },
+            {
+              "id": "A02",
+              "text": "Falso"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A força sobre carga em dielétrico: F = q·E (campo total). Carga q em cavidade esférica dentro de dielétrico uniforme (campo externo E₀). Campo na cavidade E_cav = 3ε/(2ε+ε₀)·E₀ (cavidade esférica). Para κ = 5, E_cav/E₀ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "15/11 ≈ 1,36"
+            },
+            {
+              "id": "A02",
+              "text": "5/6 ≈ 0,83"
+            },
+            {
+              "id": "A03",
+              "text": "1"
+            },
+            {
+              "id": "A04",
+              "text": "5"
+            },
+            {
+              "id": "A05",
+              "text": "1/5 = 0,2"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O capacitor de placas paralelas com dielétrico parcial: área A, separação d, dielétrico κ preenche fração f da área. Capacitância equivalente: C = C₀·(f·κ + (1–f)). Para C₀ = 10 pF, κ = 4, f = 0,5:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "25 pF"
+            },
+            {
+              "id": "A02",
+              "text": "20 pF"
+            },
+            {
+              "id": "A03",
+              "text": "30 pF"
+            },
+            {
+              "id": "A04",
+              "text": "15 pF"
+            },
+            {
+              "id": "A05",
+              "text": "10 pF"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A força eletrostática em dielétrico não uniforme: F = (P·∇)E + ρ_livre·E. Para dipolo induzido p = α·E em campo não uniforme, força F = (p·∇)E. Dipolo α = 10⁻³⁰ C·m²/V em campo E = 10⁶·x V/m (x em metros). Força em x = 1 m:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10⁻²⁴ N"
+            },
+            {
+              "id": "A02",
+              "text": "10⁻²² N"
+            },
+            {
+              "id": "A03",
+              "text": "10⁻²⁶ N"
+            },
+            {
+              "id": "A04",
+              "text": "10⁻²⁰ N"
+            },
+            {
+              "id": "A05",
+              "text": "10⁻¹⁸ N"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "A eletrostática em condutores: superfície equipotencial. Duas esferas condutoras raios R₁ = 10 cm, R₂ = 5 cm ligadas por fio fino. Carga total Q = 10 µC. Cargas finais: Q₁/Q₂ = R₁/R₂. Carga na esfera maior:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~6,67 µC"
+            },
+            {
+              "id": "A02",
+              "text": "~3,33 µC"
+            },
+            {
+              "id": "A03",
+              "text": "5 µC"
+            },
+            {
+              "id": "A04",
+              "text": "10 µC"
+            },
+            {
+              "id": "A05",
+              "text": "0 µC"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "O gerador de Van de Graaff: esfera oca metálica acumulando carga. Tensão máxima limitada por ruptura dielétrica do ar (~3×10⁶ V/m). Para esfera R = 1 m, tensão máxima ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3×10⁶ V"
+            },
+            {
+              "id": "A02",
+              "text": "3×10⁵ V"
+            },
+            {
+              "id": "A03",
+              "text": "3×10⁷ V"
+            },
+            {
+              "id": "A04",
+              "text": "3×10⁴ V"
+            },
+            {
+              "id": "A05",
+              "text": "3×10⁸ V"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O capacitor de placas com dielétrico não linear: κ = κ₀ + α·E². Para κ₀ = 3, α = 10⁻¹² m²/V², E = 10⁶ V/m. κ =",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~4"
+            },
+            {
+              "id": "A02",
+              "text": "~3"
+            },
+            {
+              "id": "A03",
+              "text": "~3,01"
+            },
+            {
+              "id": "A04",
+              "text": "~3,0001"
+            },
+            {
+              "id": "A05",
+              "text": "~13"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A força de Casimir: atração entre duas placas condutoras paralelas não carregadas no vácuo (flutuações quânticas do campo eletromagnético). Força por área: F/A = π²·ħ·c/(240·d⁴). Para d = 1 µm, F/A ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~1,3×10⁻³ N/m²"
+            },
+            {
+              "id": "A02",
+              "text": "~1,3×10⁻¹ N/m²"
+            },
+            {
+              "id": "A03",
+              "text": "~1,3×10⁻⁵ N/m²"
+            },
+            {
+              "id": "A04",
+              "text": "~1,3×10⁻⁷ N/m²"
+            },
+            {
+              "id": "A05",
+              "text": "~1,3×10⁻¹¹ N/m²"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A eletroforese: movimento de partículas carregadas em fluido sob campo elétrico. Velocidade v = μ·E (μ = mobilidade eletroforética). Para partícula esférica raio a, carga q, fluido viscosidade η: μ = q/(6πηa) (Stokes). Para q = 10 e, a = 100 nm, η = 10⁻³ Pa·s, μ ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~8,5×10⁻⁸ m²/V·s"
+            },
+            {
+              "id": "A02",
+              "text": "~8,5×10⁻⁶ m²/V·s"
+            },
+            {
+              "id": "A03",
+              "text": "~8,5×10⁻¹⁰ m²/V·s"
+            },
+            {
+              "id": "A04",
+              "text": "~8,5×10⁻⁴ m²/V·s"
+            },
+            {
+              "id": "A05",
+              "text": "~8,5×10⁻¹² m²/V·s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "A eletrostática em MEMS: atuadores de comb-drive. Força F = ½·V²·dC/dx. Para dentes N = 100, comprimento L = 100 µm, espessura t = 2 µm, gap g = 2 µm, V = 10 V. Capacitância C = ε₀·N·t·x/g. Força F = ½·V²·ε₀·N·t/g ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~4,4 µN"
+            },
+            {
+              "id": "A02",
+              "text": "~44 µN"
+            },
+            {
+              "id": "A03",
+              "text": "~0,44 µN"
+            },
+            {
+              "id": "A04",
+              "text": "~44 µN"
+            },
+            {
+              "id": "A05",
+              "text": "~0,044 µN"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Eletrostática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 4,
+          "visualStatus": "not_needed",
+          "assunto": "Eletrostática"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

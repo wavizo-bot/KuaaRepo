@@ -1,0 +1,3874 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-10-01T00:58:13.369Z",
+  "exams": [
+    {
+      "id": "HISTORIA-TRANSICAO-FEUDALISMO-2026",
+      "title": "História - Transição do feudalismo ao capitalismo",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Ensino Médio",
+      "booklet": "Quiz 3º Ano",
+      "role": "Estudante 3º EM",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "question": "Qual foi a principal causa da crise do sistema feudal na Idade Média?",
+          "options": [
+            "Expansão do comércio mercantil",
+            "Invasões bárbaras",
+            "Peste Negra",
+            "Revolução científica",
+            "Descobrimento do Brasil"
+          ],
+          "answer": "A",
+          "difficulty": "facil",
+          "text": "Qual foi a principal causa da crise do sistema feudal na Idade Média?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Expansão do comércio mercantil"
+            },
+            {
+              "id": "B",
+              "text": "Invasões bárbaras"
+            },
+            {
+              "id": "C",
+              "text": "Peste Negra"
+            },
+            {
+              "id": "D",
+              "text": "Revolução científica"
+            },
+            {
+              "id": "E",
+              "text": "Descobrimento do Brasil"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual termo descreve a transição do trabalho feudal (serfdom) para o trabalho assalariado?",
+          "options": [
+            "Urbanização",
+            "Mercantilização",
+            "Proletarização",
+            "Feudalização",
+            "Colonialismo"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual termo descreve a transição do trabalho feudal (serfdom) para o trabalho assalariado?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Urbanização"
+            },
+            {
+              "id": "B",
+              "text": "Mercantilização"
+            },
+            {
+              "id": "C",
+              "text": "Proletarização"
+            },
+            {
+              "id": "D",
+              "text": "Feudalização"
+            },
+            {
+              "id": "E",
+              "text": "Colonialismo"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual cidade europeia tornou-se um importante centro de comércio mercantil durante a crise feudal?",
+          "options": [
+            "Veneza",
+            "Paris",
+            "Londres",
+            "Bruges",
+            "Florença"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual cidade europeia tornou-se um importante centro de comércio mercantil durante a crise feudal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Veneza"
+            },
+            {
+              "id": "B",
+              "text": "Paris"
+            },
+            {
+              "id": "C",
+              "text": "Londres"
+            },
+            {
+              "id": "D",
+              "text": "Bruges"
+            },
+            {
+              "id": "E",
+              "text": "Florença"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual documento simboliza a queda dos privilégios feudais?",
+          "options": [
+            "Magna Carta",
+            "Tratado de Tordesilhas",
+            "Declaração de Independência",
+            "Pacto de Versalhes",
+            "Carta de Derechos"
+          ],
+          "answer": "A",
+          "difficulty": "facil",
+          "text": "Qual documento simboliza a queda dos privilégios feudais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Magna Carta"
+            },
+            {
+              "id": "B",
+              "text": "Tratado de Tordesilhas"
+            },
+            {
+              "id": "C",
+              "text": "Declaração de Independência"
+            },
+            {
+              "id": "D",
+              "text": "Pacto de Versalhes"
+            },
+            {
+              "id": "E",
+              "text": "Carta de Derechos"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual invenção facilitou o surgimento da economia de mercado?",
+          "options": [
+            "Relógio",
+            "Trena",
+            "Imprensa",
+            "Microscópio",
+            "Telescópio"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual invenção facilitou o surgimento da economia de mercado?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Relógio"
+            },
+            {
+              "id": "B",
+              "text": "Trena"
+            },
+            {
+              "id": "C",
+              "text": "Imprensa"
+            },
+            {
+              "id": "D",
+              "text": "Microscópio"
+            },
+            {
+              "id": "E",
+              "text": "Telescópio"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual grupo social beneficiou mais com o surgimento do capitalismo?",
+          "options": [
+            "Nobreza",
+            "Clero",
+            "Bourgeoisie",
+            "Camponeses",
+            "Escravos"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual grupo social beneficiou mais com o surgimento do capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Nobreza"
+            },
+            {
+              "id": "B",
+              "text": "Clero"
+            },
+            {
+              "id": "C",
+              "text": "Bourgeoisie"
+            },
+            {
+              "id": "D",
+              "text": "Camponeses"
+            },
+            {
+              "id": "E",
+              "text": "Escravos"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o efeito da Peste Negra sobre o sistema feudal?",
+          "options": [
+            "Aumento da população",
+            "Redução da força de trabalho e aumento dos salários",
+            "Manutenção do status quo",
+            "Expansão das terras feudais",
+            "Controle eclesiástico mais rígido"
+          ],
+          "answer": "B",
+          "difficulty": "facil",
+          "text": "Qual foi o efeito da Peste Negra sobre o sistema feudal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Aumento da população"
+            },
+            {
+              "id": "B",
+              "text": "Redução da força de trabalho e aumento dos salários"
+            },
+            {
+              "id": "C",
+              "text": "Manutenção do status quo"
+            },
+            {
+              "id": "D",
+              "text": "Expansão das terras feudais"
+            },
+            {
+              "id": "E",
+              "text": "Controle eclesiástico mais rígido"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi a principal característica da emergência do capitalismo mercantil?",
+          "options": [
+            "Economia baseada na agricultura de subsistência",
+            "Produção em escala de mercado para lucro",
+            "Propriedade comunal da terra",
+            "Sistema de tributos feudais",
+            "Economia de autoconsumo"
+          ],
+          "answer": "B",
+          "difficulty": "facil",
+          "text": "Qual foi a principal característica da emergência do capitalismo mercantil?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Economia baseada na agricultura de subsistência"
+            },
+            {
+              "id": "B",
+              "text": "Produção em escala de mercado para lucro"
+            },
+            {
+              "id": "C",
+              "text": "Propriedade comunal da terra"
+            },
+            {
+              "id": "D",
+              "text": "Sistema de tributos feudais"
+            },
+            {
+              "id": "E",
+              "text": "Economia de autoconsumo"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "De que maneira o surgimento do comércio mercantil desafiou a hierarquia feudal?",
+          "options": [
+            "Reduziu a importância dos senhores feudais",
+            "Fortaleciu o poder dos senhores feudais",
+            "Não teve impacto significativo",
+            "Aumentou a dependência dos camponeses",
+            "Eliminou a necessidade de comércio"
+          ],
+          "answer": "A",
+          "difficulty": "media",
+          "text": "De que maneira o surgimento do comércio mercantil desafiou a hierarquia feudal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduziu a importância dos senhores feudais"
+            },
+            {
+              "id": "B",
+              "text": "Fortaleciu o poder dos senhores feudais"
+            },
+            {
+              "id": "C",
+              "text": "Não teve impacto significativo"
+            },
+            {
+              "id": "D",
+              "text": "Aumentou a dependência dos camponeses"
+            },
+            {
+              "id": "E",
+              "text": "Eliminou a necessidade de comércio"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual mudança legal na Inglaterra refletiu a diminuição dos direitos feudais?",
+          "options": [
+            "Abolição da escravidão",
+            "Introdução do imposto sobre a terra",
+            "Extinção dos serviços feudais",
+            "Criação de novos títulos nobiliárquicos",
+            "Aumento dos impostos sobre o comércio"
+          ],
+          "answer": "C",
+          "difficulty": "media",
+          "text": "Qual mudança legal na Inglaterra refletiu a diminuição dos direitos feudais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Abolição da escravidão"
+            },
+            {
+              "id": "B",
+              "text": "Introdução do imposto sobre a terra"
+            },
+            {
+              "id": "C",
+              "text": "Extinção dos serviços feudais"
+            },
+            {
+              "id": "D",
+              "text": "Criação de novos títulos nobiliárquicos"
+            },
+            {
+              "id": "E",
+              "text": "Aumento dos impostos sobre o comércio"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "O que significa a 'revolução comercial'?",
+          "options": [
+            "Conflito armado entre cidades-estado",
+            "Período de expansão do comércio e desenvolvimento de mercados",
+            "Revolução tecnológica na agricultura",
+            "Mudança na religião protestante",
+            "Reformas educacionais"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "O que significa a 'revolução comercial'?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Conflito armado entre cidades-estado"
+            },
+            {
+              "id": "B",
+              "text": "Período de expansão do comércio e desenvolvimento de mercados"
+            },
+            {
+              "id": "C",
+              "text": "Revolução tecnológica na agricultura"
+            },
+            {
+              "id": "D",
+              "text": "Mudança na religião protestante"
+            },
+            {
+              "id": "E",
+              "text": "Reformas educacionais"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi uma consequência da diminuição do servidão?",
+          "options": [
+            "Maior controle dos senhores sobre a terra",
+            "Redução da produção agrícola",
+            "Aumento dos salários e mobilidade social",
+            "Expansão das terras feudais",
+            "Fortalecimento da Igreja"
+          ],
+          "answer": "C",
+          "difficulty": "media",
+          "text": "Qual foi uma consequência da diminuição do servidão?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Maior controle dos senhores sobre a terra"
+            },
+            {
+              "id": "B",
+              "text": "Redução da produção agrícola"
+            },
+            {
+              "id": "C",
+              "text": "Aumento dos salários e mobilidade social"
+            },
+            {
+              "id": "D",
+              "text": "Expansão das terras feudais"
+            },
+            {
+              "id": "E",
+              "text": "Fortalecimento da Igreja"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o papel da 'enclosure' na transição do feudalismo ao capitalismo?",
+          "options": [
+            "Redução da propriedade privada da terra",
+            "Criação de fazendas privadas e deslocamento de camponeses",
+            "Aumento dos impostos feudais",
+            "Fortalecimento das guildas",
+            "Declínio do comércio urbano"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Qual o papel da 'enclosure' na transição do feudalismo ao capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Redução da propriedade privada da terra"
+            },
+            {
+              "id": "B",
+              "text": "Criação de fazendas privadas e deslocamento de camponeses"
+            },
+            {
+              "id": "C",
+              "text": "Aumento dos impostos feudais"
+            },
+            {
+              "id": "D",
+              "text": "Fortalecimento das guildas"
+            },
+            {
+              "id": "E",
+              "text": "Declínio do comércio urbano"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual filósofo influenciou a mentalidade emergente de mercado durante a crise feudal?",
+          "options": [
+            "Karl Marx",
+            "Adam Smith",
+            "Niccolò Machiavelli",
+            "Thomas Aquinas",
+            "Dante Alighieri"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Qual filósofo influenciou a mentalidade emergente de mercado durante a crise feudal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Karl Marx"
+            },
+            {
+              "id": "B",
+              "text": "Adam Smith"
+            },
+            {
+              "id": "C",
+              "text": "Niccolò Machiavelli"
+            },
+            {
+              "id": "D",
+              "text": "Thomas Aquinas"
+            },
+            {
+              "id": "E",
+              "text": "Dante Alighieri"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Em que aspecto a crise feudal contribuiu para a formação de uma classe burguesa?",
+          "options": [
+            "Pela diminuição da produção agrícola",
+            "Pela criação de novas oportunidades comerciais e de propriedade",
+            "Pela manutenção dos direitos feudais",
+            "Pela expansão da Igreja",
+            "Pela redução do comércio"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Em que aspecto a crise feudal contribuiu para a formação de uma classe burguesa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Pela diminuição da produção agrícola"
+            },
+            {
+              "id": "B",
+              "text": "Pela criação de novas oportunidades comerciais e de propriedade"
+            },
+            {
+              "id": "C",
+              "text": "Pela manutenção dos direitos feudais"
+            },
+            {
+              "id": "D",
+              "text": "Pela expansão da Igreja"
+            },
+            {
+              "id": "E",
+              "text": "Pela redução do comércio"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual das seguintes afirmações descreve melhor a transição do sistema feudal para o capitalista?",
+          "options": [
+            "A propriedade da terra permaneceu nas mãos dos senhores",
+            "O comércio local diminuiu drasticamente",
+            "Surgiu a necessidade de mercados amplos e preços determinados pelo oferta e demanda",
+            "O sistema de servidão se intensificou",
+            "O poder da Igreja aumentou"
+          ],
+          "answer": "C",
+          "difficulty": "media",
+          "text": "Qual das seguintes afirmações descreve melhor a transição do sistema feudal para o capitalista?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "A propriedade da terra permaneceu nas mãos dos senhores"
+            },
+            {
+              "id": "B",
+              "text": "O comércio local diminuiu drasticamente"
+            },
+            {
+              "id": "C",
+              "text": "Surgiu a necessidade de mercados amplos e preços determinados pelo oferta e demanda"
+            },
+            {
+              "id": "D",
+              "text": "O sistema de servidão se intensificou"
+            },
+            {
+              "id": "E",
+              "text": "O poder da Igreja aumentou"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual dos seguintes fatores foi o mais direto na transição do sistema feudal para o capitalista?",
+          "options": [
+            "Expansão das áreas de pastagem para gado",
+            "Redução da produção agrícola devido à escassez de mão de obra",
+            "Aumento da tributação feudal",
+            "Criação de novas leis de sucessão",
+            "Investimento em comércio e produção comercial"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual dos seguintes fatores foi o mais direto na transição do sistema feudal para o capitalista?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Expansão das áreas de pastagem para gado"
+            },
+            {
+              "id": "B",
+              "text": "Redução da produção agrícola devido à escassez de mão de obra"
+            },
+            {
+              "id": "C",
+              "text": "Aumento da tributação feudal"
+            },
+            {
+              "id": "D",
+              "text": "Criação de novas leis de sucessão"
+            },
+            {
+              "id": "E",
+              "text": "Investimento em comércio e produção comercial"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual fator foi fundamental para a mecanização na Revolução Industrial?",
+          "options": [
+            "Excesso de mão de obra feudal",
+            "Escassez de mão de obra que levou à busca por máquinas",
+            "Proteção das guildas",
+            "Diminuição do comércio internacional",
+            "Controle monárquico sobre a produção"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual fator foi fundamental para a mecanização na Revolução Industrial?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Excesso de mão de obra feudal"
+            },
+            {
+              "id": "B",
+              "text": "Escassez de mão de obra que levou à busca por máquinas"
+            },
+            {
+              "id": "C",
+              "text": "Proteção das guildas"
+            },
+            {
+              "id": "D",
+              "text": "Diminuição do comércio internacional"
+            },
+            {
+              "id": "E",
+              "text": "Controle monárquico sobre a produção"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual era a principal diferença nas motivações econômicas entre a Inglaterra e a França durante a crise feudal?",
+          "options": [
+            "Inglaterra focava no comércio e finanças, França na agricultura",
+            "Ambas buscavam financiar guerras",
+            "Ambas queriam expandir o território",
+            "Ambas buscavam reduzir impostos",
+            "Ambas desejavam melhorar a educação"
+          ],
+          "answer": "A",
+          "difficulty": "dificil",
+          "text": "Qual era a principal diferença nas motivações econômicas entre a Inglaterra e a França durante a crise feudal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Inglaterra focava no comércio e finanças, França na agricultura"
+            },
+            {
+              "id": "B",
+              "text": "Ambas buscavam financiar guerras"
+            },
+            {
+              "id": "C",
+              "text": "Ambas queriam expandir o território"
+            },
+            {
+              "id": "D",
+              "text": "Ambas buscavam reduzir impostos"
+            },
+            {
+              "id": "E",
+              "text": "Ambas desejavam melhorar a educação"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o papel do Estado na facilitação da emergência do capitalismo mercantil?",
+          "options": [
+            "Proibiu todo comércio externo",
+            "Promoveu a criação de colônias e incentivou a abertura de mercados",
+            "Manteve o controle total sobre a produção agrícola",
+            "Eliminou todas as tarifas comerciais",
+            "Centralizou a produção de bens de consumo"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi o papel do Estado na facilitação da emergência do capitalismo mercantil?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Proibiu todo comércio externo"
+            },
+            {
+              "id": "B",
+              "text": "Promoveu a criação de colônias e incentivou a abertura de mercados"
+            },
+            {
+              "id": "C",
+              "text": "Manteve o controle total sobre a produção agrícola"
+            },
+            {
+              "id": "D",
+              "text": "Eliminou todas as tarifas comerciais"
+            },
+            {
+              "id": "E",
+              "text": "Centralizou a produção de bens de consumo"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "De que maneira o descobrimento das Américas impactou a transição do feudalismo ao capitalismo?",
+          "options": [
+            "Reduziu a necessidade de mão de obra",
+            "Aumentou a demanda por produtos agrícolas",
+            "Gerou influxo de metais preciosos que estimulou o comércio",
+            "Diminuiu a importância do comércio interno",
+            "Contribuiu para a decadência da Igreja"
+          ],
+          "answer": "C",
+          "difficulty": "dificil",
+          "text": "De que maneira o descobrimento das Américas impactou a transição do feudalismo ao capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduziu a necessidade de mão de obra"
+            },
+            {
+              "id": "B",
+              "text": "Aumentou a demanda por produtos agrícolas"
+            },
+            {
+              "id": "C",
+              "text": "Gerou influxo de metais preciosos que estimulou o comércio"
+            },
+            {
+              "id": "D",
+              "text": "Diminuiu a importância do comércio interno"
+            },
+            {
+              "id": "E",
+              "text": "Contribuiu para a decadência da Igreja"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Avalie a hipótese de que a Peste Negra foi o fator decisivo para o colapso do feudalismo.",
+          "options": [
+            "Verdadeira, pois reduzida a população e aumentou os salários",
+            "Falsa, pois o feudalismo persistiu após a peste",
+            "Parcialmente verdadeira, pois acelerou mudanças já em curso",
+            "Irrelevante, pois o colapso ocorreu por outros motivos",
+            "Não aplicável"
+          ],
+          "answer": "A",
+          "difficulty": "dificil",
+          "text": "Avalie a hipótese de que a Peste Negra foi o fator decisivo para o colapso do feudalismo.",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Verdadeira, pois reduzida a população e aumentou os salários"
+            },
+            {
+              "id": "B",
+              "text": "Falsa, pois o feudalismo persistiu após a peste"
+            },
+            {
+              "id": "C",
+              "text": "Parcialmente verdadeira, pois acelerou mudanças já em curso"
+            },
+            {
+              "id": "D",
+              "text": "Irrelevante, pois o colapso ocorreu por outros motivos"
+            },
+            {
+              "id": "E",
+              "text": "Não aplicável"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Sintetize os fatores econômicos, sociais e políticos que contribuíram para a emergência do capitalismo mercantil na Europa do século XV.",
+          "options": [
+            "Crescimento do comércio, aumento da classe burguesa, centralização estatal",
+            "Diminuição do comércio, diminuição da população, forte controle eclesiástico",
+            "Expansão agrícola, manutenção da servidão, forte monarquia",
+            "Redução de impostos, expansão de terras, centralização militar",
+            "Instabilidade política, migração de povos, queda da produção"
+          ],
+          "answer": "A",
+          "difficulty": "dificil",
+          "text": "Sintetize os fatores econômicos, sociais e políticos que contribuíram para a emergência do capitalismo mercantil na Europa do século XV.",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Crescimento do comércio, aumento da classe burguesa, centralização estatal"
+            },
+            {
+              "id": "B",
+              "text": "Diminuição do comércio, diminuição da população, forte controle eclesiástico"
+            },
+            {
+              "id": "C",
+              "text": "Expansão agrícola, manutenção da servidão, forte monarquia"
+            },
+            {
+              "id": "D",
+              "text": "Redução de impostos, expansão de terras, centralização militar"
+            },
+            {
+              "id": "E",
+              "text": "Instabilidade política, migração de povos, queda da produção"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual evento é tipicamente considerado o marco inicial da transição para o capitalismo?",
+          "options": [
+            "Assinatura da Magna Carta (1215)",
+            "Descobrimento da América (1492)",
+            "Invenção da imprensa (1440)",
+            "Revolução Francesa (1789)",
+            "Guerra dos Trinta Anos (1618-1648)"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual evento é tipicamente considerado o marco inicial da transição para o capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Assinatura da Magna Carta (1215)"
+            },
+            {
+              "id": "B",
+              "text": "Descobrimento da América (1492)"
+            },
+            {
+              "id": "C",
+              "text": "Invenção da imprensa (1440)"
+            },
+            {
+              "id": "D",
+              "text": "Revolução Francesa (1789)"
+            },
+            {
+              "id": "E",
+              "text": "Guerra dos Trinta Anos (1618-1648)"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o primeiro passo concreto para a emergência do capitalismo mercantil?",
+          "options": [
+            "Assinatura da Magna Carta",
+            "Descobrimento da América",
+            "Invenção da imprensa",
+            "Reforma Protestante",
+            "Guerra dos Trinta Anos"
+          ],
+          "answer": "C",
+          "difficulty": "dificil",
+          "text": "Qual foi o primeiro passo concreto para a emergência do capitalismo mercantil?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Assinatura da Magna Carta"
+            },
+            {
+              "id": "B",
+              "text": "Descobrimento da América"
+            },
+            {
+              "id": "C",
+              "text": "Invenção da imprensa"
+            },
+            {
+              "id": "D",
+              "text": "Reforma Protestante"
+            },
+            {
+              "id": "E",
+              "text": "Guerra dos Trinta Anos"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o impacto das rotas comerciais na emergência do capitalismo?",
+          "options": [
+            "Isolou os povos",
+            "Criou redes de troca que ampliaram o conhecimento mútuo",
+            "Diminuiu a demanda por produtos",
+            "Reduziu a diversidade cultural",
+            "Eliminou a necessidade de navegação"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi o impacto das rotas comerciais na emergência do capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Isolou os povos"
+            },
+            {
+              "id": "B",
+              "text": "Criou redes de troca que ampliaram o conhecimento mútuo"
+            },
+            {
+              "id": "C",
+              "text": "Diminuiu a demanda por produtos"
+            },
+            {
+              "id": "D",
+              "text": "Reduziu a diversidade cultural"
+            },
+            {
+              "id": "E",
+              "text": "Eliminou a necessidade de navegação"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o impacto da Peste Negra na mão de obra e nos salários?",
+          "options": [
+            "Aumentou a mão de obra e reduziu salários",
+            "Reduziu a mão de obra e aumentou salários",
+            "Não teve efeito",
+            "Aumentou a produção agrícola",
+            "Reduziu o comércio"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi o impacto da Peste Negra na mão de obra e nos salários?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Aumentou a mão de obra e reduziu salários"
+            },
+            {
+              "id": "B",
+              "text": "Reduziu a mão de obra e aumentou salários"
+            },
+            {
+              "id": "C",
+              "text": "Não teve efeito"
+            },
+            {
+              "id": "D",
+              "text": "Aumentou a produção agrícola"
+            },
+            {
+              "id": "E",
+              "text": "Reduziu o comércio"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o papel da Liga Hanseática no desenvolvimento do capitalismo mercantil?",
+          "options": [
+            "Limitou o comércio a cidades germânicas",
+            "Facilitou a expansão do comércio na Europa Setentrional",
+            "Impediu a navegação marítima",
+            "Reduziu a importância do ouro",
+            "Aumentou a tributação feudal"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi o papel da Liga Hanseática no desenvolvimento do capitalismo mercantil?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Limitou o comércio a cidades germânicas"
+            },
+            {
+              "id": "B",
+              "text": "Facilitou a expansão do comércio na Europa Setentrional"
+            },
+            {
+              "id": "C",
+              "text": "Impediu a navegação marítima"
+            },
+            {
+              "id": "D",
+              "text": "Reduziu a importância do ouro"
+            },
+            {
+              "id": "E",
+              "text": "Aumentou a tributação feudal"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi a principal consequência da descoberta de novas terras para a economia europeia?",
+          "options": [
+            "Diminuiu a importância do comércio",
+            "Aumentou a demanda por produtos exóticos e impulsionou o mercantilismo",
+            "Reduziu a produção agrícola",
+            "Centralizou o poder feudal",
+            "Eliminou a necessidade de moedas"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi a principal consequência da descoberta de novas terras para a economia europeia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Diminuiu a importância do comércio"
+            },
+            {
+              "id": "B",
+              "text": "Aumentou a demanda por produtos exóticos e impulsionou o mercantilismo"
+            },
+            {
+              "id": "C",
+              "text": "Reduziu a produção agrícola"
+            },
+            {
+              "id": "D",
+              "text": "Centralizou o poder feudal"
+            },
+            {
+              "id": "E",
+              "text": "Eliminou a necessidade de moedas"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Reflita sobre as consequências sociais da transição do feudalismo para o capitalismo para a peasantry.",
+          "options": [
+            "Maior bem-estar e redução da pobreza",
+            "Aumento da exploração e migração rural-urbana",
+            "Manteve as mesmas condições de vida",
+            "Redução da influência da Igreja",
+            "Aumento da produção agrícola"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Reflita sobre as consequências sociais da transição do feudalismo para o capitalismo para a peasantry.",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Maior bem-estar e redução da pobreza"
+            },
+            {
+              "id": "B",
+              "text": "Aumento da exploração e migração rural-urbana"
+            },
+            {
+              "id": "C",
+              "text": "Manteve as mesmas condições de vida"
+            },
+            {
+              "id": "D",
+              "text": "Redução da influência da Igreja"
+            },
+            {
+              "id": "E",
+              "text": "Aumento da produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual explorador chegou à América em 1492?",
+          "options": [
+            "Cristóvão Colombo",
+            "Vasco da Gama",
+            "Fernão de Magalhães",
+            "Bartolomeu Dias",
+            "Pedro Álvares Cabral"
+          ],
+          "answer": "A",
+          "difficulty": "facil",
+          "text": "Qual explorador chegou à América em 1492?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Cristóvão Colombo"
+            },
+            {
+              "id": "B",
+              "text": "Vasco da Gama"
+            },
+            {
+              "id": "C",
+              "text": "Fernão de Magalhães"
+            },
+            {
+              "id": "D",
+              "text": "Bartolomeu Dias"
+            },
+            {
+              "id": "E",
+              "text": "Pedro Álvares Cabral"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "O que significa 'Renaissance'?",
+          "options": [
+            "Renascimento artístico e cultural",
+            "Renovação política",
+            "Reconstrução de cidades",
+            "Retorno ao feudalismo",
+            "Renovação religiosa"
+          ],
+          "answer": "A",
+          "difficulty": "facil",
+          "text": "O que significa 'Renaissance'?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Renascimento artístico e cultural"
+            },
+            {
+              "id": "B",
+              "text": "Renovação política"
+            },
+            {
+              "id": "C",
+              "text": "Reconstrução de cidades"
+            },
+            {
+              "id": "D",
+              "text": "Retorno ao feudalismo"
+            },
+            {
+              "id": "E",
+              "text": "Renovação religiosa"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 32,
+          "originalNumber": "32",
+          "label": "Questão 32",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual instrumento permitiu observações mais precisas do céu?",
+          "options": [
+            "Telescópio",
+            "Microscópio",
+            "Compasso",
+            "Relógio de sol",
+            "Astrolábio"
+          ],
+          "answer": "A",
+          "difficulty": "facil",
+          "text": "Qual instrumento permitiu observações mais precisas do céu?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Telescópio"
+            },
+            {
+              "id": "B",
+              "text": "Microscópio"
+            },
+            {
+              "id": "C",
+              "text": "Compasso"
+            },
+            {
+              "id": "D",
+              "text": "Relógio de sol"
+            },
+            {
+              "id": "E",
+              "text": "Astrolábio"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 33,
+          "originalNumber": "33",
+          "label": "Questão 33",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual movimento intelectual enfatizou o razão e o individualismo?",
+          "options": [
+            "Iluminismo",
+            "Renascimento",
+            "Reforma Protestante",
+            "Humanismo",
+            "Absolutismo"
+          ],
+          "answer": "D",
+          "difficulty": "facil",
+          "text": "Qual movimento intelectual enfatizou o razão e o individualismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Iluminismo"
+            },
+            {
+              "id": "B",
+              "text": "Renascimento"
+            },
+            {
+              "id": "C",
+              "text": "Reforma Protestante"
+            },
+            {
+              "id": "D",
+              "text": "Humanismo"
+            },
+            {
+              "id": "E",
+              "text": "Absolutismo"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 34,
+          "originalNumber": "34",
+          "label": "Questão 34",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Quem pintou 'O Nascimento de Vênus'?",
+          "options": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Sandro Botticelli",
+            "Raphael",
+            "Caravaggio"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Quem pintou 'O Nascimento de Vênus'?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Leonardo da Vinci"
+            },
+            {
+              "id": "B",
+              "text": "Michelangelo"
+            },
+            {
+              "id": "C",
+              "text": "Sandro Botticelli"
+            },
+            {
+              "id": "D",
+              "text": "Raphael"
+            },
+            {
+              "id": "E",
+              "text": "Caravaggio"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 35,
+          "originalNumber": "35",
+          "label": "Questão 35",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Quem inventou a prensa de imprensa?",
+          "options": [
+            "Gutenberg",
+            "Da Vinci",
+            "Copernicus",
+            "Colombo",
+            "Magalhães"
+          ],
+          "answer": "A",
+          "difficulty": "facil",
+          "text": "Quem inventou a prensa de imprensa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Gutenberg"
+            },
+            {
+              "id": "B",
+              "text": "Da Vinci"
+            },
+            {
+              "id": "C",
+              "text": "Copernicus"
+            },
+            {
+              "id": "D",
+              "text": "Colombo"
+            },
+            {
+              "id": "E",
+              "text": "Magalhães"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 36,
+          "originalNumber": "36",
+          "label": "Questão 36",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual continente foi o principal foco das explorações europeias?",
+          "options": [
+            "África",
+            "Ásia",
+            "América",
+            "Oceania",
+            "Antártida"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual continente foi o principal foco das explorações europeias?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "África"
+            },
+            {
+              "id": "B",
+              "text": "Ásia"
+            },
+            {
+              "id": "C",
+              "text": "América"
+            },
+            {
+              "id": "D",
+              "text": "Oceania"
+            },
+            {
+              "id": "E",
+              "text": "Antártida"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 37,
+          "originalNumber": "37",
+          "label": "Questão 37",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual período marca a expansão das rotas comerciais europeias?",
+          "options": [
+            "Idade Média",
+            "Renascimento",
+            "Era das Descobertas",
+            "Iluminismo",
+            "Revolução Industrial"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual período marca a expansão das rotas comerciais europeias?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Idade Média"
+            },
+            {
+              "id": "B",
+              "text": "Renascimento"
+            },
+            {
+              "id": "C",
+              "text": "Era das Descobertas"
+            },
+            {
+              "id": "D",
+              "text": "Iluminismo"
+            },
+            {
+              "id": "E",
+              "text": "Revolução Industrial"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 38,
+          "originalNumber": "38",
+          "label": "Questão 38",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Como a expansão das rotas marítimas afetou a visão dos europeus sobre outras culturas?",
+          "options": [
+            "Isolamento cultural",
+            "Maior tolerância e curiosidade",
+            "Desprezo total",
+            "Indiferença",
+            "Medo absoluto"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Como a expansão das rotas marítimas afetou a visão dos europeus sobre outras culturas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Isolamento cultural"
+            },
+            {
+              "id": "B",
+              "text": "Maior tolerância e curiosidade"
+            },
+            {
+              "id": "C",
+              "text": "Desprezo total"
+            },
+            {
+              "id": "D",
+              "text": "Indiferença"
+            },
+            {
+              "id": "E",
+              "text": "Medo absoluto"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 39,
+          "originalNumber": "39",
+          "label": "Questão 39",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "De que maneira o Renascimento influenciou o pensamento científico?",
+          "options": [
+            "Rejeitou a observação empírica",
+            "Promoveu a investigação e questionamento de autoridades",
+            "Focou apenas nas artes",
+            "Eliminou a necessidade de educação",
+            "Centralizou o poder eclesiástico"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "De que maneira o Renascimento influenciou o pensamento científico?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Rejeitou a observação empírica"
+            },
+            {
+              "id": "B",
+              "text": "Promoveu a investigação e questionamento de autoridades"
+            },
+            {
+              "id": "C",
+              "text": "Focou apenas nas artes"
+            },
+            {
+              "id": "D",
+              "text": "Eliminou a necessidade de educação"
+            },
+            {
+              "id": "E",
+              "text": "Centralizou o poder eclesiástico"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 40,
+          "originalNumber": "40",
+          "label": "Questão 40",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o impacto da invenção do telescópio na astronomia e na filosofia?",
+          "options": [
+            "Diminuiu a precisão das medições",
+            "Confirmou o geocentrismo",
+            "Desafiou ideias aristotélicas e apoiou o heliocentrismo",
+            "Eliminou a necessidade de observação",
+            "Aumentou a dependência da Igreja"
+          ],
+          "answer": "C",
+          "difficulty": "media",
+          "text": "Qual foi o impacto da invenção do telescópio na astronomia e na filosofia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Diminuiu a precisão das medições"
+            },
+            {
+              "id": "B",
+              "text": "Confirmou o geocentrismo"
+            },
+            {
+              "id": "C",
+              "text": "Desafiou ideias aristotélicas e apoiou o heliocentrismo"
+            },
+            {
+              "id": "D",
+              "text": "Eliminou a necessidade de observação"
+            },
+            {
+              "id": "E",
+              "text": "Aumentou a dependência da Igreja"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 41,
+          "originalNumber": "41",
+          "label": "Questão 41",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Como a difusão da educação humanista mudou a sociedade europeia?",
+          "options": [
+            "Reduziu a alfabetização",
+            "Aumentou a mobilidade social",
+            "Fortaleceu o poder feudal",
+            "Eliminou a necessidade de escolas",
+            "Centralizou o poder monárquico"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Como a difusão da educação humanista mudou a sociedade europeia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduziu a alfabetização"
+            },
+            {
+              "id": "B",
+              "text": "Aumentou a mobilidade social"
+            },
+            {
+              "id": "C",
+              "text": "Fortaleceu o poder feudal"
+            },
+            {
+              "id": "D",
+              "text": "Eliminou a necessidade de escolas"
+            },
+            {
+              "id": "E",
+              "text": "Centralizou o poder monárquico"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 42,
+          "originalNumber": "42",
+          "label": "Questão 42",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o papel da patronagem (ex.: Medici) na disseminação do conhecimento?",
+          "options": [
+            "Limitou a produção artística",
+            "Financiou artistas e estudiosos",
+            "Impediu a invenção della imprensa",
+            "Centralizou o comércio",
+            "Eliminou a diversidade cultural"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Qual o papel da patronagem (ex.: Medici) na disseminação do conhecimento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Limitou a produção artística"
+            },
+            {
+              "id": "B",
+              "text": "Financiou artistas e estudiosos"
+            },
+            {
+              "id": "C",
+              "text": "Impediu a invenção della imprensa"
+            },
+            {
+              "id": "D",
+              "text": "Centralizou o comércio"
+            },
+            {
+              "id": "E",
+              "text": "Eliminou a diversidade cultural"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 43,
+          "originalNumber": "43",
+          "label": "Questão 43",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi a consequência da troca Colombiana na percepção europeia?",
+          "options": [
+            "Redução da população",
+            "Introdução de novos culturas e alimentos",
+            "Controle militar direto",
+            "Diminuição do comércio",
+            "Isolamento político"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Qual foi a consequência da troca Colombiana na percepção europeia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Redução da população"
+            },
+            {
+              "id": "B",
+              "text": "Introdução de novos culturas e alimentos"
+            },
+            {
+              "id": "C",
+              "text": "Controle militar direto"
+            },
+            {
+              "id": "D",
+              "text": "Diminuição do comércio"
+            },
+            {
+              "id": "E",
+              "text": "Isolamento político"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 44,
+          "originalNumber": "44",
+          "label": "Questão 44",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "De que maneira a Revolução Científica contestou a cosmologia medieval?",
+          "options": [
+            "Confirmou o modelo geocêntrico",
+            "Propôs o modelo heliocêntrico e método experimental",
+            "Eliminou a necessidade de observação",
+            "Rejeitou a matemática",
+            "Centralizou o poder da Igreja"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "De que maneira a Revolução Científica contestou a cosmologia medieval?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Confirmou o modelo geocêntrico"
+            },
+            {
+              "id": "B",
+              "text": "Propôs o modelo heliocêntrico e método experimental"
+            },
+            {
+              "id": "C",
+              "text": "Eliminou a necessidade de observação"
+            },
+            {
+              "id": "D",
+              "text": "Rejeitou a matemática"
+            },
+            {
+              "id": "E",
+              "text": "Centralizou o poder da Igreja"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 45,
+          "originalNumber": "45",
+          "label": "Questão 45",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o efeito da Reforma Protestante na abertura mental dos europeus?",
+          "options": [
+            "Endureceu a mentalidade religiosa",
+            "Promoveu a liberdade de consciência e questionamento",
+            "Eliminou a diversidade de crenças",
+            "Fortaleceu a autoridade papal",
+            "Impediu a imprensa"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Qual foi o efeito da Reforma Protestante na abertura mental dos europeus?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Endureceu a mentalidade religiosa"
+            },
+            {
+              "id": "B",
+              "text": "Promoveu a liberdade de consciência e questionamento"
+            },
+            {
+              "id": "C",
+              "text": "Eliminou a diversidade de crenças"
+            },
+            {
+              "id": "D",
+              "text": "Fortaleceu a autoridade papal"
+            },
+            {
+              "id": "E",
+              "text": "Impediu a imprensa"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 46,
+          "originalNumber": "46",
+          "label": "Questão 46",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Analise como as viagens de Colombo, Vasco da Gama e Magalhães ampliaram os horizontes físicos e mentais dos europeus.",
+          "options": [
+            "Apenas ampliaram o conhecimento geográfico",
+            "Introduziram novas religiões",
+            "Expandidam o comércio e a ideia de mundo como espaço de oportunidades",
+            "Reduziram a importância da Igreja",
+            "Diminuíram a produção agrícola"
+          ],
+          "answer": "C",
+          "difficulty": "dificil",
+          "text": "Analise como as viagens de Colombo, Vasco da Gama e Magalhães ampliaram os horizontes físicos e mentais dos europeus.",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Apenas ampliaram o conhecimento geográfico"
+            },
+            {
+              "id": "B",
+              "text": "Introduziram novas religiões"
+            },
+            {
+              "id": "C",
+              "text": "Expandidam o comércio e a ideia de mundo como espaço de oportunidades"
+            },
+            {
+              "id": "D",
+              "text": "Reduziram a importância da Igreja"
+            },
+            {
+              "id": "E",
+              "text": "Diminuíram a produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 47,
+          "originalNumber": "47",
+          "label": "Questão 47",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "De que forma o Renascimento contribuiu para a ampliação dos horizontes mentais?",
+          "options": [
+            "Limitou a educação a elite",
+            "Promoveu o individualismo e o questionamento de autoridades",
+            "Eliminou a arte",
+            "Rejeitou a ciência",
+            "Centralizou o poder monárquico"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "De que forma o Renascimento contribuiu para a ampliação dos horizontes mentais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Limitou a educação a elite"
+            },
+            {
+              "id": "B",
+              "text": "Promoveu o individualismo e o questionamento de autoridades"
+            },
+            {
+              "id": "C",
+              "text": "Eliminou a arte"
+            },
+            {
+              "id": "D",
+              "text": "Rejeitou a ciência"
+            },
+            {
+              "id": "E",
+              "text": "Centralizou o poder monárquico"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 48,
+          "originalNumber": "48",
+          "label": "Questão 48",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Compare as motivações econômicas e intelectuais das viagens de Colombo e da Reforma Protestante.",
+          "options": [
+            "Ambas buscaram riqueza material",
+            "Ambas buscaram expansão territorial",
+            "Colombo motivou-se por riqueza e prestígio, enquanto a Reforma buscou liberdade de consciência",
+            "Ambos motivados por desejo de converter não‑crentes",
+            "Ambos motivados por desejo de melhorar a agricultura"
+          ],
+          "answer": "C",
+          "difficulty": "dificil",
+          "text": "Compare as motivações econômicas e intelectuais das viagens de Colombo e da Reforma Protestante.",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ambas buscaram riqueza material"
+            },
+            {
+              "id": "B",
+              "text": "Ambas buscaram expansão territorial"
+            },
+            {
+              "id": "C",
+              "text": "Colombo motivou-se por riqueza e prestígio, enquanto a Reforma buscou liberdade de consciência"
+            },
+            {
+              "id": "D",
+              "text": "Ambos motivados por desejo de converter não‑crentes"
+            },
+            {
+              "id": "E",
+              "text": "Ambos motivados por desejo de melhorar a agricultura"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 49,
+          "originalNumber": "49",
+          "label": "Questão 49",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o impacto da Imprensa de Gutenberg no pensamento europeu?",
+          "options": [
+            "Diminuiu a disseminação de ideias",
+            "Permitiu a rápida difusão de conhecimentos científicos e religiosos",
+            "Eliminou a necessidade de escrita",
+            "Centralizou o poder da Igreja",
+            "Reduziu a diversidade de línguas"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi o impacto da Imprensa de Gutenberg no pensamento europeu?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Diminuiu a disseminação de ideias"
+            },
+            {
+              "id": "B",
+              "text": "Permitiu a rápida difusão de conhecimentos científicos e religiosos"
+            },
+            {
+              "id": "C",
+              "text": "Eliminou a necessidade de escrita"
+            },
+            {
+              "id": "D",
+              "text": "Centralizou o poder da Igreja"
+            },
+            {
+              "id": "E",
+              "text": "Reduziu a diversidade de línguas"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 50,
+          "originalNumber": "50",
+          "label": "Questão 50",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Como a descoberta de novos continentes afetou a mentalidade de superioridade europeia?",
+          "options": [
+            "Reduziu a ideia de superioridade",
+            "Consolidou a crença de que Europa era o centro do mundo",
+            "Introduziu novas religiões",
+            "Diminuiu o interesse por exploração",
+            "Eliminou a necessidade de navegação"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Como a descoberta de novos continentes afetou a mentalidade de superioridade europeia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduziu a ideia de superioridade"
+            },
+            {
+              "id": "B",
+              "text": "Consolidou a crença de que Europa era o centro do mundo"
+            },
+            {
+              "id": "C",
+              "text": "Introduziu novas religiões"
+            },
+            {
+              "id": "D",
+              "text": "Diminuiu o interesse por exploração"
+            },
+            {
+              "id": "E",
+              "text": "Eliminou a necessidade de navegação"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 51,
+          "originalNumber": "51",
+          "label": "Questão 51",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi a importância da cartografia na ampliação dos horizontes mentais?",
+          "options": [
+            "Diminuiu a precisão das navegações",
+            "Permitiu a representação visual do mundo desconhecido",
+            "Eliminou a necessidade de exploração",
+            "Centralizou o poder da Igreja",
+            "Reduziu a diversidade cultural"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi a importância da cartografia na ampliação dos horizontes mentais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Diminuiu a precisão das navegações"
+            },
+            {
+              "id": "B",
+              "text": "Permitiu a representação visual do mundo desconhecido"
+            },
+            {
+              "id": "C",
+              "text": "Eliminou a necessidade de exploração"
+            },
+            {
+              "id": "D",
+              "text": "Centralizou o poder da Igreja"
+            },
+            {
+              "id": "E",
+              "text": "Reduziu a diversidade cultural"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 52,
+          "originalNumber": "52",
+          "label": "Questão 52",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi a principal consequência da troca Colombiana para a Europa?",
+          "options": [
+            "Redução da população",
+            "Introdução de novos alimentos e culturas",
+            "Diminuição do comércio",
+            "Controle militar direto",
+            "Isolamento político"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual foi a principal consequência da troca Colombiana para a Europa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Redução da população"
+            },
+            {
+              "id": "B",
+              "text": "Introdução de novos alimentos e culturas"
+            },
+            {
+              "id": "C",
+              "text": "Diminuição do comércio"
+            },
+            {
+              "id": "D",
+              "text": "Controle militar direto"
+            },
+            {
+              "id": "E",
+              "text": "Isolamento político"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 53,
+          "originalNumber": "53",
+          "label": "Questão 53",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Reflita sobre como a expansão dos horizontes físicos e mentais do homem europeu moldou a identidade cultural contemporânea.",
+          "options": [
+            "Mantida a mentalidade medieval",
+            "Favoreceu o individualismo, o pensamento crítico e a diversidade cultural",
+            "Reduziu a importância da arte",
+            "Centralizou o poder monárquico",
+            "Eliminou a necessidade de educação"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Reflita sobre como a expansão dos horizontes físicos e mentais do homem europeu moldou a identidade cultural contemporânea.",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Mantida a mentalidade medieval"
+            },
+            {
+              "id": "B",
+              "text": "Favoreceu o individualismo, o pensamento crítico e a diversidade cultural"
+            },
+            {
+              "id": "C",
+              "text": "Reduziu a importância da arte"
+            },
+            {
+              "id": "D",
+              "text": "Centralizou o poder monárquico"
+            },
+            {
+              "id": "E",
+              "text": "Eliminou a necessidade de educação"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 54,
+          "originalNumber": "54",
+          "label": "Questão 54",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual é a principal característica das economias capitalistas?",
+          "options": [
+            "Propriedade coletiva dos meios de produção",
+            "Mercado livre e busca de lucro",
+            "Economia de subsistência",
+            "Planejamento central",
+            "Propriedade comunal"
+          ],
+          "answer": "B",
+          "difficulty": "facil",
+          "text": "Qual é a principal característica das economias capitalistas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Propriedade coletiva dos meios de produção"
+            },
+            {
+              "id": "B",
+              "text": "Mercado livre e busca de lucro"
+            },
+            {
+              "id": "C",
+              "text": "Economia de subsistência"
+            },
+            {
+              "id": "D",
+              "text": "Planejamento central"
+            },
+            {
+              "id": "E",
+              "text": "Propriedade comunal"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 55,
+          "originalNumber": "55",
+          "label": "Questão 55",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual país foi o primeiro a industrializar, marcando o início do capitalismo moderno?",
+          "options": [
+            "Alemanha",
+            "França",
+            "Reino Unido",
+            "Estados Unidos",
+            "Itália"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual país foi o primeiro a industrializar, marcando o início do capitalismo moderno?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Alemanha"
+            },
+            {
+              "id": "B",
+              "text": "França"
+            },
+            {
+              "id": "C",
+              "text": "Reino Unido"
+            },
+            {
+              "id": "D",
+              "text": "Estados Unidos"
+            },
+            {
+              "id": "E",
+              "text": "Itália"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 56,
+          "originalNumber": "56",
+          "label": "Questão 56",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual termo descreve a rede global de produção, comércio e investimento sob o capitalismo?",
+          "options": [
+            "Sistema feudal",
+            "Economia de subsistência",
+            "Sistema de mercado",
+            "Sistema mundial",
+            "Rede de subsistência"
+          ],
+          "answer": "D",
+          "difficulty": "facil",
+          "text": "Qual termo descreve a rede global de produção, comércio e investimento sob o capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Sistema feudal"
+            },
+            {
+              "id": "B",
+              "text": "Economia de subsistência"
+            },
+            {
+              "id": "C",
+              "text": "Sistema de mercado"
+            },
+            {
+              "id": "D",
+              "text": "Sistema mundial"
+            },
+            {
+              "id": "E",
+              "text": "Rede de subsistência"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 57,
+          "originalNumber": "57",
+          "label": "Questão 57",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual continente tem a maior concentração de empresas capitalistas?",
+          "options": [
+            "África",
+            "América do Sul",
+            "América do Norte",
+            "Europa",
+            "Oceania"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual continente tem a maior concentração de empresas capitalistas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "África"
+            },
+            {
+              "id": "B",
+              "text": "América do Sul"
+            },
+            {
+              "id": "C",
+              "text": "América do Norte"
+            },
+            {
+              "id": "D",
+              "text": "Europa"
+            },
+            {
+              "id": "E",
+              "text": "Oceania"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 58,
+          "originalNumber": "58",
+          "label": "Questão 58",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual modelo econômico enfatiza livre mercado e mínima intervenção estatal?",
+          "options": [
+            "Socialismo",
+            "Comunismo",
+            "Laissez‑faire",
+            "Economia planificada",
+            "Protecionismo"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual modelo econômico enfatiza livre mercado e mínima intervenção estatal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Socialismo"
+            },
+            {
+              "id": "B",
+              "text": "Comunismo"
+            },
+            {
+              "id": "C",
+              "text": "Laissez‑faire"
+            },
+            {
+              "id": "D",
+              "text": "Economia planificada"
+            },
+            {
+              "id": "E",
+              "text": "Protecionismo"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 59,
+          "originalNumber": "59",
+          "label": "Questão 59",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual fator geográfico favoreceu o surgimento do capitalismo no século XIX?",
+          "options": [
+            "Abundância de recursos naturais",
+            "Isolamento",
+            "Falta de transporte",
+            "Clima frio",
+            "Ausência de colonização"
+          ],
+          "answer": "A",
+          "difficulty": "facil",
+          "text": "Qual fator geográfico favoreceu o surgimento do capitalismo no século XIX?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Abundância de recursos naturais"
+            },
+            {
+              "id": "B",
+              "text": "Isolamento"
+            },
+            {
+              "id": "C",
+              "text": "Falta de transporte"
+            },
+            {
+              "id": "D",
+              "text": "Clima frio"
+            },
+            {
+              "id": "E",
+              "text": "Ausência de colonização"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 60,
+          "originalNumber": "60",
+          "label": "Questão 60",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual teoria explica la distribuição espacial do capital?",
+          "options": [
+            "Teoria da relatividade",
+            "Teoria da Terra plana",
+            "Teoria do centro-periferia",
+            "Teoria da gravidade",
+            "Teoria da evolução"
+          ],
+          "answer": "C",
+          "difficulty": "facil",
+          "text": "Qual teoria explica la distribuição espacial do capital?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Teoria da relatividade"
+            },
+            {
+              "id": "B",
+              "text": "Teoria da Terra plana"
+            },
+            {
+              "id": "C",
+              "text": "Teoria do centro-periferia"
+            },
+            {
+              "id": "D",
+              "text": "Teoria da gravidade"
+            },
+            {
+              "id": "E",
+              "text": "Teoria da evolução"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 61,
+          "originalNumber": "61",
+          "label": "Questão 61",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual cidade é considerada a capital financeira mundial?",
+          "options": [
+            "Londres",
+            "Nova Iorque",
+            "Tóquio",
+            "Paris",
+            "Berlim"
+          ],
+          "answer": "B",
+          "difficulty": "facil",
+          "text": "Qual cidade é considerada a capital financeira mundial?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Londres"
+            },
+            {
+              "id": "B",
+              "text": "Nova Iorque"
+            },
+            {
+              "id": "C",
+              "text": "Tóquio"
+            },
+            {
+              "id": "D",
+              "text": "Paris"
+            },
+            {
+              "id": "E",
+              "text": "Berlim"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 62,
+          "originalNumber": "62",
+          "label": "Questão 62",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Como as regiões costeiras beneficiam o comércio capitalista?",
+          "options": [
+            "Reduzem custos de transporte",
+            "Facilitam exportação e importação",
+            "Limitam acesso a mercados",
+            "Reduzem produção",
+            "Aumentam burocracia"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Como as regiões costeiras beneficiam o comércio capitalista?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduzem custos de transporte"
+            },
+            {
+              "id": "B",
+              "text": "Facilitam exportação e importação"
+            },
+            {
+              "id": "C",
+              "text": "Limitam acesso a mercados"
+            },
+            {
+              "id": "D",
+              "text": "Reduzem produção"
+            },
+            {
+              "id": "E",
+              "text": "Aumentam burocracia"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 63,
+          "originalNumber": "63",
+          "label": "Questão 63",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "De que maneira as colônias suportam a economia capitalista?",
+          "options": [
+            "Fornecem mão de obra barata",
+            "Impõem restrições comerciais",
+            "Reduzem diversidade de produtos",
+            "Diminuem demanda",
+            "Centralizam produção"
+          ],
+          "answer": "A",
+          "difficulty": "media",
+          "text": "De que maneira as colônias suportam a economia capitalista?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fornecem mão de obra barata"
+            },
+            {
+              "id": "B",
+              "text": "Impõem restrições comerciais"
+            },
+            {
+              "id": "C",
+              "text": "Reduzem diversidade de produtos"
+            },
+            {
+              "id": "D",
+              "text": "Diminuem demanda"
+            },
+            {
+              "id": "E",
+              "text": "Centralizam produção"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 64,
+          "originalNumber": "64",
+          "label": "Questão 64",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Como as redes de transporte (ferrovias, portos) influenciam a expansão do capitalismo?",
+          "options": [
+            "Diminuem a eficiência logística",
+            "Reduzem custos de produção",
+            "Facilitam a integração de mercados e a distribuição de produtos",
+            "Limitam a expansão",
+            "Reduzem inovação"
+          ],
+          "answer": "C",
+          "difficulty": "media",
+          "text": "Como as redes de transporte (ferrovias, portos) influenciam a expansão do capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Diminuem a eficiência logística"
+            },
+            {
+              "id": "B",
+              "text": "Reduzem custos de produção"
+            },
+            {
+              "id": "C",
+              "text": "Facilitam a integração de mercados e a distribuição de produtos"
+            },
+            {
+              "id": "D",
+              "text": "Limitam a expansão"
+            },
+            {
+              "id": "E",
+              "text": "Reduzem inovação"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 65,
+          "originalNumber": "65",
+          "label": "Questão 65",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual conceito descreve a relação entre os países mais desenvolvidos (core) e os menos desenvolvidos (periphery) no capitalismo?",
+          "options": [
+            "Equilíbrio",
+            "Core‑periphery",
+            "Dependência",
+            "Autarquia",
+            "Convergência"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Qual conceito descreve a relação entre os países mais desenvolvidos (core) e os menos desenvolvidos (periphery) no capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Equilíbrio"
+            },
+            {
+              "id": "B",
+              "text": "Core‑periphery"
+            },
+            {
+              "id": "C",
+              "text": "Dependência"
+            },
+            {
+              "id": "D",
+              "text": "Autarquia"
+            },
+            {
+              "id": "E",
+              "text": "Convergência"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 66,
+          "originalNumber": "66",
+          "label": "Questão 66",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual impacto da urbanização no desenvolvimento capitalista?",
+          "options": [
+            "Reduz a força de trabalho",
+            "Aumenta a oferta de mão de obra e cria mercados",
+            "Diminui a inovação",
+            "Reduz investimentos",
+            "Centraliza produção agrícola"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Qual impacto da urbanização no desenvolvimento capitalista?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduz a força de trabalho"
+            },
+            {
+              "id": "B",
+              "text": "Aumenta a oferta de mão de obra e cria mercados"
+            },
+            {
+              "id": "C",
+              "text": "Diminui a inovação"
+            },
+            {
+              "id": "D",
+              "text": "Reduz investimentos"
+            },
+            {
+              "id": "E",
+              "text": "Centraliza produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 67,
+          "originalNumber": "67",
+          "label": "Questão 67",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Como os mercados financeiros globais afetam a localização do capital?",
+          "options": [
+            "Restringem a movimentação de capitais",
+            "Concentram o capital em centros financeiros globais",
+            "Eliminam necessidade de investimento",
+            "Diminuem diversificação",
+            "Centralizam produção agrícola"
+          ],
+          "answer": "B",
+          "difficulty": "media",
+          "text": "Como os mercados financeiros globais afetam a localização do capital?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Restringem a movimentação de capitais"
+            },
+            {
+              "id": "B",
+              "text": "Concentram o capital em centros financeiros globais"
+            },
+            {
+              "id": "C",
+              "text": "Eliminam necessidade de investimento"
+            },
+            {
+              "id": "D",
+              "text": "Diminuem diversificação"
+            },
+            {
+              "id": "E",
+              "text": "Centralizam produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 68,
+          "originalNumber": "68",
+          "label": "Questão 68",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o efeito das políticas neoliberais na estrutura espacial do capital?",
+          "options": [
+            "Reduziu a concentração de capital",
+            "Incentivou a descentralização da produção",
+            "Promoveu a globalização e a flexibilização de mercados",
+            "Eliminou a concorrência",
+            "Centralizou produção agrícola"
+          ],
+          "answer": "C",
+          "difficulty": "media",
+          "text": "Qual o efeito das políticas neoliberais na estrutura espacial do capital?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduziu a concentração de capital"
+            },
+            {
+              "id": "B",
+              "text": "Incentivou a descentralização da produção"
+            },
+            {
+              "id": "C",
+              "text": "Promoveu a globalização e a flexibilização de mercados"
+            },
+            {
+              "id": "D",
+              "text": "Eliminou a concorrência"
+            },
+            {
+              "id": "E",
+              "text": "Centralizou produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 69,
+          "originalNumber": "69",
+          "label": "Questão 69",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual relação existe entre clima e localização de indústrias capitalistas?",
+          "options": [
+            "Indústrias capitalistas são independentes do clima",
+            "Climas frios favorecem indústrias de alta tecnologia",
+            "Climas tropicais favorecem agricultura",
+            "Climas quentes favorecem produção de recursos naturais",
+            "Climas temperados favorecem a localização de indústrias capitalistas"
+          ],
+          "answer": "E",
+          "difficulty": "media",
+          "text": "Qual relação existe entre clima e localização de indústrias capitalistas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Indústrias capitalistas são independentes do clima"
+            },
+            {
+              "id": "B",
+              "text": "Climas frios favorecem indústrias de alta tecnologia"
+            },
+            {
+              "id": "C",
+              "text": "Climas tropicais favorecem agricultura"
+            },
+            {
+              "id": "D",
+              "text": "Climas quentes favorecem produção de recursos naturais"
+            },
+            {
+              "id": "E",
+              "text": "Climas temperados favorecem a localização de indústrias capitalistas"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 70,
+          "originalNumber": "70",
+          "label": "Questão 70",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o impacto das multinacionais na reorganização geográfica do capitalismo?",
+          "options": [
+            "Reduziram a importância do comércio internacional",
+            "Descentralizaram a produção para múltiplos países",
+            "Centralizaram a produção em um único país",
+            "Eliminaram a necessidade de investimento",
+            "Reduziram a diversidade cultural"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual o impacto das multinacionais na reorganização geográfica do capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduziram a importância do comércio internacional"
+            },
+            {
+              "id": "B",
+              "text": "Descentralizaram a produção para múltiplos países"
+            },
+            {
+              "id": "C",
+              "text": "Centralizaram a produção em um único país"
+            },
+            {
+              "id": "D",
+              "text": "Eliminaram a necessidade de investimento"
+            },
+            {
+              "id": "E",
+              "text": "Reduziram a diversidade cultural"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 71,
+          "originalNumber": "71",
+          "label": "Questão 71",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o impacto das infraestruturas digitais na concentração de capital?",
+          "options": [
+            "Reduziram a necessidade de infraestrutura física",
+            "Permitiram a globalização do capital e concentração em hubs tecnológicos",
+            "Reduziram a velocidade de transferência de capital",
+            "Eliminaram a necessidade de investimento",
+            "Centralizaram a produção agrícola"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual o impacto das infraestruturas digitais na concentração de capital?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduziram a necessidade de infraestrutura física"
+            },
+            {
+              "id": "B",
+              "text": "Permitiram a globalização do capital e concentração em hubs tecnológicos"
+            },
+            {
+              "id": "C",
+              "text": "Reduziram a velocidade de transferência de capital"
+            },
+            {
+              "id": "D",
+              "text": "Eliminaram a necessidade de investimento"
+            },
+            {
+              "id": "E",
+              "text": "Centralizaram a produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 72,
+          "originalNumber": "72",
+          "label": "Questão 72",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual foi o efeito das guerras comerciais (trade wars) na relocalização de cadeias de produção?",
+          "options": [
+            "Forçaram a relocalização de cadeias para países aliados",
+            "Eliminaram a necessidade de cadeias globais",
+            "Reduziram a importância do capital",
+            "Aumentaram a uniformidade das cadeias",
+            "Diminuíram a necessidade de investimento"
+          ],
+          "answer": "A",
+          "difficulty": "dificil",
+          "text": "Qual foi o efeito das guerras comerciais (trade wars) na relocalização de cadeias de produção?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Forçaram a relocalização de cadeias para países aliados"
+            },
+            {
+              "id": "B",
+              "text": "Eliminaram a necessidade de cadeias globais"
+            },
+            {
+              "id": "C",
+              "text": "Reduziram a importância do capital"
+            },
+            {
+              "id": "D",
+              "text": "Aumentaram a uniformidade das cadeias"
+            },
+            {
+              "id": "E",
+              "text": "Diminuíram a necessidade de investimento"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 73,
+          "originalNumber": "73",
+          "label": "Questão 73",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual a importância da teoria dos sistemas mundiais para entender a geografia do capitalismo?",
+          "options": [
+            "Explica a distribuição de recursos naturais",
+            "Descreve a hierarquia centro‑periferia e a dependência",
+            "Analisa o clima",
+            "Estuda a evolução da linguagem",
+            "Avalia a influência da religião"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual a importância da teoria dos sistemas mundiais para entender a geografia do capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Explica a distribuição de recursos naturais"
+            },
+            {
+              "id": "B",
+              "text": "Descreve a hierarquia centro‑periferia e a dependência"
+            },
+            {
+              "id": "C",
+              "text": "Analisa o clima"
+            },
+            {
+              "id": "D",
+              "text": "Estuda a evolução da linguagem"
+            },
+            {
+              "id": "E",
+              "text": "Avalia a influência da religião"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 74,
+          "originalNumber": "74",
+          "label": "Questão 74",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o impacto da exploração de recursos naturais na geografia do capitalismo?",
+          "options": [
+            "Reduz a necessidade de localização",
+            "Concentra indústrias nas regiões ricas em recursos",
+            "Reduz a necessidade de transporte",
+            "Centraliza a produção agrícola",
+            "Diminui a diversidade de produtos"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual o impacto da exploração de recursos naturais na geografia do capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduz a necessidade de localização"
+            },
+            {
+              "id": "B",
+              "text": "Concentra indústrias nas regiões ricas em recursos"
+            },
+            {
+              "id": "C",
+              "text": "Reduz a necessidade de transporte"
+            },
+            {
+              "id": "D",
+              "text": "Centraliza a produção agrícola"
+            },
+            {
+              "id": "E",
+              "text": "Diminui a diversidade de produtos"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 75,
+          "originalNumber": "75",
+          "label": "Questão 75",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o efeito das mudanças climáticas na localização das indústrias capitalistas?",
+          "options": [
+            "Indústrias migram para regiões de clima ameno",
+            "Não há efeito significativo",
+            "Forçam a relocação de produção para áreas com melhores condições climáticas",
+            "Reduzem a necessidade de energia",
+            "Aumentam a produção agrícola"
+          ],
+          "answer": "C",
+          "difficulty": "dificil",
+          "text": "Qual o efeito das mudanças climáticas na localização das indústrias capitalistas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Indústrias migram para regiões de clima ameno"
+            },
+            {
+              "id": "B",
+              "text": "Não há efeito significativo"
+            },
+            {
+              "id": "C",
+              "text": "Forçam a relocação de produção para áreas com melhores condições climáticas"
+            },
+            {
+              "id": "D",
+              "text": "Reduzem a necessidade de energia"
+            },
+            {
+              "id": "E",
+              "text": "Aumentam a produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 76,
+          "originalNumber": "76",
+          "label": "Questão 76",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o papel dos clusteres industriais na geografia do capitalismo?",
+          "options": [
+            "Reduzir a dispersão de capital",
+            "Concentrar empresas em áreas específicas",
+            "Eliminar a necessidade de logística",
+            "Reduzir a inovação",
+            "Centralizar a produção agrícola"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual o papel dos clusteres industriais na geografia do capitalismo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduzir a dispersão de capital"
+            },
+            {
+              "id": "B",
+              "text": "Concentrar empresas em áreas específicas"
+            },
+            {
+              "id": "C",
+              "text": "Eliminar a necessidade de logística"
+            },
+            {
+              "id": "D",
+              "text": "Reduzir a inovação"
+            },
+            {
+              "id": "E",
+              "text": "Centralizar a produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 77,
+          "originalNumber": "77",
+          "label": "Questão 77",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o efeito das políticas de incentivo governamental na distribuição do capital?",
+          "options": [
+            "Concentram o capital em regiões favorecidas",
+            "Descentralizam o capital para áreas menos desenvolvidas",
+            "Eliminam a necessidade de investimento",
+            "Reduzem a concorrência",
+            "Centralizam a produção agrícola"
+          ],
+          "answer": "A",
+          "difficulty": "dificil",
+          "text": "Qual o efeito das políticas de incentivo governamental na distribuição do capital?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Concentram o capital em regiões favorecidas"
+            },
+            {
+              "id": "B",
+              "text": "Descentralizam o capital para áreas menos desenvolvidas"
+            },
+            {
+              "id": "C",
+              "text": "Eliminam a necessidade de investimento"
+            },
+            {
+              "id": "D",
+              "text": "Reduzem a concorrência"
+            },
+            {
+              "id": "E",
+              "text": "Centralizam a produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 78,
+          "originalNumber": "78",
+          "label": "Questão 78",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o efeito da automação na concentração espacial do capital?",
+          "options": [
+            "Reduz a necessidade de localização física",
+            "Concentra capital em áreas com alta tecnologia",
+            "Diminui a importância do capital",
+            "Reduz a necessidade de mão de obra",
+            "Reduz a diversidade de produtos"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual o efeito da automação na concentração espacial do capital?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduz a necessidade de localização física"
+            },
+            {
+              "id": "B",
+              "text": "Concentra capital em áreas com alta tecnologia"
+            },
+            {
+              "id": "C",
+              "text": "Diminui a importância do capital"
+            },
+            {
+              "id": "D",
+              "text": "Reduz a necessidade de mão de obra"
+            },
+            {
+              "id": "E",
+              "text": "Reduz a diversidade de produtos"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 79,
+          "originalNumber": "79",
+          "label": "Questão 79",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o impacto das guerras e conflitos geopolíticos na relocação de cadeias produtivas?",
+          "options": [
+            "Forçam a relocação para regiões estáveis",
+            "Eliminam a necessidade de produção",
+            "Reduzem a diversificação",
+            "Aumentam a uniformidade das cadeias",
+            "Reduzem a necessidade de investimento"
+          ],
+          "answer": "A",
+          "difficulty": "dificil",
+          "text": "Qual o impacto das guerras e conflitos geopolíticos na relocação de cadeias produtivas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Forçam a relocação para regiões estáveis"
+            },
+            {
+              "id": "B",
+              "text": "Eliminam a necessidade de produção"
+            },
+            {
+              "id": "C",
+              "text": "Reduzem a diversificação"
+            },
+            {
+              "id": "D",
+              "text": "Aumentam a uniformidade das cadeias"
+            },
+            {
+              "id": "E",
+              "text": "Reduzem a necessidade de investimento"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 80,
+          "originalNumber": "80",
+          "label": "Questão 80",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o papel das diasporas e migrações na disseminação de práticas capitalistas?",
+          "options": [
+            "Reduzem a diversidade cultural",
+            "Facilitam a transferência de conhecimentos e redes de negócios",
+            "Eliminam a necessidade de investimento",
+            "Reduzem a diversidade de produtos",
+            "Centralizam produção"
+          ],
+          "answer": "B",
+          "difficulty": "dificil",
+          "text": "Qual o papel das diasporas e migrações na disseminação de práticas capitalistas?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reduzem a diversidade cultural"
+            },
+            {
+              "id": "B",
+              "text": "Facilitam a transferência de conhecimentos e redes de negócios"
+            },
+            {
+              "id": "C",
+              "text": "Eliminam a necessidade de investimento"
+            },
+            {
+              "id": "D",
+              "text": "Reduzem a diversidade de produtos"
+            },
+            {
+              "id": "E",
+              "text": "Centralizam produção"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 81,
+          "originalNumber": "81",
+          "label": "Questão 81",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        },
+        {
+          "question": "Qual o efeito das políticas de incentivo governamental na distribuição do capital?",
+          "options": [
+            "Concentram o capital em regiões favorecidas",
+            "Descentralizam o capital para áreas menos desenvolvidas",
+            "Eliminam a necessidade de investimento",
+            "Reduzem a concorrência",
+            "Centralizam a produção agrícola"
+          ],
+          "answer": "A",
+          "difficulty": "dificil",
+          "text": "Qual o efeito das políticas de incentivo governamental na distribuição do capital?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Concentram o capital em regiões favorecidas"
+            },
+            {
+              "id": "B",
+              "text": "Descentralizam o capital para áreas menos desenvolvidas"
+            },
+            {
+              "id": "C",
+              "text": "Eliminam a necessidade de investimento"
+            },
+            {
+              "id": "D",
+              "text": "Reduzem a concorrência"
+            },
+            {
+              "id": "E",
+              "text": "Centralizam a produção agrícola"
+            }
+          ],
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "type": "unica",
+          "expectedAnswer": "",
+          "estimatedMinutes": 1,
+          "id": 82,
+          "originalNumber": "82",
+          "label": "Questão 82",
+          "subject": "História > Transição do feudalismo ao capitalismo",
+          "assunto": "Transição do feudalismo ao capitalismo"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

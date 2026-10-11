@@ -1,0 +1,1066 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "QUIMICA-CARVAO-ATIVADO-2026",
+      "title": "Química — Carvão Ativado (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Carvão Ativado",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "O carvão ativado é material carbônico poroso (área superficial 500–1500 m²/g) produzido por pirólise de precursores (casca de coco, madeira, carvão mineral, turfa) seguida de ativação. A ativação física (vapor d'água/CO₂, 800–1000 °C) e química (H₃PO₄, ZnCl₂, KOH, 400–600 °C) diferem porque:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Física: gases oxidantes abrem poros; Química: agente desidrata/cruza ligações, cria poros a T menor."
+            },
+            {
+              "id": "A02",
+              "text": "Física usa ácidos; Química usa vapor."
+            },
+            {
+              "id": "A03",
+              "text": "Ambas iguais."
+            },
+            {
+              "id": "A04",
+              "text": "Física só usa madeira; Química só usa coco."
+            },
+            {
+              "id": "A05",
+              "text": "Química não produz poros."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A estrutura porosa do carvão ativado inclui: microporos (< 2 nm, > 90% área), mesoporos (2–50 nm, transporte), macroporos (> 50 nm, entrada). A adsorção de moléculas pequenas (ex: cloro, VOCs) ocorre principalmente em:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Microporos (preenchimento de volume)."
+            },
+            {
+              "id": "A02",
+              "text": "Mesoporos (multicamada)."
+            },
+            {
+              "id": "A03",
+              "text": "Macroporos (superfície externa)."
+            },
+            {
+              "id": "A04",
+              "text": "Não adsorve."
+            },
+            {
+              "id": "A05",
+              "text": "Apenas na superfície externa."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "A adsorção em carvão ativado segue isotermas. A isoterma de Langmuir assume: monocamada, sítios idênticos, sem interação. A equação: q = q_max·K·C / (1 + K·C). Em baixa concentração (K·C << 1), q ≈",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "q_max·K·C (linear, lei de Henry)."
+            },
+            {
+              "id": "A02",
+              "text": "q_max (saturação)."
+            },
+            {
+              "id": "A03",
+              "text": "K·C."
+            },
+            {
+              "id": "A04",
+              "text": "q_max/K."
+            },
+            {
+              "id": "A05",
+              "text": "C/q_max."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A isoterma de Freundlich (q = K·C^(1/n)) é empírica, heterogênea, multicamada. O expoente 1/n indica favorabilidade: se 1/n < 1, a isoterma é favorável (curva côncava). Para adsorção de fenol em carvão ativado, 1/n típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,3–0,5"
+            },
+            {
+              "id": "A02",
+              "text": "1,0–1,5"
+            },
+            {
+              "id": "A03",
+              "text": "2,0–3,0"
+            },
+            {
+              "id": "A04",
+              "text": "0,01–0,05"
+            },
+            {
+              "id": "A05",
+              "text": "5–10"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A remoção de cloro livre (HOCl/OCl⁻) por carvão ativado é reação catalítica na superfície: C* + HOCl → C*–O + Cl⁻ + H⁺ (C* = sítio ativo). O carvão é consumido lentamente (queima). A meia-vida de leito (tempo para breakthrough de cloro) depende de: vazão, concentração, tamanho partícula, profundidade leito. Para água potável (cloro 1–2 mg/L, EBCT 10 min), vida típica é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "6–18 meses"
+            },
+            {
+              "id": "A02",
+              "text": "1–2 semanas"
+            },
+            {
+              "id": "A03",
+              "text": "1–2 dias"
+            },
+            {
+              "id": "A04",
+              "text": "5–10 anos"
+            },
+            {
+              "id": "A05",
+              "text": "1 mês"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "A adsorção de compostos orgânicos (pesticidas, fármacos, THM, odor, cor) em carvão ativado é favorecida por: baixa polaridade, alto peso molecular, hidrofobicidade. A capacidade de adsorção (mg/g) correlaciona-se com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Coeficiente de partição octanol-água (log Kow); maior log Kow → maior adsorção."
+            },
+            {
+              "id": "A02",
+              "text": "Solubilidade em água (maior solubilidade → maior adsorção)."
+            },
+            {
+              "id": "A03",
+              "text": "Pressão de vapor."
+            },
+            {
+              "id": "A04",
+              "text": "Ponto de ebulição apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Cor do composto."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "O carvão ativado granular (GAC, 0,5–2 mm) em colunas de leito fixo opera com tempo de contato vazio (EBCT = V_leito / Q). Para remoção de orgânicos traços (µg/L), EBCT típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10–30 minutos"
+            },
+            {
+              "id": "A02",
+              "text": "1–2 minutos"
+            },
+            {
+              "id": "A03",
+              "text": "1–2 horas"
+            },
+            {
+              "id": "A04",
+              "text": "10–30 segundos"
+            },
+            {
+              "id": "A05",
+              "text": "8–12 horas"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "A competição por sítios de adsorção (matéria orgânica natural - NOM, ácidos húmicos/fúlvicos) reduz capacidade para contaminantes alvo. O efeito 'pré-carregamento' do leito com NOM:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ocupa microporos e sítios de alta energia; reduz vida útil para alvos."
+            },
+            {
+              "id": "A02",
+              "text": "Aumenta capacidade para alvos."
+            },
+            {
+              "id": "A03",
+              "text": "Não afeta."
+            },
+            {
+              "id": "A04",
+              "text": "Seleciona apenas alvos."
+            },
+            {
+              "id": "A05",
+              "text": "Remove NOM completamente."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "A regeneração térmica de carvão saturado (forno rotativo, leito fluidizado, 800–900 °C, atmosfera inerte/vapor) desorve/decompõe orgânicos. Rendimento típico de recuperação de massa:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "85–95% (perdas por queima/oxidação, atrito, cinzas)."
+            },
+            {
+              "id": "A02",
+              "text": "50–60%"
+            },
+            {
+              "id": "A03",
+              "text": "100%"
+            },
+            {
+              "id": "A04",
+              "text": "30–40%"
+            },
+            {
+              "id": "A05",
+              "text": "10–20%"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "A regeneração alternativa: extração com solvente (acetona, metanol), regeneração biológica (bioregeneração em leito), micro-ondas, supercrítico CO₂. A bioregeneração usa bactérias no leito para degradar adsorvidos. Vantagem:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Baixa temperatura; regenera in loco; economiza energia/transporte."
+            },
+            {
+              "id": "A02",
+              "text": "Mais rápida que térmica."
+            },
+            {
+              "id": "A03",
+              "text": "Remove inorgânicos."
+            },
+            {
+              "id": "A04",
+              "text": "Não requer controle."
+            },
+            {
+              "id": "A05",
+              "text": "Funciona para todos compostos."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O carvão ativado impregnado (com KMnO₄, Ag, I₂, KOH, H₃PO₄) remove espécies específicas por quimisorção/reação. Carvão com KMnO₄ remove: H₂S, SO₂, NOₓ, formaldeído, mercúrio elementar. O mecanismo é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Oxidação catalítica na superfície (MnO₂/KMnO₄ cicla); quimisorção irreversível."
+            },
+            {
+              "id": "A02",
+              "text": "Adsorção física reversível."
+            },
+            {
+              "id": "A03",
+              "text": "Precipitação de carbonato."
+            },
+            {
+              "id": "A04",
+              "text": "Troca iônica."
+            },
+            {
+              "id": "A04",
+              "text": "Complexação com EDTA."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "O carvão ativado em pó (PAC, < 0,1 mm) dosado diretamente no tanque de tratamento (coagulação/floculação) remove picos de contaminação (algas, derrames). Vantagem vs GAC:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Flexibilidade (dose conforme necessidade); menor custo capital; remove compostos de difusão lenta."
+            },
+            {
+              "id": "A02",
+              "text": "Regenerável in situ."
+            },
+            {
+              "id": "A03",
+              "text": "Não gera lodo."
+            },
+            {
+              "id": "A04",
+              "text": "Vida útil infinita."
+            },
+            {
+              "id": "A05",
+              "text": "Remove inorgânicos melhor."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A adsorção de íons metálicos (Pb²⁺, Hg²⁺, Cd²⁺, Cr⁶⁺, As) em carvão ativado é limitada (superfície neutra/negativa). Impregnação com grupos quelantes (tiol –SH, amina –NH₂, carboxila –COOH) melhora por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Quimisorção/qulação seletiva (complexação interna)."
+            },
+            {
+              "id": "A02",
+              "text": "Adsorção física apenas."
+            },
+            {
+              "id": "A03",
+              "text": "Precipitação de hidróxido."
+            },
+            {
+              "id": "A04",
+              "text": "Oxidação."
+            },
+            {
+              "id": "A05",
+              "text": "Redução."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O carvão ativado de casca de coco (microporoso, dureza alta) vs carvão de madeira (mesoporoso, menor dureza) vs carvão mineral (betuminoso, ampla distribuição). Para remoção de cloro e VOCs pequenos (cloroformo, TCE):",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Coco (alta microporosidade, dureza, baixa cinza)."
+            },
+            {
+              "id": "A02",
+              "text": "Madeira (melhor para moléculas grandes)."
+            },
+            {
+              "id": "A03",
+              "text": "Mineral (melhor para cloro)."
+            },
+            {
+              "id": "A04",
+              "text": "Todos iguais."
+            },
+            {
+              "id": "A05",
+              "text": "Qualquer um serve."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "O índice de iodo (mg I₂/g carvão) mede área acessível a moléculas pequenas (I₂, 0,28 nm). Índice de melanoidina (azul de metileno) mede mesoporos. Carvão para água potável (remoção cloro, orgânicos traços) deve ter índice de iodo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "> 900 mg/g (padrão AWWA B604: min 900–1000 mg/g)."
+            },
+            {
+              "id": "A02",
+              "text": "200–400 mg/g"
+            },
+            {
+              "id": "A04",
+              "text": "50–100 mg/g"
+            },
+            {
+              "id": "A05",
+              "text": "10000 mg/g"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "O número de mols de sítios ativos por grama (capacidade de troca iônica/quimiossorção) em carvão impregnado com KOH (básico) para remoção de H₂S/CO₂ é estimado por titulação de grupos ácidos (Boehm). Grupos ácidos típicos (carboxila, lactona, fenol) em carvão ativado somam:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,5–2,0 meq/g"
+            },
+            {
+              "id": "A02",
+              "text": "10–20 meq/g"
+            },
+            {
+              "id": "A03",
+              "text": "0,01–0,05 meq/g"
+            },
+            {
+              "id": "A04",
+              "text": "50–100 meq/g"
+            },
+            {
+              "id": "A05",
+              "text": "100–200 meq/g"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "A adsorção de PFAS (PFOA, PFOS) em carvão ativado é eficaz para cadeia longa (C8+), mas limitada para cadeia curta (C4–C6). A capacidade (µg/g) para PFOA em GAC virgem é tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10–50 µg/g (depende NOM, pH, vazão)"
+            },
+            {
+              "id": "A02",
+              "text": "1–5 mg/g"
+            },
+            {
+              "id": "A03",
+              "text": "100–500 mg/g"
+            },
+            {
+              "id": "A04",
+              "text": "1–5 µg/g"
+            },
+            {
+              "id": "A05",
+              "text": "1000–5000 µg/g"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "O carvão ativado em filtros de ponto de uso (jarros, torneiras) remove cloro, odor, sabor, alguns orgânicos. A vida útil do cartucho (capacidade de cloro) para família de 4 pessoas (200 L/dia, cloro 1 mg/L) com 100 g GAC (capacidade cloro ~5 g Cl/g carvão) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~2,5 meses"
+            },
+            {
+              "id": "A02",
+              "text": "~1 semana"
+            },
+            {
+              "id": "A03",
+              "text": "~1 ano"
+            },
+            {
+              "id": "A04",
+              "text": "~1 dia"
+            },
+            {
+              "id": "A05",
+              "text": "~10 anos"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "O carvão ativado em máscaras respiratórias (cartuchos) remove vapores orgânicos, gases ácidos, amônia. A capacidade de breakthrough (tempo até concentração saída = 1% entrada) para vapores de benzeno (100 ppm, fluxo 30 L/min) em cartucho 200 g é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~40–80 min"
+            },
+            {
+              "id": "A02",
+              "text": "~5 min"
+            },
+            {
+              "id": "A03",
+              "text": "~500 min"
+            },
+            {
+              "id": "A04",
+              "text": "~5000 min"
+            },
+            {
+              "id": "A05",
+              "text": "~1 min"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "A aplicação de carvão ativado em supercapacitores (EDLC - Electric Double Layer Capacitor) usa alta área superficial e condutividade. A capacitância específica (F/g) correlaciona-se com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Área superficial acessível a íons do eletrólito (microporos < 1 nm limitam íons grandes)."
+            },
+            {
+              "id": "A02",
+              "text": "Densidade aparente apenas."
+            },
+            {
+              "id": "A03",
+              "text": "Cor do carvão."
+            },
+            {
+              "id": "A04",
+              "text": "Precursor apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Cinzas apenas."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "A hidrogenação de carvão ativado (tratamento H₂, 400–600 °C) remove grupos oxigenados de superfície, torna superfície hidrofóbica/básica. Melhora adsorção de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Compostos hidrofóbicos (VOCs, pesticidas); piora adsorção de polares/iónicos."
+            },
+            {
+              "id": "A02",
+              "text": "Todos compostos igualmente."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas íons metálicos."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas inorgânicos."
+            },
+            {
+              "id": "A05",
+              "text": "Não muda nada."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "A oxidação de superfície (HNO₃, (NH₄)₂S₂O₈, O₃, ar/300 °C) introduz grupos carboxila, fenol, lactona, torna superfície hidrofílica/ácida. Melhora adsorção de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Íons metálicos (Pb, Cd, Cu), compostos polares, bases fracas; piora hidrofóbicos."
+            },
+            {
+              "id": "A02",
+              "text": "Todos igualmente."
+            },
+            {
+              "id": "A03",
+              "text": "Apenas VOCs."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas cloro."
+            },
+            {
+              "id": "A05",
+              "text": "Não muda."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O carvão ativado de fibra (ACF, diâmetro 5–20 µm) tem área superficial 1000–2500 m²/g, difusão rápida (curto caminho poroso). Vantagem vs GAC:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Cinética de adsorção 10–100x mais rápida; formato flexível (tecido, feltro, papel)."
+            },
+            {
+              "id": "A02",
+              "text": "Menor área superficial."
+            },
+            {
+              "id": "A03",
+              "text": "Mais barato."
+            },
+            {
+              "id": "A04",
+              "text": "Não adsorve orgânicos."
+            },
+            {
+              "id": "A05",
+              "text": "Só funciona em fase gasosa."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "A aplicação de carvão ativado em purificação de biogás (remoção H₂S, siloxanos, CO₂, H₂O) para biometano. H₂S remove-se por carvão impregnado (KOH, NaOH, KI, Fe₂O₃). Siloxanos (D4, D5, voláteis) removem-se por:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Adsorção física em carvão virgem (alta capacidade, regenerável térmico)."
+            },
+            {
+              "id": "A02",
+              "text": "Oxidação catalítica."
+            },
+            {
+              "id": "A03",
+              "text": "Absorção em água."
+            },
+            {
+              "id": "A04",
+              "text": "Condensação."
+            },
+            {
+              "id": "A05",
+              "text": "Filtração."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "O carvão ativado em tratamento de gases de combustão (remoção Hg⁰, dioxinas, furanos, NOₓ, SOₓ) injetado em pó (PAC) no duto antes do filtro de mangas. Para mercúrio elementar (Hg⁰), usa-se PAC impregnado com:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Enxofre, cloro, bromo, iodo, Se (formam HgS, HgCl₂, HgBr₂, HgI₂, HgSe insolúveis)."
+            },
+            {
+              "id": "A02",
+              "text": "KOH apenas."
+            },
+            {
+              "id": "A03",
+              "text": "HNO₃ apenas."
+            },
+            {
+              "id": "A04",
+              "text": "Apenas carvão virgem."
+            },
+            {
+              "id": "A05",
+              "text": "Apenas carvão de madeira."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "A adsorção de gás natural (metano) em carvão ativado para armazenamento veicular (ANG - Adsorbed Natural Gas) a 35 bar, 25 °C. A capacidade de entrega (working capacity) entre 35 bar e 5 bar em carvão otimizado (área 3000 m²/g, microporos 0,7–1 nm) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "150–180 v/v (STP)"
+            },
+            {
+              "id": "A02",
+              "text": "50–80 v/v"
+            },
+            {
+              "id": "A03",
+              "text": "10–20 v/v"
+            },
+            {
+              "id": "A04",
+              "text": "300–400 v/v"
+            },
+            {
+              "id": "A05",
+              "text": "1–5 v/v"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O carvão ativado como suporte de catalisadores (Pt, Pd, Ru, Au) em reações de hidrogenação, oxidação. A dispersão do metal (fração de átomos expostos) depende de: interação metal-suporte, grupos de superfície, porosidade. Grupos oxigenados (–COOH, –OH) no carvão:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ancoram precursores metálicos (complexação), promovem alta dispersão, partículas pequenas."
+            },
+            {
+              "id": "A02",
+              "text": "Impedem deposição do metal."
+            },
+            {
+              "id": "A03",
+              "text": "Não afetam."
+            },
+            {
+              "id": "A04",
+              "text": "Agregam partículas."
+            },
+            {
+              "id": "A05",
+              "text": "Reduzem área superficial."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "A aplicação de carvão ativado em baterias de íon-lítio (ânodo, aditivo condutivo) e supercapacitores. Para ânodo de Si (expansão 300%), o carvão atua como: matriz condutiva/buffer que acomoda expansão, melhora ciclagem. A condutividade elétrica do carvão ativado típico é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1–100 S/m (depende grau de grafitação, impurezas)"
+            },
+            {
+              "id": "A02",
+              "text": "10⁴–10⁶ S/m (como grafite)"
+            },
+            {
+              "id": "A03",
+              "text": "10⁻⁶–10⁻⁸ S/m (isolante)"
+            },
+            {
+              "id": "A04",
+              "text": "10⁻¹² S/m"
+            },
+            {
+              "id": "A05",
+              "text": "Variável, sem padrão."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "A avaliação de ciclo de vida (LCA) de carvão ativado: precursores (coco, madeira, carvão mineral, resíduos agrícolas), ativação, transporte, regeneração, disposição. O maior impacto (GWP) costuma ser:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ativação (energia térmica 800–1000 °C) + regeneração térmica repetida."
+            },
+            {
+              "id": "A02",
+              "text": "Precursor apenas."
+            },
+            {
+              "id": "A03",
+              "text": "Transporte apenas."
+            },
+            {
+              "id": "A04",
+              "text": "Disposição final apenas."
+            },
+            {
+              "id": "A05",
+              "text": "Embalagem."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "O modelo de difusão em poros (Homogêneo: difusão por superfície + poro; Heterogêneo: resistência de filme + poro) descreve cinética de adsorção em leito fixo. A zona de transferência de massa (MTZ, comprimento onde C/C₀ varia 0,05–0,95) em leito de GAC para remoção de TCE (tricloroetileno) é tipicamente:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10–30 cm (depende vazão, concentração, tamanho partícula, isotherm)"
+            },
+            {
+              "id": "A02",
+              "text": "1–2 m"
+            },
+            {
+              "id": "A03",
+              "text": "0,5–1 cm"
+            },
+            {
+              "id": "A04",
+              "text": "5–10 m"
+            },
+            {
+              "id": "A05",
+              "text": "0,1 cm"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Química > Carvão Ativado",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 3,
+          "visualStatus": "not_needed",
+          "assunto": "Carvão Ativado"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}

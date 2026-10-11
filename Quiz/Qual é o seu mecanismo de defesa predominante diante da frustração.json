@@ -1,0 +1,1039 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:12:22.369Z",
+  "exams": [
+    {
+      "id": "quiz-1788887536081",
+      "title": "Qual é o seu mecanismo de defesa predominante diante da frustração?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual é o seu mecanismo de defesa predominante diante da frustração?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Você está frustrado(a) porque seu chefe não reconheceu seu trabalho. O que vem à mente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Ele deve estar passando por algo pessoal — não é sobre mim\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Ele sempre foi assim — só reconhece quem puxa o saco dele\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não estou nem aí — não preciso de reconhecimento\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou trabalhar ainda mais — isso vai me motivar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Que ódio! Não vou fazer mais nada hoje — deixa pra lá\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Você discutiu com alguém importante e está se sentindo mal. O que você tende a fazer?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Foi um mal-entendido — ela deve ter interpretado errado\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Ela sempre faz isso — nunca me escuta de verdade\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não foi nada — isso nem me afetou\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou usar isso para escrever, desenhar, correr — transformar isso em algo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fiquei tão mal que só quero deitar e não fazer nada\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Como você reage quando um plano importante é cancelado?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Tinha um motivo — a vida é assim, acontece\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"A culpa é de fulano(a) — sempre bagunça tudo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não estava tão animado(a) mesmo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou fazer outra coisa produtiva no lugar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fico frustrado(a) e perco a vontade de fazer qualquer coisa\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Quando você está chateado(a), as pessoas ao redor percebem?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Não — eu escondo bem e dou uma explicação se perguntarem",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Sim — e costumo culpar os outros pelo meu mau humor",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Não — eu finjo que está tudo bem até eu acreditar nisso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sim — mas costumo canalizar isso para minhas atividades",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Sim — eu fico visivelmente mal-humorado(a) e infantil",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Alguém te critica duramente. Sua primeira reação é:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Ela deve estar tendo um dia difícil — não levei para o pessoal\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Ela é uma pessoa amarga — não sabe do que está falando\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Nem ligo — a opinião dela não importa\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou provar que ela está errada com o meu trabalho\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fico na defensiva ou choro — não consigo lidar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Como você lida com o fracasso?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Foi uma experiência — aprendi com isso e vou seguir em frente\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Não foi minha culpa — as circunstâncias é que não ajudaram\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não foi um fracasso — só não deu certo agora\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Isso me motiva a tentar ainda mais\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fico paralisado(a) — parece que tudo perde o sentido\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Seu parceiro(a) ou amigo(a) próximo(a) está irritado(a) com você. Você pensa:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Ele(a) deve ter tido um dia ruim — não tem nada a ver comigo\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Ele(a) sempre exagera — é muito sensível\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não estou entendendo — mas acho que vai passar sozinho\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou fazer algo legal para ele(a) — isso vai melhorar o clima\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Me sinto péssimo — vou me fechar e não vou falar com ninguém\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você reage quando algo não sai como você queria?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Foi melhor assim — tinha um motivo para acontecer desse jeito\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Se não fosse fulano(a), teria dado certo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Nem era tão importante assim\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou tentar de novo — só preciso me esforçar mais\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Desisto — isso não é para mim\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Você se sente injustiçado(a) no trabalho. O que faz?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Deve ter sido um erro — vou conversar com calma\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Isso é típico daquele chefe — nunca reconhece ninguém\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Nem me importo — logo isso passa\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou trabalhar dobrado para mostrar quem merece\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Só quero sair daqui — não aguento mais isso\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Alguém te conta uma notícia triste. Como você processa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Ela vai encontrar um jeito de superar — ela é forte\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Isso acontece porque as pessoas são cruéis\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não é tão ruim quanto parece — as pessoas exageram\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou fazer algo para ajudar — isso vai dar um sentido\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fico tão mal que não sei o que fazer\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você costuma lidar com a ansiedade?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"É só ansiedade — não tem motivo real, vai passar\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"É culpa de todo mundo que me pressiona\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não estou ansioso(a) — estou tranquilo(a)\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Transformo isso em energia — vou fazer algo produtivo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Não consigo lidar — só quero me esconder\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Alguém próximo a você está agindo de forma irritante. O que você pensa?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Ele(a) está passando por algo — não é sobre mim\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Ele(a) sempre foi assim — não sei como aguento\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não estou nem percebendo — tô focado(a) no que importa\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou fazer algo para distrair todo mundo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fico mal-humorado(a) e começo a tratar todo mundo mal também\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Como você reage quando percebe que errou?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Todo mundo erra — isso faz parte do processo\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Se não tivesse alguém me atrapalhando, não teria acontecido\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Não foi tão grave quanto parece\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Vou aprender e fazer melhor da próxima vez\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Fico tão frustrado(a) que quero desistir de tudo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Como você descreveria seu \"eu\" frustrado(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Explicador — encontro razões para tudo\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Apontador de dedos — vejo a culpa nos outros\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Invisível — finjo que nada aconteceu\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Transformador — canalizo para algo produtivo\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Criança — fico birrento(a) e quero atenção\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse mudar algo em como lida com frustração, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Sentir mais em vez de explicar tudo\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Assumir mais responsabilidade em vez de culpar os outros\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Encarar a realidade em vez de fingir que está tudo bem\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Permitir que a frustração exista sem precisar usá-la\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"Crescer e não voltar para comportamentos infantis\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:12:16.081Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🧠 RACIONALIZAÇÃO — O Explicador",
+          "texto": "Você é mestre em transformar frustração em lógica. Como a Racionalização, seu mecanismo de defesa é criar explicações inteligentes e aparentemente racionais para situações que te frustram. Quando as coisas não saem como planejado, você encontra uma \"razão\" — quase sempre boa o suficiente para te convencer e convencer os outros. Sua maior força? Sua capacidade de manter a calma e encontrar sentido em meio ao caos. Sua maior fraqueza? Você pode se convencer de mentiras confortáveis, evitando sentir o que realmente precisa ser sentido. Pessoas como você são ótimas em situações de crise, mas precisam aprender que nem tudo precisa ser explicado — algumas coisas só precisam ser sentidas. Você se pergunta: \"O que eu aprendi com isso?\" — mas às vezes a pergunta certa é: \"O que eu estou evitando sentir?\" \"A racionalização é uma muleta inteligente. Mas muletas são para quem precisa andar — não para quem precisa dançar.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🎭 PROJEÇÃO — O Atribuidor",
+          "texto": "Você é especialista em ver nos outros o que não quer ver em si mesmo(a). Como a Projeção, seu mecanismo de defesa é atribuir aos outros sentimentos, intenções ou defeitos que, na verdade, são seus. Quando você está frustrado(a), é mais fácil apontar o dedo para o outro do que encarar o que está acontecendo dentro de você. Sua maior força? Sua percepção aguçada — você nota coisas nos outros com facilidade. Sua maior fraqueza? Essa percepção muitas vezes é um espelho distorcido, e você acusa os outros de algo que não quer admitir sobre si. Pessoas como você têm um faro para injustiças, mas precisam aprender a virar o olhar para dentro. Antes de perguntar \"por que ele(a) fez isso?\", pergunte-se: \"O que isso diz sobre mim?\" \"Projetar é como apontar uma lanterna para os outros no escuro. Mas você nunca vê que a luz está vindo de você.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🌫️ NEGAÇÃO — O Invisível",
+          "texto": "Você é o mestre em \"não ver\". Como a Negação, seu mecanismo de defesa é simplesmente recusar a realidade da frustração. Se não existe, não dói, certo? Quando algo te frustra, você age como se não tivesse acontecido, ou minimiza sua importância: \"não foi nada\", \"não estou irritado(a)\", \"isso não me afeta\". Sua maior força? Sua capacidade de seguir em frente sem se deixar abalar pelos percalços. Sua maior fraqueza? Você pode ignorar problemas importantes até que eles se tornem grandes demais para serem negados. Pessoas como você são resilientes e otimistas, mas precisam aprender que a verdade, por mais desconfortável que seja, sempre encontra um caminho. Negar não é desaparecer com o problema — é apenas adiar o encontro com ele. \"A negação é um muro que você constrói. Mas muros também bloqueiam a luz do sol.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🎨 SUBLIMAÇÃO — O Transformador",
+          "texto": "Você é o alquimista das emoções. Como a Sublimação, seu mecanismo de defesa é transformar frustração em algo produtivo, criativo ou socialmente aceitável. Quando algo te irrita, você canaliza essa energia para o trabalho, a arte, o exercício ou qualquer atividade que te faça sentir que a frustração serviu a um propósito. Sua maior força? Sua capacidade de transformar veneno em remédio. Sua maior fraqueza? Você pode nunca processar realmente a frustração — apenas a disfarça de produtividade. Pessoas como você são incrivelmente criativas e produtivas, mas precisam aprender que nem toda frustração precisa ser \"aproveitada\". Às vezes, ela só precisa ser sentida. \"Sublimar é transformar chumbo em ouro. Mas nem todo chumbo precisa virar ouro — às vezes, ele só precisa ser chumbo.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🧒 REGRESSÃO — O Retrocedente",
+          "texto": "Você é o mestre em voltar no tempo quando a pressão aperta. Como a Regressão, seu mecanismo de defesa é recuar para comportamentos de fases anteriores da vida quando você se sente frustrado(a). Isso pode parecer birra, isolamento, dependência excessiva ou até mesmo manhas infantis. Você pode ficar mal-humorado(a), se recusar a falar, ou querer que alguém resolva as coisas por você. Sua maior força? Sua capacidade de se proteger quando sobrecarregado(a). Sua maior fraqueza? Você pode ficar preso(a) em padrões imaturos que afastam as pessoas. Pessoas como você têm um núcleo sensível que precisa de cuidado, mas precisam aprender que enfrentar a frustração de forma adulta é possível — e que você é mais forte do que imagina. \"Regredir é voltar para um lugar onde você se sentia seguro. Mas o perigo de olhar para trás é tropeçar no que está à sua frente.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

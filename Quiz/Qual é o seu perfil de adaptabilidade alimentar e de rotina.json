@@ -1,0 +1,1039 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:38:32.347Z",
+  "exams": [
+    {
+      "id": "quiz-1788889030741",
+      "title": "Qual é o seu perfil de adaptabilidade alimentar e de rotina?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual é o seu perfil de adaptabilidade alimentar e de rotina?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Você chega em um restaurante e o prato que você queria acabou. O que você faz?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Peço outra coisa sem drama — sempre tem algo interessante",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico perdido(a) — eu já tinha decidido o que ia comer",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Pergunto se dá para fazer algo parecido ou personalizado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Olho o cardápio e escolho pensando no que vou comer amanhã",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Peço o prato mais diferente e exótico do cardápio",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você lida com mudanças na sua rotina alimentar?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me adapto rápido — como o que tiver",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico irritado(a) — minha rotina foi quebrada",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Encontro uma solução criativa para manter o essencial",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Já tinha previsto e me preparei com antecedência",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Aproveito para experimentar algo novo e diferente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Qual dessas situações te desestabiliza mais?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Nenhuma — me adapto a tudo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Mudar meu horário de refeições",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Ter que comer algo que não combina comigo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Não ter o que eu planejei para a semana",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Rotinas muito previsíveis e repetitivas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Como você descreveria sua relação com a comida?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Funcional — como para viver, não vivo para comer",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Ritualística — tenho meus horários e minhas comidas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Criativa — gosto de inventar combinações novas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Estratégica — penso no que vou comer com dias de antecedência",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Aventureira — adoro provar comidas diferentes",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Como você lida com imprevistos na sua rotina diária?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Reorganizo na hora — nada me abala",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico frustrado(a) — minha rotina foi interrompida",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Encontro uma solução criativa para manter o essencial",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Já tinha um plano B preparado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Aproveito a mudança para fazer algo diferente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Qual dessas frases combina mais com você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"O que tiver, tá bom\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Não mexa na minha rotina\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Sempre tem um jeito de fazer funcionar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Melhor prevenir do que remediar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"A vida é feita de experiências novas\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "Como você organiza suas compras de supermercado?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Compro o que está em promoção e improviso",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Tenho uma lista fixa — compro sempre as mesmas coisas",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Planejo receitas e compro só o necessário",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Faço estoque — compro em quantidade e guardo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Compro coisas diferentes toda vez — adoro variar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você reage quando uma refeição não sai como esperado?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Como assim mesmo — comida é comida",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico frustrado(a) — não era o que eu queria",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Penso em como melhorar ou adaptar a receita",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Já tenho um prato reserva na geladeira",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Acho que foi uma experiência — quero tentar de novo de outro jeito",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Você está viajando e a comida local é muito diferente. O que faz?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Como de tudo — faz parte da experiência",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Procuro lugares que tenham comida que me lembre casa",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Estudo a culinária local e escolho o que combina comigo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Pesquisei antes e já sei onde vou comer",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Quero provar de tudo — especialmente o mais exótico",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "Como você lida com a falta de um alimento/ingrediente que você ama?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Substituo sem problemas",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "A refeição perde a graça — não é a mesma coisa",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Encontro uma forma de substituir com criatividade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Já tinha comprado extra — estou preparado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Aproveito para experimentar algo completamente diferente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você descreve sua rotina ideal?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Flexível — cada dia é um dia",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Estruturada — horários fixos e previsíveis",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Equilibrada — planejada, mas com espaço para ajustes",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Antecipada — já sei o que vou fazer nos próximos dias",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Variada — gosto de mudar sempre",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "O que te dá mais satisfação em relação à comida?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Comer bem sem gastar muito esforço ou dinheiro",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Comer exatamente o que você estava com vontade",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Criar algo novo e delicioso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Saber que você está preparado(a) para a semana",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Provar algo que você nunca comeu antes",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Como você se sente quando sua rotina muda drasticamente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Me adapto sem grandes sofrimentos",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico ansioso(a) e desconfortável",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Penso em como posso ajustar meu novo contexto",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Já tinha um plano para isso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Fico animado(a) — a mudança é estimulante",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Qual desses superpoderes alimentares você gostaria de ter?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Comer qualquer coisa sem ter problemas",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Nunca perder a vontade de comer seu prato favorito",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sempre saber quais ingredientes combinam",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Armazenar comida sem estragar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Encontrar os melhores restaurantes escondidos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse resumir sua filosofia de adaptação, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"A vida é feita de oportunidades — é só saber aproveitar\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"O que funciona, funciona — e eu sei o que funciona para mim\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Sempre tem um jeito — é só encontrar\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Prevenção é melhor que adaptação\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"A vida é muito curta para comer sempre a mesma coisa\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:37:10.741Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🦅 CARCARÁ / URUBU-DE-CABEÇA-PRETA — O Oportunista Supremo",
+          "texto": "Você é o mestre da adaptação. Como o Carcará, você come o que tem, vive onde dá e faz funcionar com o que está disponível. Você não tem frescura — se o plano A não funciona, você vai para o B, C, D e Z sem perder o ritmo. Sua maior força? Sua flexibilidade e sua capacidade de transformar qualquer situação em oportunidade. Seu maior desafio? Você pode se tornar tão adaptável que perde o senso de identidade — ou pode se acostumar a \"sobreviver\" e esquecer de prosperar. Pessoas como você são as que mantêm a calma quando tudo muda, porque você já está pronto para o próximo cenário. A vida te jogou para todos os lados, e você aprendeu a cair de pé. Só não se esqueça: adaptar-se é uma habilidade, mas escolher o que te nutre também é. \"Você não é exigente — você é estratégico. Mas até o oportunista mais habilidoso precisa saber quando parar e desfrutar.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🐼 URSO-PANDA — O Hiperespecializado",
+          "texto": "Você é o mestre da especialização. Como o Urso-Panda, você encontrou seu \"bambu\" — e quando ele está disponível, você é feliz e produtivo(a). O problema? Quando algo tira seu bambu da rotina, seu sistema entra em colapso. Você tem uma relação específica com a comida, com a rotina, com os horários e com os ambientes. Mudanças bruscas te desregulam completamente. Sua maior força? Sua eficiência e profundidade dentro do que você conhece. Seu maior desafio? A rigidez — o mundo não vai sempre se adaptar ao seu ritmo. Pessoas como você são especialistas em suas áreas, mas precisam aprender a desenvolver \"planos B\" para quando o bambu faltar. \"Sua especialização é sua força. Mas, de vez em quando, experimentar uma folha diferente pode te surpreender.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🐦‍⬛ CORVO-COMUM — O Solucionador de Problemas",
+          "texto": "Você é o mestre da engenhosidade. Como o Corvo, você não se contenta com o que vem fácil — você resolve problemas complexos para conseguir o que quer. Se a comida está dentro de um pote com tampa, você não desiste; você descobre como abrir. Se a rotina muda, você encontra uma nova forma de fazer as coisas funcionarem. Sua maior força? Sua inteligência criativa e sua persistência. Seu maior desafio? Você pode gastar tanta energia resolvendo problemas que esquece de aproveitar o que já tem. Pessoas como você são inovadoras natas — mas precisam aprender que nem tudo precisa ser um quebra-cabeça. \"Sua mente é seu maior instrumento. Mas nem toda refeição precisa ser caçada — algumas podem ser apenas saboreadas.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🐿️ ESQUILO — O Planejador Precavido",
+          "texto": "Você é o mestre da preparação. Como o Esquilo, você não apenas se adapta — você se antecipa. Você guarda provisões, planeja com antecedência e nunca deixa para última hora. Sua maior força? Sua capacidade de prever necessidades futuras e se preparar para elas. Seu maior desafio? Você pode gastar tanta energia se preparando para o pior que esquece de viver o presente. Pessoas como você são as que mantêm o estoque cheio e a despensa organizada — mas precisam aprender que o imprevisto também faz parte da vida. \"Sua previsão é sua força. Mas cuidado: acumular demais pode te impedir de ver o que está disponível agora.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🦝 GUAXINIM — O Explorador Curioso",
+          "texto": "Você é o mestre da curiosidade. Como o Guaxinim, você não tem medo de experimentar — seja comida nova, rotina diferente ou um caminho inusitado. Você é movido pela novidade e pela descoberta. Sua maior força? Sua abertura para o novo e sua capacidade de encontrar prazer no inesperado. Seu maior desafio? Você pode se distrair com tantas opções que nunca se aprofunda em nada. Pessoas como você são exploradoras natas — mas precisam aprender que a profundidade também tem seu valor. \"Sua curiosidade é seu superpoder. Mas lembre-se: explorar é diferente de vagar sem direção.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

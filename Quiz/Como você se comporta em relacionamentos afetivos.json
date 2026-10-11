@@ -1,0 +1,1299 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:41:07.426Z",
+  "exams": [
+    {
+      "id": "quiz-1788889260952",
+      "title": "Como você se comporta em relacionamentos afetivos?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Como você se comporta em relacionamentos afetivos?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "O que você mais valoriza em um relacionamento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Lealdade e compromisso — amor é para sempre",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Honestidade e clareza — sem joguinhos",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Segurança e proteção — alguém que cuide de mim",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Profundidade e conexão verdadeira",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Parceria e cumplicidade — caminhar juntos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Liberdade — amor sem amarras",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você reage a uma briga no relacionamento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Quero resolver e seguir em frente — juntos",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Falo o que penso — não vou engolir sapo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico magoado(a) e me retiro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sofro profundamente — parece que o mundo acabou",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Quero conversar e entender o que aconteceu",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Prefiro me afastar — não gosto de conflitos",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "O que te faz sentir amado(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Constância — saber que a pessoa está sempre lá",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Atitude — ações que mostram que a pessoa quer estar comigo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Cuidado — ser protegido(a) e acolhido(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Palavras — declarações sinceras e profundas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Companheirismo — estar junto nos momentos simples",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Espaço — ser respeitado(a) na minha individualidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Como você enxerga o compromisso?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Uma escolha diária que faço com alegria",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Algo que só vale a pena se a pessoa for à altura",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Uma responsabilidade que assumo com seriedade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "A prova de que o amor é verdadeiro",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Uma aliança — dois caminhos que se unem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Algo que me assusta — pode me prender",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Como você lida com a possibilidade de traição?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico arrasado(a) — confiança é tudo para mim",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Termino — não tolero, não aceito, não perdôo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico profundamente ferido(a) — demoro para confiar de novo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Me pergunto o que fiz de errado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Quero entender o que aconteceu e, se possível, reconstruir",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Não me prendo — cada um é cada um",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Como você demonstra amor no dia a dia?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Presença constante — estou sempre por perto",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Atos práticos — resolvendo problemas, ajudando",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Proteção — cuidando para que a pessoa esteja bem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Gestos românticos — surpresas, cartas, declarações",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Companheirismo — estar junto nas tarefas do dia",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Oferecendo liberdade — dando espaço",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "O que te faz querer terminar um relacionamento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Falta de compromisso e deslealdade",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Falta de atitude e indecisão constante",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sentir que não sou prioridade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "A magia acabar — a rotina matar o romance",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Falta de parceria — não caminhar na mesma direção",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Me sentir preso(a) — perder minha liberdade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você descreveria seu estilo de amar?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Entregue, fiel e construtivo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Direto, intenso e prático",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Cuidadoso, protetor e zeloso",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Romântico, sonhador e idealista",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Parceiro, leal e equilibrado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Livre, leve e desapegado",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Como você reage quando o outro precisa de espaço?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Entendo e respeito — espaço também é amor",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico desconfortável — parece que não estou sendo útil",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico ansioso(a) — e se a pessoa estiver se afastando?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sofro — parece que o amor está acabando",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Confio — a matilha volta sempre",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Aproveito meu próprio espaço também",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O que você mais teme em um relacionamento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Que a pessoa não seja tão fiel quanto eu",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Perder tempo com quem não vale a pena",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Não conseguir proteger quem amo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "O amor acabar — perder a magia",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Andar sozinho(a) — perder a matilha",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Ser aprisionado(a) — perder minha essência",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Como você lida com o silêncio do outro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Respeito — cada um tem seu tempo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Confronto — quero saber o que está acontecendo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico preocupado(a) — será que fiz algo errado?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sofro — o silêncio me dói profundamente",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Dou espaço e espero o momento de conversar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Aproveito o silêncio também — não preciso de palavras o tempo todo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Como você se sente quando o relacionamento se torna rotineiro?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Seguro(a) — a rotina é a base do amor duradouro",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Atento(a) — relacionamento não pode cair na mesmice",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Confortável — a rotina traz segurança",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Melancólico(a) — cadê a magia do começo?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Tranquilo(a) — a matilha se fortalece na constância",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Inquieto(a) — sinto falta da novidade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Se o relacionamento termina, como você lida?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Demoro a superar — amor para mim é para sempre",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Corto laços — não olho para trás",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Fico arrasado(a) — demoro a me recuperar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sofro profundamente — cada término é um luto",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Processo com calma — a matilha ainda existe de outras formas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Sigo em frente — ciclos se fecham, novos se abrem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O que você busca em um parceiro(a)?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Alguém que queira construir uma vida comigo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Alguém que tenha atitude e clareza",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Alguém que me faça sentir seguro(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Alguém que me faça sentir especial e amado(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "Alguém que caminhe ao meu lado — uma parceria",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "Alguém que respeite minha liberdade",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse resumir sua filosofia de amor, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"O amor é uma escolha diária que faço com o coração aberto\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Amor é atitude — quem quer, mostra\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Amor é cuidar, proteger e estar presente\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"O amor é a maior poesia que existe\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3,
+                "final5": 0,
+                "final6": 0
+              }
+            },
+            {
+              "id": "E",
+              "text": "\"O amor é uma jornada que se faz a dois\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 3,
+                "final6": 0
+              }
+            },
+            {
+              "id": "F",
+              "text": "\"O amor é liberdade — e é isso que o torna bonito\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0,
+                "final5": 0,
+                "final6": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:41:00.952Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "🦜 ARARA-AZUL — A Fidelidade Eterna",
+          "texto": "Você é a personificação da lealdade e da parceria. Como a Arara-Azul, você acredita no amor para a vida toda — e não é uma frase bonita, é uma escolha ativa que você faz todos os dias. Você coopera, se comunica e está presente, mesmo nos dias difíceis. Sua maior força? Sua capacidade de compromisso profundo e sua disposição para trabalhar na relação. Seu maior desafio? Você pode, sem perceber, se anular em nome da relação — ou pode esperar que o outro tenha a mesma intensidade que você. Pessoas como você são raras e preciosas. Você é o tipo de parceiro(a) que fica. Só não se esqueça: o amor também precisa de espaço para respirar. \"A fidelidade não é sobre nunca olhar para o lado — é sobre escolher o mesmo olhar todos os dias. E você faz isso com uma beleza rara.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🕷️ VIÚVA-NEGRA / LOUVA-A-DEUS — A Prática Intensa",
+          "texto": "Você é direta, intensa e não tem paciência para joguinhos. Como a Viúva-Negra ou o Louva-a-Deus, você entra nos relacionamentos com clareza: você sabe o que quer, o que espera e o que não tolera. Se a pessoa não cumpre seu papel, você não perde tempo. Sua maior força? Sua honestidade brutal e sua capacidade de não se prender a relações que não te servem. Seu maior desafio? Você pode ser visto(a) como frio(a) ou impaciente — e pode, sem perceber, cortar relações que poderiam ser trabalhadas. Pessoas como você são práticas, poderosas e não aceitam menos do que merecem. Mas lembre-se: nem tudo no amor é sobre utilidade e desempenho. \"Sua honestidade é sua maior força. Mas o amor também é sobre paciência — e às vezes, a imperfeição é o que faz a relação valer a pena.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🦘 CANGURU — O Protetor Zeloso",
+          "texto": "Você é o guardião do relacionamento. Como o Canguru, você carrega seus amores no bolso — protegendo, cuidando e garantindo que eles estejam seguros até estarem prontos para o mundo. Sua maior força? Sua capacidade de proteger e nutrir quem você ama. Seu maior desafio? Você pode, sem perceber, sufocar o outro com tanta proteção — ou pode se esquecer de que o outro também precisa de autonomia. Pessoas como você são o porto seguro de qualquer relação. Você é o abraço que acolhe e a mão que segura. Só não se esqueça: proteger também é saber deixar ir. \"Sua proteção é seu presente. Mas cuidado: o bolso do canguru é feito para carregar, não para prender.\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🦢 CISNE — O Romântico Idealista",
+          "texto": "Você é o sonhador do amor. Como o Cisne, você acredita na beleza, na poesia e na profundidade dos sentimentos. Você se entrega completamente — e espera o mesmo em troca. Sua maior força? Sua capacidade de amar com intensidade e de ver o melhor no outro. Seu maior desafio? Você pode idealizar tanto o amor que se decepciona com a realidade — e pode sofrer mais do que deveria por expectativas não correspondidas. Pessoas como você trazem poesia para os relacionamentos. Você é o romance em forma de gente. Só não se esqueça: o amor verdadeiro também tem pés no chão. \"Sua capacidade de amar é linda. Mas o amor também é feito de escolhas cotidianas — não só de grandes gestos.\""
+        },
+        {
+          "id": "final5",
+          "titulo": "🐺 LOBO — O Parceiro de Matilha",
+          "texto": "Você é o parceiro que caminha lado a lado. Como o Lobo, você acredita que o amor é uma parceria — e que os dois são mais fortes juntos. Você lidera quando precisa, segue quando é hora e sempre protege sua matilha. Sua maior força? Sua lealdade e sua capacidade de equilibrar liderança e colaboração. Seu maior desafio? Você pode, sem perceber, assumir o controle demais — ou pode se perder se a matilha se desfizer. Pessoas como você são a espinha dorsal de qualquer relação. Você é o equilíbrio entre força e suavidade. \"Você sabe que o amor é uma jornada a dois. E você caminha com a segurança de quem sabe que a matilha é mais forte junta.\""
+        },
+        {
+          "id": "final6",
+          "titulo": "🦋 BORBOLETA — O Livre Aprendiz",
+          "texto": "Você é o amante que vem e vai — mas com propósito. Como a Borboleta, você não se prende, não se apega, não se deixa aprisionar. Você acredita que o amor é uma dança — e que cada encontro é uma lição. Sua maior força? Sua liberdade e sua capacidade de não se perder no outro. Seu maior desafio? Você pode, sem perceber, evitar o compromisso por medo de ser preso(a) — e pode perder conexões profundas por não se permitir ficar. Pessoas como você são fascinantes e efêmeras. Você é o amor que ensina, que transforma, que segue. Só não se esqueça: às vezes, o que parece prisão é, na verdade, um lugar seguro para pousar. \"Sua leveza é sua força. Mas o amor também é sobre pousar — e às vezes, o pouso é o maior ato de coragem.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

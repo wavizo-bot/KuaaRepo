@@ -1,0 +1,809 @@
+{
+  "format": "caderno-estudante/v1",
+  "createdAt": "2026-09-08T17:21:42.915Z",
+  "exams": [
+    {
+      "id": "quiz-1788888096874",
+      "title": "Qual é a sua tolerância real ao desconforto e ao tédio?",
+      "city": "",
+      "state": "",
+      "year": "",
+      "board": "",
+      "booklet": "",
+      "role": "Qual é a sua tolerância real ao desconforto e ao tédio?",
+      "status": "Revisão pendente",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "1",
+          "label": "Questão 1",
+          "text": "Você está preso(a) em uma fila sem celular. O que acontece?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico ansioso(a) — olho o relógio, mexo no cabelo, não paro quieto(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico pensando em tudo o que preciso fazer — planejo a semana",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Observo as pessoas, o ambiente — fico curioso(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Aproveito para criar algo mentalmente — imaginar, inventar, planejar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 2,
+          "originalNumber": "2",
+          "label": "Questão 2",
+          "text": "Como você costuma passar um domingo sem compromissos?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Encontro algo para fazer — não gosto de ficar parado(a)",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico em casa, mas minha mente não para de pensar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Aproveito o ócio — fico de bobeira, sem fazer nada de especial",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Faço algo criativo — escrevo, desenho, cozinho algo novo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 3,
+          "originalNumber": "3",
+          "label": "Questão 3",
+          "text": "Quando você fica entediado(a), qual é sua primeira reação?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Buscar distração — celular, TV, música, qualquer coisa",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Ficar irritado(a) — o tédio me deixa desconfortável",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Respirar e aceitar — o tédio também faz parte",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Perguntar: \"O que eu posso criar com isso?\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 4,
+          "originalNumber": "4",
+          "label": "Questão 4",
+          "text": "Como você se sente em relação ao silêncio?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Desconfortável — preciso de barulho de fundo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Neutro(a) — não ligo, desde que esteja fazendo algo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Confortável — o silêncio me acalma",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Inspirador(a) — é onde as melhores ideias surgem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 5,
+          "originalNumber": "5",
+          "label": "Questão 5",
+          "text": "Quando você está sozinho(a) e sem estímulos, o que sente?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Inquietação — parece que falta algo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Um peso — pensamentos que eu evitava surgem",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Paz — uma oportunidade de descansar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Criatividade — começo a imaginar coisas novas",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 6,
+          "originalNumber": "6",
+          "label": "Questão 6",
+          "text": "Como você lida com uma espera longa e imprevista?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Fico frustrado(a) — que perda de tempo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Suporto, mas fico tenso(a)",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Respiro fundo e aceito — não posso mudar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Aproveito para observar, criar, pensar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 7,
+          "originalNumber": "7",
+          "label": "Questão 7",
+          "text": "O que você faz quando o Wi-Fi cai?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Entro em pânico — corro para o 4G",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico frustrado(a), mas espero voltar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Aproveito para fazer algo offline — ler, caminhar, relaxar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Uso o tempo para algo criativo que não precisa de internet",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 8,
+          "originalNumber": "8",
+          "label": "Questão 8",
+          "text": "Como você descreveria sua relação com o \"não fazer nada\"?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Não consigo — sempre preciso estar fazendo algo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico desconfortável, mas às vezes é necessário",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Gosto — é uma forma de recarregar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Amo — é onde minha criatividade floresce",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 9,
+          "originalNumber": "9",
+          "label": "Questão 9",
+          "text": "Quando você sente um desconforto emocional, o que faz?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Busco distração — filmes, redes sociais, comida",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Finjo que não está acontecendo, mas ele fica lá",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sinto, respiro, e me pergunto o que ele quer me dizer",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Escrevo, desenho, componho — transformo ele em algo",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O que você sente quando não tem nada para fazer?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Agonia — parece que estou desperdiçando tempo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Desconforto — mas vou me virando",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Leveza — que alívio não ter obrigações",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Empolgação — finalmente tempo para criar",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Qual dessas atividades você mais evita?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ficar sentado(a) sem fazer nada",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Momentos de silêncio com meus próprios pensamentos",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Não evito — aceito qualquer momento",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Não evito — tudo pode virar inspiração",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Como você se sente ao final de um dia muito tranquilo?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Inquieto(a) — parece que não fiz nada produtivo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Cansado(a) de tanto pensar",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Revigorado(a) — a paz me recarregou",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Inspirado(a) — minha mente viajou",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Você consegue ficar em silêncio com outra pessoa sem constrangimento?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Não — preciso quebrar o gelo",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Fico tenso(a), mas não falo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Sim — o silêncio compartilhado é confortável",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Sim — às vezes até prefiro ao barulho",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "O que o tédio desperta em você?",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "Ansiedade — preciso fazer algo urgente",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "Frustração — parece uma perda de tempo",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "Curiosidade — o que posso descobrir aqui?",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "Criatividade — é onde as melhores ideias nascem",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Se pudesse descrever sua relação com o vazio, seria:",
+          "alternatives": [
+            {
+              "id": "A",
+              "text": "\"Um lugar que eu evito a todo custo\"",
+              "pontos": {
+                "final1": 3,
+                "final2": 0,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "B",
+              "text": "\"Um lugar que eu suporto, mas não habito\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 3,
+                "final3": 0,
+                "final4": 0
+              }
+            },
+            {
+              "id": "C",
+              "text": "\"Um lugar que eu visito com curiosidade\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 3,
+                "final4": 0
+              }
+            },
+            {
+              "id": "D",
+              "text": "\"Um lugar que é a fonte da minha criatividade\"",
+              "pontos": {
+                "final1": 0,
+                "final2": 0,
+                "final3": 0,
+                "final4": 3
+              }
+            }
+          ],
+          "correct": "",
+          "subject": "",
+          "type": "unica"
+        }
+      ],
+      "updatedAt": "2026-09-08T17:21:36.874Z",
+      "kind": "quiz",
+      "quizFinais": [
+        {
+          "id": "final1",
+          "titulo": "📱 O EVASOR — Fuga do Vazio",
+          "texto": "O tédio e o desconforto são seus maiores inimigos — e você fará qualquer coisa para evitá-los. Como o Evasor, sua tolerância ao vazio é baixíssima. Você não suporta ficar sem estímulos, sem distrações, sem algo para ocupar a mente. Você é o tipo de pessoa que pega o celular na fila do banco, que coloca um podcast enquanto lava a louça, que nunca fica em silêncio. O problema? Você está tão acostumado(a) a fugir do vazio que nunca descobriu o que ele tem a te ensinar. Sua maior força? Sua energia e sua capacidade de manter a mente ativa. Seu maior desafio? Aprender que o silêncio não é uma ameaça — é uma oportunidade. O desconforto não vai te matar. Mas a fuga constante do desconforto pode te impedir de se conhecer de verdade. \"Você corre do vazio como quem corre de um fantasma. Mas o vazio não é um monstro — é um espelho.\""
+        },
+        {
+          "id": "final2",
+          "titulo": "🎭 O SUPRESOR — Desconforto Engolido",
+          "texto": "Você tolera o desconforto, mas às custas de engoli-lo sem processá-lo. Como o Supressor, você não foge ativamente do tédio ou da dor — você apenas os suporta em silêncio, sem deixar que eles te afetem (ou assim você acredita). Você é o tipo de pessoa que consegue ficar horas numa sala de espera sem reclamar, mas sua mente está em outro lugar. Você se desconecta do desconforto em vez de senti-lo. O problema? O desconforto não desaparece quando você o ignora — ele apenas se acumula em tensões musculares, ansiedade difusa ou explosões inesperadas. Sua maior força? Sua resistência silenciosa, sua capacidade de não reclamar. Seu maior desafio? Aprender a sentir o desconforto em vez de apenas suportá-lo. A dor não vai te destruir — mas suprimi-la pode. \"Você engole o desconforto como quem engole um comprimido amargo. Mas a amargura não some — ela se instala.\""
+        },
+        {
+          "id": "final3",
+          "titulo": "🧘 O CONFRONTADOR — Encontro com o Vazio",
+          "texto": "Você tem uma coragem rara: a de encarar o desconforto de frente. Como o Confrontador, você não foge do tédio nem o suprime — você o observa, o sente, e aprende com ele. Você sabe que o desconforto é um professor, e que o silêncio é um espaço de descoberta. Você não precisa estar sempre ocupado(a), sempre conectado(a), sempre produzindo. Você consegue ficar sozinho(a) com seus pensamentos sem entrar em pânico. Sua maior força? Sua capacidade de estar presente, mesmo quando é difícil. Sua maior desafio? Você pode, às vezes, romantizar o sofrimento ou acreditar que desconforto é sempre virtuoso. Aprenda que o desconforto é um professor, mas não um mestre. Você não precisa buscar a dor para aprender — apenas não precisa mais fugir dela. \"Você não teme o vazio. Você senta com ele, toma um café, e pergunta: 'O que você veio me ensinar?'\""
+        },
+        {
+          "id": "final4",
+          "titulo": "🌿 O TRANSFORMADOR — Desconforto como Matéria-Prima",
+          "texto": "Você não apenas tolera o desconforto e o tédio — você os transforma em algo. Como o Transformador, o vazio não é um inimigo nem um professor — é matéria-prima. Quando você fica entediado(a), não busca uma distração; você busca uma criação. O silêncio não te assusta; ele te inspira. Você é o tipo de pessoa que, quando não tem nada para fazer, faz algo novo. Sua maior força? Sua criatividade, sua capacidade de encontrar significado onde outros só veem vazio. Seu maior desafio? Você pode confundir estar ocupado(a) com estar presente — e pode usar a criação como outra forma de fuga. Aprenda que o vazio não precisa ser preenchido o tempo todo. Às vezes, ele só precisa ser habitado. \"Você transforma silêncio em poesia, tédio em arte, vazio em vida. Só não se esqueça de que o vazio também merece ser vazio.\""
+        }
+      ],
+      "quizDesempate": 1
+    }
+  ]
+}

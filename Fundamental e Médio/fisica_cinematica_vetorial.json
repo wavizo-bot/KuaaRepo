@@ -1,0 +1,1070 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "exams": [
+    {
+      "id": "FISICA-CINEMATICA-VETORIAL-2026",
+      "title": "Física — Cinemática Vetorial (3º ano + Vestibular/ENEM)",
+      "city": "Brasil",
+      "state": "BR",
+      "year": "2026",
+      "board": "Vestibulares/ENEM",
+      "booklet": "Tópico: Cinemática Vetorial",
+      "role": "Estudante 3º EM / Pré-vestibular",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Um vetor posição r = (3i + 4j) m. Seu módulo é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "5 m"
+            },
+            {
+              "id": "A02",
+              "text": "7 m"
+            },
+            {
+              "id": "A03",
+              "text": "25 m"
+            },
+            {
+              "id": "A04",
+              "text": "1 m"
+            },
+            {
+              "id": "A05",
+              "text": "12 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "A soma dos vetores A = 2i + 3j e B = –1i + 5j é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "1i + 8j"
+            },
+            {
+              "id": "A02",
+              "text": "3i + 2j"
+            },
+            {
+              "id": "A03",
+              "text": "1i + 2j"
+            },
+            {
+              "id": "A04",
+              "text": "3i + 8j"
+            },
+            {
+              "id": "A05",
+              "text": "–1i + 2j"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "O produto escalar A·B = |A||B|cosθ. Para A = 3i + 4j (|A|=5) e B = 4i – 3j (|B|=5), o produto escalar é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0"
+            },
+            {
+              "id": "A02",
+              "text": "25"
+            },
+            {
+              "id": "A03",
+              "text": "–25"
+            },
+            {
+              "id": "A04",
+              "text": "7"
+            },
+            {
+              "id": "A05",
+              "text": "–7"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "A velocidade vetorial v = dr/dt. Se r(t) = (t²)i + (3t)j, a velocidade no instante t = 2 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4i + 3j"
+            },
+            {
+              "id": "A02",
+              "text": "2i + 3j"
+            },
+            {
+              "id": "A03",
+              "text": "4i + 6j"
+            },
+            {
+              "id": "A04",
+              "text": "2i + 6j"
+            },
+            {
+              "id": "A05",
+              "text": "4i – 3j"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "A aceleração vetorial a = dv/dt. Se v(t) = (2t)i + (t²)j, a aceleração no instante t = 3 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2i + 6j"
+            },
+            {
+              "id": "A02",
+              "text": "2i + 3j"
+            },
+            {
+              "id": "A03",
+              "text": "6i + 2j"
+            },
+            {
+              "id": "A04",
+              "text": "0i + 6j"
+            },
+            {
+              "id": "A05",
+              "text": "2i + 9j"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Movimento de projétil: lançamento com v₀ = 20 m/s a θ = 30° (sen30° = 0,5, cos30° = √3/2 ≈ 0,87). As componentes da velocidade inicial são:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "v₀x = 17,3 m/s, v₀y = 10 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "v₀x = 10 m/s, v₀y = 17,3 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "v₀x = 20 m/s, v₀y = 0"
+            },
+            {
+              "id": "A04",
+              "text": "v₀x = 0, v₀y = 20 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "v₀x = 15 m/s, v₀y = 15 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "No lançamento oblíquo (sem resistência do ar), a aceleração é: a = –g j (g = 10 m/s²). A componente horizontal da velocidade:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Permanece constante"
+            },
+            {
+              "id": "A02",
+              "text": "Aumenta com o tempo"
+            },
+            {
+              "id": "A03",
+              "text": "Diminui com o tempo"
+            },
+            {
+              "id": "A04",
+              "text": "É nula"
+            },
+            {
+              "id": "A05",
+              "text": "Varia senoidalmente"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Um projétil lançado com v₀ = 30 m/s a θ = 45° (sen45° = cos45° = √2/2 ≈ 0,707). A altura máxima atingida é: (g = 10 m/s²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "22,5 m"
+            },
+            {
+              "id": "A02",
+              "text": "45 m"
+            },
+            {
+              "id": "A03",
+              "text": "11,25 m"
+            },
+            {
+              "id": "A04",
+              "text": "90 m"
+            },
+            {
+              "id": "A05",
+              "text": "5 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "No mesmo lançamento (v₀ = 30 m/s, θ = 45°), o alcance horizontal é: (g = 10 m/s²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "90 m"
+            },
+            {
+              "id": "A02",
+              "text": "45 m"
+            },
+            {
+              "id": "A03",
+              "text": "180 m"
+            },
+            {
+              "id": "A04",
+              "text": "22,5 m"
+            },
+            {
+              "id": "A05",
+              "text": "60 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O tempo total de voo (até voltar ao solo) para v₀ = 30 m/s, θ = 45° é: (g = 10 m/s²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~4,24 s"
+            },
+            {
+              "id": "A02",
+              "text": "3 s"
+            },
+            {
+              "id": "A03",
+              "text": "6 s"
+            },
+            {
+              "id": "A04",
+              "text": "2,12 s"
+            },
+            {
+              "id": "A05",
+              "text": "8,48 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "A velocidade no instante t = 2 s para o lançamento v₀ = 20 m/s, θ = 30° (g = 10 m/s²) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "v_x = 17,3 m/s, v_y = 0 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "v_x = 10 m/s, v_y = 17,3 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "v_x = 17,3 m/s, v_y = –3 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "v_x = 17,3 m/s, v_y = 20 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "v_x = 17,3 m/s, v_y = 10 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Dois vetores A = 3i – 4j e B = –4i + 3j. O ângulo entre eles é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "90°"
+            },
+            {
+              "id": "A02",
+              "text": "0°"
+            },
+            {
+              "id": "A03",
+              "text": "180°"
+            },
+            {
+              "id": "A04",
+              "text": "45°"
+            },
+            {
+              "id": "A05",
+              "text": "60°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "A componente de um vetor A = 5i + 12j na direção do vetor B = 3i + 4j é: (|A| = 13, |B| = 5, A·B = 63)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "12,6"
+            },
+            {
+              "id": "A02",
+              "text": "63"
+            },
+            {
+              "id": "A03",
+              "text": "5"
+            },
+            {
+              "id": "A04",
+              "text": "13"
+            },
+            {
+              "id": "A05",
+              "text": "12"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Um projétil é lançado horizontalmente do topo de um prédio de 80 m de altura com v₀x = 20 m/s. O tempo para atingir o solo é: (g = 10 m/s², y = –½gt²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4 s"
+            },
+            {
+              "id": "A02",
+              "text": "2 s"
+            },
+            {
+              "id": "A03",
+              "text": "8 s"
+            },
+            {
+              "id": "A04",
+              "text": "1 s"
+            },
+            {
+              "id": "A05",
+              "text": "16 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "No lançamento horizontal anterior (v₀x = 20 m/s, t = 4 s), o alcance horizontal é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "80 m"
+            },
+            {
+              "id": "A02",
+              "text": "40 m"
+            },
+            {
+              "id": "A03",
+              "text": "160 m"
+            },
+            {
+              "id": "A04",
+              "text": "20 m"
+            },
+            {
+              "id": "A05",
+              "text": "100 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "A velocidade final do projétil horizontal anterior (v_x = 20 m/s, v_y = –gt = –40 m/s). O módulo da velocidade final é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~44,7 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "20 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "40 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "60 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "10 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Um móvel move-se no plano com equações paramétricas: x = 2t, y = t². A trajetória é uma:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Parábola (y = x²/4)"
+            },
+            {
+              "id": "A02",
+              "text": "Reta"
+            },
+            {
+              "id": "A03",
+              "text": "Circunferência"
+            },
+            {
+              "id": "A04",
+              "text": "Elipse"
+            },
+            {
+              "id": "A05",
+              "text": "Hipérbole"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "A velocidade do móvel anterior (x = 2t, y = t²) no instante t = 3 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2i + 6j"
+            },
+            {
+              "id": "A02",
+              "text": "2i + 3j"
+            },
+            {
+              "id": "A03",
+              "text": "6i + 2j"
+            },
+            {
+              "id": "A04",
+              "text": "3i + 6j"
+            },
+            {
+              "id": "A05",
+              "text": "2i + 9j"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "A aceleração do móvel anterior (x = 2t, y = t²) é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2j (constante)"
+            },
+            {
+              "id": "A02",
+              "text": "0"
+            },
+            {
+              "id": "A03",
+              "text": "2i"
+            },
+            {
+              "id": "A04",
+              "text": "2i + 2j"
+            },
+            {
+              "id": "A05",
+              "text": "t·j"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Movimento circular uniforme: r(t) = R(cosωt i + senωt j). A velocidade v(t) = –Rω senωt i + Rω cosωt j. O módulo da velocidade é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Rω"
+            },
+            {
+              "id": "A02",
+              "text": "R"
+            },
+            {
+              "id": "A03",
+              "text": "ω"
+            },
+            {
+              "id": "A04",
+              "text": "Rω²"
+            },
+            {
+              "id": "A05",
+              "text": "R²ω"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "No movimento circular uniforme anterior, a aceleração a(t) = –Rω²(cosωt i + senωt j). O módulo da aceleração centrípeta é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Rω²"
+            },
+            {
+              "id": "A02",
+              "text": "Rω"
+            },
+            {
+              "id": "A03",
+              "text": "ω²/R"
+            },
+            {
+              "id": "A04",
+              "text": "R/ω"
+            },
+            {
+              "id": "A05",
+              "text": "ω"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Um móvel move-se com velocidade v = (3t²)i + (4t)j. A aceleração no instante t = 2 s é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "12i + 4j"
+            },
+            {
+              "id": "A02",
+              "text": "6i + 4j"
+            },
+            {
+              "id": "A03",
+              "text": "12i + 8j"
+            },
+            {
+              "id": "A04",
+              "text": "3i + 4j"
+            },
+            {
+              "id": "A05",
+              "text": "6i + 8j"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Um projétil é lançado do solo com v₀ = 50 m/s a θ tal que senθ = 0,6, cosθ = 0,8. O tempo de voo total é: (g = 10 m/s²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "6 s"
+            },
+            {
+              "id": "A02",
+              "text": "3 s"
+            },
+            {
+              "id": "A03",
+              "text": "12 s"
+            },
+            {
+              "id": "A04",
+              "text": "4 s"
+            },
+            {
+              "id": "A05",
+              "text": "8 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "No mesmo lançamento anterior (v₀ = 50 m/s, senθ = 0,6, cosθ = 0,8), o alcance horizontal é: (g = 10 m/s²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "240 m"
+            },
+            {
+              "id": "A02",
+              "text": "120 m"
+            },
+            {
+              "id": "A03",
+              "text": "2400 m"
+            },
+            {
+              "id": "A04",
+              "text": "480 m"
+            },
+            {
+              "id": "A05",
+              "text": "60 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "Um projétil é lançado do topo de uma torre de 45 m de altura com v₀ = 20 m/s horizontalmente. O alcance horizontal até atingir o solo é: (g = 10 m/s²)",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "60 m"
+            },
+            {
+              "id": "A02",
+              "text": "30 m"
+            },
+            {
+              "id": "A03",
+              "text": "90 m"
+            },
+            {
+              "id": "A04",
+              "text": "20 m"
+            },
+            {
+              "id": "A05",
+              "text": "90 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Dois vetores velocidade v₁ = 10 m/s (direção 0°) e v₂ = 10 m/s (direção 90°). A velocidade resultante (soma vetorial) tem módulo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "10√2 ≈ 14,1 m/s"
+            },
+            {
+              "id": "A02",
+              "text": "20 m/s"
+            },
+            {
+              "id": "A03",
+              "text": "10 m/s"
+            },
+            {
+              "id": "A04",
+              "text": "0 m/s"
+            },
+            {
+              "id": "A05",
+              "text": "5 m/s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "facil",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Um barco atravessa rio de largura L = 200 m. Velocidade do barco em água parada v_b = 5 m/s (perpendicular à margem). Correnteza v_c = 3 m/s (paralela à margem). O tempo de travessia é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "40 s"
+            },
+            {
+              "id": "A02",
+              "text": "66,7 s"
+            },
+            {
+              "id": "A03",
+              "text": "20 s"
+            },
+            {
+              "id": "A04",
+              "text": "400 s"
+            },
+            {
+              "id": "A05",
+              "text": "13,3 s"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "No mesmo problema do barco, a distância que o barco é arrastado pela corrente durante a travessia é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "120 m"
+            },
+            {
+              "id": "A02",
+              "text": "200 m"
+            },
+            {
+              "id": "A03",
+              "text": "60 m"
+            },
+            {
+              "id": "A04",
+              "text": "300 m"
+            },
+            {
+              "id": "A05",
+              "text": "400 m"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Um avião voa com velocidade em relação ao ar v_va = 200 km/h (direção Norte). Vento v_v = 50 km/h (direção Leste). A velocidade do avião em relação ao solo tem módulo:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "~206 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "250 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "150 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "200 km/h"
+            },
+            {
+              "id": "A05",
+              "text": "50 km/h"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "dificil",
+          "type": "unica",
+          "estimatedMinutes": 2,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Um projétil lançado com v₀ = 40 m/s atinge o mesmo alcance horizontal para dois ângulos complementares θ₁ e θ₂ (θ₁ + θ₂ = 90°). Se θ₁ = 20°, qual é θ₂?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "70°"
+            },
+            {
+              "id": "A02",
+              "text": "20°"
+            },
+            {
+              "id": "A03",
+              "text": "45°"
+            },
+            {
+              "id": "A04",
+              "text": "90°"
+            },
+            {
+              "id": "A05",
+              "text": "110°"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Física > Cinemática Vetorial",
+          "difficulty": "media",
+          "type": "unica",
+          "estimatedMinutes": 1,
+          "visualStatus": "not_needed",
+          "assunto": "Cinemática Vetorial"
+        }
+      ],
+      "updatedAt": "2026-10-01T00:58:13.369Z"
+    }
+  ]
+}
