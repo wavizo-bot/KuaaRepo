@@ -21,7 +21,8 @@ Não crie pastas novas nem renomeie as existentes sem atualizar o app
 arquivo** (`5ano.json`, …, `1ano-em.json`, …) — o app mostra uma linha por
 ano, sem nome de arquivo. Nome de **arquivo** nas demais pastas:
 minúsculas, `_` no lugar de espaço (ex.: `nutricionista.json`).
-Exceção: os quizzes mantêm o título como nome de arquivo.
+Exceção: cada tema de Quiz tem UM único arquivo (`autoconhecimento.json`,
+`bem-estar.json`, `diversao.json`, `relacionamentos.json`).
 
 ## 2. Formato de cada JSON (obrigatório)
 
