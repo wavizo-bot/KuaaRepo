@@ -2,11 +2,11 @@
     "versao":  1,
     "repositorio":  "wavizo-bot/KuaaRepo",
     "branch":  "main",
-    "geradoEm":  "2026-10-11T20:18:46.5575183Z",
+    "geradoEm":  "2026-10-11T20:19:41.7303353Z",
     "totais":  {
                    "arquivos":  25,
-                   "provas":  880,
-                   "questoes":  7737
+                   "provas":  894,
+                   "questoes":  8087
                },
     "pacotes":  [
                     {
@@ -69,8 +69,8 @@
                         "caminho":  "9º ano/9ano.json",
                         "pasta":  "9º ano",
                         "arquivo":  "9ano",
-                        "provas":  14,
-                        "questoes":  242,
+                        "provas":  28,
+                        "questoes":  592,
                         "atualizadoEm":  "2026-10-01T00:58:13.369Z"
                     },
                     {

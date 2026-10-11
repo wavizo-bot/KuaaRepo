@@ -14,7 +14,7 @@ celular do usuário.
 | `5º ano/` … `9º ano/` | Ensino Fundamental, por ano do estudante |
 | `1º ano EM/` … `3º ano EM/` | Ensino Médio, ENEM e vestibular, por ano |
 | `Técnico/` | Cursos técnicos |
-| `Quiz/Autoconhecimento/`, `Quiz/Bem-estar/`, `Quiz/Diversão/`, `Quiz/Relacionamentos/` | Quizzes por temática (sem gabarito) |
+| `Quiz/Relacionamentos e Amor/`, `Quiz/Sobrevivência e Resiliência/`, `Quiz/Identidade e Estilo Pessoal/`, `Quiz/Ambição, Sucesso e Tempo/`, `Quiz/Energia, Ritmo e Arquétipos Animais/`, `Quiz/Família e Heranças Emocionais/`, `Quiz/Amizades e Vínculos Sociais/`, `Quiz/Autoconhecimento e Comportamento/`, `Quiz/Adaptabilidade e Rotina/` | Quizzes por temática (sem gabarito), 1 arquivo por tema |
 
 Não crie pastas novas nem renomeie as existentes sem atualizar o app
 (a ordem de exibição está no código). Cada pasta de **ano tem UM único
@@ -82,8 +82,9 @@ A pasta local de entrega é `C:\APPS\Kuaa\KuaaRepo`. Para publicar:
 
 Regras da divisão por ano: o ano vem do `role` (`5º EF`→`5º ano`, …,
 `3º EM`→`3º ano EM`). Arquivo sem ano no `role` (ex.: banco sintético de
-português, gramática normativa) vai para `3º ano EM`. Quiz segue a tabela
-de temas em `reorganizar-anos.ps1`.
+português, gramática normativa) vai para `3º ano EM`. Quiz segue os 9 temas
+em `montar-quiz-temas.ps1` (fonte: arquivo com temática + campo `tematica`
+preenchido em cada quiz).
 
 ## 4. O que NÃO fazer
 
