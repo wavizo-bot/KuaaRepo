@@ -2,28 +2,20 @@
     "versao":  1,
     "repositorio":  "wavizo-bot/KuaaRepo",
     "branch":  "main",
-    "geradoEm":  "2026-10-11T19:10:35.8262978Z",
+    "geradoEm":  "2026-10-11T19:28:45.5492332Z",
     "totais":  {
-                   "arquivos":  105,
-                   "provas":  950,
-                   "questoes":  8691
+                   "arquivos":  54,
+                   "provas":  880,
+                   "questoes":  7737
                },
     "pacotes":  [
                     {
-                        "caminho":  "1º ano EM/medio_1ano.json",
+                        "caminho":  "1º ano EM/1ano-em.json",
                         "pasta":  "1º ano EM",
-                        "arquivo":  "medio_1ano",
+                        "arquivo":  "1ano-em",
                         "provas":  20,
-                        "questoes":  512,
+                        "questoes":  507,
                         "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "1º ano EM/pacote-inicial-1em.json",
-                        "pasta":  "1º ano EM",
-                        "arquivo":  "pacote-inicial-1em",
-                        "provas":  37,
-                        "questoes":  490,
-                        "atualizadoEm":  "2026-09-17T03:44:47.344Z"
                     },
                     {
                         "caminho":  "2º ano EM/medio_2ano.json",
@@ -34,396 +26,12 @@
                         "atualizadoEm":  "2026-10-01T02:41:14.107Z"
                     },
                     {
-                        "caminho":  "3º ano EM/biologia_ecologia.json",
+                        "caminho":  "3º ano EM/3ano-em.json",
                         "pasta":  "3º ano EM",
-                        "arquivo":  "biologia_ecologia",
-                        "provas":  1,
-                        "questoes":  34,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/biologia_mudancas_climaticas.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "biologia_mudancas_climaticas",
-                        "provas":  1,
-                        "questoes":  32,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/biologia_relacoes_ecologicas.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "biologia_relacoes_ecologicas",
-                        "provas":  1,
-                        "questoes":  31,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/biologia_remocao_co2.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "biologia_remocao_co2",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/filosofia_enem_f1.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "filosofia_enem_f1",
-                        "provas":  35,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T02:54:42.8470357Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/filosofia_enem_f2.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "filosofia_enem_f2",
-                        "provas":  35,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T03:14:30.0523645Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/filosofia_enem_f3.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "filosofia_enem_f3",
-                        "provas":  35,
-                        "questoes":  120,
-                        "atualizadoEm":  "2026-10-01T03:34:28.6251174Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_acustica.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_acustica",
-                        "provas":  1,
-                        "questoes":  32,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_calorimetria.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_calorimetria",
-                        "provas":  1,
-                        "questoes":  31,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_cinematica_vetorial.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_cinematica_vetorial",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_circuitos_eletricos.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_circuitos_eletricos",
-                        "provas":  1,
-                        "questoes":  31,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_conversao_energia.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_conversao_energia",
-                        "provas":  1,
-                        "questoes":  31,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_efeito_doppler.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_efeito_doppler",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_eletrodinamica.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_eletrodinamica",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_eletrostatica.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_eletrostatica",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_fenomenos_ondulatorios.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_fenomenos_ondulatorios",
-                        "provas":  1,
-                        "questoes":  32,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_forca_atrito.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_forca_atrito",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_mru.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_mru",
-                        "provas":  1,
-                        "questoes":  31,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_ondas.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_ondas",
-                        "provas":  1,
-                        "questoes":  34,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_optica.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_optica",
-                        "provas":  1,
-                        "questoes":  35,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_ressonancia.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_ressonancia",
-                        "provas":  1,
-                        "questoes":  32,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_termodinamica.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_termodinamica",
-                        "provas":  1,
-                        "questoes":  33,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_transmissao_calor.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_transmissao_calor",
-                        "provas":  1,
-                        "questoes":  32,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/fisica_velocidade_media.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "fisica_velocidade_media",
-                        "provas":  1,
-                        "questoes":  31,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/geografia_enem_d.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "geografia_enem_d",
-                        "provas":  64,
-                        "questoes":  120,
-                        "atualizadoEm":  "2026-10-01T08:42:49.1884447Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/geografia_enem_f.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "geografia_enem_f",
-                        "provas":  64,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T03:49:56.4140520Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/geografia_enem_m.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "geografia_enem_m",
-                        "provas":  64,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T03:56:14.2805384Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/historia_transicao_feudalismo.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "historia_transicao_feudalismo",
-                        "provas":  1,
-                        "questoes":  82,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/ingles_enem_f.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "ingles_enem_f",
-                        "provas":  38,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T14:19:29.3619178Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/ingles_enem_m.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "ingles_enem_m",
-                        "provas":  38,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T14:26:08.9331022Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/portugues_banco_sintetico.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "portugues_banco_sintetico",
-                        "provas":  1,
-                        "questoes":  70,
+                        "arquivo":  "3ano-em",
+                        "provas":  596,
+                        "questoes":  2338,
                         "atualizadoEm":  "2026-10-01T01:00:30.210Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_carvao_ativado.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_carvao_ativado",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_ciclo_nitrogenio.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_ciclo_nitrogenio",
-                        "provas":  1,
-                        "questoes":  31,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_eletroquimica.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_eletroquimica",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_equilibrio_quimico.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_equilibrio_quimico",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_estequiometria.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_estequiometria",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_forcas_intermoleculares.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_forcas_intermoleculares",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_funcoes_organicas.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_funcoes_organicas",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_ph.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_ph",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_poluicao_agua.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_poluicao_agua",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_radioatividade.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_radioatividade",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_reacoes_redox.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_reacoes_redox",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_remocao_oleo.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_remocao_oleo",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_separacao_misturas.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_separacao_misturas",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_termoquimica.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_termoquimica",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/quimica_tratamento_esgoto.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "quimica_tratamento_esgoto",
-                        "provas":  1,
-                        "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/sociologia_enem_d.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "sociologia_enem_d",
-                        "provas":  74,
-                        "questoes":  120,
-                        "atualizadoEm":  "2026-10-01T14:11:43.7488855Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/sociologia_enem_f.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "sociologia_enem_f",
-                        "provas":  58,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T09:14:18.6262802Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/sociologia_enem_m.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "sociologia_enem_m",
-                        "provas":  58,
-                        "questoes":  90,
-                        "atualizadoEm":  "2026-10-01T09:23:40.6096420Z"
                     },
                     {
                         "caminho":  "5º ano/fundamental_5ano.json",
@@ -450,36 +58,20 @@
                         "atualizadoEm":  "2026-10-01T00:58:13.369Z"
                     },
                     {
-                        "caminho":  "8º ano/fundamental_8ano.json",
+                        "caminho":  "8º ano/8ano.json",
                         "pasta":  "8º ano",
-                        "arquivo":  "fundamental_8ano",
+                        "arquivo":  "8ano",
                         "provas":  14,
-                        "questoes":  264,
+                        "questoes":  263,
                         "atualizadoEm":  "2026-10-01T00:58:13.369Z"
                     },
                     {
-                        "caminho":  "8º ano/pacote-inicial-8ano.json",
-                        "pasta":  "8º ano",
-                        "arquivo":  "pacote-inicial-8ano",
-                        "provas":  14,
-                        "questoes":  210,
-                        "atualizadoEm":  "2026-09-17T03:48:19.689Z"
-                    },
-                    {
-                        "caminho":  "9º ano/fundamental_9ano.json",
+                        "caminho":  "9º ano/9ano.json",
                         "pasta":  "9º ano",
-                        "arquivo":  "fundamental_9ano",
+                        "arquivo":  "9ano",
                         "provas":  14,
-                        "questoes":  243,
+                        "questoes":  242,
                         "atualizadoEm":  "2026-10-01T00:58:13.369Z"
-                    },
-                    {
-                        "caminho":  "9º ano/pacote-inicial-9ano.json",
-                        "pasta":  "9º ano",
-                        "arquivo":  "pacote-inicial-9ano",
-                        "provas":  14,
-                        "questoes":  210,
-                        "atualizadoEm":  "2026-09-17T03:41:59.747Z"
                     },
                     {
                         "caminho":  "Ensino Superior/Enfermagem.json",
@@ -502,7 +94,7 @@
                         "pasta":  "Ensino Superior",
                         "arquivo":  "Fisioterapeuta",
                         "provas":  2,
-                        "questoes":  150,
+                        "questoes":  121,
                         "atualizadoEm":  "2026-10-01T01:00:04.085Z"
                     },
                     {
@@ -510,7 +102,7 @@
                         "pasta":  "Ensino Superior",
                         "arquivo":  "nutricionista",
                         "provas":  25,
-                        "questoes":  777,
+                        "questoes":  776,
                         "atualizadoEm":  "2026-10-01T01:02:54.461Z"
                     },
                     {
