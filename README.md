@@ -26,6 +26,16 @@ este site.
 | `Quiz/Autoconhecimento e Comportamento/` | 🧠 Testes de autoconhecimento |
 | `Quiz/Adaptabilidade e Rotina/` | 🧩 Testes de rotina |
 
+## Ambiente (personalização oficial futura)
+
+| Pasta | Acesso no app |
+|---|---|
+| `Ambiente/Temas/` | Botão de importar da configuração de temas |
+| `Ambiente/Sons/` | Botão de importar da configuração de sons |
+
+O índice é o **`manifest-ambiente.json`**. Medalhas acompanham a versão
+do programa (sem repositório).
+
 ## Formato dos arquivos
 
 Cada JSON segue o envelope `kuaa/estudante` (`format`, `createdAt`,
