@@ -1,0 +1,5597 @@
+{
+  "format": "kuaa/estudante",
+  "createdAt": "2026-09-17T03:39:35.186Z",
+  "exams": [
+    {
+      "id": "sintetica|2026|deepseek|lingua-portuguesa|1-7ano",
+      "title": "7º EF - Língua Portuguesa",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Qual é o coletivo de 'lobos'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "matilha"
+            },
+            {
+              "id": "A02",
+              "text": "cardume"
+            },
+            {
+              "id": "A03",
+              "text": "enxame"
+            },
+            {
+              "id": "A04",
+              "text": "revoada"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Qual é o feminino da palavra 'cavaleiro'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cavaleira"
+            },
+            {
+              "id": "A02",
+              "text": "cavala"
+            },
+            {
+              "id": "A03",
+              "text": "cavalo"
+            },
+            {
+              "id": "A04",
+              "text": "cavalheira"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Na frase 'O menino quebrou o vidro', qual é o objeto direto?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O menino"
+            },
+            {
+              "id": "A02",
+              "text": "quebrou"
+            },
+            {
+              "id": "A03",
+              "text": "o vidro"
+            },
+            {
+              "id": "A04",
+              "text": "menino quebrou"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Qual é o sinônimo da palavra 'corajoso'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "covarde"
+            },
+            {
+              "id": "A02",
+              "text": "valente"
+            },
+            {
+              "id": "A03",
+              "text": "medroso"
+            },
+            {
+              "id": "A04",
+              "text": "tímido"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Qual das palavras abaixo é um advérbio de modo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "rapidamente"
+            },
+            {
+              "id": "A02",
+              "text": "bonito"
+            },
+            {
+              "id": "A03",
+              "text": "mesa"
+            },
+            {
+              "id": "A04",
+              "text": "correr"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Na frase 'A casa é grande', a palavra 'grande' é um:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "substantivo"
+            },
+            {
+              "id": "A02",
+              "text": "adjetivo"
+            },
+            {
+              "id": "A03",
+              "text": "verbo"
+            },
+            {
+              "id": "A04",
+              "text": "advérbio"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Leia: 'Estudei muito, mas não fui aprovado.' A conjunção 'mas' estabelece uma ideia de:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "adição"
+            },
+            {
+              "id": "A02",
+              "text": "oposição"
+            },
+            {
+              "id": "A03",
+              "text": "conclusão"
+            },
+            {
+              "id": "A04",
+              "text": "alternância"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Assinale a alternativa em que o verbo está no pretérito perfeito.",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Eu estudo todos os dias."
+            },
+            {
+              "id": "A02",
+              "text": "Eu estudei muito ontem."
+            },
+            {
+              "id": "A03",
+              "text": "Eu estudarei amanhã."
+            },
+            {
+              "id": "A04",
+              "text": "Eu estudava todos os dias."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Na frase 'O livro que comprei é interessante', o termo 'que' é um:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "pronome pessoal"
+            },
+            {
+              "id": "A02",
+              "text": "pronome possessivo"
+            },
+            {
+              "id": "A03",
+              "text": "pronome relativo"
+            },
+            {
+              "id": "A04",
+              "text": "advérbio de modo"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Leia a frase: 'O vento sussurrava segredos entre as árvores.' A figura de linguagem presente é:",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "metáfora"
+            },
+            {
+              "id": "A02",
+              "text": "personificação (prosopopeia)"
+            },
+            {
+              "id": "A03",
+              "text": "hipérbole"
+            },
+            {
+              "id": "A04",
+              "text": "comparação"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Portuguesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.656Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|matematica|1-7ano",
+      "title": "7º EF - Matemática",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Qual é o resultado da operação (-5) + (+8)?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "-3"
+            },
+            {
+              "id": "A02",
+              "text": "3"
+            },
+            {
+              "id": "A03",
+              "text": "13"
+            },
+            {
+              "id": "A04",
+              "text": "-13"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Qual é o resultado da operação (-7) × (-3)?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "-21"
+            },
+            {
+              "id": "A02",
+              "text": "21"
+            },
+            {
+              "id": "A03",
+              "text": "-10"
+            },
+            {
+              "id": "A04",
+              "text": "10"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Qual é o resultado da operação 1/2 + 1/4?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2/6"
+            },
+            {
+              "id": "A02",
+              "text": "3/4"
+            },
+            {
+              "id": "A03",
+              "text": "2/4"
+            },
+            {
+              "id": "A04",
+              "text": "1/6"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Qual é o resultado da operação 0,5 × 0,4?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,2"
+            },
+            {
+              "id": "A02",
+              "text": "0,02"
+            },
+            {
+              "id": "A03",
+              "text": "2,0"
+            },
+            {
+              "id": "A04",
+              "text": "0,9"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Qual é o valor de x na equação x + 8 = 15?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "5"
+            },
+            {
+              "id": "A02",
+              "text": "6"
+            },
+            {
+              "id": "A03",
+              "text": "7"
+            },
+            {
+              "id": "A04",
+              "text": "8"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Qual é o resultado da operação 20% de 150?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20"
+            },
+            {
+              "id": "A02",
+              "text": "25"
+            },
+            {
+              "id": "A03",
+              "text": "30"
+            },
+            {
+              "id": "A04",
+              "text": "35"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "Um produto custa R$ 200,00. Se ele sofrer um desconto de 25%, qual será o novo preço?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "R$ 140,00"
+            },
+            {
+              "id": "A02",
+              "text": "R$ 150,00"
+            },
+            {
+              "id": "A03",
+              "text": "R$ 160,00"
+            },
+            {
+              "id": "A04",
+              "text": "R$ 170,00"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "Qual é o resultado da operação (-12) ÷ (+4)?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "-3"
+            },
+            {
+              "id": "A02",
+              "text": "3"
+            },
+            {
+              "id": "A03",
+              "text": "-8"
+            },
+            {
+              "id": "A04",
+              "text": "8"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "Qual é o valor de x na equação 3x - 5 = 10?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3"
+            },
+            {
+              "id": "A02",
+              "text": "4"
+            },
+            {
+              "id": "A03",
+              "text": "5"
+            },
+            {
+              "id": "A04",
+              "text": "6"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "Em uma turma com 40 alunos, 60% são meninas. Quantas meninas há nessa turma?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "20"
+            },
+            {
+              "id": "A02",
+              "text": "22"
+            },
+            {
+              "id": "A03",
+              "text": "24"
+            },
+            {
+              "id": "A04",
+              "text": "26"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Um cubo tem 5 cm de aresta. Qual é o volume desse cubo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "25 cm³"
+            },
+            {
+              "id": "A02",
+              "text": "75 cm³"
+            },
+            {
+              "id": "A03",
+              "text": "100 cm³"
+            },
+            {
+              "id": "A04",
+              "text": "125 cm³"
+            }
+          ],
+          "correct": "A04",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Qual é o resultado da operação 2/3 × 3/5?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "6/8"
+            },
+            {
+              "id": "A02",
+              "text": "2/5"
+            },
+            {
+              "id": "A03",
+              "text": "5/8"
+            },
+            {
+              "id": "A04",
+              "text": "6/15"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Um carro percorre 300 km em 4 horas. Qual é a sua velocidade média?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "70 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "75 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "80 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "85 km/h"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Em uma prova, as notas de um aluno foram: 7, 8, 6, 9 e 10. Qual é a média aritmética dessas notas?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "7,0"
+            },
+            {
+              "id": "A02",
+              "text": "7,5"
+            },
+            {
+              "id": "A03",
+              "text": "8,0"
+            },
+            {
+              "id": "A04",
+              "text": "8,5"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Qual é o resultado da operação (-8) + (+3)?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "-5"
+            },
+            {
+              "id": "A02",
+              "text": "5"
+            },
+            {
+              "id": "A03",
+              "text": "-11"
+            },
+            {
+              "id": "A04",
+              "text": "11"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Qual é o resultado da operação (-6) × (-4)?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "-24"
+            },
+            {
+              "id": "A02",
+              "text": "24"
+            },
+            {
+              "id": "A03",
+              "text": "-10"
+            },
+            {
+              "id": "A04",
+              "text": "10"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Qual é o resultado da operação 1/3 + 1/6?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "2/9"
+            },
+            {
+              "id": "A02",
+              "text": "1/2"
+            },
+            {
+              "id": "A03",
+              "text": "2/6"
+            },
+            {
+              "id": "A04",
+              "text": "1/9"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Qual é o resultado da operação 0,6 × 0,5?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "0,3"
+            },
+            {
+              "id": "A02",
+              "text": "0,03"
+            },
+            {
+              "id": "A03",
+              "text": "3,0"
+            },
+            {
+              "id": "A04",
+              "text": "1,1"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Qual é o valor de x na equação x - 12 = 20?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "28"
+            },
+            {
+              "id": "A02",
+              "text": "30"
+            },
+            {
+              "id": "A03",
+              "text": "32"
+            },
+            {
+              "id": "A04",
+              "text": "34"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Qual é o resultado da operação 30% de 250?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "65"
+            },
+            {
+              "id": "A02",
+              "text": "70"
+            },
+            {
+              "id": "A03",
+              "text": "75"
+            },
+            {
+              "id": "A04",
+              "text": "80"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Um produto custa R$ 350,00. Se ele sofrer um desconto de 20%, qual será o novo preço?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "R$ 260,00"
+            },
+            {
+              "id": "A02",
+              "text": "R$ 270,00"
+            },
+            {
+              "id": "A03",
+              "text": "R$ 280,00"
+            },
+            {
+              "id": "A04",
+              "text": "R$ 290,00"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Qual é o resultado da operação (-15) ÷ (+5)?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "-3"
+            },
+            {
+              "id": "A02",
+              "text": "3"
+            },
+            {
+              "id": "A03",
+              "text": "-10"
+            },
+            {
+              "id": "A04",
+              "text": "10"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Qual é o valor de x na equação 4x + 8 = 32?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4"
+            },
+            {
+              "id": "A02",
+              "text": "5"
+            },
+            {
+              "id": "A03",
+              "text": "6"
+            },
+            {
+              "id": "A04",
+              "text": "7"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "Um triângulo tem base de 10 cm e altura de 6 cm. Qual é a área desse triângulo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "30 cm²"
+            },
+            {
+              "id": "A02",
+              "text": "40 cm²"
+            },
+            {
+              "id": "A03",
+              "text": "50 cm²"
+            },
+            {
+              "id": "A04",
+              "text": "60 cm²"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Em uma turma com 50 alunos, 40% são meninos. Quantos meninos há nessa turma?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "15"
+            },
+            {
+              "id": "A02",
+              "text": "18"
+            },
+            {
+              "id": "A03",
+              "text": "20"
+            },
+            {
+              "id": "A04",
+              "text": "22"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Um paralelepípedo tem 8 cm de comprimento, 5 cm de largura e 3 cm de altura. Qual é o volume desse paralelepípedo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "80 cm³"
+            },
+            {
+              "id": "A02",
+              "text": "100 cm³"
+            },
+            {
+              "id": "A03",
+              "text": "120 cm³"
+            },
+            {
+              "id": "A04",
+              "text": "150 cm³"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Qual é o resultado da operação 3/4 ÷ 1/2?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3/8"
+            },
+            {
+              "id": "A02",
+              "text": "3/2"
+            },
+            {
+              "id": "A03",
+              "text": "1/2"
+            },
+            {
+              "id": "A04",
+              "text": "4/3"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Um carro percorre 420 km em 6 horas. Qual é a sua velocidade média?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "60 km/h"
+            },
+            {
+              "id": "A02",
+              "text": "65 km/h"
+            },
+            {
+              "id": "A03",
+              "text": "70 km/h"
+            },
+            {
+              "id": "A04",
+              "text": "75 km/h"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Em uma prova, as notas de um aluno foram: 6, 7, 8, 9 e 10. Qual é a média aritmética dessas notas?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "7,0"
+            },
+            {
+              "id": "A02",
+              "text": "7,5"
+            },
+            {
+              "id": "A03",
+              "text": "8,0"
+            },
+            {
+              "id": "A04",
+              "text": "8,5"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.657Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|ciencias-naturais|1-7ano",
+      "title": "7º EF - Ciências Naturais",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Qual é o principal órgão do sistema respiratório?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Coração"
+            },
+            {
+              "id": "A02",
+              "text": "Pulmão"
+            },
+            {
+              "id": "A03",
+              "text": "Estômago"
+            },
+            {
+              "id": "A04",
+              "text": "Fígado"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Ciências Naturais",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Qual é o nome da menor unidade estrutural e funcional dos seres vivos?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Átomo"
+            },
+            {
+              "id": "A02",
+              "text": "Molécula"
+            },
+            {
+              "id": "A03",
+              "text": "Célula"
+            },
+            {
+              "id": "A04",
+              "text": "Tecido"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Ciências Naturais",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.658Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|historia|1-7ano",
+      "title": "7º EF - História",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Qual era a principal atividade econômica no sistema feudal?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Comércio marítimo"
+            },
+            {
+              "id": "A02",
+              "text": "Agricultura"
+            },
+            {
+              "id": "A03",
+              "text": "Mineração"
+            },
+            {
+              "id": "A04",
+              "text": "Indústria"
+            }
+          ],
+          "correct": "A02",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Qual é o nome do movimento cultural que valorizou a cultura clássica e o humanismo, iniciado na Itália?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Renascimento"
+            },
+            {
+              "id": "A02",
+              "text": "Iluminismo"
+            },
+            {
+              "id": "A03",
+              "text": "Barroco"
+            },
+            {
+              "id": "A04",
+              "text": "Romantismo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Qual foi o nome do movimento religioso que contestou a autoridade da Igreja Católica no século XVI?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reforma Protestante"
+            },
+            {
+              "id": "A02",
+              "text": "Contrarreforma"
+            },
+            {
+              "id": "A03",
+              "text": "Cruzada"
+            },
+            {
+              "id": "A04",
+              "text": "Inquisição"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Qual era o nome do sistema político em que o rei concentrava todos os poderes?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Monarquia absolutista"
+            },
+            {
+              "id": "A02",
+              "text": "Democracia"
+            },
+            {
+              "id": "A03",
+              "text": "República"
+            },
+            {
+              "id": "A04",
+              "text": "Feudalismo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Qual foi o nome do tratado que dividiu as terras descobertas entre Portugal e Espanha em 1494?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tratado de Tordesilhas"
+            },
+            {
+              "id": "A02",
+              "text": "Tratado de Madri"
+            },
+            {
+              "id": "A03",
+              "text": "Tratado de Methuen"
+            },
+            {
+              "id": "A04",
+              "text": "Tratado de Utrecht"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 7,
+          "originalNumber": "07",
+          "label": "Questão 7",
+          "text": "O que foi o Renascimento e qual sua importância?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi um movimento cultural e artístico que valorizou a cultura clássica, o humanismo e a ciência, transformando a visão de mundo na Europa"
+            },
+            {
+              "id": "A02",
+              "text": "Foi um movimento militar"
+            },
+            {
+              "id": "A03",
+              "text": "Foi uma religião"
+            },
+            {
+              "id": "A04",
+              "text": "Foi um tipo de governo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 8,
+          "originalNumber": "08",
+          "label": "Questão 8",
+          "text": "O que foi a Contrarreforma e qual seu objetivo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi a reação da Igreja Católica à Reforma Protestante, com o objetivo de reafirmar seus dogmas e recuperar fiéis"
+            },
+            {
+              "id": "A02",
+              "text": "Foi um movimento a favor da Reforma Protestante"
+            },
+            {
+              "id": "A03",
+              "text": "Foi um movimento artístico"
+            },
+            {
+              "id": "A04",
+              "text": "Foi um tratado de paz"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 9,
+          "originalNumber": "09",
+          "label": "Questão 9",
+          "text": "O que foram as Grandes Navegações e qual sua importância?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foram expedições marítimas que permitiram a exploração de novas rotas comerciais e a colonização de novas terras, incluindo o Brasil"
+            },
+            {
+              "id": "A02",
+              "text": "Foram viagens espaciais"
+            },
+            {
+              "id": "A03",
+              "text": "Foram migrações internas"
+            },
+            {
+              "id": "A04",
+              "text": "Foram guerras religiosas"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 10,
+          "originalNumber": "10",
+          "label": "Questão 10",
+          "text": "O que foi o Antigo Regime?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi o sistema político, econômico e social vigente na Europa entre os séculos XVI e XVIII, marcado pelo absolutismo e pela sociedade estamental"
+            },
+            {
+              "id": "A02",
+              "text": "Foi um movimento artístico"
+            },
+            {
+              "id": "A03",
+              "text": "Foi um tipo de governo democrático"
+            },
+            {
+              "id": "A04",
+              "text": "Foi uma religião"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 11,
+          "originalNumber": "11",
+          "label": "Questão 11",
+          "text": "O que foi a sociedade estamental no Antigo Regime?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Era uma sociedade dividida em estamentos (nobreza, clero e povo), com pouca mobilidade social e privilégios para os grupos dominantes"
+            },
+            {
+              "id": "A02",
+              "text": "Era uma sociedade sem classes"
+            },
+            {
+              "id": "A03",
+              "text": "Era uma sociedade baseada apenas no comércio"
+            },
+            {
+              "id": "A04",
+              "text": "Era uma sociedade igualitária"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 12,
+          "originalNumber": "12",
+          "label": "Questão 12",
+          "text": "Qual foi a importância do Renascimento para o desenvolvimento da ciência moderna?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O Renascimento valorizou a observação, a experimentação e o racionalismo, lançando as bases do método científico e contribuindo para avanços em astronomia, anatomia e física"
+            },
+            {
+              "id": "A02",
+              "text": "O Renascimento não teve relação com a ciência"
+            },
+            {
+              "id": "A03",
+              "text": "O Renascimento proibiu a ciência"
+            },
+            {
+              "id": "A04",
+              "text": "O Renascimento foi apenas artístico"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 1,
+          "dificuldade_justificativa": "alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 13,
+          "originalNumber": "13",
+          "label": "Questão 13",
+          "text": "Qual foi a importância da Reforma Protestante para a história europeia?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A Reforma questionou a autoridade da Igreja Católica, levou à divisão do cristianismo e influenciou transformações políticas, sociais e culturais na Europa"
+            },
+            {
+              "id": "A02",
+              "text": "A Reforma fortaleceu a Igreja Católica"
+            },
+            {
+              "id": "A03",
+              "text": "A Reforma não teve importância"
+            },
+            {
+              "id": "A04",
+              "text": "A Reforma foi um movimento artístico"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 14,
+          "originalNumber": "14",
+          "label": "Questão 14",
+          "text": "Qual foi a importância do Tratado de Tordesilhas para a colonização da América?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O tratado dividiu as terras da América entre Portugal e Espanha, definindo as áreas de colonização de cada país e influenciando a formação do território brasileiro"
+            },
+            {
+              "id": "A02",
+              "text": "O tratado não teve importância"
+            },
+            {
+              "id": "A03",
+              "text": "O tratado dividiu a África"
+            },
+            {
+              "id": "A04",
+              "text": "O tratado foi um acordo militar"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 15,
+          "originalNumber": "15",
+          "label": "Questão 15",
+          "text": "Qual foi a importância da Companhia de Jesus (jesuítas) para a colonização do Brasil?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Os jesuítas tiveram papel fundamental na catequese dos indígenas, na fundação de escolas e na produção de conhecimento sobre o Brasil colonial"
+            },
+            {
+              "id": "A02",
+              "text": "Os jesuítas não tiveram importância"
+            },
+            {
+              "id": "A03",
+              "text": "Os jesuítas foram responsáveis pela independência do Brasil"
+            },
+            {
+              "id": "A04",
+              "text": "Os jesuítas eram um grupo militar"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "dificil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 4,
+          "dificuldade_pontos": 4,
+          "dificuldade_justificativa": "2 alternativas elaboradas",
+          "estimatedMinutes": 2
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Qual era o nome do senhor de terras no sistema feudal?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Servo"
+            },
+            {
+              "id": "A02",
+              "text": "Senhor feudal"
+            },
+            {
+              "id": "A03",
+              "text": "Vassalo"
+            },
+            {
+              "id": "A04",
+              "text": "Cavaleiro"
+            }
+          ],
+          "correct": "A02",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Qual é o nome do movimento religioso liderado por Martinho Lutero no século XVI?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Reforma Protestante"
+            },
+            {
+              "id": "A02",
+              "text": "Contrarreforma"
+            },
+            {
+              "id": "A03",
+              "text": "Cruzada"
+            },
+            {
+              "id": "A04",
+              "text": "Inquisição"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Qual foi o nome do navegador português que chegou ao Brasil em 1500?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Pedro Álvares Cabral"
+            },
+            {
+              "id": "A02",
+              "text": "Vasco da Gama"
+            },
+            {
+              "id": "A03",
+              "text": "Cristóvão Colombo"
+            },
+            {
+              "id": "A04",
+              "text": "Fernão de Magalhães"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Qual era o nome da relação de fidelidade entre senhores e vassalos no feudalismo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Suserania e vassalagem"
+            },
+            {
+              "id": "A02",
+              "text": "Servidão"
+            },
+            {
+              "id": "A03",
+              "text": "Mecenato"
+            },
+            {
+              "id": "A04",
+              "text": "Escravidão"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Qual foi o nome do movimento que contestou a venda de indulgências e deu origem à Reforma?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Luteranismo"
+            },
+            {
+              "id": "A02",
+              "text": "Calvinismo"
+            },
+            {
+              "id": "A03",
+              "text": "Anglicanismo"
+            },
+            {
+              "id": "A04",
+              "text": "Jansenismo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Qual foi o nome do primeiro produto explorado economicamente pelos portugueses no Brasil colonial?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Café"
+            },
+            {
+              "id": "A02",
+              "text": "Pau-brasil"
+            },
+            {
+              "id": "A03",
+              "text": "Cana-de-açúcar"
+            },
+            {
+              "id": "A04",
+              "text": "Ouro"
+            }
+          ],
+          "correct": "A02",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Qual é o nome do sistema político em que o poder é exercido por um rei com autoridade absoluta?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Democracia"
+            },
+            {
+              "id": "A02",
+              "text": "Monarquia absolutista"
+            },
+            {
+              "id": "A03",
+              "text": "República"
+            },
+            {
+              "id": "A04",
+              "text": "Oligarquia"
+            }
+          ],
+          "correct": "A02",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Qual foi o nome da aliança entre Portugal e Inglaterra que prejudicou a economia portuguesa?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Tratado de Tordesilhas"
+            },
+            {
+              "id": "A02",
+              "text": "Tratado de Methuen"
+            },
+            {
+              "id": "A03",
+              "text": "Tratado de Madri"
+            },
+            {
+              "id": "A04",
+              "text": "Tratado de Utrecht"
+            }
+          ],
+          "correct": "A02",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Qual foi o nome do movimento cultural que valorizou a razão e a ciência no século XVIII?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Renascimento"
+            },
+            {
+              "id": "A02",
+              "text": "Iluminismo"
+            },
+            {
+              "id": "A03",
+              "text": "Barroco"
+            },
+            {
+              "id": "A04",
+              "text": "Romantismo"
+            }
+          ],
+          "correct": "A02",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 25,
+          "originalNumber": "25",
+          "label": "Questão 25",
+          "text": "O que foi o mercantilismo e qual sua importância para a colonização?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi um conjunto de práticas econômicas baseadas no acúmulo de metais preciosos, no controle do comércio e na exploração de colônias"
+            },
+            {
+              "id": "A02",
+              "text": "Foi uma política de livre comércio"
+            },
+            {
+              "id": "A03",
+              "text": "Foi um sistema agrícola"
+            },
+            {
+              "id": "A04",
+              "text": "Foi uma religião"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "O que foi a Inconfidência Mineira e qual seu objetivo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi um movimento que buscava a independência de Minas Gerais e o fim da exploração colonial portuguesa"
+            },
+            {
+              "id": "A02",
+              "text": "Foi um movimento religioso"
+            },
+            {
+              "id": "A03",
+              "text": "Foi uma revolta de escravizados"
+            },
+            {
+              "id": "A04",
+              "text": "Foi um movimento artístico"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O que foi a economia açucareira no Brasil colonial?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi a principal atividade econômica do período colonial, baseada na plantation (monocultura, latifúndio e trabalho escravo)"
+            },
+            {
+              "id": "A02",
+              "text": "Foi uma atividade industrial"
+            },
+            {
+              "id": "A03",
+              "text": "Foi uma atividade mineradora"
+            },
+            {
+              "id": "A04",
+              "text": "Foi uma atividade comercial"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "O que foi o absolutismo monárquico?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi um sistema político em que o rei concentrava todos os poderes do Estado, justificando sua autoridade pelo direito divino"
+            },
+            {
+              "id": "A02",
+              "text": "Foi um sistema democrático"
+            },
+            {
+              "id": "A03",
+              "text": "Foi um sistema feudal"
+            },
+            {
+              "id": "A04",
+              "text": "Foi um sistema republicano"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "O que foi o Renascimento comercial e urbano na Baixa Idade Média?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi o ressurgimento das atividades comerciais e do crescimento das cidades, impulsionado pelas feiras e pela burguesia"
+            },
+            {
+              "id": "A02",
+              "text": "Foi um movimento artístico"
+            },
+            {
+              "id": "A03",
+              "text": "Foi uma guerra religiosa"
+            },
+            {
+              "id": "A04",
+              "text": "Foi uma epidemia"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Qual foi a importância da Revolução Industrial para a história?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A Revolução Industrial transformou os modos de produção, a sociedade e a economia, consolidando o capitalismo e o trabalho assalariado"
+            },
+            {
+              "id": "A02",
+              "text": "A Revolução Industrial não teve importância"
+            },
+            {
+              "id": "A03",
+              "text": "A Revolução Industrial foi um movimento artístico"
+            },
+            {
+              "id": "A04",
+              "text": "A Revolução Industrial foi uma guerra"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 31,
+          "originalNumber": "31",
+          "label": "Questão 31",
+          "text": "Qual foi a importância das Grandes Navegações para a formação do Brasil?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "As Grandes Navegações permitiram a chegada dos portugueses ao Brasil e o início da colonização, integrando o território ao comércio mundial"
+            },
+            {
+              "id": "A02",
+              "text": "As Grandes Navegações não tiveram relação com o Brasil"
+            },
+            {
+              "id": "A03",
+              "text": "As Grandes Navegações foram um movimento artístico"
+            },
+            {
+              "id": "A04",
+              "text": "As Grandes Navegações foram uma guerra religiosa"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 32,
+          "originalNumber": "32",
+          "label": "Questão 32",
+          "text": "Qual foi a importância do Iluminismo para as revoluções do século XVIII?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O Iluminismo inspirou revoluções como a Francesa e a Americana, defendendo liberdade, igualdade e fraternidade"
+            },
+            {
+              "id": "A02",
+              "text": "O Iluminismo foi um movimento religioso"
+            },
+            {
+              "id": "A03",
+              "text": "O Iluminismo não teve importância"
+            },
+            {
+              "id": "A04",
+              "text": "O Iluminismo foi um movimento artístico"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 33,
+          "originalNumber": "33",
+          "label": "Questão 33",
+          "text": "Qual foi a importância da mineração no Brasil colonial?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A mineração, especialmente do ouro em Minas Gerais, impulsionou a economia colonial, o povoamento do interior e a formação de cidades"
+            },
+            {
+              "id": "A02",
+              "text": "A mineração não teve importância"
+            },
+            {
+              "id": "A03",
+              "text": "A mineração foi uma atividade apenas do século XX"
+            },
+            {
+              "id": "A04",
+              "text": "A mineração foi proibida em todo o período colonial"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.660Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|geografia|1-7ano",
+      "title": "7º EF - Geografia",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Quantas regiões compõem o território brasileiro segundo a divisão oficial do IBGE?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3"
+            },
+            {
+              "id": "A02",
+              "text": "4"
+            },
+            {
+              "id": "A03",
+              "text": "5"
+            },
+            {
+              "id": "A04",
+              "text": "6"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Qual é a região brasileira com o maior número de estados?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Nordeste"
+            },
+            {
+              "id": "A02",
+              "text": "Sudeste"
+            },
+            {
+              "id": "A03",
+              "text": "Norte"
+            },
+            {
+              "id": "A04",
+              "text": "Sul"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "O que é o relevo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É o conjunto das formas da superfície terrestre, como planaltos, planícies, montanhas e depressões"
+            },
+            {
+              "id": "A02",
+              "text": "É o conjunto dos rios de uma região"
+            },
+            {
+              "id": "A03",
+              "text": "É o clima de uma região"
+            },
+            {
+              "id": "A04",
+              "text": "É a vegetação de uma região"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Qual é o nome da maior floresta tropical do mundo, localizada principalmente no Brasil?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Mata Atlântica"
+            },
+            {
+              "id": "A02",
+              "text": "Floresta Amazônica"
+            },
+            {
+              "id": "A03",
+              "text": "Cerrado"
+            },
+            {
+              "id": "A04",
+              "text": "Caatinga"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "O que é a população absoluta de um país?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É o número total de habitantes de um país"
+            },
+            {
+              "id": "A02",
+              "text": "É a quantidade de pessoas por km²"
+            },
+            {
+              "id": "A03",
+              "text": "É o número de nascimentos por ano"
+            },
+            {
+              "id": "A04",
+              "text": "É o número de imigrantes"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Qual é o nome do processo de saída de pessoas do campo em direção às cidades?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Êxodo rural"
+            },
+            {
+              "id": "A02",
+              "text": "Migração sazonal"
+            },
+            {
+              "id": "A03",
+              "text": "Emigração"
+            },
+            {
+              "id": "A04",
+              "text": "Nomadismo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Qual é o nome do conjunto de seres vivos e elementos não vivos que interagem em um ambiente?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ecossistema"
+            },
+            {
+              "id": "A02",
+              "text": "População"
+            },
+            {
+              "id": "A03",
+              "text": "Comunidade"
+            },
+            {
+              "id": "A04",
+              "text": "Bioma"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "O que é a latitude?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É a distância em graus de um ponto qualquer da Terra em relação à Linha do Equador"
+            },
+            {
+              "id": "A02",
+              "text": "É a distância em graus de um ponto qualquer da Terra em relação ao Meridiano de Greenwich"
+            },
+            {
+              "id": "A03",
+              "text": "É a altura de uma montanha"
+            },
+            {
+              "id": "A04",
+              "text": "É a profundidade de um oceano"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "enunciado curto; 2 alternativas elaboradas",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "O que é a densidade demográfica?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É a relação entre o número de habitantes e a área de um território, expressa em habitantes por km²"
+            },
+            {
+              "id": "A02",
+              "text": "É o número total de habitantes de um país"
+            },
+            {
+              "id": "A03",
+              "text": "É a taxa de natalidade de uma região"
+            },
+            {
+              "id": "A04",
+              "text": "É a taxa de mortalidade de uma região"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "O que é a urbanização?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É o processo de crescimento das cidades e aumento da população urbana em relação à rural"
+            },
+            {
+              "id": "A02",
+              "text": "É o processo de crescimento da população rural"
+            },
+            {
+              "id": "A03",
+              "text": "É o processo de migração entre países"
+            },
+            {
+              "id": "A04",
+              "text": "É o processo de industrialização"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "O que é a agricultura familiar?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É a produção agrícola realizada por pequenos produtores, com mão de obra predominantemente familiar"
+            },
+            {
+              "id": "A02",
+              "text": "É a produção agrícola em grandes latifúndios"
+            },
+            {
+              "id": "A03",
+              "text": "É a produção agrícola voltada apenas para exportação"
+            },
+            {
+              "id": "A04",
+              "text": "É a produção agrícola mecanizada em larga escala"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Quais são as principais características do clima semiárido brasileiro?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Apresenta chuvas escassas e irregulares, altas temperaturas e vegetação de caatinga"
+            },
+            {
+              "id": "A02",
+              "text": "Apresenta chuvas abundantes durante todo o ano"
+            },
+            {
+              "id": "A03",
+              "text": "Apresenta baixas temperaturas e neve no inverno"
+            },
+            {
+              "id": "A04",
+              "text": "Apresenta clima equatorial úmido"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "O que é a erosão do solo e quais são suas causas?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É o desgaste e transporte de partículas do solo pela ação da água, do vento ou do homem, causado principalmente pelo desmatamento e uso inadequado do solo"
+            },
+            {
+              "id": "A02",
+              "text": "É o aumento da fertilidade do solo"
+            },
+            {
+              "id": "A03",
+              "text": "É a formação de rochas"
+            },
+            {
+              "id": "A04",
+              "text": "É a poluição do ar"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Qual é a importância da camada de ozônio para a vida na Terra?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "A camada de ozônio protege a Terra dos raios ultravioleta do Sol, sendo essencial para a vida"
+            },
+            {
+              "id": "A02",
+              "text": "A camada de ozônio aquece a Terra"
+            },
+            {
+              "id": "A03",
+              "text": "A camada de ozônio não tem importância"
+            },
+            {
+              "id": "A04",
+              "text": "A camada de ozônio é responsável pelas chuvas"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Geografia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.661Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|arte|1-7ano",
+      "title": "7º EF - Arte",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Qual é o nome do elemento básico da linguagem visual que se refere à qualidade da superfície de um objeto?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Cor"
+            },
+            {
+              "id": "A02",
+              "text": "Textura"
+            },
+            {
+              "id": "A03",
+              "text": "Forma"
+            },
+            {
+              "id": "A04",
+              "text": "Luz"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Arte",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Qual é o nome do instrumento musical de cordas que possui quatro cordas e é muito usado na música clássica?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Violão"
+            },
+            {
+              "id": "A02",
+              "text": "Violino"
+            },
+            {
+              "id": "A03",
+              "text": "Piano"
+            },
+            {
+              "id": "A04",
+              "text": "Flauta"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Arte",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "O que é uma pintura feita com tinta a óleo sobre tela?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Uma escultura"
+            },
+            {
+              "id": "A02",
+              "text": "Uma pintura"
+            },
+            {
+              "id": "A03",
+              "text": "Uma gravura"
+            },
+            {
+              "id": "A04",
+              "text": "Uma colagem"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Arte",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "O que foi o Modernismo brasileiro na arte e qual sua importância?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Foi um movimento que rompeu com padrões europeus e valorizou a cultura brasileira, tendo como marco a Semana de Arte Moderna de 1922"
+            },
+            {
+              "id": "A02",
+              "text": "Foi um movimento que copiava a arte europeia"
+            },
+            {
+              "id": "A03",
+              "text": "Foi um movimento exclusivo de música clássica"
+            },
+            {
+              "id": "A04",
+              "text": "Foi um movimento que proibia o uso de cores"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Arte",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.661Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|educacao-fisica|1-7ano",
+      "title": "7º EF - Educação Física",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "O que são os esportes de rede e quais são suas características?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "São esportes em que uma rede divide o campo e o objetivo é fazer a bola tocar o chão do adversário, como voleibol, tênis e badminton"
+            },
+            {
+              "id": "A02",
+              "text": "São esportes individuais"
+            },
+            {
+              "id": "A03",
+              "text": "São esportes de combate"
+            },
+            {
+              "id": "A04",
+              "text": "São esportes de invasão"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Educação Física",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 0,
+          "dificuldade_justificativa": "enunciado curto; alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 30,
+          "originalNumber": "30",
+          "label": "Questão 30",
+          "text": "Qual é a importância do aquecimento e do alongamento antes e depois da atividade física?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O aquecimento prepara o corpo para a atividade, enquanto o alongamento ajuda a relaxar os músculos e prevenir lesões"
+            },
+            {
+              "id": "A02",
+              "text": "Não têm importância"
+            },
+            {
+              "id": "A03",
+              "text": "Servem apenas para perder tempo"
+            },
+            {
+              "id": "A04",
+              "text": "Apenas atletas profissionais precisam fazer"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Educação Física",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 1,
+          "dificuldade_justificativa": "alternativa óbvia (uma completa, demais vagas)",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.662Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|meio-ambiente|1-7ano",
+      "title": "7º EF - Meio Ambiente",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Qual é o nome do processo de degradação do solo em áreas áridas e semiáridas, causado principalmente pelo desmatamento e uso inadequado do solo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Desertificação"
+            },
+            {
+              "id": "A02",
+              "text": "Erosão"
+            },
+            {
+              "id": "A03",
+              "text": "Assoreamento"
+            },
+            {
+              "id": "A04",
+              "text": "Salinização"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Biologia > Ecologia",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "Ecologia",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.662Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|saude|1-7ano",
+      "title": "7º EF - Saúde",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Quantas horas de sono são recomendadas, em média, para adolescentes de 12 a 14 anos?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4 a 5 horas"
+            },
+            {
+              "id": "A02",
+              "text": "6 a 7 horas"
+            },
+            {
+              "id": "A03",
+              "text": "8 a 10 horas"
+            },
+            {
+              "id": "A04",
+              "text": "12 a 14 horas"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Educação Física > Saúde e Bem-estar",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "Saúde e Bem-estar",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Qual é o nutriente responsável por fornecer energia ao corpo?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Carboidrato"
+            },
+            {
+              "id": "A02",
+              "text": "Proteína"
+            },
+            {
+              "id": "A03",
+              "text": "Vitamina"
+            },
+            {
+              "id": "A04",
+              "text": "Água"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Educação Física > Saúde e Bem-estar",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "Saúde e Bem-estar",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.662Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|ingles|1-7ano",
+      "title": "7º EF - Inglês",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Qual é a tradução correta da palavra 'mother'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "pai"
+            },
+            {
+              "id": "A02",
+              "text": "mãe"
+            },
+            {
+              "id": "A03",
+              "text": "irmã"
+            },
+            {
+              "id": "A04",
+              "text": "avó"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Qual é a tradução da palavra 'table'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cadeira"
+            },
+            {
+              "id": "A02",
+              "text": "mesa"
+            },
+            {
+              "id": "A03",
+              "text": "cama"
+            },
+            {
+              "id": "A04",
+              "text": "sofá"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Complete a frase: 'I ___ a student.' Qual é a forma correta do verbo 'to be'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "is"
+            },
+            {
+              "id": "A02",
+              "text": "are"
+            },
+            {
+              "id": "A03",
+              "text": "am"
+            },
+            {
+              "id": "A04",
+              "text": "be"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Qual é a tradução da palavra 'dog'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "gato"
+            },
+            {
+              "id": "A02",
+              "text": "cachorro"
+            },
+            {
+              "id": "A03",
+              "text": "pássaro"
+            },
+            {
+              "id": "A04",
+              "text": "peixe"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Como se escreve o número 20 em inglês?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "twelve"
+            },
+            {
+              "id": "A02",
+              "text": "two"
+            },
+            {
+              "id": "A03",
+              "text": "twenty"
+            },
+            {
+              "id": "A04",
+              "text": "ten"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Qual é a tradução da palavra 'apple'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "banana"
+            },
+            {
+              "id": "A02",
+              "text": "maçã"
+            },
+            {
+              "id": "A03",
+              "text": "laranja"
+            },
+            {
+              "id": "A04",
+              "text": "uva"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Qual é a tradução correta da palavra 'brother'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "irmã"
+            },
+            {
+              "id": "A02",
+              "text": "irmão"
+            },
+            {
+              "id": "A03",
+              "text": "primo"
+            },
+            {
+              "id": "A04",
+              "text": "tio"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Qual é a tradução da palavra 'chair'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "mesa"
+            },
+            {
+              "id": "A02",
+              "text": "cadeira"
+            },
+            {
+              "id": "A03",
+              "text": "cama"
+            },
+            {
+              "id": "A04",
+              "text": "sofá"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Complete a frase: 'You ___ my friend.' Qual é a forma correta do verbo 'to be'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "is"
+            },
+            {
+              "id": "A02",
+              "text": "am"
+            },
+            {
+              "id": "A03",
+              "text": "are"
+            },
+            {
+              "id": "A04",
+              "text": "be"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Qual é a tradução da palavra 'cat'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cachorro"
+            },
+            {
+              "id": "A02",
+              "text": "gato"
+            },
+            {
+              "id": "A03",
+              "text": "pássaro"
+            },
+            {
+              "id": "A04",
+              "text": "peixe"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Como se escreve o número 30 em inglês?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "thirteen"
+            },
+            {
+              "id": "A02",
+              "text": "three"
+            },
+            {
+              "id": "A03",
+              "text": "thirty"
+            },
+            {
+              "id": "A04",
+              "text": "ten"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Qual é a tradução da palavra 'water'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "leite"
+            },
+            {
+              "id": "A02",
+              "text": "água"
+            },
+            {
+              "id": "A03",
+              "text": "suco"
+            },
+            {
+              "id": "A04",
+              "text": "café"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Complete a frase: 'We ___ students.' Qual é a forma correta do verbo 'to be'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "am"
+            },
+            {
+              "id": "A02",
+              "text": "is"
+            },
+            {
+              "id": "A03",
+              "text": "are"
+            },
+            {
+              "id": "A04",
+              "text": "be"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Qual é a tradução da frase 'He is my brother'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ele é meu irmão"
+            },
+            {
+              "id": "A02",
+              "text": "Ele é meu pai"
+            },
+            {
+              "id": "A03",
+              "text": "Ele é meu amigo"
+            },
+            {
+              "id": "A04",
+              "text": "Ele é meu primo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Qual é o pronome pessoal em inglês que corresponde a 'eles'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "we"
+            },
+            {
+              "id": "A02",
+              "text": "you"
+            },
+            {
+              "id": "A03",
+              "text": "they"
+            },
+            {
+              "id": "A04",
+              "text": "she"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Complete a frase: '___ they from Brazil?' Qual é a forma correta do verbo 'to be'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Is"
+            },
+            {
+              "id": "A02",
+              "text": "Am"
+            },
+            {
+              "id": "A03",
+              "text": "Are"
+            },
+            {
+              "id": "A04",
+              "text": "Be"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Leia a frase: 'My sister is ten years old and my brother is twelve.' Quantos anos tem a irmã?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "8"
+            },
+            {
+              "id": "A02",
+              "text": "9"
+            },
+            {
+              "id": "A03",
+              "text": "10"
+            },
+            {
+              "id": "A04",
+              "text": "12"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Qual é a tradução correta da frase 'I have a small dog'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Eu tenho um cachorro pequeno"
+            },
+            {
+              "id": "A02",
+              "text": "Eu quero um cachorro pequeno"
+            },
+            {
+              "id": "A03",
+              "text": "Eu vejo um cachorro pequeno"
+            },
+            {
+              "id": "A04",
+              "text": "Eu tenho um gato pequeno"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Leia o diálogo: 'Where are you from?' — 'I am from Brazil.' Qual é a pergunta feita na conversa?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Qual é o seu nome?"
+            },
+            {
+              "id": "A02",
+              "text": "De onde você é?"
+            },
+            {
+              "id": "A03",
+              "text": "Quantos anos você tem?"
+            },
+            {
+              "id": "A04",
+              "text": "Como você está?"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Inglesa",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.665Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    },
+    {
+      "id": "sintetica|2026|deepseek|espanhol|1-7ano",
+      "title": "7º EF - Espanhol",
+      "city": "Jundiaí",
+      "state": "Brasil",
+      "year": "2026",
+      "board": "Ensino Fundamental",
+      "booklet": "7º Ensino Fundamental",
+      "role": "Estudante 7º EF",
+      "status": "Pronto para importação",
+      "questions": [
+        {
+          "id": 1,
+          "originalNumber": "01",
+          "label": "Questão 1",
+          "text": "Qual é a tradução correta da palavra 'madre'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "pai"
+            },
+            {
+              "id": "A02",
+              "text": "mãe"
+            },
+            {
+              "id": "A03",
+              "text": "irmã"
+            },
+            {
+              "id": "A04",
+              "text": "avó"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 2,
+          "originalNumber": "02",
+          "label": "Questão 2",
+          "text": "Qual é a tradução da palavra 'mesa'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cadeira"
+            },
+            {
+              "id": "A02",
+              "text": "mesa"
+            },
+            {
+              "id": "A03",
+              "text": "cama"
+            },
+            {
+              "id": "A04",
+              "text": "sofá"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 3,
+          "originalNumber": "03",
+          "label": "Questão 3",
+          "text": "Complete a frase: 'Yo ___ estudiante.' Qual é a forma correta do verbo 'ser'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "es"
+            },
+            {
+              "id": "A02",
+              "text": "somos"
+            },
+            {
+              "id": "A03",
+              "text": "soy"
+            },
+            {
+              "id": "A04",
+              "text": "son"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 4,
+          "originalNumber": "04",
+          "label": "Questão 4",
+          "text": "Qual é a tradução da palavra 'perro'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "gato"
+            },
+            {
+              "id": "A02",
+              "text": "cachorro"
+            },
+            {
+              "id": "A03",
+              "text": "pássaro"
+            },
+            {
+              "id": "A04",
+              "text": "peixe"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 5,
+          "originalNumber": "05",
+          "label": "Questão 5",
+          "text": "Como se escreve o número 20 em espanhol?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "doce"
+            },
+            {
+              "id": "A02",
+              "text": "dos"
+            },
+            {
+              "id": "A03",
+              "text": "veinte"
+            },
+            {
+              "id": "A04",
+              "text": "diez"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 6,
+          "originalNumber": "06",
+          "label": "Questão 6",
+          "text": "Qual é a tradução da palavra 'manzana'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "banana"
+            },
+            {
+              "id": "A02",
+              "text": "maçã"
+            },
+            {
+              "id": "A03",
+              "text": "laranja"
+            },
+            {
+              "id": "A04",
+              "text": "uva"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 16,
+          "originalNumber": "16",
+          "label": "Questão 16",
+          "text": "Qual é a tradução correta da palavra 'hermano'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "irmã"
+            },
+            {
+              "id": "A02",
+              "text": "irmão"
+            },
+            {
+              "id": "A03",
+              "text": "primo"
+            },
+            {
+              "id": "A04",
+              "text": "tio"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 17,
+          "originalNumber": "17",
+          "label": "Questão 17",
+          "text": "Qual é a tradução da palavra 'silla'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "mesa"
+            },
+            {
+              "id": "A02",
+              "text": "cadeira"
+            },
+            {
+              "id": "A03",
+              "text": "cama"
+            },
+            {
+              "id": "A04",
+              "text": "sofá"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 18,
+          "originalNumber": "18",
+          "label": "Questão 18",
+          "text": "Complete a frase: 'Tú ___ mi amigo.' Qual é a forma correta do verbo 'ser'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "es"
+            },
+            {
+              "id": "A02",
+              "text": "soy"
+            },
+            {
+              "id": "A03",
+              "text": "eres"
+            },
+            {
+              "id": "A04",
+              "text": "somos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 19,
+          "originalNumber": "19",
+          "label": "Questão 19",
+          "text": "Qual é a tradução da palavra 'gato'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "cachorro"
+            },
+            {
+              "id": "A02",
+              "text": "gato"
+            },
+            {
+              "id": "A03",
+              "text": "pássaro"
+            },
+            {
+              "id": "A04",
+              "text": "peixe"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 20,
+          "originalNumber": "20",
+          "label": "Questão 20",
+          "text": "Como se escreve o número 30 em espanhol?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "trece"
+            },
+            {
+              "id": "A02",
+              "text": "tres"
+            },
+            {
+              "id": "A03",
+              "text": "treinta"
+            },
+            {
+              "id": "A04",
+              "text": "diez"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 21,
+          "originalNumber": "21",
+          "label": "Questão 21",
+          "text": "Qual é a tradução da palavra 'agua'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "leite"
+            },
+            {
+              "id": "A02",
+              "text": "água"
+            },
+            {
+              "id": "A03",
+              "text": "suco"
+            },
+            {
+              "id": "A04",
+              "text": "café"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 22,
+          "originalNumber": "22",
+          "label": "Questão 22",
+          "text": "Complete a frase: 'Nosotros ___ estudiantes.' Qual é a forma correta do verbo 'ser'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "soy"
+            },
+            {
+              "id": "A02",
+              "text": "es"
+            },
+            {
+              "id": "A03",
+              "text": "somos"
+            },
+            {
+              "id": "A04",
+              "text": "son"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 23,
+          "originalNumber": "23",
+          "label": "Questão 23",
+          "text": "Qual é a tradução da frase 'Él es mi hermano'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ele é meu irmão"
+            },
+            {
+              "id": "A02",
+              "text": "Ele é meu pai"
+            },
+            {
+              "id": "A03",
+              "text": "Ele é meu amigo"
+            },
+            {
+              "id": "A04",
+              "text": "Ele é meu primo"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 24,
+          "originalNumber": "24",
+          "label": "Questão 24",
+          "text": "Qual é o pronome pessoal em espanhol que corresponde a 'eles'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "nosotros"
+            },
+            {
+              "id": "A02",
+              "text": "ustedes"
+            },
+            {
+              "id": "A03",
+              "text": "ellos"
+            },
+            {
+              "id": "A04",
+              "text": "ella"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 26,
+          "originalNumber": "26",
+          "label": "Questão 26",
+          "text": "Complete a frase: '¿___ ellos de Brasil?' Qual é a forma correta do verbo 'ser'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Es"
+            },
+            {
+              "id": "A02",
+              "text": "Soy"
+            },
+            {
+              "id": "A03",
+              "text": "Son"
+            },
+            {
+              "id": "A04",
+              "text": "Somos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 27,
+          "originalNumber": "27",
+          "label": "Questão 27",
+          "text": "Leia a frase: 'Mi hermana tiene diez años y mi hermano tiene doce.' Quantos anos tem a irmã?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "8"
+            },
+            {
+              "id": "A02",
+              "text": "9"
+            },
+            {
+              "id": "A03",
+              "text": "10"
+            },
+            {
+              "id": "A04",
+              "text": "12"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 28,
+          "originalNumber": "28",
+          "label": "Questão 28",
+          "text": "Qual é a tradução correta da frase 'Tengo un perro pequeño'?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Eu tenho um cachorro pequeno"
+            },
+            {
+              "id": "A02",
+              "text": "Eu quero um cachorro pequeno"
+            },
+            {
+              "id": "A03",
+              "text": "Eu vejo um cachorro pequeno"
+            },
+            {
+              "id": "A04",
+              "text": "Eu tenho um gato pequeno"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "facil",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 29,
+          "originalNumber": "29",
+          "label": "Questão 29",
+          "text": "Leia o diálogo: '¿De dónde eres?' — 'Soy de Brasil.' Qual é a pergunta feita na conversa?",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Qual é o seu nome?"
+            },
+            {
+              "id": "A02",
+              "text": "De onde você é?"
+            },
+            {
+              "id": "A03",
+              "text": "Quantos anos você tem?"
+            },
+            {
+              "id": "A04",
+              "text": "Como você está?"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Espanhola",
+          "baseText": "",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "difficulty": "media",
+          "type": "unica",
+          "expectedAnswer": "",
+          "assunto": "",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T15:49:45.666Z",
+      "pointsByDifficulty": {
+        "facil": 2,
+        "media": 3,
+        "dificil": 5
+      },
+      "kind": "prova",
+      "_fundidos": 1
+    }
+  ]
+}

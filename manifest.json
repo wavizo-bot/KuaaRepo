@@ -2,76 +2,76 @@
     "versao":  1,
     "repositorio":  "wavizo-bot/KuaaRepo",
     "branch":  "main",
-    "geradoEm":  "2026-10-11T20:19:41.7303353Z",
+    "geradoEm":  "2026-10-19T15:53:45.2712546Z",
     "totais":  {
                    "arquivos":  25,
-                   "provas":  894,
-                   "questoes":  8087
+                   "provas":  893,
+                   "questoes":  7265
                },
     "pacotes":  [
                     {
                         "caminho":  "1º ano EM/1ano-em.json",
                         "pasta":  "1º ano EM",
                         "arquivo":  "1ano-em",
-                        "provas":  20,
-                        "questoes":  507,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                        "provas":  31,
+                        "questoes":  509,
+                        "atualizadoEm":  "2026-10-19T15:41:44.491Z"
                     },
                     {
-                        "caminho":  "2º ano EM/medio_2ano.json",
+                        "caminho":  "2º ano EM/2ano-em.json",
                         "pasta":  "2º ano EM",
-                        "arquivo":  "medio_2ano",
+                        "arquivo":  "2ano-em",
                         "provas":  40,
-                        "questoes":  766,
-                        "atualizadoEm":  "2026-10-01T02:41:14.107Z"
+                        "questoes":  765,
+                        "atualizadoEm":  "2026-10-19T15:13:16.367Z"
                     },
                     {
                         "caminho":  "3º ano EM/3ano-em.json",
                         "pasta":  "3º ano EM",
                         "arquivo":  "3ano-em",
-                        "provas":  596,
-                        "questoes":  2338,
-                        "atualizadoEm":  "2026-10-01T01:00:30.210Z"
+                        "provas":  595,
+                        "questoes":  2337,
+                        "atualizadoEm":  "2026-10-19T15:13:16.462Z"
                     },
                     {
-                        "caminho":  "5º ano/fundamental_5ano.json",
+                        "caminho":  "5º ano/5ano.json",
                         "pasta":  "5º ano",
-                        "arquivo":  "fundamental_5ano",
+                        "arquivo":  "5ano",
                         "provas":  11,
                         "questoes":  359,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                        "atualizadoEm":  "2026-10-19T15:13:16.175Z"
                     },
                     {
-                        "caminho":  "6º ano/fundamental_6ano.json",
+                        "caminho":  "6º ano/6ano.json",
                         "pasta":  "6º ano",
-                        "arquivo":  "fundamental_6ano",
-                        "provas":  14,
-                        "questoes":  403,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                        "arquivo":  "6ano",
+                        "provas":  13,
+                        "questoes":  244,
+                        "atualizadoEm":  "2026-10-19T15:49:45.648Z"
                     },
                     {
-                        "caminho":  "7º ano/fundamental_7ano.json",
+                        "caminho":  "7º ano/7ano.json",
                         "pasta":  "7º ano",
-                        "arquivo":  "fundamental_7ano",
-                        "provas":  14,
-                        "questoes":  392,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                        "arquivo":  "7ano",
+                        "provas":  11,
+                        "questoes":  134,
+                        "atualizadoEm":  "2026-10-19T15:49:45.666Z"
                     },
                     {
                         "caminho":  "8º ano/8ano.json",
                         "pasta":  "8º ano",
                         "arquivo":  "8ano",
-                        "provas":  14,
-                        "questoes":  263,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                        "provas":  19,
+                        "questoes":  242,
+                        "atualizadoEm":  "2026-10-19T15:41:44.580Z"
                     },
                     {
                         "caminho":  "9º ano/9ano.json",
                         "pasta":  "9º ano",
                         "arquivo":  "9ano",
-                        "provas":  28,
-                        "questoes":  592,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                        "provas":  16,
+                        "questoes":  213,
+                        "atualizadoEm":  "2026-10-19T15:41:44.681Z"
                     },
                     {
                         "caminho":  "Ensino Superior/Enfermagem.json",
@@ -79,15 +79,15 @@
                         "arquivo":  "Enfermagem",
                         "provas":  30,
                         "questoes":  300,
-                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                        "atualizadoEm":  "2026-10-19T15:49:45.379Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/Engenheiro_Alimentar.json",
+                        "caminho":  "Ensino Superior/engenheiro_alimentar.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "Engenheiro_Alimentar",
+                        "arquivo":  "engenheiro_alimentar",
                         "provas":  1,
                         "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                        "atualizadoEm":  "2026-10-19T15:49:45.398Z"
                     },
                     {
                         "caminho":  "Ensino Superior/Fisioterapeuta.json",
@@ -95,39 +95,39 @@
                         "arquivo":  "Fisioterapeuta",
                         "provas":  2,
                         "questoes":  121,
-                        "atualizadoEm":  "2026-10-01T01:00:04.085Z"
+                        "atualizadoEm":  "2026-10-19T15:49:45.394Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/Nutricionista.json",
+                        "caminho":  "Ensino Superior/nutricionista.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "Nutricionista",
+                        "arquivo":  "nutricionista",
                         "provas":  25,
                         "questoes":  776,
-                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                        "atualizadoEm":  "2026-10-19T15:49:45.450Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/Professor_Educacao_Basica.json",
+                        "caminho":  "Ensino Superior/professor_educacao_basica.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "Professor_Educacao_Basica",
+                        "arquivo":  "professor_educacao_basica",
                         "provas":  27,
                         "questoes":  270,
-                        "atualizadoEm":  "2026-10-01T00:58:13.369Z"
+                        "atualizadoEm":  "2026-10-19T15:49:45.475Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/Tecnologo_Alimentar.json",
+                        "caminho":  "Ensino Superior/tecnologo_alimentar.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "Tecnologo_Alimentar",
+                        "arquivo":  "tecnologo_alimentar",
                         "provas":  2,
                         "questoes":  60,
-                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                        "atualizadoEm":  "2026-10-19T15:49:45.483Z"
                     },
                     {
-                        "caminho":  "Ensino Superior/Tecnologo_Nutricional.json",
+                        "caminho":  "Ensino Superior/tecnologo_nutricional.json",
                         "pasta":  "Ensino Superior",
-                        "arquivo":  "Tecnologo_Nutricional",
+                        "arquivo":  "tecnologo_nutricional",
                         "provas":  1,
                         "questoes":  30,
-                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                        "atualizadoEm":  "2026-10-19T15:49:45.487Z"
                     },
                     {
                         "caminho":  "Quiz/Adaptabilidade e Rotina/adaptabilidade-e-rotina.json",
@@ -206,8 +206,8 @@
                         "pasta":  "Técnico",
                         "arquivo":  "tecnico_enfermagem",
                         "provas":  31,
-                        "questoes":  310,
-                        "atualizadoEm":  "2026-10-01T01:02:54.461Z"
+                        "questoes":  305,
+                        "atualizadoEm":  "2026-10-19T15:49:45.978Z"
                     }
                 ]
 }

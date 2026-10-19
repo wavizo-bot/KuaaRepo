@@ -11,7 +11,7 @@
       "board": "Vunesp",
       "booklet": "Origem: manual",
       "role": "Engenheiro alimentar",
-      "status": "Revisão pendente",
+      "status": "Pronto para importação",
       "questions": [
         {
           "id": 1,
@@ -42,7 +42,12 @@
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 2,
@@ -73,7 +78,12 @@
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 3,
@@ -104,7 +114,12 @@
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 4,
@@ -135,7 +150,12 @@
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 5,
@@ -166,7 +186,12 @@
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 6,
@@ -197,7 +222,12 @@
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 7,
@@ -224,11 +254,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 8,
@@ -255,11 +290,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 9,
@@ -286,11 +326,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 10,
@@ -317,11 +362,16 @@
           ],
           "correct": "A01",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 11,
@@ -348,11 +398,16 @@
           ],
           "correct": "A01",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 12,
@@ -383,7 +438,12 @@
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário"
         },
         {
           "id": 13,
@@ -410,11 +470,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 14,
@@ -441,11 +506,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 15,
@@ -472,11 +542,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 16,
@@ -503,11 +578,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "media",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 17,
@@ -534,11 +614,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 18,
@@ -565,11 +650,16 @@
           ],
           "correct": "A01",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 19,
@@ -596,11 +686,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 20,
@@ -627,11 +722,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 21,
@@ -658,11 +758,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "media",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário"
         },
         {
           "id": 22,
@@ -689,11 +794,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 23,
@@ -720,11 +830,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 24,
@@ -751,11 +866,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 25,
@@ -782,11 +902,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 26,
@@ -813,11 +938,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 27,
@@ -844,11 +974,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 28,
@@ -875,11 +1010,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 29,
@@ -906,11 +1046,16 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         },
         {
           "id": 30,
@@ -937,14 +1082,19 @@
           ],
           "correct": "A02",
           "subject": "Nutrição > Propriedades físico-químicas dos alimentos",
-          "difficulty": "dificil",
+          "difficulty": "facil",
           "type": "unica",
           "estimatedMinutes": 1,
           "visualStatus": "not_needed",
-          "assunto": "Propriedades físico-químicas dos alimentos"
+          "assunto": "Propriedades físico-químicas dos alimentos",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto"
         }
       ],
-      "updatedAt": "2026-10-01T01:02:54.461Z",
+      "updatedAt": "2026-10-19T15:49:45.398Z",
       "kind": "prova"
     }
   ]
