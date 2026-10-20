@@ -12347,7 +12347,7 @@
       "booklet": "Banco sintético · Matemática",
       "role": "Estudante 7º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:42:48.528Z",
+      "updatedAt": "2026-10-20T02:01:35.278Z",
       "questions": [
         {
           "id": 1,
@@ -18312,6 +18312,111 @@
           "dificuldade_pontos": 1,
           "dificuldade_justificativa": "enunciado curto; só 2 alternativas",
           "estimatedMinutes": 2
+        },
+        {
+          "id": 169,
+          "originalNumber": "169",
+          "label": "Questão 169",
+          "text": "Quanto mede a soma dos ângulos internos de um triângulo?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "180 graus"
+            },
+            {
+              "id": "A02",
+              "text": "360 graus"
+            },
+            {
+              "id": "A03",
+              "text": "90 graus"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática > Polígonos > Soma dos ângulos internos > Triângulos",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Polígonos",
+          "tema": "Soma dos ângulos internos",
+          "topico": "Triângulos",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 170,
+          "originalNumber": "170",
+          "label": "Questão 170",
+          "text": "Uma caixa-d'água tem a forma de um paralelepípedo retângulo com 2 m de comprimento, 1,5 m de largura e 1 m de altura. Ela está completamente cheia. Para esvaziá-la, uma bomba retira 250 litros de água por minuto. Quanto tempo será necessário para esvaziar toda a caixa? (Lembre-se: 1 m³ = 1000 L)",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "6 minutos"
+            },
+            {
+              "id": "A02",
+              "text": "8 minutos"
+            },
+            {
+              "id": "A03",
+              "text": "12 minutos"
+            },
+            {
+              "id": "A04",
+              "text": "15 minutos"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática > Medidas de capacidade > Conversão entre volume e capacidade > Volume de paralelepípedo e litros",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Medidas de capacidade",
+          "tema": "Conversão entre volume e capacidade",
+          "topico": "Volume de paralelepípedo e litros",
+          "dificuldade_nivel": 4,
+          "dificuldade_pontos": 4,
+          "dificuldade_justificativa": "enunciado longo",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 171,
+          "originalNumber": "171",
+          "label": "Questão 171",
+          "text": "Qual é o resultado da raiz quadrada de 49?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "7"
+            },
+            {
+              "id": "A02",
+              "text": "14"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática > Radiciação > Raiz quadrada > Raiz quadrada de quadrados perfeitos",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Radiciação",
+          "tema": "Raiz quadrada",
+          "topico": "Raiz quadrada de quadrados perfeitos",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 1,
+          "dificuldade_justificativa": "enunciado curto; só 2 alternativas",
+          "estimatedMinutes": 1
         }
       ]
     },
@@ -64673,7 +64778,7 @@
       "booklet": "Banco sintético · Projeto de Vida",
       "role": "Estudante 7º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:47:28.997Z",
+      "updatedAt": "2026-10-20T02:01:35.313Z",
       "questions": [
         {
           "id": 1,
@@ -71606,6 +71711,150 @@
           "dificuldade_pontos": 2,
           "dificuldade_justificativa": "enunciado curto",
           "estimatedMinutes": 2
+        },
+        {
+          "id": 197,
+          "originalNumber": "197",
+          "label": "Questão 197",
+          "text": "Qual atitude demonstra respeito às regras de convivência em sala de aula?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Levantar da carteira e sair sem avisar o professor."
+            },
+            {
+              "id": "A02",
+              "text": "Ouvir o colega quando ele está falando."
+            },
+            {
+              "id": "A03",
+              "text": "Usar o celular durante toda a explicação."
+            },
+            {
+              "id": "A04",
+              "text": "Gritar para conseguir a palavra primeiro."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Projeto de Vida > Empatia > Respeito na convivência escolar > Escuta ativa",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Empatia",
+          "tema": "Respeito na convivência escolar",
+          "topico": "Escuta ativa",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 198,
+          "originalNumber": "198",
+          "label": "Questão 198",
+          "text": "Qual atitude mostra cuidado com a própria saúde?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Dormir cedo e beber água ao longo do dia."
+            },
+            {
+              "id": "A02",
+              "text": "Passar a noite inteira sem dormir."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Autocuidado > Hábitos saudáveis > Sono e hidratação",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Autocuidado",
+          "tema": "Hábitos saudáveis",
+          "topico": "Sono e hidratação",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 1,
+          "dificuldade_justificativa": "enunciado curto; só 2 alternativas",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 199,
+          "originalNumber": "199",
+          "label": "Questão 199",
+          "text": "Após uma discussão com um amigo, João ficou irritado e percebeu que poderia falar algo que magoaria o colega. Ele decidiu respirar fundo, sair por alguns minutos para se acalmar e só depois conversar. Com essa atitude, João conseguiu resolver o conflito sem briga. Qual habilidade socioemocional ele demonstrou ao agir assim?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Autossabotagem, pois evitou enfrentar o problema."
+            },
+            {
+              "id": "A02",
+              "text": "Impulsividade, pois agiu sem pensar no que sentia."
+            },
+            {
+              "id": "A03",
+              "text": "Autorregulação emocional, pois controlou a reação antes de falar."
+            },
+            {
+              "id": "A04",
+              "text": "Individualismo, pois preferiu se isolar dos amigos."
+            }
+          ],
+          "correct": "A03",
+          "subject": "Projeto de Vida > Habilidades socioemocionais > Inteligência emocional > Autorregulação",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Habilidades socioemocionais",
+          "tema": "Inteligência emocional",
+          "topico": "Autorregulação",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 5,
+          "dificuldade_justificativa": "enunciado longo; pergunta contextualizada",
+          "estimatedMinutes": 2
+        },
+        {
+          "id": 200,
+          "originalNumber": "200",
+          "label": "Questão 200",
+          "text": "Qual atitude demonstra respeito às diferenças na escola?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Escutar o colega com atenção, mesmo pensando diferente."
+            },
+            {
+              "id": "A02",
+              "text": "Rir do jeito de falar de um colega novo."
+            },
+            {
+              "id": "A03",
+              "text": "Ignorar quem tem gostos diferentes dos seus."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Respeito às diferenças > Convivência escolar > Atitudes de respeito",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Respeito às diferenças",
+          "tema": "Convivência escolar",
+          "topico": "Atitudes de respeito",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
         }
       ]
     }

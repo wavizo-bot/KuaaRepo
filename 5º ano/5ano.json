@@ -14603,7 +14603,7 @@
       "booklet": "Banco sintético · Língua Portuguesa",
       "role": "Estudante 5º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:53:47.230Z",
+      "updatedAt": "2026-10-20T02:01:32.875Z",
       "questions": [
         {
           "id": 1,
@@ -20105,6 +20105,45 @@
           "dificuldade_pontos": 2,
           "dificuldade_justificativa": "só 2 alternativas",
           "estimatedMinutes": 1
+        },
+        {
+          "id": 156,
+          "originalNumber": "156",
+          "label": "Questão 156",
+          "text": "Leia a tirinha a seguir e responda.\n\n\"— Mãe, posso brincar na chuva?\n— Pode, sim, meu filho, mas leve o guarda-chuva.\n— Ah, mãe... guarda-chuva é coisa de gente careta!\"\n\nNo trecho \"guarda-chuva é coisa de gente careta\", o termo destacado foi formado pelo processo de composição. Assinale a alternativa que classifica corretamente esse tipo de composição e explica sua formação.",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Composição por aglutinação, porque os elementos se fundem em uma única palavra com perda de um fonema."
+            },
+            {
+              "id": "A02",
+              "text": "Composição por justaposição, pois os dois radicais se unem sem alteração fonética, formando uma palavra composta."
+            },
+            {
+              "id": "A03",
+              "text": "Derivação prefixal, pois o termo \"guarda\" funciona como prefixo do substantivo \"chuva\"."
+            },
+            {
+              "id": "A04",
+              "text": "Derivação parassintática, porque ocorre acréscimo simultâneo de prefixo e sufixo na palavra."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Língua Portuguesa > Formação de palavras > Composição > Justaposição",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Formação de palavras",
+          "tema": "Composição",
+          "topico": "Justaposição",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 6,
+          "dificuldade_justificativa": "enunciado longo; pergunta contextualizada; 4 alternativas elaboradas",
+          "estimatedMinutes": 3
         }
       ]
     },
@@ -20118,7 +20157,7 @@
       "booklet": "Banco sintético · Matemática",
       "role": "Estudante 5º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:54:15.080Z",
+      "updatedAt": "2026-10-20T02:01:35.682Z",
       "questions": [
         {
           "id": 1,
@@ -25538,6 +25577,76 @@
           "dificuldade_pontos": 2,
           "dificuldade_justificativa": "só 2 alternativas",
           "estimatedMinutes": 1
+        },
+        {
+          "id": 154,
+          "originalNumber": "154",
+          "label": "Questão 154",
+          "text": "Observe a sequência de figuras formadas por palitos: a figura 1 tem 4 palitos, a figura 2 tem 8 palitos e a figura 3 tem 12 palitos. Quantos palitos terá a figura 5 dessa sequência?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "16 palitos"
+            },
+            {
+              "id": "A02",
+              "text": "20 palitos"
+            },
+            {
+              "id": "A03",
+              "text": "24 palitos"
+            },
+            {
+              "id": "A04",
+              "text": "28 palitos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática > Padrões e regularidades > Sequência de figuras > Contagem de palitos em padrão crescente",
+          "difficulty": "media",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Padrões e regularidades",
+          "tema": "Sequência de figuras",
+          "topico": "Contagem de palitos em padrão crescente",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 3
+        },
+        {
+          "id": 155,
+          "originalNumber": "155",
+          "label": "Questão 155",
+          "text": "Uma escola organizou uma gincana e distribuiu as turmas em grupos. Cada grupo recebeu uma ficha com um desafio sobre o número de participantes. Leia o desafio da ficha:\n\n\"Em uma sala há 28 estudantes. Desses, 3/4 participam do time de vôlei. Do restante, metade participa do time de xadrez e os demais não participam de nenhum time.\"\n\nQuantos estudantes dessa sala não participam de nenhum time?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "3 estudantes"
+            },
+            {
+              "id": "A02",
+              "text": "4 estudantes"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Matemática > Frações de uma quantidade > Fração de um número natural > Cálculo de 3/4 de 28 e da metade do restante",
+          "difficulty": "media",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Frações de uma quantidade",
+          "tema": "Fração de um número natural",
+          "topico": "Cálculo de 3/4 de 28 e da metade do restante",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "enunciado longo; só 2 alternativas",
+          "estimatedMinutes": 5
         }
       ]
     },
@@ -65667,7 +65776,7 @@
       "booklet": "Banco sintético · Projeto de Vida",
       "role": "Estudante 5º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:58:17.644Z",
+      "updatedAt": "2026-10-20T02:02:22.767Z",
       "questions": [
         {
           "id": 1,
@@ -72417,6 +72526,317 @@
           "assunto": "Projeto de vida",
           "tema": "Planejamento e metas",
           "topico": "Superação de dificuldades",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 6,
+          "dificuldade_justificativa": "enunciado longo; pergunta contextualizada; 4 alternativas elaboradas",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 192,
+          "originalNumber": "192",
+          "label": "Questão 192",
+          "text": "Marina quer ser veterinária, mas tem medo de animais grandes. Ela decidiu visitar uma fazenda-escola para observar cavalos e conversar com a veterinária do local. Qual atitude de Marina mostra que ela está investigando seu sonho de forma responsável?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Desistir do sonho porque sentir medo é sinal de que não serve para a profissão"
+            },
+            {
+              "id": "A02",
+              "text": "Buscar experiências reais e tirar dúvidas com quem já atua na área antes de tomar decisões"
+            },
+            {
+              "id": "A03",
+              "text": "Assistir a vídeos de veterinários apenas para copiar o que eles fazem sem refletir"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Projeto de Vida > Exploração de profissões > Investigação de carreiras > Conhecer a profissão na prática",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Exploração de profissões",
+          "tema": "Investigação de carreiras",
+          "topico": "Conhecer a profissão na prática",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 5,
+          "dificuldade_justificativa": "pergunta contextualizada; 3 alternativas elaboradas",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 193,
+          "originalNumber": "193",
+          "label": "Questão 193",
+          "text": "Qual atitude demonstra cuidado com o material escolar?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Guardar os livros na mochila depois de usar"
+            },
+            {
+              "id": "A02",
+              "text": "Deixar o caderno aberto no chão do pátio"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Cuidado com materiais > Conservação do material > Atitudes de cuidado",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Cuidado com materiais",
+          "tema": "Conservação do material",
+          "topico": "Atitudes de cuidado",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 1,
+          "dificuldade_justificativa": "enunciado curto; só 2 alternativas",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 194,
+          "originalNumber": "194",
+          "label": "Questão 194",
+          "text": "Durante um trabalho em grupo sobre reciclagem, dois colegas discordam sobre como dividir as tarefas. Para manter a convivência e garantir que o trabalho avance, qual atitude é mais adequada?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Ignorar a opinião do colega e fazer tudo sozinho, sem conversar"
+            },
+            {
+              "id": "A02",
+              "text": "Ouvir os dois lados, propor uma divisão justa e registrar o combinado para todos acompanharem"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Projeto de Vida > Trabalho em grupo > Resolução de conflitos > Escuta e acordo no grupo",
+          "difficulty": "media",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Trabalho em grupo",
+          "tema": "Resolução de conflitos",
+          "topico": "Escuta e acordo no grupo",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "2 alternativas elaboradas; só 2 alternativas",
+          "estimatedMinutes": 3
+        },
+        {
+          "id": 195,
+          "originalNumber": "195",
+          "label": "Questão 195",
+          "text": "Pedro tem prova de ciências na sexta-feira e um campeonato de futebol no sábado. Durante a semana, ele também precisa entregar um trabalho de português na quinta. Na terça-feira, seus amigos o convidam para jogar videogame à tarde. Considerando suas prioridades e prazos, qual decisão mostra melhor organização do tempo?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Aceitar o convite e deixar o trabalho e a prova para a noite de quinta-feira, estudando tudo de uma vez"
+            },
+            {
+              "id": "A02",
+              "text": "Reservar a tarde de terça para adiantar o trabalho de português e revisar ciências, deixando o videogame para depois das entregas"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Projeto de Vida > Organização do tempo > Prioridades e prazos > Gestão do tempo com tarefas escolares",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Organização do tempo",
+          "tema": "Prioridades e prazos",
+          "topico": "Gestão do tempo com tarefas escolares",
+          "dificuldade_nivel": 4,
+          "dificuldade_pontos": 4,
+          "dificuldade_justificativa": "enunciado longo; 2 alternativas elaboradas; só 2 alternativas",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 196,
+          "originalNumber": "196",
+          "label": "Questão 196",
+          "text": "Um grupo da turma decidiu criar uma horta comunitária na escola. Eles reuniram ideias, porém perceberam que precisavam definir responsáveis, prazos e recursos. Para transformar a ideia em um projeto coletivo viável, qual conjunto de ações é mais adequado?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Plantar imediatamente sem planejamento e resolver os problemas conforme aparecerem, sem registrar nada"
+            },
+            {
+              "id": "A02",
+              "text": "Fazer um plano com etapas, definir quem cuida de cada tarefa, listar materiais necessários e combinar datas de acompanhamento"
+            },
+            {
+              "id": "A03",
+              "text": "Deixar que apenas o professor decida tudo, sem participação dos estudantes, para evitar discussões"
+            },
+            {
+              "id": "A04",
+              "text": "Dividir as tarefas por sorteio sem considerar habilidades e sem previsão de prazos ou recursos"
+            }
+          ],
+          "correct": "A02",
+          "subject": "Projeto de Vida > Projeto coletivo > Planejamento de projeto coletivo > Etapas, responsáveis e recursos",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Projeto coletivo",
+          "tema": "Planejamento de projeto coletivo",
+          "topico": "Etapas, responsáveis e recursos",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 6,
+          "dificuldade_justificativa": "enunciado longo; pergunta contextualizada; 4 alternativas elaboradas",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 197,
+          "originalNumber": "197",
+          "label": "Questão 197",
+          "text": "Para manter a saúde e o bem-estar no dia a dia, qual hábito é mais saudável?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Dormir bem, alimentar-se de forma equilibrada e praticar atividades físicas regularmente"
+            },
+            {
+              "id": "A02",
+              "text": "Ficar acordado até tarde todos os dias e pular refeições para estudar mais"
+            },
+            {
+              "id": "A03",
+              "text": "Passar o dia inteiro sentado usando o celular, sem se movimentar"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Saúde e bem-estar > Hábitos saudáveis > Sono, alimentação e atividade física",
+          "difficulty": "media",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Saúde e bem-estar",
+          "tema": "Hábitos saudáveis",
+          "topico": "Sono, alimentação e atividade física",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "enunciado curto; 3 alternativas elaboradas",
+          "estimatedMinutes": 2
+        },
+        {
+          "id": 198,
+          "originalNumber": "198",
+          "label": "Questão 198",
+          "text": "Ana definiu como meta aprender a tocar violão em seis meses. Ela percebeu que precisa de aulas semanais, de 20 minutos diários de treino e de participar de uma apresentação no fim do semestre. No primeiro mês, faltou a duas aulas e treinou apenas aos fins de semana. Ao avaliar seu progresso, qual atitude demonstra que Ana está ajustando seu plano de ação de forma consciente?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Manter o mesmo plano sem alterações, pois mudar o planejamento significa que ela falhou"
+            },
+            {
+              "id": "A02",
+              "text": "Abandonar a meta, porque faltar a duas aulas mostra que ela não tem talento para a música"
+            },
+            {
+              "id": "A03",
+              "text": "Revisar os horários, criar lembretes para os treinos diários e conversar com o professor para recuperar as aulas perdidas"
+            },
+            {
+              "id": "A04",
+              "text": "Aumentar a meta para aprender dois instrumentos ao mesmo tempo, sem organizar melhor sua rotina"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Projeto de Vida > Metas pessoais > Acompanhamento de metas > Revisão do plano de ação",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Metas pessoais",
+          "tema": "Acompanhamento de metas",
+          "topico": "Revisão do plano de ação",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 6,
+          "dificuldade_justificativa": "enunciado longo; pergunta contextualizada; 4 alternativas elaboradas",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 199,
+          "originalNumber": "199",
+          "label": "Questão 199",
+          "text": "Qual atitude demonstra que uma pessoa está cuidando bem da sua higiene pessoal no dia a dia?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Escovar os dentes após as refeições e tomar banho todos os dias."
+            },
+            {
+              "id": "A02",
+              "text": "Dormir de uniforme e usar a mesma roupa por vários dias seguidos."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Higiene pessoal > Cuidados diários > Hábitos de higiene",
+          "difficulty": "media",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Higiene pessoal",
+          "tema": "Cuidados diários",
+          "topico": "Hábitos de higiene",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "2 alternativas elaboradas; só 2 alternativas",
+          "estimatedMinutes": 2
+        },
+        {
+          "id": 200,
+          "originalNumber": "200",
+          "label": "Questão 200",
+          "text": "Durante o projeto de vida da turma, Marina percebeu que gosta muito de ajudar as pessoas e de explicar conteúdos aos colegas. Ela decidiu investigar profissões ligadas ao ensino e ao cuidado. Para fazer uma escolha bem fundamentada, qual atitude é mais adequada?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Escolher a primeira profissão que ouvir falar, sem pesquisar nada, pois o importante é decidir rápido."
+            },
+            {
+              "id": "A02",
+              "text": "Conversar com profissionais da área, pesquisar a formação necessária e comparar com seus interesses e habilidades."
+            },
+            {
+              "id": "A03",
+              "text": "Imitar a escolha de um colega popular, mesmo que a profissão não tenha relação com o que ela gosta."
+            },
+            {
+              "id": "A04",
+              "text": "Desistir de pensar no assunto agora e deixar a decisão totalmente para o fim do Ensino Médio."
+            }
+          ],
+          "correct": "A02",
+          "subject": "Projeto de Vida > Exploração de carreiras > Escolha profissional > Pesquisa e autoconhecimento",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Exploração de carreiras",
+          "tema": "Escolha profissional",
+          "topico": "Pesquisa e autoconhecimento",
           "dificuldade_nivel": 5,
           "dificuldade_pontos": 6,
           "dificuldade_justificativa": "enunciado longo; pergunta contextualizada; 4 alternativas elaboradas",

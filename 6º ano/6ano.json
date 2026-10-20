@@ -16147,7 +16147,7 @@
       "booklet": "Banco sintético · Matemática",
       "role": "Estudante 6º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:48:30.704Z",
+      "updatedAt": "2026-10-20T02:02:21.338Z",
       "questions": [
         {
           "id": 1,
@@ -22080,6 +22080,119 @@
           "dificuldade_nivel": 1,
           "dificuldade_pontos": 1,
           "dificuldade_justificativa": "enunciado curto; só 2 alternativas",
+          "estimatedMinutes": 2
+        },
+        {
+          "id": 168,
+          "originalNumber": "168",
+          "label": "Questão 168",
+          "text": "Uma padaria vendeu 240 pães pela manhã e 180 pães à tarde. Do total vendido, 1/4 foi de pão integral. Quantos pães integrais foram vendidos nesse dia?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "105 pães"
+            },
+            {
+              "id": "A02",
+              "text": "110 pães"
+            },
+            {
+              "id": "A03",
+              "text": "100 pães"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática > Frações > Fração de um número > Cálculo de 1/4 do total vendido",
+          "difficulty": "media",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Frações",
+          "tema": "Fração de um número",
+          "topico": "Cálculo de 1/4 do total vendido",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 3
+        },
+        {
+          "id": 169,
+          "originalNumber": "169",
+          "label": "Questão 169",
+          "text": "Uma lanchonete vende sanduíche por R$ 8,50 e suco por R$ 4,25. Camila comprou 3 sanduíches e 2 sucos e pagou com uma nota de R$ 50,00. Quanto ela recebeu de troco?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "R$ 15,50"
+            },
+            {
+              "id": "A02",
+              "text": "R$ 16,00"
+            },
+            {
+              "id": "A03",
+              "text": "R$ 16,50"
+            },
+            {
+              "id": "A04",
+              "text": "R$ 17,00"
+            }
+          ],
+          "correct": "A03",
+          "subject": "Matemática > Sistema monetário > Operações com dinheiro > Troco com decimais",
+          "difficulty": "media",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Sistema monetário",
+          "tema": "Operações com dinheiro",
+          "topico": "Troco com decimais",
+          "dificuldade_nivel": 3,
+          "dificuldade_pontos": 3,
+          "dificuldade_justificativa": "perfil intermediário",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 170,
+          "originalNumber": "170",
+          "label": "Questão 170",
+          "text": "Qual é o resultado da adição 3,5 + 1,25?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "4,75"
+            },
+            {
+              "id": "A02",
+              "text": "4,60"
+            },
+            {
+              "id": "A03",
+              "text": "5,75"
+            },
+            {
+              "id": "A04",
+              "text": "3,75"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Matemática > Números decimais > Adição de decimais > Soma com casas decimais diferentes",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Números decimais",
+          "tema": "Adição de decimais",
+          "topico": "Soma com casas decimais diferentes",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
           "estimatedMinutes": 2
         }
       ]
@@ -35220,7 +35333,7 @@
       "booklet": "Banco sintético · História",
       "role": "Estudante 6º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:50:17.035Z",
+      "updatedAt": "2026-10-20T02:01:30.214Z",
       "questions": [
         {
           "id": 1,
@@ -40706,6 +40819,45 @@
           "dificuldade_pontos": 2,
           "dificuldade_justificativa": "só 2 alternativas",
           "estimatedMinutes": 2
+        },
+        {
+          "id": 156,
+          "originalNumber": "156",
+          "label": "Questão 156",
+          "text": "Qual desses rios foi fundamental para a formação do Egito Antigo?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Rio Nilo"
+            },
+            {
+              "id": "A02",
+              "text": "Rio Amazonas"
+            },
+            {
+              "id": "A03",
+              "text": "Rio Mississipi"
+            },
+            {
+              "id": "A04",
+              "text": "Rio Danúbio"
+            }
+          ],
+          "correct": "A01",
+          "subject": "História > Rio Nilo",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Rio Nilo",
+          "tema": "",
+          "topico": "",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
         }
       ]
     },
@@ -54401,7 +54553,7 @@
       "booklet": "Banco sintético · Língua Inglesa",
       "role": "Estudante 6º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:51:55.892Z",
+      "updatedAt": "2026-10-20T02:05:29.738Z",
       "questions": [
         {
           "id": 1,
@@ -60424,6 +60576,45 @@
           "dificuldade_pontos": 4,
           "dificuldade_justificativa": "pergunta contextualizada",
           "estimatedMinutes": 2
+        },
+        {
+          "id": 171,
+          "originalNumber": "171",
+          "label": "Questão 171",
+          "text": "Em inglês, qual palavra é usada para se despedir de alguém?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Goodbye"
+            },
+            {
+              "id": "A02",
+              "text": "Pencil"
+            },
+            {
+              "id": "A03",
+              "text": "Table"
+            },
+            {
+              "id": "A04",
+              "text": "Window"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Língua Inglesa > Vocabulário > Despedidas > Goodbye",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Vocabulário",
+          "tema": "Despedidas",
+          "topico": "Goodbye",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
         }
       ]
     },
@@ -66508,7 +66699,7 @@
       "booklet": "Banco sintético · Projeto de Vida",
       "role": "Estudante 6º EF",
       "status": "Pronto para importação",
-      "updatedAt": "2026-10-20T01:53:08.487Z",
+      "updatedAt": "2026-10-20T02:01:33.503Z",
       "questions": [
         {
           "id": 1,
@@ -72481,6 +72672,181 @@
           "dificuldade_pontos": 5,
           "dificuldade_justificativa": "enunciado longo; pergunta contextualizada; 2 alternativas elaboradas; só 2 alternativas",
           "estimatedMinutes": 4
+        },
+        {
+          "id": 169,
+          "originalNumber": "169",
+          "label": "Questão 169",
+          "text": "Durante o projeto 'Minha Semana Ideal', Marina percebeu que passa 3 horas por dia no celular e só 30 minutos lendo. Ela decidiu reduzir meia hora de tela por dia e usar esse tempo para leitura. Após 5 dias, quantos minutos diários ela passará lendo, mantendo a nova rotina?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "60 minutos"
+            },
+            {
+              "id": "A02",
+              "text": "30 minutos"
+            },
+            {
+              "id": "A03",
+              "text": "90 minutos"
+            },
+            {
+              "id": "A04",
+              "text": "45 minutos"
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Autogestão do lazer > Equilíbrio entre telas e leitura > Redistribuição do tempo diário",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Autogestão do lazer",
+          "tema": "Equilíbrio entre telas e leitura",
+          "topico": "Redistribuição do tempo diário",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 5,
+          "dificuldade_justificativa": "enunciado longo; pergunta contextualizada",
+          "estimatedMinutes": 4
+        },
+        {
+          "id": 170,
+          "originalNumber": "170",
+          "label": "Questão 170",
+          "text": "O que significa dizer que uma pessoa tem um 'sonho de vida'?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "É um desejo que ela quer realizar no futuro."
+            },
+            {
+              "id": "A02",
+              "text": "É uma obrigação imposta pela escola."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Sonhos e aspirações > Projetos futuros > Diferença entre sonho e obrigação",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Sonhos e aspirações",
+          "tema": "Projetos futuros",
+          "topico": "Diferença entre sonho e obrigação",
+          "dificuldade_nivel": 1,
+          "dificuldade_pontos": 1,
+          "dificuldade_justificativa": "enunciado curto; só 2 alternativas",
+          "estimatedMinutes": 2
+        },
+        {
+          "id": 171,
+          "originalNumber": "171",
+          "label": "Questão 171",
+          "text": "Qual atitude demonstra respeito às regras de convivência na sala de aula?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Esperar a vez de falar."
+            },
+            {
+              "id": "A02",
+              "text": "Falar alto enquanto o colega explica."
+            },
+            {
+              "id": "A03",
+              "text": "Sair da sala sem avisar."
+            },
+            {
+              "id": "A04",
+              "text": "Mexer no material do colega sem pedir."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Regras de convivência > Respeito no ambiente escolar > Escuta e limites",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Regras de convivência",
+          "tema": "Respeito no ambiente escolar",
+          "topico": "Escuta e limites",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 172,
+          "originalNumber": "172",
+          "label": "Questão 172",
+          "text": "Qual dessas atitudes ajuda a cuidar melhor do próprio material escolar?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "Guardar os livros na mochila após usar."
+            },
+            {
+              "id": "A02",
+              "text": "Deixar os cadernos espalhados pelo chão."
+            },
+            {
+              "id": "A03",
+              "text": "Emprestar o material e esquecer de pedir de volta."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Cuidado com materiais > Organização pessoal > Conservação do material escolar",
+          "difficulty": "facil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Cuidado com materiais",
+          "tema": "Organização pessoal",
+          "topico": "Conservação do material escolar",
+          "dificuldade_nivel": 2,
+          "dificuldade_pontos": 2,
+          "dificuldade_justificativa": "enunciado curto",
+          "estimatedMinutes": 1
+        },
+        {
+          "id": 173,
+          "originalNumber": "173",
+          "label": "Questão 173",
+          "text": "Rafael quer melhorar seu desempenho em Matemática até o fim do bimestre. Ele percebeu que erra muitos exercícios de frações e decidiu estudar 20 minutos por dia sobre esse conteúdo, pedir ajuda à professora uma vez por semana e refazer as atividades corrigidas. Ao final de três semanas, ele ainda erra alguns exercícios, mas acerta muitos que antes não conseguia. Qual análise sobre o plano de Rafael é mais adequada?",
+          "baseText": "",
+          "alternatives": [
+            {
+              "id": "A01",
+              "text": "O plano foi útil porque teve ações específicas e constância, mesmo com progresso parcial."
+            },
+            {
+              "id": "A02",
+              "text": "O plano foi inútil porque ele ainda comete alguns erros em frações."
+            }
+          ],
+          "correct": "A01",
+          "subject": "Projeto de Vida > Plano de melhoria > Estudo direcionado > Constância e progresso parcial",
+          "difficulty": "dificil",
+          "type": "unica",
+          "imageRequired": false,
+          "visualStatus": "not_needed",
+          "visualNotes": "",
+          "assunto": "Plano de melhoria",
+          "tema": "Estudo direcionado",
+          "topico": "Constância e progresso parcial",
+          "dificuldade_nivel": 5,
+          "dificuldade_pontos": 5,
+          "dificuldade_justificativa": "enunciado longo; pergunta contextualizada; 2 alternativas elaboradas; só 2 alternativas",
+          "estimatedMinutes": 3
         }
       ]
     }
