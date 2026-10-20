@@ -2,11 +2,11 @@
     "versao":  1,
     "repositorio":  "wavizo-bot/KuaaRepo",
     "branch":  "main",
-    "geradoEm":  "2026-10-20T00:51:20.6972447Z",
+    "geradoEm":  "2026-10-20T01:10:46.9821643Z",
     "totais":  {
-                   "arquivos":  29,
-                   "provas":  916,
-                   "questoes":  16179
+                   "arquivos":  31,
+                   "provas":  930,
+                   "questoes":  20990
                },
     "pacotes":  [
                     {
@@ -21,41 +21,57 @@
                         "caminho":  "2º ano EM/2ano-em.json",
                         "pasta":  "2º ano EM",
                         "arquivo":  "2ano-em",
-                        "provas":  40,
-                        "questoes":  765,
-                        "atualizadoEm":  "2026-10-19T15:13:16.367Z"
+                        "provas":  45,
+                        "questoes":  2267,
+                        "atualizadoEm":  "2026-10-20T00:56:56.724Z"
+                    },
+                    {
+                        "caminho":  "2º ano EM/2ano-em-2.json",
+                        "pasta":  "2º ano EM",
+                        "arquivo":  "2ano-em-2",
+                        "provas":  6,
+                        "questoes":  2173,
+                        "atualizadoEm":  "2026-10-20T01:05:36.483Z"
+                    },
+                    {
+                        "caminho":  "2º ano EM/2ano-em-3.json",
+                        "pasta":  "2º ano EM",
+                        "arquivo":  "2ano-em-3",
+                        "provas":  3,
+                        "questoes":  1136,
+                        "atualizadoEm":  "2026-10-20T01:09:54.737Z"
                     },
                     {
                         "caminho":  "3º ano EM/3ano-em.json",
                         "pasta":  "3º ano EM",
                         "arquivo":  "3ano-em",
-                        "provas":  595,
-                        "questoes":  2337,
-                        "atualizadoEm":  "2026-10-19T15:13:16.462Z"
-                    },
-                    {
-                        "caminho":  "3º ano EM/3ano-em-2.json",
-                        "pasta":  "3º ano EM",
-                        "arquivo":  "3ano-em-2",
                         "provas":  5,
                         "questoes":  2040,
                         "atualizadoEm":  "2026-10-20T00:48:51.228Z"
                     },
                     {
-                        "caminho":  "3º ano EM/3ano-em-3.json",
+                        "caminho":  "3º ano EM/3ano-em-2.json",
                         "pasta":  "3º ano EM",
-                        "arquivo":  "3ano-em-3",
+                        "arquivo":  "3ano-em-2",
                         "provas":  4,
                         "questoes":  2064,
                         "atualizadoEm":  "2026-10-20T00:48:51.750Z"
                     },
                     {
+                        "caminho":  "3º ano EM/3ano-em-3.json",
+                        "pasta":  "3º ano EM",
+                        "arquivo":  "3ano-em-3",
+                        "provas":  128,
+                        "questoes":  2496,
+                        "atualizadoEm":  "2026-10-20T00:48:52.360Z"
+                    },
+                    {
                         "caminho":  "3º ano EM/3ano-em-4.json",
                         "pasta":  "3º ano EM",
                         "arquivo":  "3ano-em-4",
-                        "provas":  4,
-                        "questoes":  1597,
-                        "atualizadoEm":  "2026-10-20T00:48:52.360Z"
+                        "provas":  471,
+                        "questoes":  1438,
+                        "atualizadoEm":  "2026-10-19T15:13:16.462Z"
                     },
                     {
                         "caminho":  "5º ano/5ano.json",
@@ -94,16 +110,16 @@
                         "pasta":  "9º ano",
                         "arquivo":  "9ano",
                         "provas":  23,
-                        "questoes":  2489,
-                        "atualizadoEm":  "2026-10-20T00:48:52.675Z"
+                        "questoes":  2445,
+                        "atualizadoEm":  "2026-10-20T00:48:52.877Z"
                     },
                     {
                         "caminho":  "9º ano/9ano-2.json",
                         "pasta":  "9º ano",
                         "arquivo":  "9ano-2",
                         "provas":  3,
-                        "questoes":  937,
-                        "atualizadoEm":  "2026-10-20T00:48:52.877Z"
+                        "questoes":  981,
+                        "atualizadoEm":  "2026-10-20T00:48:52.675Z"
                     },
                     {
                         "caminho":  "Ensino Superior/Enfermagem.json",
