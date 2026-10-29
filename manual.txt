@@ -1,0 +1,44 @@
+MANUAL - KuaaRepo (banco de dados de provas do ecossistema Kuaa)
+Repo GitHub: wavizo-bot/KuaaRepo (branch main)
+Ultima atualizacao: 29/10/2026
+
+1. O QUE E
+Repositorio PUBLICO de dados: o manifest.json (indice versionado) mais os
+pacotes de provas e questoes em JSON no contrato "kuaa/" (exames, questions,
+metadados BNCC e dificuldade). E consumido pelo app kuaa Estudante
+(atualizacao de pacotes dentro do app) e pelo kuaa-admin (ferramenta de
+geracao/edicao).
+
+2. ESTRUTURA
+- manifest.json          -> indice: versao/schema + lista de pacotes (nome,
+                            ano, materias, quantidades) por segmento.
+- manifest-ambiente.json -> manifesto de teste para ambiente local.
+- <segmento>/            -> pastas por ano/segmento: 5o..9o ano, 1o/2o/3o EM,
+                            Tecnico, Ensino Superior, Ambiente e Quiz; dentro,
+                            os pacotes JSON (um por arquivo de prova/materia).
+- gerar-manifest.ps1, gerar-manifest-ambiente.ps1 -> regeram o indice a
+                            partir dos pacotes (rodar apos TODA mudanca).
+- montar-quiz-temas.ps1, reorganizar-anos.ps1, unificar-anos.ps1 -> scripts
+                            de manutencao do acervo.
+- COMO-GUARDAR-PROVAS.md  -> guia de insercao de novas provas (arquivo LOCAL,
+                            fora do git - padrao do ecossistema).
+- _relatorio/             -> relatorios de trabalho (LOCAL, nunca versionado).
+
+3. REGRAS DE MUDANCA
+- Toda inclusao/alteracao de pacote exige regerar o manifest e commit+push
+  na MESMA etapa (GH11); o app so enxerga o que o manifest declara.
+- Contrato kuaa/: ver manual do kuaa-app (ETAPA 22 do log da raiz).
+- Encoding UTF-8 SEM BOM em todos os JSON (regra 2.3); validar com o app
+  (import real) apos regerar o manifest.
+- NUNCA versionar: _relatorio/, exports com dados reais, segredos.
+
+4. VERSOES / ESTADO DO ACERVO
+- Manifest versionado no git; ultima grande atualizacao: fila BNCC fechada em
+  24/10/2026 - 33.169 questoes no total (5o..9o ano + 1o/2o/3o EM completos
+  nas metas por ano letivo).
+
+5. ARMADILHAS
+- Pacotes sao grandes (dezenas de milhares de questoes): nao editar JSON na
+  mao sem regerar o manifest depois.
+- O .gitignore ignora _relatorio/ e scripts *.ps1 locais de manutencao
+  (regra GH2.1/GH2.3): o git status deve ficar limpo apos o commit.
